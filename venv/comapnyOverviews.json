@@ -1,0 +1,3182 @@
+[
+    {
+        "index": 0,
+        "ticker": "POV",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "\u0110i\u1ec7n, n\u01b0\u1edbc & x\u0103ng d\u1ea7u kh\u00ed \u0111\u1ed1t",
+        "industryID": 275,
+        "industryEn": "Utilities",
+        "shortName": "PV Oil V\u0169ng \u00c1ng"
+    },
+    {
+        "index": 0,
+        "ticker": "DNA",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "\u0110i\u1ec7n, n\u01b0\u1edbc & x\u0103ng d\u1ea7u kh\u00ed \u0111\u1ed1t",
+        "industryID": 277,
+        "industryEn": "Utilities",
+        "shortName": "\u0110i\u1ec7n n\u01b0\u1edbc An Giang"
+    },
+    {
+        "index": 0,
+        "ticker": "PPY",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "\u0110i\u1ec7n, n\u01b0\u1edbc & x\u0103ng d\u1ea7u kh\u00ed \u0111\u1ed1t",
+        "industryID": 275,
+        "industryEn": "Utilities",
+        "shortName": "X\u0103ng d\u1ea7u d\u1ea7u kh\u00ed Ph\u00fa Y\u00ean"
+    },
+    {
+        "index": 0,
+        "ticker": "PWS",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "\u0110i\u1ec7n, n\u01b0\u1edbc & x\u0103ng d\u1ea7u kh\u00ed \u0111\u1ed1t",
+        "industryID": 277,
+        "industryEn": "Utilities",
+        "shortName": "C\u1ea5p tho\u00e1t n\u01b0\u1edbc Ph\u00fa Y\u00ean"
+    },
+    {
+        "index": 0,
+        "ticker": "QNW",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "\u0110i\u1ec7n, n\u01b0\u1edbc & x\u0103ng d\u1ea7u kh\u00ed \u0111\u1ed1t",
+        "industryID": 277,
+        "industryEn": "Utilities",
+        "shortName": "C\u1ea5p tho\u00e1t n\u01b0\u1edbc v\u00e0 XD Qu\u1ea3ng Ng\u00e3i"
+    },
+    {
+        "index": 0,
+        "ticker": "NQN",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "\u0110i\u1ec7n, n\u01b0\u1edbc & x\u0103ng d\u1ea7u kh\u00ed \u0111\u1ed1t",
+        "industryID": 277,
+        "industryEn": "Utilities",
+        "shortName": "N\u01b0\u1edbc s\u1ea1ch Qu\u1ea3ng Ninh"
+    },
+    {
+        "index": 0,
+        "ticker": "CHS",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "\u0110i\u1ec7n, n\u01b0\u1edbc & x\u0103ng d\u1ea7u kh\u00ed \u0111\u1ed1t",
+        "industryID": 276,
+        "industryEn": "Utilities",
+        "shortName": "Chi\u1ebfu s\u00e1ng TPHCM"
+    },
+    {
+        "index": 0,
+        "ticker": "SFC",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "\u0110i\u1ec7n, n\u01b0\u1edbc & x\u0103ng d\u1ea7u kh\u00ed \u0111\u1ed1t",
+        "industryID": 275,
+        "industryEn": "Utilities",
+        "shortName": "Nhi\u00ean li\u1ec7u S\u00e0i G\u00f2n"
+    },
+    {
+        "index": 0,
+        "ticker": "SII",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "\u0110i\u1ec7n, n\u01b0\u1edbc & x\u0103ng d\u1ea7u kh\u00ed \u0111\u1ed1t",
+        "industryID": 277,
+        "industryEn": "Utilities",
+        "shortName": "H\u1ea1 t\u1ea7ng N\u01b0\u1edbc S\u00e0i G\u00f2n"
+    },
+    {
+        "index": 0,
+        "ticker": "NSL",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "\u0110i\u1ec7n, n\u01b0\u1edbc & x\u0103ng d\u1ea7u kh\u00ed \u0111\u1ed1t",
+        "industryID": 277,
+        "industryEn": "Utilities",
+        "shortName": "C\u1ea5p n\u01b0\u1edbc S\u01a1n La"
+    },
+    {
+        "index": 0,
+        "ticker": "STW",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "\u0110i\u1ec7n, n\u01b0\u1edbc & x\u0103ng d\u1ea7u kh\u00ed \u0111\u1ed1t",
+        "industryID": 277,
+        "industryEn": "Utilities",
+        "shortName": "C\u1ea5p n\u01b0\u1edbc S\u00f3c Tr\u0103ng"
+    },
+    {
+        "index": 0,
+        "ticker": "TAW",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "\u0110i\u1ec7n, n\u01b0\u1edbc & x\u0103ng d\u1ea7u kh\u00ed \u0111\u1ed1t",
+        "industryID": 277,
+        "industryEn": "Utilities",
+        "shortName": "C\u1ea5p n\u01b0\u1edbc Trung An"
+    },
+    {
+        "index": 0,
+        "ticker": "TDG",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "\u0110i\u1ec7n, n\u01b0\u1edbc & x\u0103ng d\u1ea7u kh\u00ed \u0111\u1ed1t",
+        "industryID": 275,
+        "industryEn": "Utilities",
+        "shortName": "\u0110\u1ea7u t\u01b0 TDG Global"
+    },
+    {
+        "index": 0,
+        "ticker": "TDM",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "\u0110i\u1ec7n, n\u01b0\u1edbc & x\u0103ng d\u1ea7u kh\u00ed \u0111\u1ed1t",
+        "industryID": 277,
+        "industryEn": "Utilities",
+        "shortName": "N\u01b0\u1edbc Th\u1ee7 D\u1ea7u M\u1ed9t"
+    },
+    {
+        "index": 0,
+        "ticker": "TDW",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "\u0110i\u1ec7n, n\u01b0\u1edbc & x\u0103ng d\u1ea7u kh\u00ed \u0111\u1ed1t",
+        "industryID": 277,
+        "industryEn": "Utilities",
+        "shortName": "C\u1ea5p n\u01b0\u1edbc Th\u1ee7 \u0110\u1ee9c"
+    },
+    {
+        "index": 0,
+        "ticker": "TLP",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "\u0110i\u1ec7n, n\u01b0\u1edbc & x\u0103ng d\u1ea7u kh\u00ed \u0111\u1ed1t",
+        "industryID": 275,
+        "industryEn": "Utilities",
+        "shortName": "Th\u01b0\u01a1ng m\u1ea1i XNK Thanh L\u1ec5"
+    },
+    {
+        "index": 0,
+        "ticker": "THN",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "\u0110i\u1ec7n, n\u01b0\u1edbc & x\u0103ng d\u1ea7u kh\u00ed \u0111\u1ed1t",
+        "industryID": 277,
+        "industryEn": "Utilities",
+        "shortName": "C\u00e2\u0301p n\u01b0\u01a1\u0301c Thanh H\u00f3a"
+    },
+    {
+        "index": 0,
+        "ticker": "THW",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "\u0110i\u1ec7n, n\u01b0\u1edbc & x\u0103ng d\u1ea7u kh\u00ed \u0111\u1ed1t",
+        "industryID": 277,
+        "industryEn": "Utilities",
+        "shortName": "C\u1ea5p n\u01b0\u1edbc T\u00e2n H\u00f2a"
+    },
+    {
+        "index": 0,
+        "ticker": "TMC",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "\u0110i\u1ec7n, n\u01b0\u1edbc & x\u0103ng d\u1ea7u kh\u00ed \u0111\u1ed1t",
+        "industryID": 275,
+        "industryEn": "Utilities",
+        "shortName": "XNK Th\u1ee7 \u0110\u1ee9c"
+    },
+    {
+        "index": 0,
+        "ticker": "TVW",
+        "exchange": "OTC",
+        "companyType": "CT",
+        "industry": "\u0110i\u1ec7n, n\u01b0\u1edbc & x\u0103ng d\u1ea7u kh\u00ed \u0111\u1ed1t",
+        "industryID": 277,
+        "industryEn": "Utilities",
+        "shortName": "C\u1ea5p tho\u00e1t n\u01b0\u1edbc Tr\u00e0 Vinh"
+    },
+    {
+        "index": 0,
+        "ticker": "TQW",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "\u0110i\u1ec7n, n\u01b0\u1edbc & x\u0103ng d\u1ea7u kh\u00ed \u0111\u1ed1t",
+        "industryID": 277,
+        "industryEn": "Utilities",
+        "shortName": "C\u1ea5p tho\u00e1t n\u01b0\u1edbc Tuy\u00ean Quang"
+    },
+    {
+        "index": 0,
+        "ticker": "TNW",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "\u0110i\u1ec7n, n\u01b0\u1edbc & x\u0103ng d\u1ea7u kh\u00ed \u0111\u1ed1t",
+        "industryID": 277,
+        "industryEn": "Utilities",
+        "shortName": "N\u01b0\u1edbc s\u1ea1ch Th\u00e1i Nguy\u00ean"
+    },
+    {
+        "index": 0,
+        "ticker": "UPC",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "\u0110i\u1ec7n, n\u01b0\u1edbc & x\u0103ng d\u1ea7u kh\u00ed \u0111\u1ed1t",
+        "industryID": 276,
+        "industryEn": "Utilities",
+        "shortName": "C\u00e2y xanh V\u0169ng T\u00e0u"
+    },
+    {
+        "index": 0,
+        "ticker": "VAV",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "\u0110i\u1ec7n, n\u01b0\u1edbc & x\u0103ng d\u1ea7u kh\u00ed \u0111\u1ed1t",
+        "industryID": 277,
+        "industryEn": "Utilities",
+        "shortName": "VIWACO"
+    },
+    {
+        "index": 0,
+        "ticker": "VWS",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "\u0110i\u1ec7n, n\u01b0\u1edbc & x\u0103ng d\u1ea7u kh\u00ed \u0111\u1ed1t",
+        "industryID": 277,
+        "industryEn": "Utilities",
+        "shortName": "N\u01b0\u1edbc v\u00e0 M\u00f4i tr\u01b0\u1eddng VN"
+    },
+    {
+        "index": 0,
+        "ticker": "VMG",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "\u0110i\u1ec7n, n\u01b0\u1edbc & x\u0103ng d\u1ea7u kh\u00ed \u0111\u1ed1t",
+        "industryID": 275,
+        "industryEn": "Utilities",
+        "shortName": "Vimexco Gas"
+    },
+    {
+        "index": 0,
+        "ticker": "VXT",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "\u0110i\u1ec7n, n\u01b0\u1edbc & x\u0103ng d\u1ea7u kh\u00ed \u0111\u1ed1t",
+        "industryID": 275,
+        "industryEn": "Utilities",
+        "shortName": "Kho v\u1eadn v\u00e0 DV Th\u01b0\u01a1ng m\u1ea1i"
+    },
+    {
+        "index": 0,
+        "ticker": "VPW",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "\u0110i\u1ec7n, n\u01b0\u1edbc & x\u0103ng d\u1ea7u kh\u00ed \u0111\u1ed1t",
+        "industryID": 277,
+        "industryEn": "Utilities",
+        "shortName": "C\u1ea5p tho\u00e1t n\u01b0\u1edbc s\u1ed1 1 V\u0129nh Ph\u00fac"
+    },
+    {
+        "index": 0,
+        "ticker": "NVP",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "\u0110i\u1ec7n, n\u01b0\u1edbc & x\u0103ng d\u1ea7u kh\u00ed \u0111\u1ed1t",
+        "industryID": 277,
+        "industryEn": "Utilities",
+        "shortName": "N\u01b0\u1edbc s\u1ea1ch V\u0129nh Ph\u00fac"
+    },
+    {
+        "index": 0,
+        "ticker": "VLW",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "\u0110i\u1ec7n, n\u01b0\u1edbc & x\u0103ng d\u1ea7u kh\u00ed \u0111\u1ed1t",
+        "industryID": 277,
+        "industryEn": "Utilities",
+        "shortName": "C\u1ea5p n\u01b0\u1edbc V\u0129nh Long"
+    },
+    {
+        "index": 0,
+        "ticker": "VCW",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "\u0110i\u1ec7n, n\u01b0\u1edbc & x\u0103ng d\u1ea7u kh\u00ed \u0111\u1ed1t",
+        "industryID": 277,
+        "industryEn": "Utilities",
+        "shortName": "\u0110\u1ea7u t\u01b0 N\u01b0\u1edbc s\u1ea1ch S\u00f4ng \u0110\u00e0"
+    },
+    {
+        "index": 0,
+        "ticker": "ABB",
+        "exchange": "UPCOM",
+        "companyType": "NH",
+        "industry": "Ng\u00e2n h\u00e0ng",
+        "industryID": 289,
+        "industryEn": "Banks",
+        "shortName": "Ng\u00e2n h\u00e0ng An B\u00ecnh"
+    },
+    {
+        "index": 0,
+        "ticker": "EIB",
+        "exchange": "HOSE",
+        "companyType": "NH",
+        "industry": "Ng\u00e2n h\u00e0ng",
+        "industryID": 289,
+        "industryEn": "Banks",
+        "shortName": "Eximbank"
+    },
+    {
+        "index": 0,
+        "ticker": "BVB",
+        "exchange": "UPCOM",
+        "companyType": "NH",
+        "industry": "Ng\u00e2n h\u00e0ng",
+        "industryID": 289,
+        "industryEn": "Banks",
+        "shortName": "Ng\u00e2n h\u00e0ng B\u1ea3n Vi\u1ec7t"
+    },
+    {
+        "index": 0,
+        "ticker": "KLB",
+        "exchange": "UPCOM",
+        "companyType": "NH",
+        "industry": "Ng\u00e2n h\u00e0ng",
+        "industryID": 289,
+        "industryEn": "Banks",
+        "shortName": "KienlongBank"
+    },
+    {
+        "index": 0,
+        "ticker": "LPB",
+        "exchange": "HOSE",
+        "companyType": "NH",
+        "industry": "Ng\u00e2n h\u00e0ng",
+        "industryID": 289,
+        "industryEn": "Banks",
+        "shortName": "LienVietPostBank"
+    },
+    {
+        "index": 0,
+        "ticker": "MSB",
+        "exchange": "HOSE",
+        "companyType": "NH",
+        "industry": "Ng\u00e2n h\u00e0ng",
+        "industryID": 289,
+        "industryEn": "Banks",
+        "shortName": "MSB Bank"
+    },
+    {
+        "index": 0,
+        "ticker": "NAB",
+        "exchange": "UPCOM",
+        "companyType": "NH",
+        "industry": "Ng\u00e2n h\u00e0ng",
+        "industryID": 289,
+        "industryEn": "Banks",
+        "shortName": "Ng\u00e2n h\u00e0ng Nam \u00c1"
+    },
+    {
+        "index": 0,
+        "ticker": "BAB",
+        "exchange": "HNX",
+        "companyType": "NH",
+        "industry": "Ng\u00e2n h\u00e0ng",
+        "industryID": 289,
+        "industryEn": "Banks",
+        "shortName": "Ng\u00e2n h\u00e0ng B\u1eafc \u00c1"
+    },
+    {
+        "index": 0,
+        "ticker": "NVB",
+        "exchange": "HNX",
+        "companyType": "NH",
+        "industry": "Ng\u00e2n h\u00e0ng",
+        "industryID": 289,
+        "industryEn": "Banks",
+        "shortName": "Ng\u00e2n h\u00e0ng Qu\u1ed1c D\u00e2n"
+    },
+    {
+        "index": 0,
+        "ticker": "OCB",
+        "exchange": "HOSE",
+        "companyType": "NH",
+        "industry": "Ng\u00e2n h\u00e0ng",
+        "industryID": 289,
+        "industryEn": "Banks",
+        "shortName": "Ng\u00e2n h\u00e0ng Ph\u01b0\u01a1ng \u0110\u00f4ng"
+    },
+    {
+        "index": 0,
+        "ticker": "PGB",
+        "exchange": "UPCOM",
+        "companyType": "NH",
+        "industry": "Ng\u00e2n h\u00e0ng",
+        "industryID": 289,
+        "industryEn": "Banks",
+        "shortName": "PG Bank"
+    },
+    {
+        "index": 0,
+        "ticker": "SGB",
+        "exchange": "UPCOM",
+        "companyType": "NH",
+        "industry": "Ng\u00e2n h\u00e0ng",
+        "industryID": 289,
+        "industryEn": "Banks",
+        "shortName": "S\u00e0i G\u00f2n C\u00f4ng th\u01b0\u01a1ng"
+    },
+    {
+        "index": 0,
+        "ticker": "VAB",
+        "exchange": "UPCOM",
+        "companyType": "NH",
+        "industry": "Ng\u00e2n h\u00e0ng",
+        "industryID": 289,
+        "industryEn": "Banks",
+        "shortName": "Ng\u00e2n h\u00e0ng Vi\u1ec7t \u00c1"
+    },
+    {
+        "index": 0,
+        "ticker": "VBB",
+        "exchange": "UPCOM",
+        "companyType": "NH",
+        "industry": "Ng\u00e2n h\u00e0ng",
+        "industryID": 289,
+        "industryEn": "Banks",
+        "shortName": "VietBank"
+    },
+    {
+        "index": 0,
+        "ticker": "ACG",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 155,
+        "industryEn": "Basic Resources",
+        "shortName": "G\u1ed7 An C\u01b0\u1eddng"
+    },
+    {
+        "index": 0,
+        "ticker": "CAP",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 156,
+        "industryEn": "Basic Resources",
+        "shortName": "L\u00e2m n\u00f4ng s\u1ea3n Y\u00ean B\u00e1i"
+    },
+    {
+        "index": 0,
+        "ticker": "DHC",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 156,
+        "industryEn": "Basic Resources",
+        "shortName": "\u0110\u00f4ng H\u1ea3i B\u1ebfn Tre"
+    },
+    {
+        "index": 0,
+        "ticker": "DLG",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 155,
+        "industryEn": "Basic Resources",
+        "shortName": "\u0110\u1ee9c Long Gia Lai"
+    },
+    {
+        "index": 0,
+        "ticker": "FRM",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 155,
+        "industryEn": "Basic Resources",
+        "shortName": "L\u00e2m nghi\u1ec7p S\u00e0i G\u00f2n"
+    },
+    {
+        "index": 0,
+        "ticker": "FRC",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 155,
+        "industryEn": "Basic Resources",
+        "shortName": "L\u00e2m \u0111\u1eb7c s\u1ea3n xu\u1ea5t kh\u1ea9u Qu\u1ea3ng Nam"
+    },
+    {
+        "index": 0,
+        "ticker": "GTA",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 155,
+        "industryEn": "Basic Resources",
+        "shortName": "G\u1ed7 Thu\u1eadn An"
+    },
+    {
+        "index": 0,
+        "ticker": "HAP",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 156,
+        "industryEn": "Basic Resources",
+        "shortName": "T\u1eadp \u0111o\u00e0n Hapaco"
+    },
+    {
+        "index": 0,
+        "ticker": "HHP",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 156,
+        "industryEn": "Basic Resources",
+        "shortName": "Gi\u1ea5y Ho\u00e0ng H\u00e0 H\u1ea3i Ph\u00f2ng"
+    },
+    {
+        "index": 0,
+        "ticker": "MDF",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 155,
+        "industryEn": "Basic Resources",
+        "shortName": "G\u1ed7 MDF VRG - Qu\u1ea3ng Tr\u1ecb"
+    },
+    {
+        "index": 0,
+        "ticker": "PIS",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 155,
+        "industryEn": "Basic Resources",
+        "shortName": "Pisico B\u00ecnh \u0110\u1ecbnh"
+    },
+    {
+        "index": 0,
+        "ticker": "PTB",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 155,
+        "industryEn": "Basic Resources",
+        "shortName": "C\u00f4ng ty C\u1ed5 ph\u1ea7n Ph\u00fa T\u00e0i"
+    },
+    {
+        "index": 0,
+        "ticker": "SAV",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 155,
+        "industryEn": "Basic Resources",
+        "shortName": "Savimex"
+    },
+    {
+        "index": 0,
+        "ticker": "SVT",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 156,
+        "industryEn": "Basic Resources",
+        "shortName": "C\u00f4ng ngh\u1ec7 SG Vi\u1ec5n \u0110\u00f4ng"
+    },
+    {
+        "index": 0,
+        "ticker": "TQN",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 155,
+        "industryEn": "Basic Resources",
+        "shortName": "Th\u00f4ng Qu\u1ea3ng Ninh"
+    },
+    {
+        "index": 0,
+        "ticker": "TMW",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 155,
+        "industryEn": "Basic Resources",
+        "shortName": "G\u1ed7 T\u00e2n Mai"
+    },
+    {
+        "index": 0,
+        "ticker": "TTF",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 155,
+        "industryEn": "Basic Resources",
+        "shortName": "G\u1ed7 Tr\u01b0\u1eddng Th\u00e0nh"
+    },
+    {
+        "index": 0,
+        "ticker": "VID",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 156,
+        "industryEn": "Basic Resources",
+        "shortName": "Vi\u1ec5n \u0110\u00f4ng"
+    },
+    {
+        "index": 0,
+        "ticker": "VIF",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 155,
+        "industryEn": "Basic Resources",
+        "shortName": "L\u00e2m nghi\u1ec7p Vi\u1ec7t Nam"
+    },
+    {
+        "index": 0,
+        "ticker": "GVT",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 156,
+        "industryEn": "Basic Resources",
+        "shortName": "Gi\u1ea5y Vi\u1ec7t Tr\u00ec"
+    },
+    {
+        "index": 0,
+        "ticker": "HSV",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "Gang Th\u00e9p H\u00e0 N\u1ed9i"
+    },
+    {
+        "index": 0,
+        "ticker": "BCA",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "C\u00f4ng ty B.C.H"
+    },
+    {
+        "index": 0,
+        "ticker": "BVG",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "Group B\u1eafc Vi\u1ec7t"
+    },
+    {
+        "index": 0,
+        "ticker": "CBI",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "Gang th\u00e9p Cao B\u1eb1ng"
+    },
+    {
+        "index": 0,
+        "ticker": "TTS",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "C\u00e1n th\u00e9p Th\u00e1i Trung"
+    },
+    {
+        "index": 0,
+        "ticker": "DPS",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "\u0110\u1ea7u t\u01b0 Ph\u00e1t tri\u1ec3n S\u00f3c S\u01a1n"
+    },
+    {
+        "index": 0,
+        "ticker": "DTL",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "\u0110\u1ea1i Thi\u00ean L\u1ed9c"
+    },
+    {
+        "index": 0,
+        "ticker": "HLA",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "H\u1eefu Li\u00ean \u00c1 Ch\u00e2u"
+    },
+    {
+        "index": 0,
+        "ticker": "HMC",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "Kim kh\u00ed TP.HCM"
+    },
+    {
+        "index": 0,
+        "ticker": "HMG",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "Kim Kh\u00ed H\u00e0 N\u1ed9i"
+    },
+    {
+        "index": 0,
+        "ticker": "HSG",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "T\u1eadp \u0111o\u00e0n Hoa Sen"
+    },
+    {
+        "index": 0,
+        "ticker": "ITQ",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "T\u1eadp \u0111o\u00e0n Thi\u00ean Quang"
+    },
+    {
+        "index": 0,
+        "ticker": "KKC",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "T\u1eadp \u0111o\u00e0n Th\u00e0nh Th\u00e1i"
+    },
+    {
+        "index": 0,
+        "ticker": "KLM",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 158,
+        "industryEn": "Basic Resources",
+        "shortName": "Kim lo\u1ea1i m\u00e0u Ngh\u1ec7 T\u0129nh"
+    },
+    {
+        "index": 0,
+        "ticker": "KMT",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "Kim kh\u00ed Mi\u1ec1n Trung"
+    },
+    {
+        "index": 0,
+        "ticker": "KTL",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "Kim kh\u00ed Th\u0103ng Long"
+    },
+    {
+        "index": 0,
+        "ticker": "KVC",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "XNK Inox Kim V\u0129"
+    },
+    {
+        "index": 0,
+        "ticker": "MEL",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "Th\u00e9p M\u00ea Lin"
+    },
+    {
+        "index": 0,
+        "ticker": "MHL",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "Minh H\u1eefu Li\u00ean"
+    },
+    {
+        "index": 0,
+        "ticker": "NHV",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 158,
+        "industryEn": "Basic Resources",
+        "shortName": "\u0110\u1ea7u t\u01b0 NHV"
+    },
+    {
+        "index": 0,
+        "ticker": "NKG",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "Th\u00e9p Nam Kim"
+    },
+    {
+        "index": 0,
+        "ticker": "PAS",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "Qu\u1ed1c t\u1ebf Ph\u01b0\u01a1ng Anh"
+    },
+    {
+        "index": 0,
+        "ticker": "POM",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "Th\u00e9p Pomina"
+    },
+    {
+        "index": 0,
+        "ticker": "SHA",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "S\u01a1n H\u00e0 S\u00e0i G\u00f2n"
+    },
+    {
+        "index": 0,
+        "ticker": "NSH",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 157,
+        "industryEn": "Basic Resources",
+        "shortName": "Nh\u00f4m S\u00f4ng H\u1ed3ng"
+    },
+    {
+        "index": 0,
+        "ticker": "SHI",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "Qu\u1ed1c t\u1ebf S\u01a1n H\u00e0"
+    },
+    {
+        "index": 0,
+        "ticker": "SMC",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "\u0110\u1ea7u t\u01b0 Th\u01b0\u01a1ng m\u1ea1i SMC"
+    },
+    {
+        "index": 0,
+        "ticker": "SSM",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "K\u1ebft c\u1ea5u Th\u00e9p VNECO"
+    },
+    {
+        "index": 0,
+        "ticker": "TDS",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "Th\u00e9p Th\u1ee7 \u0110\u1ee9c"
+    },
+    {
+        "index": 0,
+        "ticker": "TIS",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "Gang th\u00e9p Th\u00e1i Nguy\u00ean"
+    },
+    {
+        "index": 0,
+        "ticker": "TKG",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "SX v\u00e0 T.M\u1ea1i T\u00f9ng Kh\u00e1nh"
+    },
+    {
+        "index": 0,
+        "ticker": "TKU",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 157,
+        "industryEn": "Basic Resources",
+        "shortName": "C\u00f4ng nghi\u1ec7p Tung Kuang"
+    },
+    {
+        "index": 0,
+        "ticker": "TLH",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "Th\u00e9p Ti\u1ebfn L\u00ean"
+    },
+    {
+        "index": 0,
+        "ticker": "TNA",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "XNK Thi\u00ean Nam"
+    },
+    {
+        "index": 0,
+        "ticker": "TNB",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "Th\u00e9p Nh\u00e0 B\u00e8"
+    },
+    {
+        "index": 0,
+        "ticker": "TNS",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "Th\u00e9p t\u1ea5m l\u00e1 Th\u1ed1ng Nh\u1ea5t"
+    },
+    {
+        "index": 0,
+        "ticker": "TNI",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "T\u1eadp \u0111o\u00e0n Th\u00e0nh Nam"
+    },
+    {
+        "index": 0,
+        "ticker": "VCA",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "Th\u00e9p VICASA - VNSTEEL"
+    },
+    {
+        "index": 0,
+        "ticker": "VDT",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "L\u01b0\u1edbi th\u00e9p B\u00ecnh T\u00e2y"
+    },
+    {
+        "index": 0,
+        "ticker": "VGS",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "\u1ed0ng th\u00e9p Vi\u1ec7t \u0110\u1ee9c"
+    },
+    {
+        "index": 0,
+        "ticker": "TMG",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "Kim lo\u1ea1i m\u00e0u Th\u00e1i Nguy\u00ean - Vimico"
+    },
+    {
+        "index": 0,
+        "ticker": "VGL",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "M\u1ea1 k\u1ebdm c\u00f4ng nghi\u1ec7p Vingal-Vnsteel"
+    },
+    {
+        "index": 0,
+        "ticker": "TVN",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "Th\u00e9p Vi\u1ec7t Nam"
+    },
+    {
+        "index": 0,
+        "ticker": "DFC",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 159,
+        "industryEn": "Basic Resources",
+        "shortName": "X\u00edch l\u00edp \u0110\u00f4ng Anh"
+    },
+    {
+        "index": 0,
+        "ticker": "CST",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 160,
+        "industryEn": "Basic Resources",
+        "shortName": "Than Cao S\u01a1n - TKV"
+    },
+    {
+        "index": 0,
+        "ticker": "ACM",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 166,
+        "industryEn": "Basic Resources",
+        "shortName": "T\u1eadp \u0111o\u00e0n Kho\u00e1ng s\u1ea3n \u00c1 C\u01b0\u1eddng"
+    },
+    {
+        "index": 0,
+        "ticker": "AMC",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 166,
+        "industryEn": "Basic Resources",
+        "shortName": "Kho\u00e1ng s\u1ea3n \u00c1 Ch\u00e2u"
+    },
+    {
+        "index": 0,
+        "ticker": "ATG",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 166,
+        "industryEn": "Basic Resources",
+        "shortName": "An Tr\u01b0\u1eddng An"
+    },
+    {
+        "index": 0,
+        "ticker": "BCB",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 160,
+        "industryEn": "Basic Resources",
+        "shortName": "C\u00f4ng ty 397"
+    },
+    {
+        "index": 0,
+        "ticker": "BKC",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 166,
+        "industryEn": "Basic Resources",
+        "shortName": "Kho\u00e1ng s\u1ea3n B\u1eafc K\u1ea1n"
+    },
+    {
+        "index": 0,
+        "ticker": "BMC",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 166,
+        "industryEn": "Basic Resources",
+        "shortName": "Kho\u00e1ng s\u1ea3n B\u00ecnh \u0110\u1ecbnh"
+    },
+    {
+        "index": 0,
+        "ticker": "BMJ",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 166,
+        "industryEn": "Basic Resources",
+        "shortName": "Kho\u00e1ng s\u1ea3n Mi\u1ec1n \u0110\u00f4ng AHP"
+    },
+    {
+        "index": 0,
+        "ticker": "KCB",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 166,
+        "industryEn": "Basic Resources",
+        "shortName": "Kho\u00e1ng S\u1ea3n Luy\u1ec7n Kim Cao B\u1eb1ng"
+    },
+    {
+        "index": 0,
+        "ticker": "VBG",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 166,
+        "industryEn": "Basic Resources",
+        "shortName": "\u0110i\u0323a ch\u00e2\u0301t Vi\u00ea\u0323t B\u0103\u0301c - TKV"
+    },
+    {
+        "index": 0,
+        "ticker": "DHM",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 166,
+        "industryEn": "Basic Resources",
+        "shortName": "Kho\u00e1ng s\u1ea3n D\u01b0\u01a1ng Hi\u1ebfu"
+    },
+    {
+        "index": 0,
+        "ticker": "GLC",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 167,
+        "industryEn": "Basic Resources",
+        "shortName": "V\u00e0ng L\u00e0o Cai"
+    },
+    {
+        "index": 0,
+        "ticker": "HGM",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 166,
+        "industryEn": "Basic Resources",
+        "shortName": "Kho\u00e1ng s\u1ea3n H\u00e0 Giang"
+    },
+    {
+        "index": 0,
+        "ticker": "HLC",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 160,
+        "industryEn": "Basic Resources",
+        "shortName": "Than H\u00e0 L\u1ea7m"
+    },
+    {
+        "index": 0,
+        "ticker": "HPM",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 166,
+        "industryEn": "Basic Resources",
+        "shortName": "Kho\u00e1ng s\u1ea3n Ho\u00e0ng Ph\u00fac"
+    },
+    {
+        "index": 0,
+        "ticker": "KSB",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 166,
+        "industryEn": "Basic Resources",
+        "shortName": "Kho\u00e1ng s\u1ea3n B\u00ecnh D\u01b0\u01a1ng"
+    },
+    {
+        "index": 0,
+        "ticker": "KSH",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 166,
+        "industryEn": "Basic Resources",
+        "shortName": "Damac GLS"
+    },
+    {
+        "index": 0,
+        "ticker": "KHD",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 166,
+        "industryEn": "Basic Resources",
+        "shortName": "Kho\u00e1ng s\u1ea3n H\u1ea3i D\u01b0\u01a1ng"
+    },
+    {
+        "index": 0,
+        "ticker": "LMC",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 166,
+        "industryEn": "Basic Resources",
+        "shortName": "Kho\u00e1ng s\u1ea3n LATCA"
+    },
+    {
+        "index": 0,
+        "ticker": "KSQ",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 166,
+        "industryEn": "Basic Resources",
+        "shortName": "CNC Capital Vi\u1ec7t Nam"
+    },
+    {
+        "index": 0,
+        "ticker": "KSS",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 166,
+        "industryEn": "Basic Resources",
+        "shortName": "Na R\u00ec Hamico"
+    },
+    {
+        "index": 0,
+        "ticker": "KSV",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 166,
+        "industryEn": "Basic Resources",
+        "shortName": "Kho\u00e1ng s\u1ea3n TKV"
+    },
+    {
+        "index": 0,
+        "ticker": "LCM",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 166,
+        "industryEn": "Basic Resources",
+        "shortName": "Kho\u00e1ng s\u1ea3n L\u00e0o Cai"
+    },
+    {
+        "index": 0,
+        "ticker": "MDC",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 160,
+        "industryEn": "Basic Resources",
+        "shortName": "Than M\u00f4ng D\u01b0\u01a1ng"
+    },
+    {
+        "index": 0,
+        "ticker": "MIC",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 166,
+        "industryEn": "Basic Resources",
+        "shortName": "Kho\u00e1ng s\u1ea3n Qu\u1ea3ng Nam"
+    },
+    {
+        "index": 0,
+        "ticker": "MIM",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 166,
+        "industryEn": "Basic Resources",
+        "shortName": "Kho\u00e1ng s\u1ea3n v\u00e0 C\u01a1 kh\u00ed"
+    },
+    {
+        "index": 0,
+        "ticker": "MTA",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 166,
+        "industryEn": "Basic Resources",
+        "shortName": "Kho\u00e1ng s\u1ea3n v\u00e0 TM H\u00e0 T\u0129nh"
+    },
+    {
+        "index": 0,
+        "ticker": "MSR",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 166,
+        "industryEn": "Basic Resources",
+        "shortName": "Masan High-Tech Materials"
+    },
+    {
+        "index": 0,
+        "ticker": "NBC",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 160,
+        "industryEn": "Basic Resources",
+        "shortName": "Than N\u00fai B\u00e9o"
+    },
+    {
+        "index": 0,
+        "ticker": "SHN",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 160,
+        "industryEn": "Basic Resources",
+        "shortName": "\u0110\u1ea7u t\u01b0 T\u1ed5ng h\u1ee3p H\u00e0 N\u1ed9i"
+    },
+    {
+        "index": 0,
+        "ticker": "SPI",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 166,
+        "industryEn": "Basic Resources",
+        "shortName": "Spiral Galaxy"
+    },
+    {
+        "index": 0,
+        "ticker": "SQC",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 166,
+        "industryEn": "Basic Resources",
+        "shortName": "Kho\u00e1ng s\u1ea3n SG-Quy Nh\u01a1n"
+    },
+    {
+        "index": 0,
+        "ticker": "TC6",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 160,
+        "industryEn": "Basic Resources",
+        "shortName": "Than C\u1ecdc S\u00e1u"
+    },
+    {
+        "index": 0,
+        "ticker": "TDN",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 160,
+        "industryEn": "Basic Resources",
+        "shortName": "Than \u0110\u00e8o Nai"
+    },
+    {
+        "index": 0,
+        "ticker": "THT",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 160,
+        "industryEn": "Basic Resources",
+        "shortName": "Than H\u00e0 Tu"
+    },
+    {
+        "index": 0,
+        "ticker": "TNT",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 166,
+        "industryEn": "Basic Resources",
+        "shortName": "T\u1eadp \u0111o\u00e0n TNT"
+    },
+    {
+        "index": 0,
+        "ticker": "TVD",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 160,
+        "industryEn": "Basic Resources",
+        "shortName": "Than V\u00e0ng Danh"
+    },
+    {
+        "index": 0,
+        "ticker": "CLM",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 160,
+        "industryEn": "Basic Resources",
+        "shortName": "Xu\u1ea5t nh\u1eadp kh\u1ea9u Than - Vinacomin"
+    },
+    {
+        "index": 0,
+        "ticker": "VDB",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 160,
+        "industryEn": "Basic Resources",
+        "shortName": "V\u1eadn t\u1ea3i v\u00e0 CB Than \u0110\u00f4ng B\u1eafc"
+    },
+    {
+        "index": 0,
+        "ticker": "MVB",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 166,
+        "industryEn": "Basic Resources",
+        "shortName": "M\u1ecf Vi\u1ec7t B\u1eafc - TKV"
+    },
+    {
+        "index": 0,
+        "ticker": "VIM",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 166,
+        "industryEn": "Basic Resources",
+        "shortName": "Kho\u00e1ng s\u1ea3n Viglacera"
+    },
+    {
+        "index": 0,
+        "ticker": "MGC",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 166,
+        "industryEn": "Basic Resources",
+        "shortName": "\u0110\u1ecba ch\u1ea5t m\u1ecf - TKV"
+    },
+    {
+        "index": 0,
+        "ticker": "TMB",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 160,
+        "industryEn": "Basic Resources",
+        "shortName": "Than Mi\u1ec1n B\u1eafc - Vinacomin"
+    },
+    {
+        "index": 0,
+        "ticker": "VPG",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 166,
+        "industryEn": "Basic Resources",
+        "shortName": "\u0110\u1ea7u t\u01b0 TM\u1ea1i XNK Vi\u1ec7t Ph\u00e1t"
+    },
+    {
+        "index": 0,
+        "ticker": "YBM",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 166,
+        "industryEn": "Basic Resources",
+        "shortName": "Kho\u00e1ng s\u1ea3n CN Y\u00ean B\u00e1i"
+    },
+    {
+        "index": 0,
+        "ticker": "VTZ",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 150,
+        "industryEn": "Chemicals",
+        "shortName": "Nh\u1ef1a Vi\u1ec7t Th\u00e0nh"
+    },
+    {
+        "index": 0,
+        "ticker": "PCH",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 150,
+        "industryEn": "Chemicals",
+        "shortName": "Nh\u1ef1a Picomat"
+    },
+    {
+        "index": 0,
+        "ticker": "AAA",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 150,
+        "industryEn": "Chemicals",
+        "shortName": "An Ph\u00e1t Bioplastics"
+    },
+    {
+        "index": 0,
+        "ticker": "LTG",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 151,
+        "industryEn": "Chemicals",
+        "shortName": "T\u1eadp \u0111o\u00e0n L\u1ed9c Tr\u1eddi (BVTV An Giang)"
+    },
+    {
+        "index": 0,
+        "ticker": "APP",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 151,
+        "industryEn": "Chemicals",
+        "shortName": "Ph\u1ee5 gia v\u00e0 SP D\u1ea7u m\u1ecf"
+    },
+    {
+        "index": 0,
+        "ticker": "HII",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 150,
+        "industryEn": "Chemicals",
+        "shortName": "An Ti\u1ebfn Industries"
+    },
+    {
+        "index": 0,
+        "ticker": "BRR",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 150,
+        "industryEn": "Chemicals",
+        "shortName": "Cao su B\u00e0 R\u1ecba"
+    },
+    {
+        "index": 0,
+        "ticker": "BFC",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 151,
+        "industryEn": "Chemicals",
+        "shortName": "Ph\u00e2n b\u00f3n B\u00ecnh \u0110i\u1ec1n"
+    },
+    {
+        "index": 0,
+        "ticker": "BRC",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 150,
+        "industryEn": "Chemicals",
+        "shortName": "Cao su B\u1ebfn Th\u00e0nh"
+    },
+    {
+        "index": 0,
+        "ticker": "CPC",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 151,
+        "industryEn": "Chemicals",
+        "shortName": "Thu\u1ed1c s\u00e1t tr\u00f9ng C\u1ea7n Th\u01a1"
+    },
+    {
+        "index": 0,
+        "ticker": "CSV",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 151,
+        "industryEn": "Chemicals",
+        "shortName": "H\u00f3a ch\u1ea5t C\u01a1 b\u1ea3n mi\u1ec1n Nam"
+    },
+    {
+        "index": 0,
+        "ticker": "DAG",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 150,
+        "industryEn": "Chemicals",
+        "shortName": "T\u0110 Nh\u1ef1a \u0110\u00f4ng \u00c1"
+    },
+    {
+        "index": 0,
+        "ticker": "DRG",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 150,
+        "industryEn": "Chemicals",
+        "shortName": "Cao su \u0110\u1eafk L\u1eafk"
+    },
+    {
+        "index": 0,
+        "ticker": "DRI",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 150,
+        "industryEn": "Chemicals",
+        "shortName": "\u0110\u1ea7u t\u01b0 Cao su \u0110\u1eafk L\u1eafk"
+    },
+    {
+        "index": 0,
+        "ticker": "DHB",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 151,
+        "industryEn": "Chemicals",
+        "shortName": "\u0110\u1ea1m H\u00e0 B\u1eafc"
+    },
+    {
+        "index": 0,
+        "ticker": "DCM",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 151,
+        "industryEn": "Chemicals",
+        "shortName": "\u0110\u1ea1m C\u00e0 Mau"
+    },
+    {
+        "index": 0,
+        "ticker": "DDV",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 151,
+        "industryEn": "Chemicals",
+        "shortName": "DAP - Vinachem"
+    },
+    {
+        "index": 0,
+        "ticker": "DGC",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 151,
+        "industryEn": "Chemicals",
+        "shortName": "H\u00f3a ch\u1ea5t \u0110\u1ee9c Giang"
+    },
+    {
+        "index": 0,
+        "ticker": "DOC",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 151,
+        "industryEn": "Chemicals",
+        "shortName": "V\u1eadt t\u01b0 n\u00f4ng nghi\u1ec7p \u0110\u1ed3ng Nai"
+    },
+    {
+        "index": 0,
+        "ticker": "DPM",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 151,
+        "industryEn": "Chemicals",
+        "shortName": "T\u1ed5ng C\u00f4ng ty Ph\u00e2n b\u00f3n v\u00e0 H\u00f3a ch\u1ea5t D\u1ea7u kh\u00ed"
+    },
+    {
+        "index": 0,
+        "ticker": "DPR",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 150,
+        "industryEn": "Chemicals",
+        "shortName": "Cao su \u0110\u1ed3ng Ph\u00fa"
+    },
+    {
+        "index": 0,
+        "ticker": "DTT",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 150,
+        "industryEn": "Chemicals",
+        "shortName": "K\u1ef9 ngh\u1ec7 \u0110\u00f4 Th\u00e0nh"
+    },
+    {
+        "index": 0,
+        "ticker": "GER",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 150,
+        "industryEn": "Chemicals",
+        "shortName": "Th\u1ec3 thao Ng\u00f4i sao Geru"
+    },
+    {
+        "index": 0,
+        "ticker": "HAI",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 151,
+        "industryEn": "Chemicals",
+        "shortName": "N\u00f4ng D\u01b0\u1ee3c HAI"
+    },
+    {
+        "index": 0,
+        "ticker": "HNP",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 150,
+        "industryEn": "Chemicals",
+        "shortName": "Hanel X\u1ed1p Nh\u1ef1a"
+    },
+    {
+        "index": 0,
+        "ticker": "HCD",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 150,
+        "industryEn": "Chemicals",
+        "shortName": "SX v\u00e0 Th\u01b0\u01a1ng m\u1ea1i HCD"
+    },
+    {
+        "index": 0,
+        "ticker": "HPH",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 151,
+        "industryEn": "Chemicals",
+        "shortName": "H\u00f3a Ch\u1ea5t H\u01b0ng Ph\u00e1t H\u00e0 B\u1eafc"
+    },
+    {
+        "index": 0,
+        "ticker": "HRC",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 150,
+        "industryEn": "Chemicals",
+        "shortName": "Cao su H\u00f2a B\u00ecnh"
+    },
+    {
+        "index": 0,
+        "ticker": "HSI",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 151,
+        "industryEn": "Chemicals",
+        "shortName": "Ph\u00e2n b\u00f3n H\u00f3a sinh"
+    },
+    {
+        "index": 0,
+        "ticker": "HVT",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 151,
+        "industryEn": "Chemicals",
+        "shortName": "H\u00f3a ch\u1ea5t Vi\u1ec7t tr\u00ec"
+    },
+    {
+        "index": 0,
+        "ticker": "IRC",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 150,
+        "industryEn": "Chemicals",
+        "shortName": "Cao su C\u00f4ng nghi\u1ec7p"
+    },
+    {
+        "index": 0,
+        "ticker": "LAS",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 151,
+        "industryEn": "Chemicals",
+        "shortName": "H\u00f3a ch\u1ea5t L\u00e2m Thao"
+    },
+    {
+        "index": 0,
+        "ticker": "LNC",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 150,
+        "industryEn": "Chemicals",
+        "shortName": "L\u1ec7 Ninh - Qu\u1ea3ng B\u00ecnh"
+    },
+    {
+        "index": 0,
+        "ticker": "VET",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 151,
+        "industryEn": "Chemicals",
+        "shortName": "Thu\u1ed1c th\u00fa y trung \u01b0\u01a1ng Navetco"
+    },
+    {
+        "index": 0,
+        "ticker": "NFC",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 151,
+        "industryEn": "Chemicals",
+        "shortName": "Ph\u00e2n l\u00e2n Ninh B\u00ecnh"
+    },
+    {
+        "index": 0,
+        "ticker": "NHH",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 150,
+        "industryEn": "Chemicals",
+        "shortName": "Nh\u1ef1a H\u00e0 N\u1ed9i"
+    },
+    {
+        "index": 0,
+        "ticker": "PMB",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 151,
+        "industryEn": "Chemicals",
+        "shortName": "Ph\u00e2n b\u00f3n v\u00e0 H\u00f3a ch\u1ea5t D\u1ea7u kh\u00ed Mi\u1ec1n B\u1eafc"
+    },
+    {
+        "index": 0,
+        "ticker": "PGN",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 150,
+        "industryEn": "Chemicals",
+        "shortName": "Ph\u1ee5 Gia Nh\u1ef1a"
+    },
+    {
+        "index": 0,
+        "ticker": "PLP",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 150,
+        "industryEn": "Chemicals",
+        "shortName": "SX v\u00e0 CN Nh\u1ef1a Pha L\u00ea"
+    },
+    {
+        "index": 0,
+        "ticker": "PHR",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 150,
+        "industryEn": "Chemicals",
+        "shortName": "Cao su Ph\u01b0\u1edbc H\u00f2a"
+    },
+    {
+        "index": 0,
+        "ticker": "PLC",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 151,
+        "industryEn": "Chemicals",
+        "shortName": "H\u00f3a d\u1ea7u Petrolimex"
+    },
+    {
+        "index": 0,
+        "ticker": "BT1",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 151,
+        "industryEn": "Chemicals",
+        "shortName": "B\u1ea3o v\u1ec7 th\u1ef1c v\u1eadt 1 TW"
+    },
+    {
+        "index": 0,
+        "ticker": "PSE",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 151,
+        "industryEn": "Chemicals",
+        "shortName": "Ph\u00e2n b\u00f3n v\u00e0 h\u00f3a ch\u1ea5t d\u1ea7u kh\u00ed \u0110\u00f4ng Nam B\u1ed9"
+    },
+    {
+        "index": 0,
+        "ticker": "PCE",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 151,
+        "industryEn": "Chemicals",
+        "shortName": "Ph\u00e2n b\u00f3n v\u00e0 H\u00f3a ch\u1ea5t DK Mi\u1ec1n Trung"
+    },
+    {
+        "index": 0,
+        "ticker": "PCN",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 151,
+        "industryEn": "Chemicals",
+        "shortName": "D\u1ea7u kh\u00ed DMC-Mi\u1ec1n B\u1eafc"
+    },
+    {
+        "index": 0,
+        "ticker": "PSW",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 151,
+        "industryEn": "Chemicals",
+        "shortName": "Ph\u00e2n b\u00f3n h\u00f3a ch\u1ea5t d\u1ea7u kh\u00ed T\u00e2y Nam B\u1ed9"
+    },
+    {
+        "index": 0,
+        "ticker": "QBS",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 151,
+        "industryEn": "Chemicals",
+        "shortName": "Xu\u1ea5t nh\u1eadp kh\u1ea9u Qu\u1ea3ng B\u00ecnh"
+    },
+    {
+        "index": 0,
+        "ticker": "RDP",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 150,
+        "industryEn": "Chemicals",
+        "shortName": "Nh\u1ef1a R\u1ea1ng \u0110\u00f4ng"
+    },
+    {
+        "index": 0,
+        "ticker": "RBC",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 150,
+        "industryEn": "Chemicals",
+        "shortName": "C\u00f4ng Nghi\u1ec7p v\u00e0 Xu\u1ea5t nh\u1eadp kh\u1ea9u Cao Su"
+    },
+    {
+        "index": 0,
+        "ticker": "SEP",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 150,
+        "industryEn": "Chemicals",
+        "shortName": "Th\u01b0\u01a1ng m\u1ea1i Qu\u1ea3ng Tr\u1ecb"
+    },
+    {
+        "index": 0,
+        "ticker": "SFG",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 151,
+        "industryEn": "Chemicals",
+        "shortName": "Ph\u00e2n b\u00f3n Mi\u1ec1n Nam"
+    },
+    {
+        "index": 0,
+        "ticker": "NSG",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 150,
+        "industryEn": "Chemicals",
+        "shortName": "Nh\u1ef1a S\u00e0i G\u00f2n"
+    },
+    {
+        "index": 0,
+        "ticker": "SIV",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 151,
+        "industryEn": "Chemicals",
+        "shortName": "S\u01a1n Sivico"
+    },
+    {
+        "index": 0,
+        "ticker": "SJF",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 151,
+        "industryEn": "Chemicals",
+        "shortName": "\u0110\u1ea7u t\u01b0 Sao Th\u00e1i D\u01b0\u01a1ng"
+    },
+    {
+        "index": 0,
+        "ticker": "SBR",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 150,
+        "industryEn": "Chemicals",
+        "shortName": "Cao su S\u00f4ng B\u00e9"
+    },
+    {
+        "index": 0,
+        "ticker": "SPC",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 151,
+        "industryEn": "Chemicals",
+        "shortName": "BV Th\u1ef1c v\u1eadt S\u00e0i G\u00f2n"
+    },
+    {
+        "index": 0,
+        "ticker": "RTB",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 150,
+        "industryEn": "Chemicals",
+        "shortName": "Cao su T\u00e2n Bi\u00ean"
+    },
+    {
+        "index": 0,
+        "ticker": "TNC",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 150,
+        "industryEn": "Chemicals",
+        "shortName": "Cao su Th\u1ed1ng Nh\u1ea5t"
+    },
+    {
+        "index": 0,
+        "ticker": "TPC",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 150,
+        "industryEn": "Chemicals",
+        "shortName": "Nh\u1ef1a T\u00e2n \u0110\u1ea1i H\u01b0ng"
+    },
+    {
+        "index": 0,
+        "ticker": "TRC",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 150,
+        "industryEn": "Chemicals",
+        "shortName": "Cao su T\u00e2y Ninh"
+    },
+    {
+        "index": 0,
+        "ticker": "TSC",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 151,
+        "industryEn": "Chemicals",
+        "shortName": "K\u1ef9 thu\u1eadt NN C\u1ea7n Th\u01a1"
+    },
+    {
+        "index": 0,
+        "ticker": "VAF",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 151,
+        "industryEn": "Chemicals",
+        "shortName": "Ph\u00e2n l\u00e2n V\u0103n \u0110i\u1ec3n"
+    },
+    {
+        "index": 0,
+        "ticker": "PAT",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 151,
+        "industryEn": "Chemicals",
+        "shortName": "Ph\u1ed1t pho Apatit Vi\u1ec7t Nam"
+    },
+    {
+        "index": 0,
+        "ticker": "VFG",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 151,
+        "industryEn": "Chemicals",
+        "shortName": "Kh\u1eed tr\u00f9ng Vi\u1ec7t Nam"
+    },
+    {
+        "index": 0,
+        "ticker": "PVO",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 151,
+        "industryEn": "Chemicals",
+        "shortName": "D\u1ea7u nh\u1eddn PV Oil"
+    },
+    {
+        "index": 0,
+        "ticker": "VPS",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 151,
+        "industryEn": "Chemicals",
+        "shortName": "Thu\u1ed1c s\u00e1t tr\u00f9ng Vi\u1ec7t Nam"
+    },
+    {
+        "index": 0,
+        "ticker": "VKP",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 150,
+        "industryEn": "Chemicals",
+        "shortName": "Nh\u1ef1a T\u00e2n H\u00f3a"
+    },
+    {
+        "index": 0,
+        "ticker": "VNP",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 150,
+        "industryEn": "Chemicals",
+        "shortName": "Nh\u1ef1a Vi\u1ec7t Nam"
+    },
+    {
+        "index": 0,
+        "ticker": "VNY",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 151,
+        "industryEn": "Chemicals",
+        "shortName": "Thu\u1ed1c th\u00fa y Trung \u01b0\u01a1ng I"
+    },
+    {
+        "index": 0,
+        "ticker": "VTQ",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 150,
+        "industryEn": "Chemicals",
+        "shortName": "Vi\u1ec7t Trung Qu\u1ea3ng B\u00ecnh"
+    },
+    {
+        "index": 0,
+        "ticker": "VXP",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "H\u00f3a ch\u1ea5t",
+        "industryID": 151,
+        "industryEn": "Chemicals",
+        "shortName": "Thu\u1ed1c Th\u00fa y Trung \u01b0\u01a1ng VETVACO"
+    },
+    {
+        "index": 0,
+        "ticker": "VVS",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "\u00d4 t\u00f4 v\u00e0 ph\u1ee5 t\u00f9ng",
+        "industryID": 211,
+        "industryEn": "Automobiles & Parts",
+        "shortName": "\u0110\u1ea7u t\u01b0 Ph\u00e1t tri\u1ec3n M\u00e1y Vi\u1ec7t Nam"
+    },
+    {
+        "index": 0,
+        "ticker": "CMC",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "\u00d4 t\u00f4 v\u00e0 ph\u1ee5 t\u00f9ng",
+        "industryID": 211,
+        "industryEn": "Automobiles & Parts",
+        "shortName": "\u0110\u1ea7u t\u01b0 CMC"
+    },
+    {
+        "index": 0,
+        "ticker": "CSM",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "\u00d4 t\u00f4 v\u00e0 ph\u1ee5 t\u00f9ng",
+        "industryID": 213,
+        "industryEn": "Automobiles & Parts",
+        "shortName": "Cao su Mi\u1ec1n Nam"
+    },
+    {
+        "index": 0,
+        "ticker": "CTF",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "\u00d4 t\u00f4 v\u00e0 ph\u1ee5 t\u00f9ng",
+        "industryID": 211,
+        "industryEn": "Automobiles & Parts",
+        "shortName": "City Auto"
+    },
+    {
+        "index": 0,
+        "ticker": "DRC",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "\u00d4 t\u00f4 v\u00e0 ph\u1ee5 t\u00f9ng",
+        "industryID": 213,
+        "industryEn": "Automobiles & Parts",
+        "shortName": "Cao su \u0110\u00e0 N\u1eb5ng"
+    },
+    {
+        "index": 0,
+        "ticker": "FTI",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "\u00d4 t\u00f4 v\u00e0 ph\u1ee5 t\u00f9ng",
+        "industryID": 212,
+        "industryEn": "Automobiles & Parts",
+        "shortName": "C\u00f4ng nghi\u1ec7p - Th\u01b0\u01a1ng m\u1ea1i H\u1eefu Ngh\u1ecb"
+    },
+    {
+        "index": 0,
+        "ticker": "GGG",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "\u00d4 t\u00f4 v\u00e0 ph\u1ee5 t\u00f9ng",
+        "industryID": 211,
+        "industryEn": "Automobiles & Parts",
+        "shortName": "\u00d4t\u00f4 Gi\u1ea3i Ph\u00f3ng"
+    },
+    {
+        "index": 0,
+        "ticker": "HAX",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "\u00d4 t\u00f4 v\u00e0 ph\u1ee5 t\u00f9ng",
+        "industryID": 211,
+        "industryEn": "Automobiles & Parts",
+        "shortName": "\u00d4 t\u00f4 H\u00e0ng Xanh"
+    },
+    {
+        "index": 0,
+        "ticker": "HHS",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "\u00d4 t\u00f4 v\u00e0 ph\u1ee5 t\u00f9ng",
+        "industryID": 211,
+        "industryEn": "Automobiles & Parts",
+        "shortName": "\u0110\u1ea7u t\u01b0 DV Ho\u00e0ng Huy"
+    },
+    {
+        "index": 0,
+        "ticker": "HTL",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "\u00d4 t\u00f4 v\u00e0 ph\u1ee5 t\u00f9ng",
+        "industryID": 211,
+        "industryEn": "Automobiles & Parts",
+        "shortName": "\u00d4 t\u00f4 Tr\u01b0\u1eddng Long"
+    },
+    {
+        "index": 0,
+        "ticker": "SRC",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "\u00d4 t\u00f4 v\u00e0 ph\u1ee5 t\u00f9ng",
+        "industryID": 213,
+        "industryEn": "Automobiles & Parts",
+        "shortName": "Cao su Sao V\u00e0ng"
+    },
+    {
+        "index": 0,
+        "ticker": "SVC",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "\u00d4 t\u00f4 v\u00e0 ph\u1ee5 t\u00f9ng",
+        "industryID": 211,
+        "industryEn": "Automobiles & Parts",
+        "shortName": "SAVICO"
+    },
+    {
+        "index": 0,
+        "ticker": "TMT",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "\u00d4 t\u00f4 v\u00e0 ph\u1ee5 t\u00f9ng",
+        "industryID": 211,
+        "industryEn": "Automobiles & Parts",
+        "shortName": "\u00d4 t\u00f4 TMT"
+    },
+    {
+        "index": 0,
+        "ticker": "VKC",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "\u00d4 t\u00f4 v\u00e0 ph\u1ee5 t\u00f9ng",
+        "industryID": 213,
+        "industryEn": "Automobiles & Parts",
+        "shortName": "VKC Holdings"
+    },
+    {
+        "index": 0,
+        "ticker": "VMA",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "\u00d4 t\u00f4 v\u00e0 ph\u1ee5 t\u00f9ng",
+        "industryID": 211,
+        "industryEn": "Automobiles & Parts",
+        "shortName": "CN \u00f4 t\u00f4 Vinacomin"
+    },
+    {
+        "index": 0,
+        "ticker": "CMM",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "Camimex"
+    },
+    {
+        "index": 0,
+        "ticker": "CNA",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 217,
+        "industryEn": "Food & Beverage",
+        "shortName": "T\u1ed5ng c\u00f4ng ty Ch\u00e8 Ngh\u1ec7 An - CTCP"
+    },
+    {
+        "index": 0,
+        "ticker": "GCF",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "Th\u1ef1c ph\u1ea9m G.C"
+    },
+    {
+        "index": 0,
+        "ticker": "AAM",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 217,
+        "industryEn": "Food & Beverage",
+        "shortName": "Th\u1ee7y s\u1ea3n Mekong"
+    },
+    {
+        "index": 0,
+        "ticker": "ABT",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 217,
+        "industryEn": "Food & Beverage",
+        "shortName": "Th\u1ee7y s\u1ea3n B\u1ebfn Tre"
+    },
+    {
+        "index": 0,
+        "ticker": "ACL",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 217,
+        "industryEn": "Food & Beverage",
+        "shortName": "Th\u1ee7y s\u1ea3n CL An Giang"
+    },
+    {
+        "index": 0,
+        "ticker": "AGF",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 217,
+        "industryEn": "Food & Beverage",
+        "shortName": "Th\u1ee7y s\u1ea3n An Giang"
+    },
+    {
+        "index": 0,
+        "ticker": "AGM",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "XNK An Giang"
+    },
+    {
+        "index": 0,
+        "ticker": "ANT",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "Rau qu\u1ea3 th\u1ef1c ph\u1ea9m An Giang"
+    },
+    {
+        "index": 0,
+        "ticker": "ANV",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 217,
+        "industryEn": "Food & Beverage",
+        "shortName": "Th\u1ee7y s\u1ea3n Nam Vi\u1ec7t"
+    },
+    {
+        "index": 0,
+        "ticker": "APF",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "N\u00f4ng s\u1ea3n Qu\u1ea3ng Ng\u00e3i"
+    },
+    {
+        "index": 0,
+        "ticker": "ASM",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 217,
+        "industryEn": "Food & Beverage",
+        "shortName": "T\u1eadp \u0111o\u00e0n Sao Mai"
+    },
+    {
+        "index": 0,
+        "ticker": "ATA",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 217,
+        "industryEn": "Food & Beverage",
+        "shortName": "NTACO"
+    },
+    {
+        "index": 0,
+        "ticker": "AVF",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 217,
+        "industryEn": "Food & Beverage",
+        "shortName": "Th\u1ee7y s\u1ea3n Vi\u1ec7t An"
+    },
+    {
+        "index": 0,
+        "ticker": "BAF",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 217,
+        "industryEn": "Food & Beverage",
+        "shortName": "N\u00f4ng nghi\u1ec7p BAF Vi\u1ec7t Nam"
+    },
+    {
+        "index": 0,
+        "ticker": "BNA",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "\u0110\u1ea7u t\u01b0 SX B\u1ea3o Ng\u1ecdc"
+    },
+    {
+        "index": 0,
+        "ticker": "BBC",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "B\u00e1nh k\u1eb9o BIBICA"
+    },
+    {
+        "index": 0,
+        "ticker": "PRT",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "T\u00e0i nguy\u00ean C\u01a1 b\u1ea3n",
+        "industryID": 156,
+        "industryEn": "Basic Resources",
+        "shortName": "S\u1ea3n xu\u1ea5t - XNK B\u00ecnh D\u01b0\u01a1ng"
+    },
+    {
+        "index": 0,
+        "ticker": "BLT",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "L\u01b0\u01a1ng Th\u1ef1c B\u00ecnh \u0110\u1ecbnh"
+    },
+    {
+        "index": 0,
+        "ticker": "BLF",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 217,
+        "industryEn": "Food & Beverage",
+        "shortName": "Th\u1ee7y s\u1ea3n B\u1ea1c Li\u00eau"
+    },
+    {
+        "index": 0,
+        "ticker": "C22",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "C\u00f4ng ty 22"
+    },
+    {
+        "index": 0,
+        "ticker": "CAD",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 217,
+        "industryEn": "Food & Beverage",
+        "shortName": "Th\u1ee7y s\u1ea3n Cadovimex"
+    },
+    {
+        "index": 0,
+        "ticker": "CAN",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "\u0110\u1ed3 h\u1ed9p H\u1ea1 Long"
+    },
+    {
+        "index": 0,
+        "ticker": "CCA",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 217,
+        "industryEn": "Food & Beverage",
+        "shortName": "XNK Thu\u1ef7 s\u1ea3n C\u1ea7n Th\u01a1"
+    },
+    {
+        "index": 0,
+        "ticker": "CBS",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "M\u00eda \u0111\u01b0\u1eddng Cao B\u1eb1ng"
+    },
+    {
+        "index": 0,
+        "ticker": "CLX",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "XNK v\u00e0 \u0110\u1ea7u t\u01b0 Ch\u1ee3 L\u1edbn (CHOLIMEX)"
+    },
+    {
+        "index": 0,
+        "ticker": "CMF",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "Th\u1ef1c ph\u1ea9m Cholimex"
+    },
+    {
+        "index": 0,
+        "ticker": "CAT",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 217,
+        "industryEn": "Food & Beverage",
+        "shortName": "Th\u1ee7y s\u1ea3n C\u00e0 Mau"
+    },
+    {
+        "index": 0,
+        "ticker": "CMX",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 217,
+        "industryEn": "Food & Beverage",
+        "shortName": "CAMIMEX Group"
+    },
+    {
+        "index": 0,
+        "ticker": "CMN",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "Colusa -  Miliket"
+    },
+    {
+        "index": 0,
+        "ticker": "DBC",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 217,
+        "industryEn": "Food & Beverage",
+        "shortName": "T\u1eadp \u0111o\u00e0n DABACO"
+    },
+    {
+        "index": 0,
+        "ticker": "NSS",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 217,
+        "industryEn": "Food & Beverage",
+        "shortName": "N\u00f4ng s\u00fac s\u1ea3n \u0110\u1ed3ng Nai"
+    },
+    {
+        "index": 0,
+        "ticker": "DMN",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 217,
+        "industryEn": "Food & Beverage",
+        "shortName": "Domenal"
+    },
+    {
+        "index": 0,
+        "ticker": "FMC",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 217,
+        "industryEn": "Food & Beverage",
+        "shortName": "Th\u1ef1c ph\u1ea9m Sao Ta"
+    },
+    {
+        "index": 0,
+        "ticker": "FCS",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "L\u01b0\u01a1ng th\u1ef1c TP H\u1ed3 Ch\u00ed Minh"
+    },
+    {
+        "index": 0,
+        "ticker": "HAG",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 217,
+        "industryEn": "Food & Beverage",
+        "shortName": "Ho\u00e0ng Anh Gia Lai"
+    },
+    {
+        "index": 0,
+        "ticker": "HHC",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "B\u00e1nh k\u1eb9o H\u1ea3i H\u00e0"
+    },
+    {
+        "index": 0,
+        "ticker": "HSL",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "Th\u1ef1c ph\u1ea9m H\u1ed3ng H\u00e0"
+    },
+    {
+        "index": 0,
+        "ticker": "HKB",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "Th\u1ef1c ph\u1ea9m H\u00e0 N\u1ed9i - Kinh B\u1eafc"
+    },
+    {
+        "index": 0,
+        "ticker": "BKH",
+        "exchange": "OTC",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "B\u00e1nh m\u1ee9t k\u1eb9o H\u00e0 N\u1ed9i"
+    },
+    {
+        "index": 0,
+        "ticker": "HAF",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "Th\u1ef1c ph\u1ea9m H\u00e0 N\u1ed9i"
+    },
+    {
+        "index": 0,
+        "ticker": "HNG",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 217,
+        "industryEn": "Food & Beverage",
+        "shortName": "N\u00f4ng nghi\u1ec7p Qu\u1ed1c t\u1ebf HAGL"
+    },
+    {
+        "index": 0,
+        "ticker": "HNM",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "HANOIMILK"
+    },
+    {
+        "index": 0,
+        "ticker": "HNF",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "B\u00e1nh k\u1eb9o H\u1eefu Ngh\u1ecb"
+    },
+    {
+        "index": 0,
+        "ticker": "HVA",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 217,
+        "industryEn": "Food & Beverage",
+        "shortName": "\u0110\u1ea7u t\u01b0 HVA"
+    },
+    {
+        "index": 0,
+        "ticker": "HVG",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 217,
+        "industryEn": "Food & Beverage",
+        "shortName": "Th\u1ee7y s\u1ea3n H\u00f9ng V\u01b0\u01a1ng"
+    },
+    {
+        "index": 0,
+        "ticker": "ICF",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 217,
+        "industryEn": "Food & Beverage",
+        "shortName": "\u0110\u1ea7u t\u01b0 Th\u01b0\u01a1ng m\u1ea1i Th\u1ee7y s\u1ea3n"
+    },
+    {
+        "index": 0,
+        "ticker": "IDI",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 217,
+        "industryEn": "Food & Beverage",
+        "shortName": "\u0110\u1ea7u t\u01b0 v\u00e0 PT \u0110a Qu\u1ed1c Gia"
+    },
+    {
+        "index": 0,
+        "ticker": "IDP",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "S\u1eefa Qu\u1ed1c t\u1ebf"
+    },
+    {
+        "index": 0,
+        "ticker": "ILA",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 217,
+        "industryEn": "Food & Beverage",
+        "shortName": "C\u00f4ng ty ILA"
+    },
+    {
+        "index": 0,
+        "ticker": "KDC",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "T\u1eadp \u0111o\u00e0n KIDO"
+    },
+    {
+        "index": 0,
+        "ticker": "KTC",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "Th\u01b0\u01a1ng m\u1ea1i Ki\u00ean Giang"
+    },
+    {
+        "index": 0,
+        "ticker": "KHS",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 217,
+        "industryEn": "Food & Beverage",
+        "shortName": "Th\u1ee7y s\u1ea3n Ki\u00ean H\u00f9ng"
+    },
+    {
+        "index": 0,
+        "ticker": "KTS",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "\u0110\u01b0\u1eddng Kon Tum"
+    },
+    {
+        "index": 0,
+        "ticker": "LAF",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "Ch\u1ebf bi\u1ebfn H\u00e0ng XK Long An"
+    },
+    {
+        "index": 0,
+        "ticker": "LSS",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "M\u00eda \u0111\u01b0\u1eddng Lam S\u01a1n"
+    },
+    {
+        "index": 0,
+        "ticker": "MCF",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "C\u01a1 kh\u00ed v\u00e0 L\u01b0\u01a1ng th\u1ef1c Th\u1ef1c ph\u1ea9m"
+    },
+    {
+        "index": 0,
+        "ticker": "MCM",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "Gi\u1ed1ng b\u00f2 s\u1eefa M\u1ed9c Ch\u00e2u"
+    },
+    {
+        "index": 0,
+        "ticker": "JOS",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 217,
+        "industryEn": "Food & Beverage",
+        "shortName": "Th\u1ee7y s\u1ea3n Minh H\u1ea3i"
+    },
+    {
+        "index": 0,
+        "ticker": "MLS",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 217,
+        "industryEn": "Food & Beverage",
+        "shortName": "Ch\u0103n nu\u00f4i Mitraco"
+    },
+    {
+        "index": 0,
+        "ticker": "MML",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "Masan MEATLife"
+    },
+    {
+        "index": 0,
+        "ticker": "MPC",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 217,
+        "industryEn": "Food & Beverage",
+        "shortName": "Th\u1ee7y s\u1ea3n Minh Ph\u00fa"
+    },
+    {
+        "index": 0,
+        "ticker": "MCH",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "H\u00e0ng Ti\u00eau D\u00f9ng MaSan"
+    },
+    {
+        "index": 0,
+        "ticker": "NCS",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "Su\u1ea5t \u0103n H\u00e0ng kh\u00f4ng N\u1ed9i B\u00e0i"
+    },
+    {
+        "index": 0,
+        "ticker": "NDF",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "N\u00f4ng s\u1ea3n XK Nam \u0110\u1ecbnh"
+    },
+    {
+        "index": 0,
+        "ticker": "NGC",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 217,
+        "industryEn": "Food & Beverage",
+        "shortName": "Th\u1ee7y s\u1ea3n Ng\u00f4 Quy\u1ec1n"
+    },
+    {
+        "index": 0,
+        "ticker": "NSC",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 217,
+        "industryEn": "Food & Beverage",
+        "shortName": "T\u1eadp \u0111o\u00e0n Gi\u1ed1ng c\u00e2y tr\u1ed3ng Vi\u1ec7t Nam"
+    },
+    {
+        "index": 0,
+        "ticker": "OCH",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "Kh\u00e1ch s\u1ea1n v\u00e0 D\u1ecbch v\u1ee5 OCH"
+    },
+    {
+        "index": 0,
+        "ticker": "PAN",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "T\u1eadp \u0111o\u00e0n PAN"
+    },
+    {
+        "index": 0,
+        "ticker": "PRO",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "Procimex Vi\u1ec7t Nam"
+    },
+    {
+        "index": 0,
+        "ticker": "PSL",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 217,
+        "industryEn": "Food & Beverage",
+        "shortName": "Ch\u0103n nu\u00f4i Ph\u00fa S\u01a1n"
+    },
+    {
+        "index": 0,
+        "ticker": "DAT",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 217,
+        "industryEn": "Food & Beverage",
+        "shortName": "\u0110T Du l\u1ecbch v\u00e0 PT Th\u1ee7y s\u1ea3n"
+    },
+    {
+        "index": 0,
+        "ticker": "CQN",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "H\u00e0ng & D\u1ecbch v\u1ee5 C\u00f4ng nghi\u1ec7p",
+        "industryID": 193,
+        "industryEn": "Industrial Goods & Services",
+        "shortName": "C\u1ea3ng Qu\u1ea3ng Ninh"
+    },
+    {
+        "index": 0,
+        "ticker": "QNS",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "\u0110\u01b0\u1eddng Qu\u1ea3ng Ng\u00e3i"
+    },
+    {
+        "index": 0,
+        "ticker": "SAF",
+        "exchange": "HNX",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "Th\u1ef1c Ph\u1ea9m SAFOCO"
+    },
+    {
+        "index": 0,
+        "ticker": "APT",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 217,
+        "industryEn": "Food & Beverage",
+        "shortName": "Th\u1ee7y h\u1ea3i s\u1ea3n S\u00e0i G\u00f2n"
+    },
+    {
+        "index": 0,
+        "ticker": "SBT",
+        "exchange": "HOSE",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 218,
+        "industryEn": "Food & Beverage",
+        "shortName": "M\u00eda \u0111\u01b0\u1eddng Th\u00e0nh Th\u00e0nh C\u00f4ng - Bi\u00ean H\u00f2a"
+    },
+    {
+        "index": 0,
+        "ticker": "SEA",
+        "exchange": "UPCOM",
+        "companyType": "CT",
+        "industry": "Th\u1ef1c ph\u1ea9m v\u00e0 \u0111\u1ed3 u\u1ed1ng",
+        "industryID": 217,
+        "industryEn": "Food & Beverage",
+        "shortName": "SEAPRODEX"
+    }
+]
