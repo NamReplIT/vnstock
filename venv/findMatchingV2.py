@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 from keras.models import Sequential, load_model
-from keras.layers import LSTM, Dense
+from keras.layers import LSTM, Dense,Dropout,Bidirectional,BatchNormalization
 from keras.callbacks import ModelCheckpoint
 from sklearn.model_selection import train_test_split
 import os,json
@@ -33,10 +33,23 @@ def create_sequences(data, sequence_length=5):
     return np.array(sequences), np.array(targets)
 
 # Define the LSTM model
+# def build_model(input_shape):
+#     model = Sequential([
+#         LSTM(50, activation='relu', input_shape=input_shape),
+#         Dense(len(input_shape))  # Adjust based on the number of elements in y values
+#     ])
+#     model.compile(optimizer='adam', loss='mse')
+#     return model
+
 def build_model(input_shape):
     model = Sequential([
-        LSTM(50, activation='relu', input_shape=input_shape),
-        Dense(len(input_shape))  # Adjust based on the number of elements in y values
+        Bidirectional(LSTM(200, return_sequences=True, kernel_regularizer='l2'), input_shape=input_shape),
+        Dropout(0.4),
+        BatchNormalization(),
+        LSTM(200, return_sequences=False, kernel_regularizer='l2'),
+        Dropout(0.4),
+        BatchNormalization(),
+        Dense(6, activation='LeakyReLU')
     ])
     model.compile(optimizer='adam', loss='mse')
     return model
@@ -89,7 +102,7 @@ def main():
         # Build and train the model
         model = build_model(X_train.shape[1:])
         checkpoint = ModelCheckpoint('model.h5', save_best_only=True)
-        model.fit(X_train, y_train, epochs=20, validation_data=(X_test, y_test), callbacks=[checkpoint])
+        model.fit(X_train, y_train, epochs=500, validation_data=(X_test, y_test), callbacks=[checkpoint])
 
         # Save the final model
         model.save(model_file)
@@ -98,11 +111,11 @@ def main():
     # Example input y value for prediction
     input_y = convertIndex({
         "num_01": "01",
-        "num_02": "13",
-        "num_03": "16",
-        "num_04": "18",
-        "num_05": "23",
-        "num_06": "25"
+        "num_02": "04",
+        "num_03": "10",
+        "num_04": "13",
+        "num_05": "14",
+        "num_06": "44"
     })
     processed_input_y = preprocess_input_y(input_y,5)
     predicted_y = model.predict(processed_input_y)
