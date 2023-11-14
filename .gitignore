@@ -29,3 +29,5 @@ dist/vnstock-0.1.9.5-py3-none-any.whl
 dist/vnstock-0.1.9.5.tar.gz
 visualize_downloads.ipynb
 vnstock_download_pypi_stats.csv
+venv/lib*
+venv/bin*
