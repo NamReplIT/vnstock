@@ -1,0 +1,116 @@
+import pandas as pd
+import numpy as np
+from keras.models import Sequential, load_model
+from keras.layers import LSTM, Dense
+from keras.callbacks import ModelCheckpoint
+from sklearn.model_selection import train_test_split
+import os,json
+from convertIndex import convertIndex
+# Load and preprocess data
+def load_data(filepath):
+    data = pd.read_json(filepath)
+    return data
+
+def load_json(filepath):
+    with open(filepath, 'r') as file:
+        data = json.load(file)
+    return data
+
+def preprocess_y_values(y_values):
+    processed = []
+    for y in y_values:
+        components = [int(part.split('-')[1]) for part in y.split('::')]
+        processed.append(components)
+    return processed
+
+# Feature engineering
+def create_sequences(data, sequence_length=5):
+    sequences = []
+    targets = []
+    for i in range(len(data) - sequence_length):
+        sequences.append(data[i:i+sequence_length])
+        targets.append(data[i+sequence_length])
+    return np.array(sequences), np.array(targets)
+
+# Define the LSTM model
+def build_model(input_shape):
+    model = Sequential([
+        LSTM(50, activation='relu', input_shape=input_shape),
+        Dense(len(input_shape))  # Adjust based on the number of elements in y values
+    ])
+    model.compile(optimizer='adam', loss='mse')
+    return model
+
+# Preprocess input for prediction
+def preprocess_input_y(y_value, sequence_length=5):
+    components = [int(part.split('-')[1]) for part in y_value.split('::')]
+    # Create a dummy sequence
+    sequence = [components for _ in range(sequence_length)]
+    return np.array([sequence])  # Shape: (1, sequence_length, len(components))
+
+# Postprocess model predictions
+def postprocess_prediction(predicted_y):
+    return np.round(predicted_y).astype(int)
+
+def get_values_from_indices(indices):
+    json_data = load_json('./mostRepeated.json')
+    result = []
+    for i, index in enumerate(indices[0]):  # Assuming prediction_indices is nested
+        # Correct for zero-based indexing
+        index = index - 1
+        num_key = 'num_{:02d}'.format(i + 1)
+        if num_key in json_data and 0 <= index < len(json_data[num_key]):
+            result.append(json_data[num_key][index])
+        else:
+            result.append(None)  # Append None if the key doesn't exist or index is out of range
+    return result
+
+
+
+# Main function
+def main():
+    model_file = 'final_model.h5'
+    filepath = './pair.json'  # Update with your file path
+    data = load_data(filepath)
+    processed_y = preprocess_y_values(data['y'])
+    
+    # Check if model exists
+    if os.path.exists(model_file):
+        # Load existing model
+        model = load_model(model_file)
+    else:
+        # Create sequences and targets for training
+        sequence_length = 5  # This can be adjusted
+        X, y = create_sequences(processed_y, sequence_length)
+        
+        # Split data into training and testing sets
+        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+        # Build and train the model
+        model = build_model(X_train.shape[1:])
+        checkpoint = ModelCheckpoint('model.h5', save_best_only=True)
+        model.fit(X_train, y_train, epochs=20, validation_data=(X_test, y_test), callbacks=[checkpoint])
+
+        # Save the final model
+        model.save(model_file)
+
+    # Use model for prediction
+    # Example input y value for prediction
+    input_y = convertIndex({
+        "num_01": "01",
+        "num_02": "13",
+        "num_03": "16",
+        "num_04": "18",
+        "num_05": "23",
+        "num_06": "25"
+    })
+    processed_input_y = preprocess_input_y(input_y,5)
+    predicted_y = model.predict(processed_input_y)
+    postprocessed_prediction = postprocess_prediction(predicted_y)
+
+    print("Predicted next y value:", postprocessed_prediction)
+
+    print("value ", get_values_from_indices(postprocessed_prediction))
+
+if __name__ == "__main__":
+    main()

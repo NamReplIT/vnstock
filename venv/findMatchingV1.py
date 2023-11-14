@@ -1,8 +1,8 @@
 import pandas as pd
 import numpy as np
 from sklearn.cluster import KMeans
-
-y='1-0::2-8::3-4::4-12::5-20::6-18'
+from convertIndex import convertIndex
+y="1-1::2-18::3-22::4-13::5-0::6-5"
 
 # Function to calculate similarity between two 'y' values
 def calculate_similarity(y1, y2, weights=None):
@@ -58,7 +58,8 @@ def main():
     provided_y_value = y
     
     # Calculating similarity with a weighted approach
-    weights = [5, 4, 3, 2, 1, 1]  # Weights can be adjusted
+    
+    weights = [2, 1.4, 1.2, 1.1, 1, 1]  # Weights can be adjusted
     pair_df['weighted_similarity'] = pair_df['y'].apply(lambda y: calculate_similarity(provided_y_value, y, weights))
 
     # Finding the most similar date
