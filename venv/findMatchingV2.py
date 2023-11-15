@@ -30,7 +30,7 @@ def preprocess_y_values(y_values):
     return processed
 
 # Feature engineering
-def create_sequences(data, sequence_length=5):
+def create_sequences(data, sequence_length=3):
     sequences = []
     targets = []
     for i in range(len(data) - sequence_length):
@@ -40,14 +40,10 @@ def create_sequences(data, sequence_length=5):
 
 def build_model(input_shape):
     model = Sequential([
-        LSTM(120, activation='tanh', input_shape=input_shape, return_sequences=True,
-             kernel_regularizer=l1_l2(l1=0.01, l2=0.01)),
-        Dropout(0.6),
-        LSTM(120, activation='tanh', kernel_regularizer=l1_l2(l1=0.01, l2=0.01)),
-        Dropout(0.6),
+        LSTM(6, activation='tanh', input_shape=input_shape),
         Dense(6, activation='relu')
     ])
-    model.compile(optimizer=Adam(learning_rate=0.002*2), loss='categorical_crossentropy', 
+    model.compile(optimizer=Adam(learning_rate=0.001), loss='categorical_crossentropy', 
                   metrics=['accuracy', Precision(), Recall()])
 
     # Early stopping callback
@@ -93,7 +89,7 @@ def main():
         csv_logger = CSVLogger('training_log.csv', append=True, separator=';')
 
         # Create sequences and targets for training
-        sequence_length = 2  # This can be adjusted
+        sequence_length = 3  # This can be adjusted
         X, y = create_sequences(processed_y, sequence_length)
 
         # Split data into training and testing sets
@@ -149,7 +145,7 @@ def main():
         "num_05": "23",
         "num_06": "28"
     })
-    processed_input_y = preprocess_input_y(input_y,2)
+    processed_input_y = preprocess_input_y(input_y,3)
     predicted_y = model.predict(processed_input_y)
     postprocessed_prediction = postprocess_prediction(predicted_y)
 
