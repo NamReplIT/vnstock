@@ -42,7 +42,7 @@ def build_model(input_shape):
 
     model = Sequential([
         LSTM(120, activation='tanh', input_shape=input_shape,
-             kernel_regularizer=l1_l2(l1=0.01/5, l2=0.01/5)),
+             kernel_regularizer=l1_l2(l1=0.01/6, l2=0.01/6)),
         Dropout(0.8),
         
         Dense(6, activation='relu')
