@@ -1,10 +1,10 @@
 import pandas as pd
 import numpy as np
 from keras.models import Sequential, load_model
-from keras.layers import LSTM, Dense,Dropout,Bidirectional,BatchNormalization,ReLU
+from keras.layers import LSTM, Dense,Dropout,Flatten,Bidirectional,BatchNormalization,ReLU,Conv1D,MaxPooling1D
 from keras.callbacks import ModelCheckpoint,EarlyStopping
 from keras.metrics import Precision, Recall
-from keras.regularizers import L1L2,l1_l2
+from keras.regularizers import L1L2,l1_l2,l2
 from keras.optimizers import Adam
 from sklearn.model_selection import train_test_split
 import os,json
@@ -39,19 +39,25 @@ def create_sequences(data, sequence_length=3):
     return np.array(sequences), np.array(targets)
 
 def build_model(input_shape):
+
     model = Sequential([
-        LSTM(6, activation='tanh', input_shape=input_shape),
+        LSTM(120, activation='tanh', input_shape=input_shape,
+             kernel_regularizer=l1_l2(l1=0.01/5, l2=0.01/5)),
+        Dropout(0.8),
+        
         Dense(6, activation='relu')
     ])
-    model.compile(optimizer=Adam(learning_rate=0.001), loss='categorical_crossentropy', 
-                  metrics=['accuracy', Precision(), Recall()])
 
-    # Early stopping callback
+    # Compile the model using Adam optimizer and categorical cross-entropy loss
+    model.compile(optimizer=Adam(learning_rate=0.002), loss='categorical_crossentropy', 
+                  metrics=['accuracy', Precision(), Recall()])
+ 
     early_stopping = EarlyStopping(monitor='val_loss', patience=10, restore_best_weights=True)
 
     return model, early_stopping
+
 # Preprocess input for prediction
-def preprocess_input_y(y_value, sequence_length=5):
+def preprocess_input_y(y_value, sequence_length):
     components = [int(part.split('-')[1]) for part in y_value.split('::')]
     # Create a dummy sequence
     sequence = [components for _ in range(sequence_length)]
@@ -89,16 +95,16 @@ def main():
         csv_logger = CSVLogger('training_log.csv', append=True, separator=';')
 
         # Create sequences and targets for training
-        sequence_length = 3  # This can be adjusted
+        sequence_length = 1  # This can be adjusted
         X, y = create_sequences(processed_y, sequence_length)
 
         # Split data into training and testing sets
-        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.4, random_state=42)
 
         # Build and train the model
         model,early_stopping = build_model(X_train.shape[1:])
         checkpoint = ModelCheckpoint('model.h5', save_best_only=True)
-        model.fit(X_train, y_train, epochs=200,batch_size=3, validation_data=(X_test, y_test), callbacks=[checkpoint,early_stopping,csv_logger])
+        model.fit(X_train, y_train, epochs=100,batch_size=1, validation_data=(X_test, y_test), callbacks=[checkpoint,early_stopping,csv_logger])
 
         # Save the final model
         #model.save(model_file)
@@ -137,15 +143,47 @@ def main():
     #     "num_05": "22",
     #     "num_06": "38"
     # })
+    # input_y = convertIndex({
+    #     "num_01": "01",
+    #     "num_02": "03",
+    #     "num_03": "15",
+    #     "num_04": "16",
+    #     "num_05": "23",
+    #     "num_06": "28"
+    # })
+    # input_y = convertIndex({
+    #     "num_01": "05",
+    #     "num_02": "07",
+    #     "num_03": "15",
+    #     "num_04": "21",
+    #     "num_05": "32",
+    #     "num_06": "45"
+    # })
     input_y = convertIndex({
-        "num_01": "01",
-        "num_02": "03",
-        "num_03": "15",
-        "num_04": "16",
-        "num_05": "23",
-        "num_06": "28"
+        "num_01": "07",
+        "num_02": "10",
+        "num_03": "14",
+        "num_04": "21",
+        "num_05": "26",
+        "num_06": "37"
     })
-    processed_input_y = preprocess_input_y(input_y,3)
+    # input_y = convertIndex({
+    #     "num_01": "04",
+    #     "num_02": "06",
+    #     "num_03": "13",
+    #     "num_04": "25",
+    #     "num_05": "31",
+    #     "num_06": "41"
+    # })
+    # input_y = convertIndex({
+    #     "num_01": "10",
+    #     "num_02": "13",
+    #     "num_03": "14",
+    #     "num_04": "19",
+    #     "num_05": "35",
+    #     "num_06": "40"
+    # })
+    processed_input_y = preprocess_input_y(input_y,1)
     predicted_y = model.predict(processed_input_y)
     postprocessed_prediction = postprocess_prediction(predicted_y)
 
