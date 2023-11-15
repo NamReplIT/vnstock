@@ -41,7 +41,7 @@ def create_sequences(data, sequence_length=3):
 def build_model(input_shape):
 
     model = Sequential([
-        LSTM(120, activation='tanh', input_shape=input_shape,
+        LSTM(1440, activation='tanh', input_shape=input_shape,
              kernel_regularizer=l1_l2(l1=0.01/5, l2=0.01/5)),
         Dropout(0.8),
         
@@ -52,7 +52,7 @@ def build_model(input_shape):
     model.compile(optimizer=Adam(learning_rate=0.002), loss='categorical_crossentropy', 
                   metrics=['accuracy', Precision(), Recall()])
  
-    early_stopping = EarlyStopping(monitor='val_loss', patience=10, restore_best_weights=True)
+    early_stopping = EarlyStopping(monitor='val_loss', patience=20, restore_best_weights=True)
 
     return model, early_stopping
 
@@ -127,14 +127,14 @@ def main():
     #     "num_05": "31",
     #     "num_06": "33"
     # })
-    # input_y = convertIndex({
-    #     "num_01": "01",
-    #     "num_02": "13",
-    #     "num_03": "16",
-    #     "num_04": "18",
-    #     "num_05": "23",
-    #     "num_06": "25"
-    # })
+    input_y = convertIndex({
+        "num_01": "01",
+        "num_02": "13",
+        "num_03": "16",
+        "num_04": "18",
+        "num_05": "23",
+        "num_06": "25"
+    })
     # input_y = convertIndex({
     #     "num_01": "02",
     #     "num_02": "07",
@@ -159,14 +159,14 @@ def main():
     #     "num_05": "32",
     #     "num_06": "45"
     # })
-    input_y = convertIndex({
-        "num_01": "07",
-        "num_02": "10",
-        "num_03": "14",
-        "num_04": "21",
-        "num_05": "26",
-        "num_06": "37"
-    })
+    # input_y = convertIndex({
+    #     "num_01": "07",
+    #     "num_02": "10",
+    #     "num_03": "14",
+    #     "num_04": "21",
+    #     "num_05": "26",
+    #     "num_06": "37"
+    # })
     # input_y = convertIndex({
     #     "num_01": "04",
     #     "num_02": "06",
