@@ -1,11 +1,17 @@
 import pandas as pd
 import numpy as np
 from keras.models import Sequential, load_model
-from keras.layers import LSTM, Dense,Dropout,Bidirectional,BatchNormalization
-from keras.callbacks import ModelCheckpoint
+from keras.layers import LSTM, Dense,Dropout,Bidirectional,BatchNormalization,ReLU
+from keras.callbacks import ModelCheckpoint,EarlyStopping
+from keras.metrics import Precision, Recall
+from keras.regularizers import L1L2,l1_l2
+from keras.optimizers import Adam
 from sklearn.model_selection import train_test_split
 import os,json
 from convertIndex import convertIndex
+from keras.callbacks import CSVLogger
+
+
 # Load and preprocess data
 def load_data(filepath):
     data = pd.read_json(filepath)
@@ -32,28 +38,22 @@ def create_sequences(data, sequence_length=5):
         targets.append(data[i+sequence_length])
     return np.array(sequences), np.array(targets)
 
-# Define the LSTM model
-# def build_model(input_shape):
-#     model = Sequential([
-#         LSTM(50, activation='relu', input_shape=input_shape),
-#         Dense(len(input_shape))  # Adjust based on the number of elements in y values
-#     ])
-#     model.compile(optimizer='adam', loss='mse')
-#     return model
-
 def build_model(input_shape):
     model = Sequential([
-        Bidirectional(LSTM(200, return_sequences=True, kernel_regularizer='l2'), input_shape=input_shape),
-        Dropout(0.4),
-        BatchNormalization(),
-        LSTM(200, return_sequences=False, kernel_regularizer='l2'),
-        Dropout(0.4),
-        BatchNormalization(),
-        Dense(6, activation='LeakyReLU')
+        LSTM(120, activation='tanh', input_shape=input_shape, return_sequences=True,
+             kernel_regularizer=l1_l2(l1=0.01, l2=0.01)),
+        Dropout(0.6),
+        LSTM(120, activation='tanh', kernel_regularizer=l1_l2(l1=0.01, l2=0.01)),
+        Dropout(0.6),
+        Dense(6, activation='relu')
     ])
-    model.compile(optimizer='adam', loss='mse')
-    return model
+    model.compile(optimizer=Adam(learning_rate=0.002*2), loss='categorical_crossentropy', 
+                  metrics=['accuracy', Precision(), Recall()])
 
+    # Early stopping callback
+    early_stopping = EarlyStopping(monitor='val_loss', patience=10, restore_best_weights=True)
+
+    return model, early_stopping
 # Preprocess input for prediction
 def preprocess_input_y(y_value, sequence_length=5):
     components = [int(part.split('-')[1]) for part in y_value.split('::')]
@@ -70,15 +70,13 @@ def get_values_from_indices(indices):
     result = []
     for i, index in enumerate(indices[0]):  # Assuming prediction_indices is nested
         # Correct for zero-based indexing
-        index = index - 1
         num_key = 'num_{:02d}'.format(i + 1)
         if num_key in json_data and 0 <= index < len(json_data[num_key]):
             result.append(json_data[num_key][index])
         else:
+            print(num_key,index)
             result.append(None)  # Append None if the key doesn't exist or index is out of range
     return result
-
-
 
 # Main function
 def main():
@@ -92,32 +90,66 @@ def main():
         # Load existing model
         model = load_model(model_file)
     else:
+        csv_logger = CSVLogger('training_log.csv', append=True, separator=';')
+
         # Create sequences and targets for training
-        sequence_length = 5  # This can be adjusted
+        sequence_length = 2  # This can be adjusted
         X, y = create_sequences(processed_y, sequence_length)
-        
+
         # Split data into training and testing sets
         X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
         # Build and train the model
-        model = build_model(X_train.shape[1:])
+        model,early_stopping = build_model(X_train.shape[1:])
         checkpoint = ModelCheckpoint('model.h5', save_best_only=True)
-        model.fit(X_train, y_train, epochs=500, validation_data=(X_test, y_test), callbacks=[checkpoint])
+        model.fit(X_train, y_train, epochs=200,batch_size=3, validation_data=(X_test, y_test), callbacks=[checkpoint,early_stopping,csv_logger])
 
         # Save the final model
-        model.save(model_file)
+        #model.save(model_file)
 
     # Use model for prediction
     # Example input y value for prediction
+    # input_y = convertIndex({
+    #     "num_01": "01",
+    #     "num_02": "04",
+    #     "num_03": "10",
+    #     "num_04": "13",
+    #     "num_05": "14",
+    #     "num_06": "44"
+    # })
+    # input_y = convertIndex({
+    #     "num_01": "07",
+    #     "num_02": "20",
+    #     "num_03": "23",
+    #     "num_04": "27",
+    #     "num_05": "31",
+    #     "num_06": "33"
+    # })
+    # input_y = convertIndex({
+    #     "num_01": "01",
+    #     "num_02": "13",
+    #     "num_03": "16",
+    #     "num_04": "18",
+    #     "num_05": "23",
+    #     "num_06": "25"
+    # })
+    # input_y = convertIndex({
+    #     "num_01": "02",
+    #     "num_02": "07",
+    #     "num_03": "09",
+    #     "num_04": "13",
+    #     "num_05": "22",
+    #     "num_06": "38"
+    # })
     input_y = convertIndex({
         "num_01": "01",
-        "num_02": "04",
-        "num_03": "10",
-        "num_04": "13",
-        "num_05": "14",
-        "num_06": "44"
+        "num_02": "03",
+        "num_03": "15",
+        "num_04": "16",
+        "num_05": "23",
+        "num_06": "28"
     })
-    processed_input_y = preprocess_input_y(input_y,5)
+    processed_input_y = preprocess_input_y(input_y,2)
     predicted_y = model.predict(processed_input_y)
     postprocessed_prediction = postprocess_prediction(predicted_y)
 
