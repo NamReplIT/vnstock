@@ -11,7 +11,6 @@ import os,json
 from convertIndex import convertIndex
 from keras.callbacks import CSVLogger
 
-json_path = './mostRepeated.json'
 
 # Load and preprocess data
 def load_data(filepath):
@@ -34,41 +33,18 @@ def preprocess_y_values(y_values):
         processed.append(components)
     return processed
 
-def convertIndex(items):
-    # Read the JSON data from the file
-    with open(json_path, 'r') as file:
-        json_dataset = json.load(file)
-
-    # items = [{
-    #     "num_01": "01",
-    #     "num_02": "13",
-    #     "num_03": "16",
-    #     "num_04": "18",
-    #     "num_05": "23",
-    #     "num_06": "25",
-    # }]
-
-    list_result = []
-
-    for item in items:
-
-        results = []
-        for key in item:
-            try:
-                index = json_dataset[key].index(item[key])
-            except ValueError:
-                index = 'N/A'
-            results.append(f"{key.split('_')[1]}-{index}")
-
-        list_result.append('::'.join(results))
-
-    return list_result
-
-def preprocess_input(y_values):
-    return np.array(preprocess_y_values(y_values))
-
 def get_specific_columns(data, start_index, end_index):
-
+    """
+    Extracts columns 2 to 4 (indices 1 to 3) from rows in the data starting at 'start_index' and ending at 'end_index' (inclusive).
+    
+    :param data: The input data, a list of lists.
+    :param start_index: The starting index of the rows to extract.
+    :param end_index: The ending index of the rows to extract.
+    :return: A list of lists containing the specified columns from the specified rows.
+    """
+    # Ensure that start and end indices are within the bounds of the data
+    if start_index < 0 or end_index >= len(data):
+        raise ValueError("Start or end index is out of range.")
     if start_index > end_index:
         raise ValueError("Start index cannot be greater than end index.")
 
@@ -82,6 +58,17 @@ def create_sequences(data, sequence_length=3):
         sequences.append(data[i:i+sequence_length])
         targets.append(data[i+sequence_length])
     return np.array(sequences), np.array(targets)
+
+# Preprocess input for prediction
+def preprocess_input_y(y_values):
+
+    list_result = []
+
+    for y_value in y_values:
+        components = [int(part.split('-')[1]) for part in y_value.split('::')]
+        list_result.append(components)
+    
+    return np.array([list_result])
 
 
 # Postprocess model predictions
@@ -101,17 +88,18 @@ def get_values_from_indices(indices):
             result.append(None)  # Append None if the key doesn't exist or index is out of range
     return result
 
-def build_model(input_shape, numOfFeature=3):
+def build_model(input_shape):
 
     model = Sequential([
-        LSTM(150, activation='tanh', input_shape=input_shape,
-             kernel_regularizer=l1_l2(l1=0.4, l2=0.4)),
-        Dropout(0.2),
-        Dense(numOfFeature, activation='relu')
+        LSTM(720, activation='tanh', input_shape=input_shape,
+             kernel_regularizer=l1_l2(l1=0.01/5, l2=0.01/5)),
+        Dropout(0.8),
+        
+        Dense(6, activation='relu')
     ])
 
     # Compile the model using Adam optimizer and categorical cross-entropy loss
-    model.compile(optimizer=Adam(learning_rate=0.001/2), loss='categorical_crossentropy', 
+    model.compile(optimizer=Adam(learning_rate=0.002), loss='categorical_crossentropy', 
                   metrics=['accuracy', Precision(), Recall()])
  
     early_stopping = EarlyStopping(monitor='val_loss', patience=20, restore_best_weights=True)
@@ -120,39 +108,6 @@ def build_model(input_shape, numOfFeature=3):
 
 # Main function
 def main():
-    model_file = 'final_model.h5'
-    filepath = './pair.json'  # Update with your file path
-    data = load_data(filepath)
-
-    sequence_length = 6
-
-    processed_y = preprocess_y_values(data['y'])
-
-    processed_y = get_specific_columns(processed_y, 0, 2)
-    
-    # X, y = create_sequences(processed_y, sequence_length)
-
-    # X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.4, random_state=42)
-
-    # Check if model exists
-    if os.path.exists(model_file):
-        # Load existing model
-        model = load_model(model_file)
-    else:
-        csv_logger = CSVLogger('training_log.csv', append=True, separator=';')
-
-        X, y = create_sequences(processed_y, sequence_length)
-
-        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.4, random_state=42)
-
-        model,early_stopping = build_model(X_train.shape[1:], numOfFeature=3)
-
-        checkpoint = ModelCheckpoint('model.h5', save_best_only=True)
-
-        model.fit(X_train, y_train, epochs=100,batch_size=1, validation_data=(X_test, y_test), callbacks=[checkpoint,early_stopping,csv_logger])
-
-        # Save the final model
-        #model.save(model_file)
 
     # Use model for prediction
     # Example input y value for prediction
@@ -230,72 +185,34 @@ def main():
     # })
     input_y = convertIndex([
         {
-            "num_01": "05",
-            "num_02": "07",
-            "num_03": "15",
-            "num_04": "21",
-            "num_05": "32",
-            "num_06": "45"
-        },
-        {
-            "num_01": "01",
-            "num_02": "03",
-            "num_03": "15",
-            "num_04": "16",
-            "num_05": "23",
-            "num_06": "28"
-        },
-
-        {
-            "num_01": "02",
-            "num_02": "07",
-            "num_03": "09",
-            "num_04": "13",
-            "num_05": "22",
-            "num_06": "38"
-        },
-        {
-            "num_01": "01",
+            "num_01": "10",
             "num_02": "13",
-            "num_03": "16",
-            "num_04": "18",
-            "num_05": "23",
-            "num_06": "25"
+            "num_03": "14",
+            "num_04": "19",
+            "num_05": "35",
+            "num_06": "40"
+        },
+        {
+            "num_01": "04",
+            "num_02": "06",
+            "num_03": "13",
+            "num_04": "25",
+            "num_05": "31",
+            "num_06": "41"
         },
         {
             "num_01": "07",
-            "num_02": "20",
-            "num_03": "23",
-            "num_04": "27",
-            "num_05": "31",
-            "num_06": "33"
-        },
-        {
-            "num_01": "01",
-            "num_02": "04",
-            "num_03": "10",
-            "num_04": "13",
-            "num_05": "14",
-            "num_06": "44"
+            "num_02": "10",
+            "num_03": "14",
+            "num_04": "21",
+            "num_05": "26",
+            "num_06": "37"
         }
     ])
-    processed_input_y = preprocess_y_values(input_y)
-
-    processed_input_y = get_specific_columns(processed_input_y, 0, 2)
-
-    processed_input_y = np.array(processed_input_y)
-
-    processed_input_y = processed_input_y.reshape((-1, 6, 3))
-
+    print("input_y:", input_y)
+    processed_input_y = preprocess_input_y(input_y)
+   
     print("processed_input_y:", processed_input_y)
-
-    predicted_y = model.predict(processed_input_y)
-
-    postprocessed_prediction = postprocess_prediction(predicted_y)
-
-    print("Predicted next y value:", postprocessed_prediction)
-
-    print("value ", get_values_from_indices(postprocessed_prediction))
 
 if __name__ == "__main__":
     main()
