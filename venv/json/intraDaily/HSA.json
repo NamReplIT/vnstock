@@ -1,0 +1,83 @@
+[
+    {
+        "time": "2023-07-14",
+        "open": 31100,
+        "high": 31100,
+        "low": 31100,
+        "close": 31100,
+        "volume": 100,
+        "ticker": "HSA"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 31100,
+        "high": 31100,
+        "low": 31100,
+        "close": 31100,
+        "volume": 100,
+        "ticker": "HSA"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 30000,
+        "high": 30000,
+        "low": 30000,
+        "close": 30000,
+        "volume": 390800,
+        "ticker": "HSA"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 30000,
+        "high": 33500,
+        "low": 30000,
+        "close": 33500,
+        "volume": 537800,
+        "ticker": "HSA"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 30700,
+        "high": 30700,
+        "low": 30300,
+        "close": 30300,
+        "volume": 1124500,
+        "ticker": "HSA"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 30300,
+        "high": 30300,
+        "low": 29300,
+        "close": 29300,
+        "volume": 722600,
+        "ticker": "HSA"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 30300,
+        "high": 30300,
+        "low": 29300,
+        "close": 30300,
+        "volume": 369700,
+        "ticker": "HSA"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 31100,
+        "high": 31100,
+        "low": 30300,
+        "close": 30300,
+        "volume": 306000,
+        "ticker": "HSA"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 33800,
+        "high": 33800,
+        "low": 30300,
+        "close": 33800,
+        "volume": 100400,
+        "ticker": "HSA"
+    }
+]

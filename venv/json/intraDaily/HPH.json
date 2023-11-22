@@ -1,0 +1,74 @@
+[
+    {
+        "time": "2023-05-29",
+        "open": 15100,
+        "high": 15100,
+        "low": 15100,
+        "close": 15100,
+        "volume": 700,
+        "ticker": "HPH"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 12890,
+        "high": 12890,
+        "low": 12890,
+        "close": 12890,
+        "volume": 100,
+        "ticker": "HPH"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 14720,
+        "high": 14720,
+        "low": 14720,
+        "close": 14720,
+        "volume": 200,
+        "ticker": "HPH"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 15390,
+        "high": 15390,
+        "low": 15390,
+        "close": 15390,
+        "volume": 100,
+        "ticker": "HPH"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 15390,
+        "high": 15390,
+        "low": 15390,
+        "close": 15390,
+        "volume": 200,
+        "ticker": "HPH"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 15390,
+        "high": 15390,
+        "low": 15200,
+        "close": 15200,
+        "volume": 6400,
+        "ticker": "HPH"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 15200,
+        "high": 15200,
+        "low": 15200,
+        "close": 15200,
+        "volume": 1300,
+        "ticker": "HPH"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 15500,
+        "high": 15500,
+        "low": 15500,
+        "close": 15500,
+        "volume": 200,
+        "ticker": "HPH"
+    }
+]

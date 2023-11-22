@@ -1,0 +1,380 @@
+[
+    {
+        "time": "2023-05-09",
+        "open": 179420,
+        "high": 179420,
+        "low": 179420,
+        "close": 179420,
+        "volume": 300,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 206280,
+        "high": 206280,
+        "low": 206280,
+        "close": 206280,
+        "volume": 100,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 225500,
+        "high": 225500,
+        "low": 225500,
+        "close": 225500,
+        "volume": 2000,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 259000,
+        "high": 259000,
+        "low": 259000,
+        "close": 259000,
+        "volume": 200,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 265000,
+        "high": 265000,
+        "low": 265000,
+        "close": 265000,
+        "volume": 100,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 269000,
+        "high": 269000,
+        "low": 269000,
+        "close": 269000,
+        "volume": 100,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 300000,
+        "high": 300000,
+        "low": 300000,
+        "close": 300000,
+        "volume": 100,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 320000,
+        "high": 320000,
+        "low": 260000,
+        "close": 319900,
+        "volume": 300,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 260000,
+        "high": 260000,
+        "low": 260000,
+        "close": 260000,
+        "volume": 100,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 224000,
+        "high": 224000,
+        "low": 224000,
+        "close": 224000,
+        "volume": 100,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 191000,
+        "high": 191000,
+        "low": 191000,
+        "close": 191000,
+        "volume": 100,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 163000,
+        "high": 163000,
+        "low": 163000,
+        "close": 163000,
+        "volume": 100,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 187400,
+        "high": 187400,
+        "low": 187400,
+        "close": 187400,
+        "volume": 100,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 215500,
+        "high": 215500,
+        "low": 215500,
+        "close": 215500,
+        "volume": 100,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 184000,
+        "high": 184000,
+        "low": 184000,
+        "close": 184000,
+        "volume": 100,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 211000,
+        "high": 211000,
+        "low": 211000,
+        "close": 211000,
+        "volume": 100,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 242600,
+        "high": 242600,
+        "low": 242600,
+        "close": 242600,
+        "volume": 300,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 208000,
+        "high": 208000,
+        "low": 208000,
+        "close": 208000,
+        "volume": 100,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 180000,
+        "high": 239000,
+        "low": 180000,
+        "close": 239000,
+        "volume": 200,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 190100,
+        "high": 240900,
+        "low": 190100,
+        "close": 240900,
+        "volume": 200,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 247800,
+        "high": 247800,
+        "low": 247800,
+        "close": 247800,
+        "volume": 300,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 284000,
+        "high": 284000,
+        "low": 284000,
+        "close": 284000,
+        "volume": 100,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 241400,
+        "high": 241400,
+        "low": 241400,
+        "close": 241400,
+        "volume": 500,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 241400,
+        "high": 241400,
+        "low": 241400,
+        "close": 241400,
+        "volume": 100,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 222200,
+        "high": 222200,
+        "low": 222200,
+        "close": 222200,
+        "volume": 100,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 222200,
+        "high": 222200,
+        "low": 222200,
+        "close": 222200,
+        "volume": 100,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 250000,
+        "high": 250000,
+        "low": 250000,
+        "close": 250000,
+        "volume": 100,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 220000,
+        "high": 250000,
+        "low": 220000,
+        "close": 250000,
+        "volume": 1700,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 225000,
+        "high": 225000,
+        "low": 225000,
+        "close": 225000,
+        "volume": 100,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 258000,
+        "high": 258000,
+        "low": 258000,
+        "close": 258000,
+        "volume": 300,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 220000,
+        "high": 220000,
+        "low": 220000,
+        "close": 220000,
+        "volume": 1000,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 188000,
+        "high": 188000,
+        "low": 188000,
+        "close": 188000,
+        "volume": 600,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 180000,
+        "high": 180000,
+        "low": 180000,
+        "close": 180000,
+        "volume": 500,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 207000,
+        "high": 207000,
+        "low": 207000,
+        "close": 207000,
+        "volume": 100,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 238000,
+        "high": 238000,
+        "low": 238000,
+        "close": 238000,
+        "volume": 100,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 250000,
+        "high": 250000,
+        "low": 250000,
+        "close": 250000,
+        "volume": 100,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 220000,
+        "high": 220000,
+        "low": 220000,
+        "close": 220000,
+        "volume": 1900,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 224200,
+        "high": 224200,
+        "low": 224200,
+        "close": 224200,
+        "volume": 1500,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 224200,
+        "high": 224200,
+        "low": 224200,
+        "close": 224200,
+        "volume": 800,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 224200,
+        "high": 224200,
+        "low": 224200,
+        "close": 224200,
+        "volume": 1000,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 257500,
+        "high": 257500,
+        "low": 257500,
+        "close": 257500,
+        "volume": 100,
+        "ticker": "IDP"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 257500,
+        "high": 257500,
+        "low": 257500,
+        "close": 257500,
+        "volume": 100,
+        "ticker": "IDP"
+    }
+]

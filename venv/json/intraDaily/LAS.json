@@ -1,0 +1,1289 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 8690,
+        "high": 8690,
+        "low": 8410,
+        "close": 8410,
+        "volume": 422000,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 8410,
+        "high": 8600,
+        "low": 8410,
+        "close": 8500,
+        "volume": 123400,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 8690,
+        "high": 9550,
+        "low": 8690,
+        "close": 9550,
+        "volume": 1999700,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 9650,
+        "high": 10320,
+        "low": 9650,
+        "close": 9840,
+        "volume": 1034000,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 9930,
+        "high": 10030,
+        "low": 9650,
+        "close": 9930,
+        "volume": 603200,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 10030,
+        "high": 10220,
+        "low": 9840,
+        "close": 9840,
+        "volume": 736200,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 10030,
+        "high": 10030,
+        "low": 9740,
+        "close": 9840,
+        "volume": 408200,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 9840,
+        "high": 10030,
+        "low": 9550,
+        "close": 9650,
+        "volume": 506300,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 9740,
+        "high": 9740,
+        "low": 9360,
+        "close": 9460,
+        "volume": 538300,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 9650,
+        "high": 10220,
+        "low": 9550,
+        "close": 9840,
+        "volume": 748600,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 9930,
+        "high": 10130,
+        "low": 9550,
+        "close": 9550,
+        "volume": 568300,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 9650,
+        "high": 9840,
+        "low": 9360,
+        "close": 9550,
+        "volume": 630500,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 9650,
+        "high": 9930,
+        "low": 9650,
+        "close": 9840,
+        "volume": 579500,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 9840,
+        "high": 10510,
+        "low": 9840,
+        "close": 10220,
+        "volume": 1090400,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 10130,
+        "high": 10220,
+        "low": 10030,
+        "close": 10130,
+        "volume": 505700,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 10030,
+        "high": 10130,
+        "low": 9740,
+        "close": 9740,
+        "volume": 616500,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 9740,
+        "high": 10030,
+        "low": 9740,
+        "close": 10030,
+        "volume": 462700,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 9550,
+        "high": 10030,
+        "low": 9550,
+        "close": 9930,
+        "volume": 657400,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 10030,
+        "high": 10320,
+        "low": 9930,
+        "close": 10130,
+        "volume": 1177600,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 10130,
+        "high": 10410,
+        "low": 10030,
+        "close": 10130,
+        "volume": 753800,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 9840,
+        "high": 10790,
+        "low": 9840,
+        "close": 10600,
+        "volume": 1344000,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 10700,
+        "high": 10700,
+        "low": 10320,
+        "close": 10320,
+        "volume": 603900,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 10320,
+        "high": 10790,
+        "low": 10320,
+        "close": 10700,
+        "volume": 1146800,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 10510,
+        "high": 10700,
+        "low": 10410,
+        "close": 10510,
+        "volume": 478900,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 10510,
+        "high": 10700,
+        "low": 10410,
+        "close": 10510,
+        "volume": 715000,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 10510,
+        "high": 10600,
+        "low": 10130,
+        "close": 10130,
+        "volume": 950500,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 10130,
+        "high": 10510,
+        "low": 10030,
+        "close": 10220,
+        "volume": 683700,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 10220,
+        "high": 10600,
+        "low": 10220,
+        "close": 10510,
+        "volume": 459300,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 10700,
+        "high": 10700,
+        "low": 10220,
+        "close": 10410,
+        "volume": 503000,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 10510,
+        "high": 10790,
+        "low": 10410,
+        "close": 10510,
+        "volume": 1437000,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 10510,
+        "high": 10700,
+        "low": 10410,
+        "close": 10510,
+        "volume": 823000,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 10700,
+        "high": 10700,
+        "low": 10320,
+        "close": 10320,
+        "volume": 637600,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 10320,
+        "high": 10410,
+        "low": 10130,
+        "close": 10130,
+        "volume": 432100,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 10220,
+        "high": 10320,
+        "low": 10030,
+        "close": 10320,
+        "volume": 430800,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 10320,
+        "high": 10510,
+        "low": 10130,
+        "close": 10510,
+        "volume": 552300,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 10510,
+        "high": 11180,
+        "low": 10510,
+        "close": 10990,
+        "volume": 1838500,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 11080,
+        "high": 11080,
+        "low": 10700,
+        "close": 10890,
+        "volume": 511700,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 10600,
+        "high": 10990,
+        "low": 10600,
+        "close": 10890,
+        "volume": 718500,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 10990,
+        "high": 11270,
+        "low": 10790,
+        "close": 10990,
+        "volume": 528500,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 11180,
+        "high": 11180,
+        "low": 10790,
+        "close": 11080,
+        "volume": 934100,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 10990,
+        "high": 10990,
+        "low": 10600,
+        "close": 10600,
+        "volume": 733600,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 10600,
+        "high": 10790,
+        "low": 10600,
+        "close": 10600,
+        "volume": 503800,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 10790,
+        "high": 11270,
+        "low": 10600,
+        "close": 10790,
+        "volume": 565000,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 10790,
+        "high": 10990,
+        "low": 10600,
+        "close": 10790,
+        "volume": 294600,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 10890,
+        "high": 11080,
+        "low": 10790,
+        "close": 10990,
+        "volume": 1033000,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 10890,
+        "high": 11080,
+        "low": 10700,
+        "close": 10790,
+        "volume": 676900,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 10600,
+        "high": 11270,
+        "low": 10600,
+        "close": 11180,
+        "volume": 1008600,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 11180,
+        "high": 11650,
+        "low": 11180,
+        "close": 11460,
+        "volume": 918200,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 11180,
+        "high": 11560,
+        "low": 11180,
+        "close": 11460,
+        "volume": 498000,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 11460,
+        "high": 11840,
+        "low": 11460,
+        "close": 11750,
+        "volume": 882700,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 11840,
+        "high": 11940,
+        "low": 11650,
+        "close": 11840,
+        "volume": 455900,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 11840,
+        "high": 12040,
+        "low": 11750,
+        "close": 11750,
+        "volume": 925000,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 11750,
+        "high": 11940,
+        "low": 11650,
+        "close": 11840,
+        "volume": 753700,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 11840,
+        "high": 12610,
+        "low": 11840,
+        "close": 12420,
+        "volume": 939200,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 12420,
+        "high": 12610,
+        "low": 12040,
+        "close": 12230,
+        "volume": 604300,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 12040,
+        "high": 12420,
+        "low": 12040,
+        "close": 12420,
+        "volume": 518100,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 12420,
+        "high": 12610,
+        "low": 12320,
+        "close": 12420,
+        "volume": 521000,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 12420,
+        "high": 12510,
+        "low": 12130,
+        "close": 12320,
+        "volume": 504100,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 12320,
+        "high": 12510,
+        "low": 12040,
+        "close": 12230,
+        "volume": 698100,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 12230,
+        "high": 12320,
+        "low": 12230,
+        "close": 12230,
+        "volume": 198700,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 12230,
+        "high": 12320,
+        "low": 11940,
+        "close": 12130,
+        "volume": 696300,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 12130,
+        "high": 12510,
+        "low": 12130,
+        "close": 12510,
+        "volume": 701900,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 12510,
+        "high": 12900,
+        "low": 12510,
+        "close": 12800,
+        "volume": 529800,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 12800,
+        "high": 12900,
+        "low": 12610,
+        "close": 12700,
+        "volume": 878900,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 12700,
+        "high": 12700,
+        "low": 12510,
+        "close": 12610,
+        "volume": 401900,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 12610,
+        "high": 12700,
+        "low": 12510,
+        "close": 12510,
+        "volume": 774900,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 12510,
+        "high": 12800,
+        "low": 12510,
+        "close": 12610,
+        "volume": 373800,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 12800,
+        "high": 12900,
+        "low": 12510,
+        "close": 12610,
+        "volume": 665400,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 12610,
+        "high": 12900,
+        "low": 12610,
+        "close": 12900,
+        "volume": 661000,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 12900,
+        "high": 12900,
+        "low": 12700,
+        "close": 12800,
+        "volume": 828000,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 12800,
+        "high": 12800,
+        "low": 12610,
+        "close": 12800,
+        "volume": 543300,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 13000,
+        "high": 13000,
+        "low": 12700,
+        "close": 12800,
+        "volume": 585100,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 12800,
+        "high": 13200,
+        "low": 12800,
+        "close": 13000,
+        "volume": 452100,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 13000,
+        "high": 13200,
+        "low": 13000,
+        "close": 13000,
+        "volume": 342200,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 13000,
+        "high": 13100,
+        "low": 12800,
+        "close": 12900,
+        "volume": 319000,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-08-17",
+        "open": 12900,
+        "high": 12900,
+        "low": 12800,
+        "close": 12800,
+        "volume": 313000,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 12700,
+        "high": 12800,
+        "low": 11600,
+        "close": 11900,
+        "volume": 912000,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 11900,
+        "high": 12100,
+        "low": 11300,
+        "close": 12000,
+        "volume": 224200,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 12000,
+        "high": 12000,
+        "low": 11700,
+        "close": 12000,
+        "volume": 148700,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 12000,
+        "high": 12200,
+        "low": 11900,
+        "close": 11900,
+        "volume": 89100,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 11900,
+        "high": 12200,
+        "low": 11900,
+        "close": 12000,
+        "volume": 146600,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 12200,
+        "high": 12300,
+        "low": 12000,
+        "close": 12300,
+        "volume": 164100,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 12400,
+        "high": 12800,
+        "low": 12300,
+        "close": 12700,
+        "volume": 402600,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 12800,
+        "high": 12800,
+        "low": 12500,
+        "close": 12600,
+        "volume": 122700,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 12700,
+        "high": 12700,
+        "low": 12400,
+        "close": 12600,
+        "volume": 350300,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 12600,
+        "high": 13000,
+        "low": 12500,
+        "close": 12900,
+        "volume": 602300,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 13000,
+        "high": 13100,
+        "low": 12800,
+        "close": 13000,
+        "volume": 267700,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 12900,
+        "high": 13400,
+        "low": 12900,
+        "close": 13200,
+        "volume": 710400,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 13200,
+        "high": 13300,
+        "low": 12900,
+        "close": 13100,
+        "volume": 436900,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 13200,
+        "high": 14400,
+        "low": 13200,
+        "close": 14400,
+        "volume": 2682900,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 15200,
+        "high": 15700,
+        "low": 14600,
+        "close": 14700,
+        "volume": 1114400,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 14700,
+        "high": 15000,
+        "low": 13900,
+        "close": 14400,
+        "volume": 966200,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 14500,
+        "high": 14800,
+        "low": 14300,
+        "close": 14400,
+        "volume": 1165500,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 14500,
+        "high": 14500,
+        "low": 14000,
+        "close": 14100,
+        "volume": 559500,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 14400,
+        "high": 14400,
+        "low": 14000,
+        "close": 14000,
+        "volume": 355100,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 13900,
+        "high": 14200,
+        "low": 13800,
+        "close": 14000,
+        "volume": 337200,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 13400,
+        "high": 14300,
+        "low": 13400,
+        "close": 14000,
+        "volume": 562600,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 14300,
+        "high": 14500,
+        "low": 14000,
+        "close": 14300,
+        "volume": 318900,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 14300,
+        "high": 14500,
+        "low": 14200,
+        "close": 14300,
+        "volume": 521000,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 14200,
+        "high": 14200,
+        "low": 13000,
+        "close": 13700,
+        "volume": 826000,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 13700,
+        "high": 13900,
+        "low": 12500,
+        "close": 12500,
+        "volume": 723300,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 12500,
+        "high": 12800,
+        "low": 12300,
+        "close": 12500,
+        "volume": 499500,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 12500,
+        "high": 12600,
+        "low": 12000,
+        "close": 12600,
+        "volume": 532100,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 12800,
+        "high": 12900,
+        "low": 12400,
+        "close": 12800,
+        "volume": 386500,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 12800,
+        "high": 13100,
+        "low": 12700,
+        "close": 12800,
+        "volume": 236200,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 12800,
+        "high": 13200,
+        "low": 12800,
+        "close": 12800,
+        "volume": 271700,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 12800,
+        "high": 12800,
+        "low": 12200,
+        "close": 12200,
+        "volume": 514300,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 12100,
+        "high": 13000,
+        "low": 12000,
+        "close": 12600,
+        "volume": 407700,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 12700,
+        "high": 13300,
+        "low": 12700,
+        "close": 12800,
+        "volume": 670300,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 12900,
+        "high": 13300,
+        "low": 12800,
+        "close": 13300,
+        "volume": 441300,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 13300,
+        "high": 14000,
+        "low": 13300,
+        "close": 13900,
+        "volume": 795100,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 13900,
+        "high": 14200,
+        "low": 13600,
+        "close": 13600,
+        "volume": 602300,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 13600,
+        "high": 13900,
+        "low": 13600,
+        "close": 13900,
+        "volume": 444900,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 13900,
+        "high": 14000,
+        "low": 13600,
+        "close": 13800,
+        "volume": 426300,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 13800,
+        "high": 13900,
+        "low": 13400,
+        "close": 13900,
+        "volume": 623100,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 13900,
+        "high": 14400,
+        "low": 13900,
+        "close": 14200,
+        "volume": 1209200,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 14200,
+        "high": 14200,
+        "low": 13400,
+        "close": 13600,
+        "volume": 566800,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 13700,
+        "high": 14000,
+        "low": 12700,
+        "close": 13400,
+        "volume": 1120900,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 13500,
+        "high": 13500,
+        "low": 12800,
+        "close": 13000,
+        "volume": 416500,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 12800,
+        "high": 13400,
+        "low": 12500,
+        "close": 13400,
+        "volume": 680500,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 13500,
+        "high": 13500,
+        "low": 12800,
+        "close": 12900,
+        "volume": 360200,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 12900,
+        "high": 13100,
+        "low": 12500,
+        "close": 12700,
+        "volume": 600400,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 12700,
+        "high": 13000,
+        "low": 12700,
+        "close": 12700,
+        "volume": 201400,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 12500,
+        "high": 12700,
+        "low": 11600,
+        "close": 11700,
+        "volume": 788800,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 11900,
+        "high": 12300,
+        "low": 11000,
+        "close": 12300,
+        "volume": 536500,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 12700,
+        "high": 12800,
+        "low": 12000,
+        "close": 12000,
+        "volume": 113600,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 12800,
+        "high": 12800,
+        "low": 11800,
+        "close": 11900,
+        "volume": 190400,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 11900,
+        "high": 12200,
+        "low": 11700,
+        "close": 12200,
+        "volume": 121400,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 12500,
+        "high": 12700,
+        "low": 11900,
+        "close": 12600,
+        "volume": 388500,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 12700,
+        "high": 12800,
+        "low": 12500,
+        "close": 12600,
+        "volume": 182800,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 12800,
+        "high": 12800,
+        "low": 12400,
+        "close": 12600,
+        "volume": 178900,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 12600,
+        "high": 12900,
+        "low": 12400,
+        "close": 12700,
+        "volume": 340500,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 12600,
+        "high": 13100,
+        "low": 12500,
+        "close": 13100,
+        "volume": 591900,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 13400,
+        "high": 13400,
+        "low": 12900,
+        "close": 13100,
+        "volume": 525000,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 13100,
+        "high": 13100,
+        "low": 12800,
+        "close": 12900,
+        "volume": 622100,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 12800,
+        "high": 13000,
+        "low": 12700,
+        "close": 12800,
+        "volume": 187900,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 12900,
+        "high": 12900,
+        "low": 12600,
+        "close": 12700,
+        "volume": 282000,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 12800,
+        "high": 13000,
+        "low": 12800,
+        "close": 12800,
+        "volume": 295100,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 12800,
+        "high": 13900,
+        "low": 12700,
+        "close": 13600,
+        "volume": 1937200,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 13600,
+        "high": 13800,
+        "low": 13200,
+        "close": 13500,
+        "volume": 778700,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 13300,
+        "high": 14000,
+        "low": 13000,
+        "close": 13500,
+        "volume": 759700,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 13400,
+        "high": 14000,
+        "low": 13400,
+        "close": 13900,
+        "volume": 1191200,
+        "ticker": "LAS"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 13900,
+        "high": 14300,
+        "low": 13800,
+        "close": 14000,
+        "volume": 1432100,
+        "ticker": "LAS"
+    }
+]

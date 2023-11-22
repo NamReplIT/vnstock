@@ -1,0 +1,1271 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 66500,
+        "high": 66500,
+        "low": 65500,
+        "close": 65600,
+        "volume": 53900,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 65000,
+        "high": 65600,
+        "low": 64500,
+        "close": 64700,
+        "volume": 37400,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 64900,
+        "high": 66600,
+        "low": 64700,
+        "close": 66100,
+        "volume": 96100,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 66000,
+        "high": 66300,
+        "low": 65700,
+        "close": 65700,
+        "volume": 19300,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 65800,
+        "high": 67200,
+        "low": 65700,
+        "close": 67000,
+        "volume": 79400,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 67200,
+        "high": 67500,
+        "low": 66800,
+        "close": 66800,
+        "volume": 56900,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 67000,
+        "high": 67000,
+        "low": 65800,
+        "close": 66200,
+        "volume": 70600,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 66400,
+        "high": 66900,
+        "low": 65500,
+        "close": 65600,
+        "volume": 82500,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 66100,
+        "high": 66100,
+        "low": 65300,
+        "close": 65600,
+        "volume": 54600,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 65400,
+        "high": 65400,
+        "low": 64599,
+        "close": 65000,
+        "volume": 72800,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 64400,
+        "high": 65200,
+        "low": 64000,
+        "close": 64900,
+        "volume": 95200,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 64800,
+        "high": 66500,
+        "low": 64599,
+        "close": 65900,
+        "volume": 82100,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 66300,
+        "high": 67100,
+        "low": 65900,
+        "close": 67100,
+        "volume": 92300,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 66700,
+        "high": 67000,
+        "low": 66000,
+        "close": 66000,
+        "volume": 39600,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 66200,
+        "high": 66500,
+        "low": 66000,
+        "close": 66300,
+        "volume": 83400,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 66300,
+        "high": 66600,
+        "low": 65800,
+        "close": 66100,
+        "volume": 67500,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 66500,
+        "high": 67200,
+        "low": 65500,
+        "close": 65800,
+        "volume": 110700,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 66100,
+        "high": 67000,
+        "low": 66100,
+        "close": 66500,
+        "volume": 75400,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 65700,
+        "high": 66300,
+        "low": 65600,
+        "close": 65700,
+        "volume": 64300,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 65700,
+        "high": 65900,
+        "low": 65200,
+        "close": 65300,
+        "volume": 58700,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 65200,
+        "high": 66000,
+        "low": 64200,
+        "close": 65000,
+        "volume": 67100,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 65200,
+        "high": 66000,
+        "low": 64500,
+        "close": 65600,
+        "volume": 77900,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 65500,
+        "high": 66500,
+        "low": 65500,
+        "close": 66300,
+        "volume": 90900,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 66500,
+        "high": 66800,
+        "low": 65099,
+        "close": 65600,
+        "volume": 62300,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 65700,
+        "high": 66200,
+        "low": 65700,
+        "close": 65900,
+        "volume": 69200,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 66000,
+        "high": 66000,
+        "low": 65000,
+        "close": 65200,
+        "volume": 56300,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 65600,
+        "high": 65800,
+        "low": 64500,
+        "close": 65000,
+        "volume": 64300,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 65200,
+        "high": 65500,
+        "low": 64000,
+        "close": 64700,
+        "volume": 52500,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 65200,
+        "high": 66000,
+        "low": 65000,
+        "close": 65800,
+        "volume": 77600,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 65800,
+        "high": 66000,
+        "low": 65000,
+        "close": 65099,
+        "volume": 59400,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 65400,
+        "high": 65900,
+        "low": 65200,
+        "close": 65600,
+        "volume": 61800,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 65800,
+        "high": 65900,
+        "low": 65200,
+        "close": 65400,
+        "volume": 55100,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 65700,
+        "high": 65700,
+        "low": 64700,
+        "close": 65000,
+        "volume": 68400,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 65000,
+        "high": 65200,
+        "low": 64500,
+        "close": 64800,
+        "volume": 61400,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 65000,
+        "high": 65500,
+        "low": 64900,
+        "close": 65400,
+        "volume": 72100,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 65099,
+        "high": 65300,
+        "low": 64700,
+        "close": 65000,
+        "volume": 55800,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 65000,
+        "high": 65000,
+        "low": 64400,
+        "close": 64599,
+        "volume": 66100,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 65200,
+        "high": 65600,
+        "low": 64400,
+        "close": 65000,
+        "volume": 64200,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 65400,
+        "high": 65700,
+        "low": 64300,
+        "close": 64599,
+        "volume": 74500,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 64500,
+        "high": 64500,
+        "low": 63700,
+        "close": 64200,
+        "volume": 63000,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 63800,
+        "high": 64599,
+        "low": 63600,
+        "close": 63900,
+        "volume": 64500,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 63500,
+        "high": 64599,
+        "low": 63500,
+        "close": 64200,
+        "volume": 68000,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 63900,
+        "high": 64300,
+        "low": 63500,
+        "close": 64200,
+        "volume": 63300,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 64400,
+        "high": 64599,
+        "low": 63800,
+        "close": 64200,
+        "volume": 67400,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 64599,
+        "high": 65000,
+        "low": 63700,
+        "close": 64300,
+        "volume": 65700,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 64500,
+        "high": 64800,
+        "low": 63800,
+        "close": 64400,
+        "volume": 67600,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 63800,
+        "high": 64700,
+        "low": 63600,
+        "close": 64300,
+        "volume": 65100,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 63800,
+        "high": 64400,
+        "low": 63800,
+        "close": 64200,
+        "volume": 67400,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 64500,
+        "high": 64500,
+        "low": 64200,
+        "close": 64300,
+        "volume": 62600,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 64099,
+        "high": 64200,
+        "low": 63600,
+        "close": 63900,
+        "volume": 62800,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 64099,
+        "high": 64500,
+        "low": 63700,
+        "close": 64000,
+        "volume": 65500,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 64000,
+        "high": 64500,
+        "low": 63800,
+        "close": 64200,
+        "volume": 72600,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 64200,
+        "high": 64400,
+        "low": 63200,
+        "close": 64000,
+        "volume": 65000,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 63800,
+        "high": 64000,
+        "low": 63300,
+        "close": 63700,
+        "volume": 66300,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 63700,
+        "high": 64000,
+        "low": 63600,
+        "close": 63800,
+        "volume": 76500,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 63800,
+        "high": 64099,
+        "low": 63500,
+        "close": 63800,
+        "volume": 64500,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 63800,
+        "high": 64000,
+        "low": 63600,
+        "close": 63700,
+        "volume": 61700,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 64200,
+        "high": 64200,
+        "low": 63700,
+        "close": 64000,
+        "volume": 58000,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 64000,
+        "high": 64599,
+        "low": 63900,
+        "close": 64200,
+        "volume": 57100,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 63800,
+        "high": 64800,
+        "low": 63600,
+        "close": 64400,
+        "volume": 68000,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 64000,
+        "high": 65000,
+        "low": 63800,
+        "close": 64300,
+        "volume": 58200,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 64500,
+        "high": 65000,
+        "low": 63700,
+        "close": 64200,
+        "volume": 66000,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 64500,
+        "high": 65000,
+        "low": 63700,
+        "close": 64099,
+        "volume": 72900,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 64500,
+        "high": 68200,
+        "low": 64500,
+        "close": 67500,
+        "volume": 92500,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 68300,
+        "high": 68400,
+        "low": 66700,
+        "close": 67600,
+        "volume": 71300,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 67000,
+        "high": 68100,
+        "low": 65400,
+        "close": 66200,
+        "volume": 59000,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 64500,
+        "high": 66000,
+        "low": 64400,
+        "close": 65200,
+        "volume": 57100,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 65500,
+        "high": 66000,
+        "low": 65200,
+        "close": 65800,
+        "volume": 64800,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 64500,
+        "high": 66100,
+        "low": 64500,
+        "close": 65600,
+        "volume": 63400,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 65500,
+        "high": 65700,
+        "low": 65099,
+        "close": 65300,
+        "volume": 63000,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 65099,
+        "high": 65700,
+        "low": 65000,
+        "close": 65000,
+        "volume": 54400,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 65400,
+        "high": 65900,
+        "low": 65200,
+        "close": 65400,
+        "volume": 62900,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 65700,
+        "high": 66100,
+        "low": 65700,
+        "close": 65900,
+        "volume": 67300,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 65900,
+        "high": 66500,
+        "low": 65200,
+        "close": 66400,
+        "volume": 62700,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 66100,
+        "high": 66400,
+        "low": 65600,
+        "close": 65800,
+        "volume": 64100,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 65500,
+        "high": 66000,
+        "low": 64700,
+        "close": 64900,
+        "volume": 63700,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 65000,
+        "high": 65800,
+        "low": 64700,
+        "close": 65300,
+        "volume": 64400,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 65099,
+        "high": 65500,
+        "low": 64599,
+        "close": 65300,
+        "volume": 62900,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 65200,
+        "high": 65400,
+        "low": 64400,
+        "close": 64900,
+        "volume": 61400,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 65000,
+        "high": 65300,
+        "low": 64200,
+        "close": 64300,
+        "volume": 66200,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 64500,
+        "high": 64900,
+        "low": 64099,
+        "close": 64200,
+        "volume": 65300,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 64500,
+        "high": 64700,
+        "low": 64200,
+        "close": 64300,
+        "volume": 63800,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 64000,
+        "high": 64500,
+        "low": 63900,
+        "close": 64200,
+        "volume": 63300,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 64099,
+        "high": 64500,
+        "low": 64000,
+        "close": 64300,
+        "volume": 63200,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 64300,
+        "high": 64900,
+        "low": 63700,
+        "close": 64599,
+        "volume": 56500,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 64500,
+        "high": 64599,
+        "low": 64200,
+        "close": 64300,
+        "volume": 62100,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 64500,
+        "high": 64700,
+        "low": 64099,
+        "close": 64400,
+        "volume": 63500,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 64300,
+        "high": 64900,
+        "low": 64099,
+        "close": 64400,
+        "volume": 64200,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 64300,
+        "high": 64700,
+        "low": 64099,
+        "close": 64599,
+        "volume": 63300,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 64599,
+        "high": 64800,
+        "low": 64200,
+        "close": 64300,
+        "volume": 61000,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 64400,
+        "high": 64599,
+        "low": 64099,
+        "close": 64500,
+        "volume": 62200,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 64300,
+        "high": 64599,
+        "low": 64200,
+        "close": 64200,
+        "volume": 63600,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 63800,
+        "high": 64900,
+        "low": 63800,
+        "close": 64300,
+        "volume": 61700,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 64400,
+        "high": 64800,
+        "low": 64300,
+        "close": 64599,
+        "volume": 61800,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 64500,
+        "high": 64700,
+        "low": 64300,
+        "close": 64400,
+        "volume": 63500,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 64300,
+        "high": 64800,
+        "low": 64200,
+        "close": 64400,
+        "volume": 62000,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 64200,
+        "high": 64700,
+        "low": 64200,
+        "close": 64599,
+        "volume": 65000,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 64400,
+        "high": 64599,
+        "low": 64000,
+        "close": 64200,
+        "volume": 61700,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 64099,
+        "high": 64300,
+        "low": 64000,
+        "close": 64200,
+        "volume": 62600,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 64000,
+        "high": 64300,
+        "low": 63800,
+        "close": 63800,
+        "volume": 59700,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 63800,
+        "high": 64200,
+        "low": 63800,
+        "close": 63900,
+        "volume": 61600,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 63700,
+        "high": 64700,
+        "low": 63700,
+        "close": 64099,
+        "volume": 63100,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 63800,
+        "high": 64000,
+        "low": 63700,
+        "close": 63900,
+        "volume": 60100,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 63800,
+        "high": 64200,
+        "low": 63800,
+        "close": 63900,
+        "volume": 60400,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 64099,
+        "high": 64200,
+        "low": 63900,
+        "close": 63900,
+        "volume": 62300,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 63900,
+        "high": 63900,
+        "low": 63400,
+        "close": 63500,
+        "volume": 56400,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 63500,
+        "high": 63800,
+        "low": 63400,
+        "close": 63700,
+        "volume": 60400,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 63600,
+        "high": 63800,
+        "low": 63500,
+        "close": 63600,
+        "volume": 56100,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 63600,
+        "high": 63900,
+        "low": 63300,
+        "close": 63800,
+        "volume": 58400,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 63600,
+        "high": 63900,
+        "low": 63600,
+        "close": 63800,
+        "volume": 55600,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 63800,
+        "high": 64400,
+        "low": 63800,
+        "close": 64300,
+        "volume": 63700,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 64300,
+        "high": 64400,
+        "low": 64000,
+        "close": 64099,
+        "volume": 49900,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 64099,
+        "high": 64200,
+        "low": 63700,
+        "close": 63900,
+        "volume": 54600,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 64000,
+        "high": 64300,
+        "low": 63600,
+        "close": 63700,
+        "volume": 55100,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 63800,
+        "high": 63900,
+        "low": 63600,
+        "close": 63600,
+        "volume": 55300,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 64099,
+        "high": 64099,
+        "low": 63700,
+        "close": 63700,
+        "volume": 49500,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 63900,
+        "high": 64000,
+        "low": 63600,
+        "close": 63800,
+        "volume": 50800,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 63800,
+        "high": 64099,
+        "low": 63600,
+        "close": 64000,
+        "volume": 58200,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 63800,
+        "high": 64400,
+        "low": 63700,
+        "close": 63900,
+        "volume": 55400,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 63800,
+        "high": 63800,
+        "low": 63400,
+        "close": 63800,
+        "volume": 60200,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 64000,
+        "high": 64599,
+        "low": 63900,
+        "close": 64400,
+        "volume": 60300,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 64400,
+        "high": 64500,
+        "low": 64099,
+        "close": 64200,
+        "volume": 63700,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 64200,
+        "high": 64300,
+        "low": 63700,
+        "close": 63800,
+        "volume": 64600,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 63900,
+        "high": 63900,
+        "low": 63600,
+        "close": 63600,
+        "volume": 61900,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 63600,
+        "high": 64099,
+        "low": 63500,
+        "close": 63500,
+        "volume": 67700,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 63400,
+        "high": 64000,
+        "low": 63400,
+        "close": 63900,
+        "volume": 65700,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 63800,
+        "high": 63800,
+        "low": 63400,
+        "close": 63700,
+        "volume": 73200,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 63500,
+        "high": 63900,
+        "low": 63500,
+        "close": 63800,
+        "volume": 79900,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 63700,
+        "high": 63800,
+        "low": 63200,
+        "close": 63400,
+        "volume": 72700,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 63400,
+        "high": 63700,
+        "low": 63300,
+        "close": 63500,
+        "volume": 81900,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 63000,
+        "high": 63300,
+        "low": 63000,
+        "close": 63100,
+        "volume": 81600,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 63100,
+        "high": 63400,
+        "low": 62700,
+        "close": 63400,
+        "volume": 85600,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 63000,
+        "high": 63200,
+        "low": 62900,
+        "close": 63000,
+        "volume": 76800,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 63000,
+        "high": 63400,
+        "low": 63000,
+        "close": 63200,
+        "volume": 68500,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 63000,
+        "high": 63500,
+        "low": 62900,
+        "close": 63300,
+        "volume": 66200,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 63400,
+        "high": 63400,
+        "low": 63100,
+        "close": 63200,
+        "volume": 70900,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 63200,
+        "high": 63300,
+        "low": 63000,
+        "close": 63100,
+        "volume": 73000,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 63200,
+        "high": 63400,
+        "low": 62900,
+        "close": 63000,
+        "volume": 64300,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 63100,
+        "high": 63100,
+        "low": 62800,
+        "close": 62900,
+        "volume": 73300,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 63000,
+        "high": 63200,
+        "low": 62900,
+        "close": 63100,
+        "volume": 69300,
+        "ticker": "SSH"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 63100,
+        "high": 63200,
+        "low": 62800,
+        "close": 62900,
+        "volume": 72500,
+        "ticker": "SSH"
+    }
+]

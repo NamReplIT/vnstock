@@ -1,0 +1,1289 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 4300,
+        "high": 4300,
+        "low": 4100,
+        "close": 4200,
+        "volume": 101800,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 4200,
+        "high": 4300,
+        "low": 4100,
+        "close": 4200,
+        "volume": 224800,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 4200,
+        "high": 4200,
+        "low": 4200,
+        "close": 4200,
+        "volume": 10000,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 4300,
+        "high": 4400,
+        "low": 4200,
+        "close": 4300,
+        "volume": 225500,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 4400,
+        "high": 4700,
+        "low": 4400,
+        "close": 4500,
+        "volume": 628200,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 4600,
+        "high": 4800,
+        "low": 4600,
+        "close": 4600,
+        "volume": 299500,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 4500,
+        "high": 4800,
+        "low": 4500,
+        "close": 4600,
+        "volume": 375300,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 4700,
+        "high": 4900,
+        "low": 4600,
+        "close": 4600,
+        "volume": 526500,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 4600,
+        "high": 4800,
+        "low": 4500,
+        "close": 4500,
+        "volume": 215400,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 4700,
+        "high": 4700,
+        "low": 4500,
+        "close": 4600,
+        "volume": 360900,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 4500,
+        "high": 4700,
+        "low": 4500,
+        "close": 4600,
+        "volume": 152900,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 4500,
+        "high": 4600,
+        "low": 4400,
+        "close": 4500,
+        "volume": 127700,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 4500,
+        "high": 4600,
+        "low": 4400,
+        "close": 4500,
+        "volume": 168700,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 4400,
+        "high": 4600,
+        "low": 4400,
+        "close": 4500,
+        "volume": 125300,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 4500,
+        "high": 4700,
+        "low": 4500,
+        "close": 4600,
+        "volume": 267900,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 4600,
+        "high": 4600,
+        "low": 4500,
+        "close": 4600,
+        "volume": 431600,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 4600,
+        "high": 5000,
+        "low": 4600,
+        "close": 5000,
+        "volume": 1540600,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 5300,
+        "high": 5500,
+        "low": 5200,
+        "close": 5500,
+        "volume": 1238900,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 5600,
+        "high": 5800,
+        "low": 5300,
+        "close": 5700,
+        "volume": 1168500,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 5700,
+        "high": 5900,
+        "low": 5600,
+        "close": 5700,
+        "volume": 1339500,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 5700,
+        "high": 5900,
+        "low": 5700,
+        "close": 5900,
+        "volume": 899600,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 5900,
+        "high": 6000,
+        "low": 5500,
+        "close": 5600,
+        "volume": 1073100,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 5600,
+        "high": 5800,
+        "low": 5300,
+        "close": 5400,
+        "volume": 865700,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 5400,
+        "high": 5900,
+        "low": 5300,
+        "close": 5900,
+        "volume": 1177600,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 6400,
+        "high": 6400,
+        "low": 6200,
+        "close": 6400,
+        "volume": 1845200,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 7000,
+        "high": 7000,
+        "low": 6100,
+        "close": 6400,
+        "volume": 1529800,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 6400,
+        "high": 6400,
+        "low": 6100,
+        "close": 6300,
+        "volume": 1011600,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 6400,
+        "high": 6900,
+        "low": 6200,
+        "close": 6900,
+        "volume": 1514400,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 7000,
+        "high": 7000,
+        "low": 6500,
+        "close": 6600,
+        "volume": 921000,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 6700,
+        "high": 6800,
+        "low": 6000,
+        "close": 6300,
+        "volume": 1512800,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 6200,
+        "high": 6400,
+        "low": 6000,
+        "close": 6200,
+        "volume": 852300,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 6300,
+        "high": 6700,
+        "low": 6100,
+        "close": 6200,
+        "volume": 1262500,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 6200,
+        "high": 6300,
+        "low": 5800,
+        "close": 5800,
+        "volume": 996700,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 5800,
+        "high": 6200,
+        "low": 5600,
+        "close": 6100,
+        "volume": 1108000,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 6100,
+        "high": 6300,
+        "low": 6000,
+        "close": 6200,
+        "volume": 590900,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 6200,
+        "high": 6400,
+        "low": 6100,
+        "close": 6200,
+        "volume": 884500,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 6200,
+        "high": 6400,
+        "low": 6100,
+        "close": 6300,
+        "volume": 867400,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 6300,
+        "high": 6300,
+        "low": 5700,
+        "close": 6000,
+        "volume": 878800,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 6000,
+        "high": 6100,
+        "low": 5800,
+        "close": 6000,
+        "volume": 419800,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 6000,
+        "high": 6200,
+        "low": 5900,
+        "close": 5900,
+        "volume": 587600,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 5800,
+        "high": 5900,
+        "low": 5500,
+        "close": 5500,
+        "volume": 1146000,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 5500,
+        "high": 5600,
+        "low": 5400,
+        "close": 5400,
+        "volume": 359500,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 5300,
+        "high": 5700,
+        "low": 5300,
+        "close": 5500,
+        "volume": 269600,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 5600,
+        "high": 5800,
+        "low": 5500,
+        "close": 5800,
+        "volume": 353600,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 5800,
+        "high": 5900,
+        "low": 5600,
+        "close": 5600,
+        "volume": 655200,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 5700,
+        "high": 5700,
+        "low": 5500,
+        "close": 5600,
+        "volume": 293100,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 5600,
+        "high": 5700,
+        "low": 5500,
+        "close": 5600,
+        "volume": 394800,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 5700,
+        "high": 5900,
+        "low": 5600,
+        "close": 5900,
+        "volume": 783300,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 6000,
+        "high": 6300,
+        "low": 5900,
+        "close": 6100,
+        "volume": 1521800,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 6100,
+        "high": 6300,
+        "low": 5900,
+        "close": 6000,
+        "volume": 528800,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 6000,
+        "high": 6200,
+        "low": 6000,
+        "close": 6200,
+        "volume": 1155200,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 6200,
+        "high": 6400,
+        "low": 6000,
+        "close": 6200,
+        "volume": 438600,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 6200,
+        "high": 6400,
+        "low": 6100,
+        "close": 6300,
+        "volume": 1724200,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 6400,
+        "high": 6400,
+        "low": 6100,
+        "close": 6100,
+        "volume": 517400,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 6100,
+        "high": 6300,
+        "low": 5900,
+        "close": 5900,
+        "volume": 953000,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 5900,
+        "high": 6000,
+        "low": 5700,
+        "close": 5900,
+        "volume": 460800,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 5900,
+        "high": 6100,
+        "low": 5900,
+        "close": 6000,
+        "volume": 588300,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 6000,
+        "high": 6200,
+        "low": 5900,
+        "close": 6200,
+        "volume": 1362100,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 6300,
+        "high": 6500,
+        "low": 6100,
+        "close": 6100,
+        "volume": 1339900,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 6100,
+        "high": 6100,
+        "low": 6000,
+        "close": 6100,
+        "volume": 431500,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 6100,
+        "high": 6400,
+        "low": 6000,
+        "close": 6300,
+        "volume": 1613300,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 6300,
+        "high": 6900,
+        "low": 6300,
+        "close": 6900,
+        "volume": 4261500,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 6900,
+        "high": 7500,
+        "low": 6900,
+        "close": 7200,
+        "volume": 1927600,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 7200,
+        "high": 7300,
+        "low": 6500,
+        "close": 6500,
+        "volume": 2631300,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 6500,
+        "high": 6700,
+        "low": 6300,
+        "close": 6700,
+        "volume": 1146300,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 6800,
+        "high": 6800,
+        "low": 6400,
+        "close": 6500,
+        "volume": 1064100,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 6500,
+        "high": 6700,
+        "low": 6500,
+        "close": 6700,
+        "volume": 1235100,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 6700,
+        "high": 6900,
+        "low": 6700,
+        "close": 6800,
+        "volume": 1045300,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 6900,
+        "high": 7100,
+        "low": 6700,
+        "close": 6700,
+        "volume": 1813400,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 6600,
+        "high": 6900,
+        "low": 6600,
+        "close": 6900,
+        "volume": 901500,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 6900,
+        "high": 7200,
+        "low": 6700,
+        "close": 6700,
+        "volume": 1231500,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 6700,
+        "high": 7000,
+        "low": 6600,
+        "close": 6900,
+        "volume": 1442000,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 6900,
+        "high": 7000,
+        "low": 6700,
+        "close": 6900,
+        "volume": 1840800,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 6900,
+        "high": 7400,
+        "low": 6800,
+        "close": 7000,
+        "volume": 2284000,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 7100,
+        "high": 7100,
+        "low": 6700,
+        "close": 6800,
+        "volume": 1149500,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-08-17",
+        "open": 6800,
+        "high": 6900,
+        "low": 6700,
+        "close": 6700,
+        "volume": 892100,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 6600,
+        "high": 6600,
+        "low": 6000,
+        "close": 6000,
+        "volume": 1935300,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 6000,
+        "high": 6100,
+        "low": 5700,
+        "close": 5800,
+        "volume": 654500,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 5700,
+        "high": 5900,
+        "low": 5400,
+        "close": 5800,
+        "volume": 1151500,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 5800,
+        "high": 5900,
+        "low": 5700,
+        "close": 5800,
+        "volume": 302900,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 5900,
+        "high": 5900,
+        "low": 5700,
+        "close": 5900,
+        "volume": 727600,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 5900,
+        "high": 5900,
+        "low": 5700,
+        "close": 5700,
+        "volume": 731400,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 5800,
+        "high": 5800,
+        "low": 5600,
+        "close": 5800,
+        "volume": 753900,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 5800,
+        "high": 6000,
+        "low": 5800,
+        "close": 5800,
+        "volume": 916700,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 5800,
+        "high": 5900,
+        "low": 5700,
+        "close": 5800,
+        "volume": 630800,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 5800,
+        "high": 5900,
+        "low": 5700,
+        "close": 5800,
+        "volume": 998800,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 5800,
+        "high": 6300,
+        "low": 5800,
+        "close": 6300,
+        "volume": 1465400,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 6500,
+        "high": 6500,
+        "low": 6100,
+        "close": 6200,
+        "volume": 1049600,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 6200,
+        "high": 6400,
+        "low": 6100,
+        "close": 6200,
+        "volume": 1068200,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 6200,
+        "high": 6500,
+        "low": 6100,
+        "close": 6400,
+        "volume": 1886000,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 6400,
+        "high": 6500,
+        "low": 6000,
+        "close": 6000,
+        "volume": 920700,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 6000,
+        "high": 6200,
+        "low": 5900,
+        "close": 6200,
+        "volume": 593800,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 6200,
+        "high": 6300,
+        "low": 5900,
+        "close": 6000,
+        "volume": 1440500,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 6000,
+        "high": 6000,
+        "low": 5800,
+        "close": 5900,
+        "volume": 643800,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 5900,
+        "high": 6000,
+        "low": 5700,
+        "close": 5800,
+        "volume": 591100,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 5700,
+        "high": 5900,
+        "low": 5700,
+        "close": 5800,
+        "volume": 598100,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 5800,
+        "high": 5900,
+        "low": 5600,
+        "close": 5600,
+        "volume": 584700,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 5700,
+        "high": 5900,
+        "low": 5600,
+        "close": 5800,
+        "volume": 446400,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 5900,
+        "high": 5900,
+        "low": 5600,
+        "close": 5700,
+        "volume": 776400,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 5700,
+        "high": 5700,
+        "low": 5200,
+        "close": 5300,
+        "volume": 1520800,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 5300,
+        "high": 5400,
+        "low": 4800,
+        "close": 4800,
+        "volume": 662900,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 4800,
+        "high": 5000,
+        "low": 4600,
+        "close": 4700,
+        "volume": 714000,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 4700,
+        "high": 4800,
+        "low": 4500,
+        "close": 4700,
+        "volume": 401700,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 4800,
+        "high": 4900,
+        "low": 4600,
+        "close": 4800,
+        "volume": 318800,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 4800,
+        "high": 5000,
+        "low": 4800,
+        "close": 4900,
+        "volume": 264300,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 4900,
+        "high": 5000,
+        "low": 4800,
+        "close": 4900,
+        "volume": 190600,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 4900,
+        "high": 4900,
+        "low": 4500,
+        "close": 4500,
+        "volume": 446000,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 4500,
+        "high": 4600,
+        "low": 4300,
+        "close": 4400,
+        "volume": 617500,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 4500,
+        "high": 4600,
+        "low": 4400,
+        "close": 4400,
+        "volume": 443600,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 4400,
+        "high": 4500,
+        "low": 4200,
+        "close": 4300,
+        "volume": 414200,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 4300,
+        "high": 4500,
+        "low": 4300,
+        "close": 4500,
+        "volume": 242600,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 4500,
+        "high": 4800,
+        "low": 4400,
+        "close": 4700,
+        "volume": 495100,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 4700,
+        "high": 4700,
+        "low": 4500,
+        "close": 4700,
+        "volume": 254500,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 4800,
+        "high": 4800,
+        "low": 4600,
+        "close": 4600,
+        "volume": 309900,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 4600,
+        "high": 4600,
+        "low": 4500,
+        "close": 4600,
+        "volume": 202800,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 4600,
+        "high": 4600,
+        "low": 4400,
+        "close": 4500,
+        "volume": 275700,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 4500,
+        "high": 4600,
+        "low": 4400,
+        "close": 4400,
+        "volume": 138000,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 4400,
+        "high": 4500,
+        "low": 4100,
+        "close": 4200,
+        "volume": 337700,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 4200,
+        "high": 4300,
+        "low": 3900,
+        "close": 4100,
+        "volume": 270700,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 4200,
+        "high": 4300,
+        "low": 3900,
+        "close": 4300,
+        "volume": 273900,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 4400,
+        "high": 4400,
+        "low": 4200,
+        "close": 4300,
+        "volume": 310900,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 4300,
+        "high": 4400,
+        "low": 4200,
+        "close": 4300,
+        "volume": 246500,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 4300,
+        "high": 4400,
+        "low": 4200,
+        "close": 4200,
+        "volume": 165500,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 4200,
+        "high": 4200,
+        "low": 3800,
+        "close": 3800,
+        "volume": 745400,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 4000,
+        "high": 4000,
+        "low": 3900,
+        "close": 4000,
+        "volume": 198500,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 4000,
+        "high": 4000,
+        "low": 3900,
+        "close": 3900,
+        "volume": 121700,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 3900,
+        "high": 4000,
+        "low": 3800,
+        "close": 3800,
+        "volume": 199800,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 3800,
+        "high": 4000,
+        "low": 3800,
+        "close": 4000,
+        "volume": 98300,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 4000,
+        "high": 4400,
+        "low": 4000,
+        "close": 4400,
+        "volume": 335300,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 4400,
+        "high": 4400,
+        "low": 4200,
+        "close": 4200,
+        "volume": 215700,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 4200,
+        "high": 4300,
+        "low": 4200,
+        "close": 4300,
+        "volume": 108300,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 4200,
+        "high": 4200,
+        "low": 4100,
+        "close": 4100,
+        "volume": 192200,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 4100,
+        "high": 4400,
+        "low": 4100,
+        "close": 4400,
+        "volume": 343100,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 4500,
+        "high": 4700,
+        "low": 4300,
+        "close": 4500,
+        "volume": 522800,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 4500,
+        "high": 4600,
+        "low": 4300,
+        "close": 4400,
+        "volume": 300300,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 4400,
+        "high": 4500,
+        "low": 4300,
+        "close": 4400,
+        "volume": 140100,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 4400,
+        "high": 4500,
+        "low": 4300,
+        "close": 4400,
+        "volume": 145400,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 4400,
+        "high": 4600,
+        "low": 4300,
+        "close": 4400,
+        "volume": 244800,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 4400,
+        "high": 4400,
+        "low": 4300,
+        "close": 4400,
+        "volume": 196500,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 4400,
+        "high": 4600,
+        "low": 4300,
+        "close": 4400,
+        "volume": 494900,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 4400,
+        "high": 4500,
+        "low": 4200,
+        "close": 4400,
+        "volume": 156600,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 4400,
+        "high": 4500,
+        "low": 4300,
+        "close": 4300,
+        "volume": 232200,
+        "ticker": "AAV"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 4400,
+        "high": 4600,
+        "low": 4300,
+        "close": 4400,
+        "volume": 955000,
+        "ticker": "AAV"
+    }
+]

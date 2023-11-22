@@ -1,0 +1,1289 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 40020,
+        "high": 40500,
+        "low": 40020,
+        "close": 40500,
+        "volume": 28600,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 40500,
+        "high": 40690,
+        "low": 40400,
+        "close": 40400,
+        "volume": 9100,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 40500,
+        "high": 41100,
+        "low": 40500,
+        "close": 40600,
+        "volume": 32500,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 40600,
+        "high": 40600,
+        "low": 40000,
+        "close": 40600,
+        "volume": 13100,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 40600,
+        "high": 41000,
+        "low": 40400,
+        "close": 40700,
+        "volume": 50100,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 40700,
+        "high": 41500,
+        "low": 40700,
+        "close": 41200,
+        "volume": 28400,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 41500,
+        "high": 41700,
+        "low": 40800,
+        "close": 41150,
+        "volume": 33000,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 41000,
+        "high": 41300,
+        "low": 40850,
+        "close": 40850,
+        "volume": 9200,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 40200,
+        "high": 40600,
+        "low": 40200,
+        "close": 40200,
+        "volume": 20500,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 40350,
+        "high": 41300,
+        "low": 40350,
+        "close": 40700,
+        "volume": 12000,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 41000,
+        "high": 41500,
+        "low": 41000,
+        "close": 41500,
+        "volume": 23500,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 42000,
+        "high": 42000,
+        "low": 41400,
+        "close": 41500,
+        "volume": 21400,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 41500,
+        "high": 41750,
+        "low": 41050,
+        "close": 41150,
+        "volume": 17700,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 41750,
+        "high": 41900,
+        "low": 41650,
+        "close": 41650,
+        "volume": 11600,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 41900,
+        "high": 41950,
+        "low": 41450,
+        "close": 41450,
+        "volume": 33800,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 41100,
+        "high": 41600,
+        "low": 41000,
+        "close": 41000,
+        "volume": 23200,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 41000,
+        "high": 41000,
+        "low": 40800,
+        "close": 41000,
+        "volume": 6000,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 41900,
+        "high": 41900,
+        "low": 40800,
+        "close": 41900,
+        "volume": 57300,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 41850,
+        "high": 41900,
+        "low": 41200,
+        "close": 41600,
+        "volume": 21200,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 41600,
+        "high": 41700,
+        "low": 41200,
+        "close": 41600,
+        "volume": 17300,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 41600,
+        "high": 41900,
+        "low": 41250,
+        "close": 41600,
+        "volume": 10500,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 41600,
+        "high": 42000,
+        "low": 41400,
+        "close": 41800,
+        "volume": 34800,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 42250,
+        "high": 42250,
+        "low": 41300,
+        "close": 41500,
+        "volume": 66500,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 41600,
+        "high": 41900,
+        "low": 41300,
+        "close": 41500,
+        "volume": 37100,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 41300,
+        "high": 41600,
+        "low": 41300,
+        "close": 41600,
+        "volume": 69100,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 41600,
+        "high": 43050,
+        "low": 41500,
+        "close": 41500,
+        "volume": 86500,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 41500,
+        "high": 41800,
+        "low": 41200,
+        "close": 41600,
+        "volume": 39300,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 41600,
+        "high": 44000,
+        "low": 41600,
+        "close": 42250,
+        "volume": 52900,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 43500,
+        "high": 43500,
+        "low": 42250,
+        "close": 42250,
+        "volume": 29300,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 42300,
+        "high": 42650,
+        "low": 42000,
+        "close": 42000,
+        "volume": 53600,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 42000,
+        "high": 42000,
+        "low": 41400,
+        "close": 41400,
+        "volume": 19900,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 41500,
+        "high": 41500,
+        "low": 41350,
+        "close": 41500,
+        "volume": 84500,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 41500,
+        "high": 41500,
+        "low": 41200,
+        "close": 41300,
+        "volume": 35100,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 41000,
+        "high": 41750,
+        "low": 41000,
+        "close": 41100,
+        "volume": 38700,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 41150,
+        "high": 41700,
+        "low": 40800,
+        "close": 40900,
+        "volume": 52100,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 41650,
+        "high": 41800,
+        "low": 40950,
+        "close": 40950,
+        "volume": 70200,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 41450,
+        "high": 41500,
+        "low": 40950,
+        "close": 41500,
+        "volume": 63500,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 41850,
+        "high": 41850,
+        "low": 41000,
+        "close": 41400,
+        "volume": 43700,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 41200,
+        "high": 41650,
+        "low": 41200,
+        "close": 41500,
+        "volume": 83900,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 41600,
+        "high": 43000,
+        "low": 41600,
+        "close": 42200,
+        "volume": 90700,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 42200,
+        "high": 42250,
+        "low": 41700,
+        "close": 42000,
+        "volume": 47900,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 41500,
+        "high": 42800,
+        "low": 41500,
+        "close": 42500,
+        "volume": 97700,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 42700,
+        "high": 44450,
+        "low": 42700,
+        "close": 44200,
+        "volume": 159400,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 44400,
+        "high": 45000,
+        "low": 44350,
+        "close": 44800,
+        "volume": 150500,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 44900,
+        "high": 45000,
+        "low": 44200,
+        "close": 44750,
+        "volume": 123700,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 44750,
+        "high": 44750,
+        "low": 44200,
+        "close": 44750,
+        "volume": 110500,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 44800,
+        "high": 45750,
+        "low": 44600,
+        "close": 45750,
+        "volume": 104500,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 46000,
+        "high": 46950,
+        "low": 45800,
+        "close": 46000,
+        "volume": 67500,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 46050,
+        "high": 46800,
+        "low": 45500,
+        "close": 46000,
+        "volume": 56200,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 46000,
+        "high": 46400,
+        "low": 45650,
+        "close": 46400,
+        "volume": 93300,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 46500,
+        "high": 47900,
+        "low": 46500,
+        "close": 46700,
+        "volume": 68100,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 46700,
+        "high": 47500,
+        "low": 46600,
+        "close": 47400,
+        "volume": 111700,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 47400,
+        "high": 48800,
+        "low": 46800,
+        "close": 47250,
+        "volume": 75800,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 47300,
+        "high": 47950,
+        "low": 46900,
+        "close": 47200,
+        "volume": 75900,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 47200,
+        "high": 48000,
+        "low": 46900,
+        "close": 48000,
+        "volume": 54900,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 48800,
+        "high": 48800,
+        "low": 47600,
+        "close": 48000,
+        "volume": 100100,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 48500,
+        "high": 48500,
+        "low": 47150,
+        "close": 48000,
+        "volume": 111900,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 47600,
+        "high": 48450,
+        "low": 47600,
+        "close": 48000,
+        "volume": 61000,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 48000,
+        "high": 48200,
+        "low": 47850,
+        "close": 48000,
+        "volume": 101900,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 48400,
+        "high": 48400,
+        "low": 47650,
+        "close": 48000,
+        "volume": 73400,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 47750,
+        "high": 48100,
+        "low": 47750,
+        "close": 48100,
+        "volume": 45800,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 48050,
+        "high": 48200,
+        "low": 47800,
+        "close": 48200,
+        "volume": 47600,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 48000,
+        "high": 48650,
+        "low": 48000,
+        "close": 48200,
+        "volume": 97900,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 48200,
+        "high": 48600,
+        "low": 47900,
+        "close": 48200,
+        "volume": 75200,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 48100,
+        "high": 48500,
+        "low": 47000,
+        "close": 48100,
+        "volume": 77700,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 47100,
+        "high": 48000,
+        "low": 47100,
+        "close": 47500,
+        "volume": 31400,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 47450,
+        "high": 47800,
+        "low": 46500,
+        "close": 46500,
+        "volume": 50800,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 47450,
+        "high": 47950,
+        "low": 46700,
+        "close": 47850,
+        "volume": 26900,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 47850,
+        "high": 48000,
+        "low": 47450,
+        "close": 47700,
+        "volume": 23300,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 47700,
+        "high": 51000,
+        "low": 47500,
+        "close": 50000,
+        "volume": 142800,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 50200,
+        "high": 50200,
+        "low": 49050,
+        "close": 49500,
+        "volume": 25500,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 49500,
+        "high": 49600,
+        "low": 47100,
+        "close": 49100,
+        "volume": 60700,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 49100,
+        "high": 49100,
+        "low": 48400,
+        "close": 49000,
+        "volume": 22100,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 49850,
+        "high": 49850,
+        "low": 48500,
+        "close": 49050,
+        "volume": 17700,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 49050,
+        "high": 49050,
+        "low": 48600,
+        "close": 49000,
+        "volume": 44700,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-08-17",
+        "open": 49000,
+        "high": 49000,
+        "low": 48000,
+        "close": 48500,
+        "volume": 41900,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 47700,
+        "high": 48100,
+        "low": 46400,
+        "close": 46400,
+        "volume": 110100,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 45000,
+        "high": 46900,
+        "low": 45000,
+        "close": 46400,
+        "volume": 106200,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 45100,
+        "high": 46400,
+        "low": 44600,
+        "close": 46200,
+        "volume": 55100,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 46200,
+        "high": 46250,
+        "low": 45400,
+        "close": 45400,
+        "volume": 47800,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 45500,
+        "high": 46500,
+        "low": 45400,
+        "close": 46500,
+        "volume": 39600,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 47650,
+        "high": 49700,
+        "low": 47450,
+        "close": 47500,
+        "volume": 111100,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 47600,
+        "high": 48550,
+        "low": 47600,
+        "close": 48100,
+        "volume": 41200,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 48000,
+        "high": 48000,
+        "low": 46800,
+        "close": 46800,
+        "volume": 34700,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 47050,
+        "high": 47850,
+        "low": 47000,
+        "close": 47400,
+        "volume": 29600,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 47500,
+        "high": 47900,
+        "low": 47400,
+        "close": 47400,
+        "volume": 47700,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 48600,
+        "high": 49750,
+        "low": 48000,
+        "close": 49500,
+        "volume": 94000,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 50000,
+        "high": 50000,
+        "low": 48950,
+        "close": 49850,
+        "volume": 80400,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 49900,
+        "high": 50400,
+        "low": 49100,
+        "close": 49750,
+        "volume": 96700,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 49750,
+        "high": 50000,
+        "low": 49650,
+        "close": 49650,
+        "volume": 63800,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 50000,
+        "high": 52200,
+        "low": 49950,
+        "close": 51700,
+        "volume": 255400,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 51800,
+        "high": 52000,
+        "low": 51000,
+        "close": 51600,
+        "volume": 69900,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 51600,
+        "high": 53000,
+        "low": 51200,
+        "close": 51300,
+        "volume": 76100,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 51500,
+        "high": 51800,
+        "low": 49900,
+        "close": 49900,
+        "volume": 59000,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 50900,
+        "high": 50900,
+        "low": 49700,
+        "close": 49900,
+        "volume": 59300,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 50100,
+        "high": 50300,
+        "low": 49000,
+        "close": 50000,
+        "volume": 50400,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 50000,
+        "high": 50300,
+        "low": 49500,
+        "close": 50200,
+        "volume": 41900,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 50000,
+        "high": 52500,
+        "low": 50000,
+        "close": 52000,
+        "volume": 107900,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 52000,
+        "high": 53500,
+        "low": 50900,
+        "close": 52100,
+        "volume": 98400,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 51000,
+        "high": 52300,
+        "low": 49000,
+        "close": 51500,
+        "volume": 87900,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 51500,
+        "high": 52300,
+        "low": 48000,
+        "close": 48100,
+        "volume": 115500,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 48500,
+        "high": 50600,
+        "low": 47500,
+        "close": 48300,
+        "volume": 104900,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 48300,
+        "high": 49200,
+        "low": 47600,
+        "close": 49200,
+        "volume": 60000,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 49350,
+        "high": 50400,
+        "low": 49350,
+        "close": 49700,
+        "volume": 41400,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 50000,
+        "high": 50500,
+        "low": 46300,
+        "close": 46300,
+        "volume": 51300,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 49000,
+        "high": 49500,
+        "low": 48000,
+        "close": 49500,
+        "volume": 63700,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 51500,
+        "high": 51500,
+        "low": 48550,
+        "close": 49600,
+        "volume": 93900,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 48300,
+        "high": 49850,
+        "low": 48200,
+        "close": 49700,
+        "volume": 36500,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 49400,
+        "high": 50500,
+        "low": 49400,
+        "close": 50000,
+        "volume": 38700,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 50000,
+        "high": 50500,
+        "low": 49500,
+        "close": 50200,
+        "volume": 39100,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 50400,
+        "high": 51900,
+        "low": 50200,
+        "close": 51000,
+        "volume": 68900,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 51000,
+        "high": 52100,
+        "low": 50700,
+        "close": 51200,
+        "volume": 79300,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 50500,
+        "high": 51200,
+        "low": 50500,
+        "close": 50900,
+        "volume": 50000,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 50800,
+        "high": 51200,
+        "low": 50200,
+        "close": 50300,
+        "volume": 38000,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 50200,
+        "high": 50800,
+        "low": 49700,
+        "close": 50800,
+        "volume": 53100,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 50800,
+        "high": 50800,
+        "low": 49500,
+        "close": 50000,
+        "volume": 30800,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 49350,
+        "high": 50000,
+        "low": 48900,
+        "close": 48900,
+        "volume": 42900,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 48850,
+        "high": 48850,
+        "low": 47000,
+        "close": 47500,
+        "volume": 112900,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 48600,
+        "high": 48600,
+        "low": 47200,
+        "close": 47500,
+        "volume": 32400,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 47900,
+        "high": 48050,
+        "low": 46000,
+        "close": 48000,
+        "volume": 71900,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 48000,
+        "high": 48000,
+        "low": 46600,
+        "close": 46600,
+        "volume": 16600,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 47450,
+        "high": 47450,
+        "low": 46000,
+        "close": 46850,
+        "volume": 59500,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 46900,
+        "high": 47050,
+        "low": 46200,
+        "close": 46950,
+        "volume": 23200,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 46000,
+        "high": 46000,
+        "low": 43700,
+        "close": 44700,
+        "volume": 108300,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 45600,
+        "high": 45600,
+        "low": 44050,
+        "close": 44600,
+        "volume": 62400,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 44050,
+        "high": 44550,
+        "low": 43500,
+        "close": 43500,
+        "volume": 18600,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 43500,
+        "high": 43500,
+        "low": 42000,
+        "close": 42000,
+        "volume": 31200,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 40850,
+        "high": 42800,
+        "low": 40850,
+        "close": 41450,
+        "volume": 64600,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 41600,
+        "high": 43050,
+        "low": 41450,
+        "close": 43050,
+        "volume": 72200,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 44200,
+        "high": 44200,
+        "low": 42650,
+        "close": 43700,
+        "volume": 30300,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 43650,
+        "high": 44000,
+        "low": 43350,
+        "close": 43800,
+        "volume": 19100,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 43800,
+        "high": 43850,
+        "low": 41500,
+        "close": 43750,
+        "volume": 24800,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 43700,
+        "high": 45000,
+        "low": 43350,
+        "close": 45000,
+        "volume": 23300,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 45150,
+        "high": 45550,
+        "low": 45100,
+        "close": 45150,
+        "volume": 22300,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 45200,
+        "high": 45200,
+        "low": 44600,
+        "close": 44800,
+        "volume": 21100,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 44750,
+        "high": 44750,
+        "low": 44050,
+        "close": 44450,
+        "volume": 10700,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 44500,
+        "high": 45200,
+        "low": 44500,
+        "close": 44800,
+        "volume": 18400,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 45850,
+        "high": 45850,
+        "low": 44700,
+        "close": 44700,
+        "volume": 31400,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 45000,
+        "high": 45250,
+        "low": 44750,
+        "close": 44900,
+        "volume": 9200,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 45000,
+        "high": 45200,
+        "low": 44050,
+        "close": 44800,
+        "volume": 18100,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 44600,
+        "high": 45600,
+        "low": 43900,
+        "close": 45200,
+        "volume": 10500,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 45200,
+        "high": 46200,
+        "low": 44950,
+        "close": 46100,
+        "volume": 59600,
+        "ticker": "FMC"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 46450,
+        "high": 46450,
+        "low": 45800,
+        "close": 46100,
+        "volume": 32800,
+        "ticker": "FMC"
+    }
+]

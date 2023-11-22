@@ -1,0 +1,56 @@
+[
+    {
+        "time": "2023-06-29",
+        "open": 7300,
+        "high": 7300,
+        "low": 7300,
+        "close": 7300,
+        "volume": 200,
+        "ticker": "CH5"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 10200,
+        "high": 10200,
+        "low": 10200,
+        "close": 10200,
+        "volume": 100,
+        "ticker": "CH5"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 11700,
+        "high": 11700,
+        "low": 11700,
+        "close": 11700,
+        "volume": 100,
+        "ticker": "CH5"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 13400,
+        "high": 13400,
+        "low": 13400,
+        "close": 13400,
+        "volume": 100,
+        "ticker": "CH5"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 13500,
+        "high": 13500,
+        "low": 13500,
+        "close": 13500,
+        "volume": 100,
+        "ticker": "CH5"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 13500,
+        "high": 13500,
+        "low": 13500,
+        "close": 13500,
+        "volume": 100,
+        "ticker": "CH5"
+    }
+]

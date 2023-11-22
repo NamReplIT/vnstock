@@ -1,0 +1,416 @@
+[
+    {
+        "time": "2023-05-19",
+        "open": 31000,
+        "high": 31000,
+        "low": 31000,
+        "close": 31000,
+        "volume": 300,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 30000,
+        "high": 30000,
+        "low": 30000,
+        "close": 30000,
+        "volume": 2000,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 34500,
+        "high": 34500,
+        "low": 25500,
+        "close": 34500,
+        "volume": 1800,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 36900,
+        "high": 36900,
+        "low": 36900,
+        "close": 36900,
+        "volume": 100,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 31400,
+        "high": 31400,
+        "low": 31400,
+        "close": 31400,
+        "volume": 200,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 30000,
+        "high": 30000,
+        "low": 30000,
+        "close": 30000,
+        "volume": 1000,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 30000,
+        "high": 30000,
+        "low": 30000,
+        "close": 30000,
+        "volume": 500,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 30000,
+        "high": 30000,
+        "low": 30000,
+        "close": 30000,
+        "volume": 300,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 30000,
+        "high": 30000,
+        "low": 30000,
+        "close": 30000,
+        "volume": 100,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 30100,
+        "high": 30100,
+        "low": 30100,
+        "close": 30100,
+        "volume": 100,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 30000,
+        "high": 30000,
+        "low": 30000,
+        "close": 30000,
+        "volume": 100,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 30000,
+        "high": 30000,
+        "low": 30000,
+        "close": 30000,
+        "volume": 500,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 26100,
+        "high": 26100,
+        "low": 26100,
+        "close": 26100,
+        "volume": 100,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 26200,
+        "high": 26200,
+        "low": 26200,
+        "close": 26200,
+        "volume": 100,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 22300,
+        "high": 22300,
+        "low": 22300,
+        "close": 22300,
+        "volume": 100,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 25600,
+        "high": 25600,
+        "low": 25600,
+        "close": 25600,
+        "volume": 100,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 21800,
+        "high": 25600,
+        "low": 21800,
+        "close": 25600,
+        "volume": 400,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 26700,
+        "high": 26700,
+        "low": 26700,
+        "close": 26700,
+        "volume": 100,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 22700,
+        "high": 28800,
+        "low": 22700,
+        "close": 28800,
+        "volume": 300,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 21600,
+        "high": 21600,
+        "low": 21600,
+        "close": 21600,
+        "volume": 100,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 24800,
+        "high": 24800,
+        "low": 24800,
+        "close": 24800,
+        "volume": 100,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 28500,
+        "high": 28500,
+        "low": 28500,
+        "close": 28500,
+        "volume": 100,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 31700,
+        "high": 31700,
+        "low": 31700,
+        "close": 31700,
+        "volume": 100,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 36400,
+        "high": 36400,
+        "low": 36400,
+        "close": 36400,
+        "volume": 100,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 31000,
+        "high": 31000,
+        "low": 31000,
+        "close": 31000,
+        "volume": 300,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 35600,
+        "high": 35600,
+        "low": 35600,
+        "close": 35600,
+        "volume": 100,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 30300,
+        "high": 30300,
+        "low": 30300,
+        "close": 30300,
+        "volume": 300,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 25900,
+        "high": 25900,
+        "low": 25900,
+        "close": 25900,
+        "volume": 100,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 22100,
+        "high": 22100,
+        "low": 22100,
+        "close": 22100,
+        "volume": 100,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 25400,
+        "high": 25400,
+        "low": 25400,
+        "close": 25400,
+        "volume": 200,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 25500,
+        "high": 25500,
+        "low": 25400,
+        "close": 25400,
+        "volume": 700,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 29300,
+        "high": 29300,
+        "low": 29300,
+        "close": 29300,
+        "volume": 100,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 29300,
+        "high": 29300,
+        "low": 29300,
+        "close": 29300,
+        "volume": 100,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 26500,
+        "high": 26500,
+        "low": 26500,
+        "close": 26500,
+        "volume": 1000,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 29900,
+        "high": 29900,
+        "low": 29900,
+        "close": 29900,
+        "volume": 100,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 26300,
+        "high": 26300,
+        "low": 26300,
+        "close": 26300,
+        "volume": 100,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 22600,
+        "high": 22600,
+        "low": 22400,
+        "close": 22500,
+        "volume": 8000,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 25800,
+        "high": 25800,
+        "low": 22400,
+        "close": 24500,
+        "volume": 1300,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 23700,
+        "high": 23700,
+        "low": 23700,
+        "close": 23700,
+        "volume": 100,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 26700,
+        "high": 26700,
+        "low": 26700,
+        "close": 26700,
+        "volume": 100,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 29900,
+        "high": 29900,
+        "low": 26000,
+        "close": 26000,
+        "volume": 200,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 26000,
+        "high": 26000,
+        "low": 23800,
+        "close": 23800,
+        "volume": 5600,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 23800,
+        "high": 23800,
+        "low": 20300,
+        "close": 20300,
+        "volume": 33500,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 23500,
+        "high": 23500,
+        "low": 23000,
+        "close": 23000,
+        "volume": 600,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 25400,
+        "high": 25400,
+        "low": 21900,
+        "close": 21900,
+        "volume": 400,
+        "ticker": "NAS"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 21900,
+        "high": 21900,
+        "low": 20500,
+        "close": 20500,
+        "volume": 9300,
+        "ticker": "NAS"
+    }
+]

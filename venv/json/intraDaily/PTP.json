@@ -1,0 +1,83 @@
+[
+    {
+        "time": "2023-05-05",
+        "open": 10820,
+        "high": 10820,
+        "low": 10820,
+        "close": 10820,
+        "volume": 100,
+        "ticker": "PTP"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 11570,
+        "high": 11570,
+        "low": 11570,
+        "close": 11570,
+        "volume": 1100,
+        "ticker": "PTP"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 9900,
+        "high": 9900,
+        "low": 9900,
+        "close": 9900,
+        "volume": 4900,
+        "ticker": "PTP"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 11380,
+        "high": 11380,
+        "low": 11290,
+        "close": 11380,
+        "volume": 4100,
+        "ticker": "PTP"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 11380,
+        "high": 11380,
+        "low": 11380,
+        "close": 11380,
+        "volume": 5000,
+        "ticker": "PTP"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 11380,
+        "high": 11380,
+        "low": 11380,
+        "close": 11380,
+        "volume": 18000,
+        "ticker": "PTP"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 11380,
+        "high": 11380,
+        "low": 11380,
+        "close": 11380,
+        "volume": 2500,
+        "ticker": "PTP"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 10500,
+        "high": 10500,
+        "low": 10500,
+        "close": 10500,
+        "volume": 2000,
+        "ticker": "PTP"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 10500,
+        "high": 10500,
+        "low": 10500,
+        "close": 10500,
+        "volume": 800,
+        "ticker": "PTP"
+    }
+]

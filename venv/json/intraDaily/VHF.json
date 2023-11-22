@@ -1,0 +1,83 @@
+[
+    {
+        "time": "2023-05-17",
+        "open": 13790,
+        "high": 13790,
+        "low": 13790,
+        "close": 13790,
+        "volume": 100,
+        "ticker": "VHF"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 19310,
+        "high": 19310,
+        "low": 19310,
+        "close": 19310,
+        "volume": 2000,
+        "ticker": "VHF"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 19310,
+        "high": 22170,
+        "low": 19310,
+        "close": 19700,
+        "volume": 400,
+        "ticker": "VHF"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 20690,
+        "high": 20690,
+        "low": 20690,
+        "close": 20690,
+        "volume": 100,
+        "ticker": "VHF"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 19700,
+        "high": 19700,
+        "low": 19700,
+        "close": 19700,
+        "volume": 100,
+        "ticker": "VHF"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 19700,
+        "high": 19700,
+        "low": 19700,
+        "close": 19700,
+        "volume": 100,
+        "ticker": "VHF"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 11900,
+        "high": 11900,
+        "low": 11900,
+        "close": 11900,
+        "volume": 5300,
+        "ticker": "VHF"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 11900,
+        "high": 11900,
+        "low": 11900,
+        "close": 11900,
+        "volume": 200,
+        "ticker": "VHF"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 11900,
+        "high": 11900,
+        "low": 11900,
+        "close": 11900,
+        "volume": 100,
+        "ticker": "VHF"
+    }
+]

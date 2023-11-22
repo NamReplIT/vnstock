@@ -1,0 +1,92 @@
+[
+    {
+        "time": "2023-05-12",
+        "open": 2500,
+        "high": 2500,
+        "low": 2500,
+        "close": 2500,
+        "volume": 100,
+        "ticker": "APT"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 2600,
+        "high": 2600,
+        "low": 2600,
+        "close": 2600,
+        "volume": 100,
+        "ticker": "APT"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 2600,
+        "high": 2600,
+        "low": 2600,
+        "close": 2600,
+        "volume": 100,
+        "ticker": "APT"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 2900,
+        "high": 2900,
+        "low": 2900,
+        "close": 2900,
+        "volume": 300,
+        "ticker": "APT"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 2900,
+        "high": 3300,
+        "low": 2900,
+        "close": 3300,
+        "volume": 200,
+        "ticker": "APT"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 3500,
+        "high": 3500,
+        "low": 3500,
+        "close": 3500,
+        "volume": 100,
+        "ticker": "APT"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 3500,
+        "high": 3500,
+        "low": 3500,
+        "close": 3500,
+        "volume": 2000,
+        "ticker": "APT"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 3500,
+        "high": 3500,
+        "low": 3500,
+        "close": 3500,
+        "volume": 1300,
+        "ticker": "APT"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 3500,
+        "high": 3500,
+        "low": 3500,
+        "close": 3500,
+        "volume": 500,
+        "ticker": "APT"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 3800,
+        "high": 3800,
+        "low": 3800,
+        "close": 3800,
+        "volume": 1100,
+        "ticker": "APT"
+    }
+]

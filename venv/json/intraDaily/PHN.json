@@ -1,0 +1,434 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 37990,
+        "high": 37990,
+        "low": 37990,
+        "close": 37990,
+        "volume": 300,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 38460,
+        "high": 38460,
+        "low": 38460,
+        "close": 38460,
+        "volume": 400,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 36590,
+        "high": 36590,
+        "low": 36590,
+        "close": 36590,
+        "volume": 3200,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 36590,
+        "high": 36590,
+        "low": 36590,
+        "close": 36590,
+        "volume": 700,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 36590,
+        "high": 36590,
+        "low": 36590,
+        "close": 36590,
+        "volume": 500,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 36590,
+        "high": 36590,
+        "low": 36590,
+        "close": 36590,
+        "volume": 500,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 36590,
+        "high": 36590,
+        "low": 36590,
+        "close": 36590,
+        "volume": 500,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 40250,
+        "high": 40250,
+        "low": 40250,
+        "close": 40250,
+        "volume": 400,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 36590,
+        "high": 36590,
+        "low": 36310,
+        "close": 36310,
+        "volume": 1000,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 32930,
+        "high": 32930,
+        "low": 32930,
+        "close": 32930,
+        "volume": 100,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 36210,
+        "high": 36210,
+        "low": 36210,
+        "close": 36210,
+        "volume": 100,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 39780,
+        "high": 39780,
+        "low": 39780,
+        "close": 39780,
+        "volume": 400,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 35930,
+        "high": 35930,
+        "low": 35840,
+        "close": 35840,
+        "volume": 200,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 39400,
+        "high": 39400,
+        "low": 39400,
+        "close": 39400,
+        "volume": 100,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 36400,
+        "high": 39400,
+        "low": 36400,
+        "close": 39400,
+        "volume": 200,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 40900,
+        "high": 40900,
+        "low": 40900,
+        "close": 40900,
+        "volume": 100,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 36870,
+        "high": 36870,
+        "low": 36870,
+        "close": 36870,
+        "volume": 800,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 40430,
+        "high": 40430,
+        "low": 40430,
+        "close": 40430,
+        "volume": 100,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 36400,
+        "high": 36400,
+        "low": 36400,
+        "close": 36400,
+        "volume": 4400,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 37530,
+        "high": 37530,
+        "low": 37530,
+        "close": 37530,
+        "volume": 200,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 37060,
+        "high": 37060,
+        "low": 37060,
+        "close": 37060,
+        "volume": 200,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 37060,
+        "high": 37060,
+        "low": 37060,
+        "close": 37060,
+        "volume": 100,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 33870,
+        "high": 38460,
+        "low": 33870,
+        "close": 38460,
+        "volume": 600,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 34710,
+        "high": 34710,
+        "low": 34710,
+        "close": 34710,
+        "volume": 100,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 32840,
+        "high": 32840,
+        "low": 32840,
+        "close": 32840,
+        "volume": 500,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 34240,
+        "high": 34240,
+        "low": 34240,
+        "close": 34240,
+        "volume": 200,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 32840,
+        "high": 32840,
+        "low": 32840,
+        "close": 32840,
+        "volume": 500,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 33770,
+        "high": 33770,
+        "low": 33770,
+        "close": 33770,
+        "volume": 600,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 34240,
+        "high": 37150,
+        "low": 34240,
+        "close": 37150,
+        "volume": 900,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 37710,
+        "high": 40810,
+        "low": 37710,
+        "close": 40810,
+        "volume": 1500,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 40810,
+        "high": 40810,
+        "low": 40810,
+        "close": 40810,
+        "volume": 100,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 37530,
+        "high": 37530,
+        "low": 37530,
+        "close": 37530,
+        "volume": 600,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 41280,
+        "high": 41280,
+        "low": 41280,
+        "close": 41280,
+        "volume": 100,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 45410,
+        "high": 45410,
+        "low": 45410,
+        "close": 45410,
+        "volume": 100,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 40900,
+        "high": 40900,
+        "low": 40900,
+        "close": 40900,
+        "volume": 100,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 40900,
+        "high": 40900,
+        "low": 40900,
+        "close": 40900,
+        "volume": 200,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 42220,
+        "high": 42220,
+        "low": 42220,
+        "close": 42220,
+        "volume": 1200,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 42220,
+        "high": 42690,
+        "low": 42220,
+        "close": 42690,
+        "volume": 700,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 42690,
+        "high": 42690,
+        "low": 42220,
+        "close": 42220,
+        "volume": 700,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 42220,
+        "high": 42690,
+        "low": 42220,
+        "close": 42690,
+        "volume": 1400,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 46910,
+        "high": 46910,
+        "low": 45970,
+        "close": 45970,
+        "volume": 400,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 50190,
+        "high": 50570,
+        "low": 46910,
+        "close": 46910,
+        "volume": 3600,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 46910,
+        "high": 46910,
+        "low": 46910,
+        "close": 46910,
+        "volume": 300,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 42220,
+        "high": 42220,
+        "low": 42220,
+        "close": 42220,
+        "volume": 300,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 45500,
+        "high": 45500,
+        "low": 45500,
+        "close": 45500,
+        "volume": 700,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 48000,
+        "high": 48000,
+        "low": 48000,
+        "close": 48000,
+        "volume": 100,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 47900,
+        "high": 47900,
+        "low": 47900,
+        "close": 47900,
+        "volume": 200,
+        "ticker": "PHN"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 47500,
+        "high": 47500,
+        "low": 47500,
+        "close": 47500,
+        "volume": 100,
+        "ticker": "PHN"
+    }
+]

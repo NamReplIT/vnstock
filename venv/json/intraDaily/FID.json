@@ -1,0 +1,1289 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 1500,
+        "high": 1500,
+        "low": 1500,
+        "close": 1500,
+        "volume": 100,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 1600,
+        "high": 1600,
+        "low": 1400,
+        "close": 1500,
+        "volume": 86600,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 1500,
+        "high": 1600,
+        "low": 1400,
+        "close": 1500,
+        "volume": 200800,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 1500,
+        "high": 1500,
+        "low": 1400,
+        "close": 1500,
+        "volume": 124700,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 1600,
+        "high": 1600,
+        "low": 1500,
+        "close": 1600,
+        "volume": 671200,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 1700,
+        "high": 1700,
+        "low": 1600,
+        "close": 1700,
+        "volume": 1016800,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 1800,
+        "high": 1800,
+        "low": 1700,
+        "close": 1700,
+        "volume": 279900,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 1700,
+        "high": 1800,
+        "low": 1600,
+        "close": 1700,
+        "volume": 683100,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 1800,
+        "high": 1800,
+        "low": 1600,
+        "close": 1700,
+        "volume": 365100,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 1700,
+        "high": 1800,
+        "low": 1600,
+        "close": 1800,
+        "volume": 975900,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 1800,
+        "high": 1900,
+        "low": 1800,
+        "close": 1900,
+        "volume": 252500,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 1900,
+        "high": 1900,
+        "low": 1800,
+        "close": 1800,
+        "volume": 501500,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 1800,
+        "high": 1800,
+        "low": 1700,
+        "close": 1700,
+        "volume": 768900,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 1700,
+        "high": 1800,
+        "low": 1700,
+        "close": 1800,
+        "volume": 15100,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 1800,
+        "high": 1800,
+        "low": 1700,
+        "close": 1800,
+        "volume": 147300,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 1700,
+        "high": 1800,
+        "low": 1700,
+        "close": 1700,
+        "volume": 256100,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 1700,
+        "high": 1800,
+        "low": 1700,
+        "close": 1800,
+        "volume": 176400,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 1800,
+        "high": 1900,
+        "low": 1700,
+        "close": 1900,
+        "volume": 1449700,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 2000,
+        "high": 2000,
+        "low": 2000,
+        "close": 2000,
+        "volume": 671900,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 2200,
+        "high": 2200,
+        "low": 2100,
+        "close": 2200,
+        "volume": 1440300,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 2400,
+        "high": 2400,
+        "low": 2400,
+        "close": 2400,
+        "volume": 1084800,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 2500,
+        "high": 2600,
+        "low": 2300,
+        "close": 2400,
+        "volume": 2597800,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 2400,
+        "high": 2600,
+        "low": 2400,
+        "close": 2600,
+        "volume": 1095700,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 2700,
+        "high": 2800,
+        "low": 2700,
+        "close": 2800,
+        "volume": 417500,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 3000,
+        "high": 3000,
+        "low": 2900,
+        "close": 3000,
+        "volume": 1273400,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 3200,
+        "high": 3300,
+        "low": 3200,
+        "close": 3300,
+        "volume": 464600,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 3400,
+        "high": 3600,
+        "low": 3000,
+        "close": 3400,
+        "volume": 2944500,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 3200,
+        "high": 3400,
+        "low": 3100,
+        "close": 3400,
+        "volume": 1693600,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 3500,
+        "high": 3700,
+        "low": 3400,
+        "close": 3700,
+        "volume": 1513300,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 3800,
+        "high": 4000,
+        "low": 3500,
+        "close": 3500,
+        "volume": 1696900,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 3600,
+        "high": 3600,
+        "low": 3200,
+        "close": 3400,
+        "volume": 802100,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 3400,
+        "high": 3600,
+        "low": 3200,
+        "close": 3300,
+        "volume": 603600,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 3200,
+        "high": 3200,
+        "low": 3000,
+        "close": 3000,
+        "volume": 1658200,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 3000,
+        "high": 3200,
+        "low": 2800,
+        "close": 3200,
+        "volume": 399600,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 3300,
+        "high": 3400,
+        "low": 3200,
+        "close": 3300,
+        "volume": 365300,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 3300,
+        "high": 3300,
+        "low": 3100,
+        "close": 3200,
+        "volume": 344500,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 3100,
+        "high": 3200,
+        "low": 3000,
+        "close": 3200,
+        "volume": 568400,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 3100,
+        "high": 3100,
+        "low": 2900,
+        "close": 3000,
+        "volume": 1035500,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 3000,
+        "high": 3100,
+        "low": 2900,
+        "close": 3100,
+        "volume": 140300,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 3100,
+        "high": 3100,
+        "low": 2900,
+        "close": 2900,
+        "volume": 186800,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 2900,
+        "high": 3000,
+        "low": 2800,
+        "close": 2800,
+        "volume": 242100,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 2800,
+        "high": 2900,
+        "low": 2700,
+        "close": 2900,
+        "volume": 206800,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 2800,
+        "high": 3000,
+        "low": 2700,
+        "close": 2800,
+        "volume": 198300,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 2800,
+        "high": 2800,
+        "low": 2600,
+        "close": 2800,
+        "volume": 633800,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 2800,
+        "high": 3000,
+        "low": 2700,
+        "close": 3000,
+        "volume": 353500,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 3100,
+        "high": 3300,
+        "low": 3100,
+        "close": 3200,
+        "volume": 1108300,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 3100,
+        "high": 3100,
+        "low": 3000,
+        "close": 3100,
+        "volume": 323000,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 3000,
+        "high": 3200,
+        "low": 3000,
+        "close": 3100,
+        "volume": 347700,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 3100,
+        "high": 3200,
+        "low": 3000,
+        "close": 3100,
+        "volume": 423000,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 3100,
+        "high": 3200,
+        "low": 3000,
+        "close": 3100,
+        "volume": 256300,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 3100,
+        "high": 3100,
+        "low": 3000,
+        "close": 3000,
+        "volume": 284900,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 3100,
+        "high": 3200,
+        "low": 3000,
+        "close": 3100,
+        "volume": 345600,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 3100,
+        "high": 3400,
+        "low": 3000,
+        "close": 3200,
+        "volume": 696600,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 2900,
+        "high": 3300,
+        "low": 2900,
+        "close": 3100,
+        "volume": 399000,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 3100,
+        "high": 3200,
+        "low": 3000,
+        "close": 3100,
+        "volume": 170800,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 3000,
+        "high": 3300,
+        "low": 3000,
+        "close": 3200,
+        "volume": 802600,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 3200,
+        "high": 3300,
+        "low": 3100,
+        "close": 3100,
+        "volume": 359000,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 3100,
+        "high": 3200,
+        "low": 3000,
+        "close": 3200,
+        "volume": 633600,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 3200,
+        "high": 3300,
+        "low": 3200,
+        "close": 3300,
+        "volume": 440800,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 3300,
+        "high": 3300,
+        "low": 3100,
+        "close": 3100,
+        "volume": 346400,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 3100,
+        "high": 3200,
+        "low": 3000,
+        "close": 3100,
+        "volume": 318500,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 3100,
+        "high": 3200,
+        "low": 3000,
+        "close": 3100,
+        "volume": 348900,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 3100,
+        "high": 3300,
+        "low": 3100,
+        "close": 3300,
+        "volume": 966000,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 3300,
+        "high": 3400,
+        "low": 3200,
+        "close": 3200,
+        "volume": 913500,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 3200,
+        "high": 3200,
+        "low": 3100,
+        "close": 3200,
+        "volume": 413200,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 3100,
+        "high": 3200,
+        "low": 3100,
+        "close": 3200,
+        "volume": 385000,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 3200,
+        "high": 3200,
+        "low": 3100,
+        "close": 3100,
+        "volume": 532700,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 3100,
+        "high": 3200,
+        "low": 3000,
+        "close": 3200,
+        "volume": 392600,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 3200,
+        "high": 3400,
+        "low": 3200,
+        "close": 3400,
+        "volume": 1895500,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 3400,
+        "high": 3500,
+        "low": 3300,
+        "close": 3500,
+        "volume": 1237100,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 3500,
+        "high": 3600,
+        "low": 3200,
+        "close": 3300,
+        "volume": 1129200,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 3300,
+        "high": 3400,
+        "low": 3100,
+        "close": 3300,
+        "volume": 821000,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 3300,
+        "high": 3300,
+        "low": 3200,
+        "close": 3300,
+        "volume": 427600,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 3300,
+        "high": 3300,
+        "low": 3200,
+        "close": 3200,
+        "volume": 406700,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 3200,
+        "high": 3300,
+        "low": 3100,
+        "close": 3200,
+        "volume": 740100,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-08-17",
+        "open": 3200,
+        "high": 3300,
+        "low": 3100,
+        "close": 3100,
+        "volume": 232100,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 3100,
+        "high": 3200,
+        "low": 2800,
+        "close": 2800,
+        "volume": 1432000,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 2800,
+        "high": 2800,
+        "low": 2600,
+        "close": 2800,
+        "volume": 656400,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 2800,
+        "high": 2900,
+        "low": 2600,
+        "close": 2900,
+        "volume": 432000,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 2900,
+        "high": 3000,
+        "low": 2800,
+        "close": 2800,
+        "volume": 313400,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 2900,
+        "high": 2900,
+        "low": 2700,
+        "close": 2700,
+        "volume": 516400,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 2800,
+        "high": 2900,
+        "low": 2800,
+        "close": 2900,
+        "volume": 644200,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 2900,
+        "high": 3000,
+        "low": 2800,
+        "close": 2800,
+        "volume": 329300,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 2900,
+        "high": 3000,
+        "low": 2800,
+        "close": 2900,
+        "volume": 216800,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 2800,
+        "high": 3000,
+        "low": 2800,
+        "close": 2900,
+        "volume": 146300,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 2900,
+        "high": 3000,
+        "low": 2800,
+        "close": 2900,
+        "volume": 353100,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 2900,
+        "high": 3000,
+        "low": 2900,
+        "close": 2900,
+        "volume": 382700,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 2900,
+        "high": 3000,
+        "low": 2900,
+        "close": 2900,
+        "volume": 314200,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 2900,
+        "high": 3000,
+        "low": 2900,
+        "close": 3000,
+        "volume": 400300,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 2900,
+        "high": 3000,
+        "low": 2900,
+        "close": 2900,
+        "volume": 352100,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 2900,
+        "high": 3000,
+        "low": 2800,
+        "close": 2800,
+        "volume": 580300,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 2800,
+        "high": 3000,
+        "low": 2800,
+        "close": 3000,
+        "volume": 458300,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 3000,
+        "high": 3000,
+        "low": 2900,
+        "close": 3000,
+        "volume": 269200,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 2900,
+        "high": 2900,
+        "low": 2800,
+        "close": 2900,
+        "volume": 92200,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 2900,
+        "high": 2900,
+        "low": 2800,
+        "close": 2900,
+        "volume": 223800,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 2900,
+        "high": 2900,
+        "low": 2800,
+        "close": 2800,
+        "volume": 61800,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 2800,
+        "high": 2900,
+        "low": 2700,
+        "close": 2800,
+        "volume": 187400,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 2800,
+        "high": 2900,
+        "low": 2700,
+        "close": 2800,
+        "volume": 176700,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 2800,
+        "high": 2900,
+        "low": 2700,
+        "close": 2800,
+        "volume": 205800,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 2800,
+        "high": 2800,
+        "low": 2600,
+        "close": 2800,
+        "volume": 467500,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 2700,
+        "high": 2800,
+        "low": 2600,
+        "close": 2600,
+        "volume": 223400,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 2600,
+        "high": 2600,
+        "low": 2400,
+        "close": 2500,
+        "volume": 269300,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 2500,
+        "high": 2500,
+        "low": 2300,
+        "close": 2400,
+        "volume": 217400,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 2500,
+        "high": 2500,
+        "low": 2300,
+        "close": 2400,
+        "volume": 66900,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 2400,
+        "high": 2500,
+        "low": 2300,
+        "close": 2400,
+        "volume": 173900,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 2500,
+        "high": 2500,
+        "low": 2400,
+        "close": 2500,
+        "volume": 101800,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 2500,
+        "high": 2500,
+        "low": 2300,
+        "close": 2400,
+        "volume": 234100,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 2300,
+        "high": 2400,
+        "low": 2200,
+        "close": 2300,
+        "volume": 367700,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 2300,
+        "high": 2300,
+        "low": 2200,
+        "close": 2200,
+        "volume": 136400,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 2300,
+        "high": 2300,
+        "low": 2200,
+        "close": 2200,
+        "volume": 104800,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 2300,
+        "high": 2400,
+        "low": 2200,
+        "close": 2400,
+        "volume": 490900,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 2500,
+        "high": 2600,
+        "low": 2500,
+        "close": 2600,
+        "volume": 281200,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 2700,
+        "high": 2800,
+        "low": 2400,
+        "close": 2600,
+        "volume": 868200,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 2700,
+        "high": 2800,
+        "low": 2700,
+        "close": 2700,
+        "volume": 615700,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 2700,
+        "high": 2800,
+        "low": 2600,
+        "close": 2600,
+        "volume": 156200,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 2600,
+        "high": 2700,
+        "low": 2500,
+        "close": 2600,
+        "volume": 257600,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 2600,
+        "high": 2700,
+        "low": 2500,
+        "close": 2500,
+        "volume": 221800,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 2600,
+        "high": 2600,
+        "low": 2400,
+        "close": 2500,
+        "volume": 164300,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 2500,
+        "high": 2600,
+        "low": 2300,
+        "close": 2500,
+        "volume": 390600,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 2500,
+        "high": 2500,
+        "low": 2300,
+        "close": 2400,
+        "volume": 513000,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 2400,
+        "high": 2500,
+        "low": 2300,
+        "close": 2400,
+        "volume": 69400,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 2500,
+        "high": 2500,
+        "low": 2300,
+        "close": 2500,
+        "volume": 115300,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 2500,
+        "high": 2600,
+        "low": 2400,
+        "close": 2400,
+        "volume": 294700,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 2500,
+        "high": 2500,
+        "low": 2200,
+        "close": 2300,
+        "volume": 344800,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 2300,
+        "high": 2300,
+        "low": 2200,
+        "close": 2300,
+        "volume": 136600,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 2300,
+        "high": 2300,
+        "low": 2200,
+        "close": 2200,
+        "volume": 55500,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 2200,
+        "high": 2300,
+        "low": 2100,
+        "close": 2100,
+        "volume": 119300,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 2100,
+        "high": 2200,
+        "low": 2000,
+        "close": 2100,
+        "volume": 54900,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 2200,
+        "high": 2300,
+        "low": 2200,
+        "close": 2300,
+        "volume": 281700,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 2200,
+        "high": 2500,
+        "low": 2200,
+        "close": 2400,
+        "volume": 147600,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 2400,
+        "high": 2400,
+        "low": 2300,
+        "close": 2400,
+        "volume": 16900,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 2400,
+        "high": 2400,
+        "low": 2300,
+        "close": 2300,
+        "volume": 56100,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 2300,
+        "high": 2500,
+        "low": 2200,
+        "close": 2400,
+        "volume": 229400,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 2400,
+        "high": 2500,
+        "low": 2400,
+        "close": 2500,
+        "volume": 198400,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 2500,
+        "high": 2500,
+        "low": 2300,
+        "close": 2400,
+        "volume": 133200,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 2400,
+        "high": 2500,
+        "low": 2300,
+        "close": 2300,
+        "volume": 94300,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 2300,
+        "high": 2400,
+        "low": 2300,
+        "close": 2300,
+        "volume": 153800,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 2400,
+        "high": 2500,
+        "low": 2300,
+        "close": 2400,
+        "volume": 171800,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 2400,
+        "high": 2400,
+        "low": 2300,
+        "close": 2300,
+        "volume": 74000,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 2400,
+        "high": 2500,
+        "low": 2300,
+        "close": 2400,
+        "volume": 256300,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 2400,
+        "high": 2400,
+        "low": 2300,
+        "close": 2400,
+        "volume": 29300,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 2400,
+        "high": 2500,
+        "low": 2300,
+        "close": 2400,
+        "volume": 182700,
+        "ticker": "FID"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 2400,
+        "high": 2500,
+        "low": 2300,
+        "close": 2500,
+        "volume": 163500,
+        "ticker": "FID"
+    }
+]

@@ -1,0 +1,1289 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 7640,
+        "high": 7820,
+        "low": 7640,
+        "close": 7640,
+        "volume": 430400,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 7640,
+        "high": 7730,
+        "low": 7550,
+        "close": 7730,
+        "volume": 786100,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 7550,
+        "high": 7910,
+        "low": 7550,
+        "close": 7820,
+        "volume": 1907900,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 7820,
+        "high": 8090,
+        "low": 7820,
+        "close": 8000,
+        "volume": 1686400,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 8000,
+        "high": 8090,
+        "low": 7910,
+        "close": 8000,
+        "volume": 1074000,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 8000,
+        "high": 8090,
+        "low": 7910,
+        "close": 8000,
+        "volume": 906000,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 8000,
+        "high": 8090,
+        "low": 7910,
+        "close": 8090,
+        "volume": 1052500,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 8090,
+        "high": 8640,
+        "low": 8000,
+        "close": 8360,
+        "volume": 4371800,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 8450,
+        "high": 8550,
+        "low": 8360,
+        "close": 8360,
+        "volume": 1982000,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 8450,
+        "high": 8450,
+        "low": 8180,
+        "close": 8270,
+        "volume": 1576400,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 8270,
+        "high": 8360,
+        "low": 8180,
+        "close": 8270,
+        "volume": 923500,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 8360,
+        "high": 8360,
+        "low": 8000,
+        "close": 8090,
+        "volume": 3248200,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 8180,
+        "high": 8270,
+        "low": 8000,
+        "close": 8180,
+        "volume": 2024400,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 8180,
+        "high": 8360,
+        "low": 8180,
+        "close": 8270,
+        "volume": 2078600,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 8270,
+        "high": 8360,
+        "low": 8180,
+        "close": 8270,
+        "volume": 1108600,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 8090,
+        "high": 8270,
+        "low": 8090,
+        "close": 8180,
+        "volume": 1184200,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 8180,
+        "high": 8270,
+        "low": 8090,
+        "close": 8180,
+        "volume": 1705900,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 8000,
+        "high": 8450,
+        "low": 8000,
+        "close": 8360,
+        "volume": 3688500,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 9100,
+        "high": 9100,
+        "low": 8400,
+        "close": 8700,
+        "volume": 3012600,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 8600,
+        "high": 8700,
+        "low": 8400,
+        "close": 8500,
+        "volume": 2209300,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 8500,
+        "high": 8800,
+        "low": 8400,
+        "close": 8800,
+        "volume": 2724200,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 8800,
+        "high": 9200,
+        "low": 8800,
+        "close": 9100,
+        "volume": 6131600,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 9200,
+        "high": 9300,
+        "low": 8900,
+        "close": 9100,
+        "volume": 3117200,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 9100,
+        "high": 9200,
+        "low": 8900,
+        "close": 9100,
+        "volume": 2884500,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 9000,
+        "high": 9100,
+        "low": 8900,
+        "close": 9000,
+        "volume": 2429500,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 9000,
+        "high": 9100,
+        "low": 8800,
+        "close": 8800,
+        "volume": 2319600,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 8800,
+        "high": 8900,
+        "low": 8500,
+        "close": 8700,
+        "volume": 5019300,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 8600,
+        "high": 8900,
+        "low": 8600,
+        "close": 8900,
+        "volume": 1781000,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 8900,
+        "high": 8900,
+        "low": 8700,
+        "close": 8900,
+        "volume": 1029900,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 8900,
+        "high": 9000,
+        "low": 8700,
+        "close": 8800,
+        "volume": 2741100,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 8800,
+        "high": 8800,
+        "low": 8700,
+        "close": 8800,
+        "volume": 949800,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 8800,
+        "high": 9000,
+        "low": 8700,
+        "close": 8800,
+        "volume": 3417100,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 8900,
+        "high": 8900,
+        "low": 8600,
+        "close": 8700,
+        "volume": 1146200,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 8700,
+        "high": 8800,
+        "low": 8600,
+        "close": 8800,
+        "volume": 716000,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 8800,
+        "high": 9000,
+        "low": 8700,
+        "close": 9000,
+        "volume": 2638400,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 9000,
+        "high": 9000,
+        "low": 8800,
+        "close": 9000,
+        "volume": 1250900,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 9000,
+        "high": 9000,
+        "low": 8800,
+        "close": 8900,
+        "volume": 1531600,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 8900,
+        "high": 9000,
+        "low": 8700,
+        "close": 8900,
+        "volume": 1901500,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 8900,
+        "high": 8900,
+        "low": 8700,
+        "close": 8900,
+        "volume": 1347900,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 8800,
+        "high": 8900,
+        "low": 8700,
+        "close": 8800,
+        "volume": 1908800,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 8700,
+        "high": 8900,
+        "low": 8700,
+        "close": 8800,
+        "volume": 1984000,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 8800,
+        "high": 8800,
+        "low": 8700,
+        "close": 8800,
+        "volume": 749600,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 8800,
+        "high": 8800,
+        "low": 8700,
+        "close": 8800,
+        "volume": 904700,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 8800,
+        "high": 8900,
+        "low": 8700,
+        "close": 8900,
+        "volume": 1318800,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 8900,
+        "high": 8900,
+        "low": 8800,
+        "close": 8900,
+        "volume": 1682000,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 8900,
+        "high": 8900,
+        "low": 8700,
+        "close": 8800,
+        "volume": 1046200,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 8700,
+        "high": 8800,
+        "low": 8600,
+        "close": 8700,
+        "volume": 958500,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 8700,
+        "high": 8800,
+        "low": 8700,
+        "close": 8800,
+        "volume": 1291900,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 8800,
+        "high": 9100,
+        "low": 8800,
+        "close": 9000,
+        "volume": 4891700,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 9000,
+        "high": 9100,
+        "low": 8900,
+        "close": 9000,
+        "volume": 1504000,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 9000,
+        "high": 9100,
+        "low": 8800,
+        "close": 9000,
+        "volume": 1996700,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 9000,
+        "high": 9000,
+        "low": 8800,
+        "close": 8800,
+        "volume": 1773100,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 8800,
+        "high": 9000,
+        "low": 8800,
+        "close": 8900,
+        "volume": 1841100,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 8900,
+        "high": 9000,
+        "low": 8800,
+        "close": 9000,
+        "volume": 1635000,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 8900,
+        "high": 9100,
+        "low": 8800,
+        "close": 9000,
+        "volume": 4342700,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 8900,
+        "high": 9000,
+        "low": 8800,
+        "close": 9000,
+        "volume": 1225700,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 8900,
+        "high": 9000,
+        "low": 8800,
+        "close": 8900,
+        "volume": 3188800,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 8800,
+        "high": 8900,
+        "low": 8800,
+        "close": 8800,
+        "volume": 1751600,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 8800,
+        "high": 9000,
+        "low": 8800,
+        "close": 8800,
+        "volume": 2874700,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 8800,
+        "high": 8900,
+        "low": 8700,
+        "close": 8800,
+        "volume": 2401200,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 8800,
+        "high": 8900,
+        "low": 8600,
+        "close": 8700,
+        "volume": 2997300,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 8700,
+        "high": 8800,
+        "low": 8600,
+        "close": 8700,
+        "volume": 2472200,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 8700,
+        "high": 8900,
+        "low": 8700,
+        "close": 8800,
+        "volume": 3025700,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 8800,
+        "high": 9300,
+        "low": 8800,
+        "close": 9000,
+        "volume": 8722300,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 8900,
+        "high": 9100,
+        "low": 8900,
+        "close": 9100,
+        "volume": 2067300,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 9100,
+        "high": 9200,
+        "low": 8900,
+        "close": 9000,
+        "volume": 3115500,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 9100,
+        "high": 9100,
+        "low": 8900,
+        "close": 9000,
+        "volume": 2618600,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 9100,
+        "high": 9300,
+        "low": 9000,
+        "close": 9200,
+        "volume": 6341400,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 9200,
+        "high": 9700,
+        "low": 9100,
+        "close": 9500,
+        "volume": 6019200,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 9500,
+        "high": 9600,
+        "low": 9200,
+        "close": 9400,
+        "volume": 3901200,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 9300,
+        "high": 9400,
+        "low": 9000,
+        "close": 9200,
+        "volume": 4282900,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 9300,
+        "high": 9300,
+        "low": 8900,
+        "close": 9100,
+        "volume": 3168000,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 9100,
+        "high": 9200,
+        "low": 9000,
+        "close": 9100,
+        "volume": 2429600,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 9100,
+        "high": 9200,
+        "low": 9000,
+        "close": 9100,
+        "volume": 1745700,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 9100,
+        "high": 9200,
+        "low": 9000,
+        "close": 9100,
+        "volume": 2160100,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-08-17",
+        "open": 9100,
+        "high": 9200,
+        "low": 9000,
+        "close": 9000,
+        "volume": 1667900,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 9000,
+        "high": 9000,
+        "low": 8300,
+        "close": 8600,
+        "volume": 5452100,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 8600,
+        "high": 8700,
+        "low": 8400,
+        "close": 8600,
+        "volume": 2368100,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 8600,
+        "high": 8600,
+        "low": 8300,
+        "close": 8500,
+        "volume": 1979600,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 8500,
+        "high": 8700,
+        "low": 8500,
+        "close": 8500,
+        "volume": 1102800,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 8500,
+        "high": 8600,
+        "low": 8400,
+        "close": 8600,
+        "volume": 713800,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 8600,
+        "high": 8700,
+        "low": 8500,
+        "close": 8600,
+        "volume": 1099400,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 8500,
+        "high": 8700,
+        "low": 8500,
+        "close": 8600,
+        "volume": 668500,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 8600,
+        "high": 8700,
+        "low": 8600,
+        "close": 8700,
+        "volume": 803200,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 8700,
+        "high": 8700,
+        "low": 8600,
+        "close": 8700,
+        "volume": 954500,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 8600,
+        "high": 8800,
+        "low": 8600,
+        "close": 8700,
+        "volume": 1318500,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 8700,
+        "high": 9000,
+        "low": 8700,
+        "close": 8900,
+        "volume": 2093600,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 8900,
+        "high": 10000,
+        "low": 8800,
+        "close": 9400,
+        "volume": 5064800,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 10000,
+        "high": 10000,
+        "low": 9200,
+        "close": 9500,
+        "volume": 5540000,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 9600,
+        "high": 9600,
+        "low": 9200,
+        "close": 9400,
+        "volume": 3783200,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 10200,
+        "high": 10200,
+        "low": 9100,
+        "close": 9200,
+        "volume": 4141500,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 9300,
+        "high": 9300,
+        "low": 9100,
+        "close": 9300,
+        "volume": 1778100,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 9200,
+        "high": 9300,
+        "low": 9000,
+        "close": 9200,
+        "volume": 2823400,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 9100,
+        "high": 9200,
+        "low": 9000,
+        "close": 9100,
+        "volume": 1664800,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 9100,
+        "high": 9300,
+        "low": 9000,
+        "close": 9100,
+        "volume": 1268100,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 9100,
+        "high": 9100,
+        "low": 8900,
+        "close": 8900,
+        "volume": 1404900,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 9000,
+        "high": 9100,
+        "low": 8800,
+        "close": 9000,
+        "volume": 1229200,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 8900,
+        "high": 9100,
+        "low": 8900,
+        "close": 9100,
+        "volume": 644800,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 9100,
+        "high": 9100,
+        "low": 8900,
+        "close": 9000,
+        "volume": 834100,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 9000,
+        "high": 9000,
+        "low": 8600,
+        "close": 8800,
+        "volume": 2559200,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 8800,
+        "high": 8800,
+        "low": 8400,
+        "close": 8500,
+        "volume": 2450500,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 8500,
+        "high": 8600,
+        "low": 8400,
+        "close": 8500,
+        "volume": 1652000,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 8500,
+        "high": 8600,
+        "low": 8400,
+        "close": 8600,
+        "volume": 1132000,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 8600,
+        "high": 8600,
+        "low": 8400,
+        "close": 8600,
+        "volume": 634400,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 8500,
+        "high": 8600,
+        "low": 8500,
+        "close": 8600,
+        "volume": 398100,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 8600,
+        "high": 8600,
+        "low": 8500,
+        "close": 8600,
+        "volume": 479000,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 8600,
+        "high": 8600,
+        "low": 8200,
+        "close": 8300,
+        "volume": 1648400,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 8300,
+        "high": 8400,
+        "low": 8200,
+        "close": 8300,
+        "volume": 1695600,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 8300,
+        "high": 8400,
+        "low": 8000,
+        "close": 8100,
+        "volume": 1253200,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 8100,
+        "high": 8300,
+        "low": 8000,
+        "close": 8300,
+        "volume": 1204700,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 8200,
+        "high": 8200,
+        "low": 8100,
+        "close": 8200,
+        "volume": 780300,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 8200,
+        "high": 8300,
+        "low": 8100,
+        "close": 8200,
+        "volume": 1082100,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 8200,
+        "high": 8300,
+        "low": 8100,
+        "close": 8200,
+        "volume": 670900,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 8200,
+        "high": 8300,
+        "low": 8200,
+        "close": 8300,
+        "volume": 824500,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 8300,
+        "high": 8300,
+        "low": 8100,
+        "close": 8200,
+        "volume": 463200,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 8100,
+        "high": 8300,
+        "low": 8100,
+        "close": 8200,
+        "volume": 552300,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 8100,
+        "high": 8200,
+        "low": 8000,
+        "close": 8100,
+        "volume": 747200,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 8100,
+        "high": 8100,
+        "low": 7800,
+        "close": 8100,
+        "volume": 1067200,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 8000,
+        "high": 8100,
+        "low": 7800,
+        "close": 7900,
+        "volume": 492200,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 7900,
+        "high": 8100,
+        "low": 7800,
+        "close": 8100,
+        "volume": 754400,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 8000,
+        "high": 8100,
+        "low": 7900,
+        "close": 8000,
+        "volume": 261700,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 8000,
+        "high": 8000,
+        "low": 7900,
+        "close": 8000,
+        "volume": 522600,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 8000,
+        "high": 8100,
+        "low": 7900,
+        "close": 8000,
+        "volume": 511100,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 8000,
+        "high": 8000,
+        "low": 7500,
+        "close": 7700,
+        "volume": 2130600,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 7600,
+        "high": 7800,
+        "low": 7600,
+        "close": 7800,
+        "volume": 614000,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 7800,
+        "high": 7800,
+        "low": 7600,
+        "close": 7600,
+        "volume": 421300,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 7600,
+        "high": 7700,
+        "low": 7400,
+        "close": 7600,
+        "volume": 831800,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 7500,
+        "high": 7600,
+        "low": 7500,
+        "close": 7600,
+        "volume": 594600,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 7600,
+        "high": 7800,
+        "low": 7500,
+        "close": 7800,
+        "volume": 1217900,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 7800,
+        "high": 7800,
+        "low": 7700,
+        "close": 7700,
+        "volume": 557400,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 7800,
+        "high": 7800,
+        "low": 7700,
+        "close": 7800,
+        "volume": 540000,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 7700,
+        "high": 7800,
+        "low": 7600,
+        "close": 7700,
+        "volume": 1325600,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 7700,
+        "high": 8000,
+        "low": 7600,
+        "close": 7900,
+        "volume": 1403400,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 8000,
+        "high": 8100,
+        "low": 7800,
+        "close": 7900,
+        "volume": 1201300,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 8000,
+        "high": 8000,
+        "low": 7800,
+        "close": 7900,
+        "volume": 612000,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 7900,
+        "high": 8000,
+        "low": 7800,
+        "close": 7900,
+        "volume": 574300,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 7900,
+        "high": 8200,
+        "low": 7900,
+        "close": 8000,
+        "volume": 2085700,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 8100,
+        "high": 8300,
+        "low": 8000,
+        "close": 8100,
+        "volume": 795300,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 8100,
+        "high": 8100,
+        "low": 7900,
+        "close": 8100,
+        "volume": 633200,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 7900,
+        "high": 8100,
+        "low": 7800,
+        "close": 7800,
+        "volume": 1029200,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 7800,
+        "high": 7900,
+        "low": 7700,
+        "close": 7900,
+        "volume": 412000,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 7800,
+        "high": 8000,
+        "low": 7800,
+        "close": 8000,
+        "volume": 450100,
+        "ticker": "ABB"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 8000,
+        "high": 8000,
+        "low": 7800,
+        "close": 7900,
+        "volume": 517000,
+        "ticker": "ABB"
+    }
+]

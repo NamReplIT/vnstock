@@ -1,5 +1,14 @@
+from datetime import datetime,date
 import json
 
+class DateTimeEncoder(json.JSONEncoder):
+    def default(self, obj):
+        if isinstance(obj, datetime):
+            return obj.isoformat()
+        elif isinstance(obj, date):  # Check if the object is a date
+            return obj.isoformat()   # Use the same ISO format for dates
+        # Let the base class default method raise the TypeError
+        return json.JSONEncoder.default(self, obj)
 class JSONHelper:
     @staticmethod
     def read_json(file_path):
@@ -14,10 +23,10 @@ class JSONHelper:
             return None
 
     @staticmethod
-    def write_json(data, file_path):
+    def write_json(file_path,data):
         try:
             with open(file_path, 'w', encoding='utf-8') as file:
-                json.dump(data, file, ensure_ascii=False, indent=4)
+                json.dump(data, file, cls=DateTimeEncoder, ensure_ascii=False, indent=4)
             print(f"Data written to {file_path}")
             return True
         except Exception as e:
@@ -25,7 +34,7 @@ class JSONHelper:
             return False
         
     @staticmethod
-    def append_json(new_data, file_path):
+    def append_json(file_path,new_data):
         try:
             # Read the existing data
             existing_data = JSONHelper.read_json(file_path)

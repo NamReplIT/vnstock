@@ -6,8 +6,8 @@ from json_helper import JSONHelper
 from file_helper import FileHelper
 from input import inputs
 from keras.models import Sequential,load_model
-from keras.layers import Dense,Dropout,BatchNormalization
-from keras.optimizers import SGD
+from keras.layers import Dense,Dropout,BatchNormalization,LSTM
+from keras.optimizers import SGD,Adam
 from keras.metrics import Precision, Recall
 from sklearn.model_selection import train_test_split
 
@@ -97,16 +97,14 @@ def processInputOutput(data,numOfSet):
 def buildModel(inputShape,numOfFeature):
 
     model = Sequential([
-        Dense(160,activation='tanh', input_shape=inputShape),
-        Dropout(0.8),
-        BatchNormalization(),
+        Dense(16,activation='tanh', input_shape=inputShape),
         Dense(numOfFeature,activation='relu'),
     ])
 
     model.compile(
         optimizer=SGD(),
         loss='mse',
-        metrics=[],
+        metrics=['accuracy'],
     )
 
     return model
@@ -153,7 +151,7 @@ def main():
             X_train,
             y_train,
             epochs=50,
-            batch_size=1,
+            batch_size=2,
             validation_data=(X_test,y_test)
         )
 

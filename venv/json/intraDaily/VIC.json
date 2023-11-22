@@ -1,0 +1,1289 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 52100,
+        "high": 52100,
+        "low": 51100,
+        "close": 51400,
+        "volume": 1226800,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 50900,
+        "high": 51400,
+        "low": 50600,
+        "close": 50800,
+        "volume": 1172000,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 50700,
+        "high": 50900,
+        "low": 50500,
+        "close": 50600,
+        "volume": 1004800,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 50900,
+        "high": 51000,
+        "low": 50400,
+        "close": 50600,
+        "volume": 1023000,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 50800,
+        "high": 50800,
+        "low": 50400,
+        "close": 50700,
+        "volume": 911300,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 50700,
+        "high": 50700,
+        "low": 50300,
+        "close": 50500,
+        "volume": 1014700,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 50700,
+        "high": 51900,
+        "low": 50500,
+        "close": 51700,
+        "volume": 1982700,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 54900,
+        "high": 54900,
+        "low": 54000,
+        "close": 54500,
+        "volume": 4369700,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 54600,
+        "high": 54800,
+        "low": 52800,
+        "close": 53000,
+        "volume": 2430100,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 52900,
+        "high": 53800,
+        "low": 52500,
+        "close": 53200,
+        "volume": 2168200,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 53600,
+        "high": 53800,
+        "low": 53000,
+        "close": 53100,
+        "volume": 1931700,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 53400,
+        "high": 53400,
+        "low": 52100,
+        "close": 52500,
+        "volume": 1784500,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 52500,
+        "high": 52700,
+        "low": 51900,
+        "close": 52200,
+        "volume": 1721400,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 52200,
+        "high": 53500,
+        "low": 52200,
+        "close": 52300,
+        "volume": 1951100,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 52800,
+        "high": 52800,
+        "low": 52300,
+        "close": 52600,
+        "volume": 1290300,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 52600,
+        "high": 52700,
+        "low": 52200,
+        "close": 52600,
+        "volume": 1453500,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 52400,
+        "high": 52500,
+        "low": 52000,
+        "close": 52000,
+        "volume": 1593300,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 52000,
+        "high": 52900,
+        "low": 52000,
+        "close": 52700,
+        "volume": 1381300,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 52700,
+        "high": 52900,
+        "low": 52300,
+        "close": 52400,
+        "volume": 1315000,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 52400,
+        "high": 52400,
+        "low": 52000,
+        "close": 52000,
+        "volume": 2432000,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 52000,
+        "high": 52200,
+        "low": 51600,
+        "close": 52000,
+        "volume": 1526900,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 52000,
+        "high": 52300,
+        "low": 51900,
+        "close": 52000,
+        "volume": 1731400,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 52100,
+        "high": 52500,
+        "low": 52000,
+        "close": 52100,
+        "volume": 1824300,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 52200,
+        "high": 53200,
+        "low": 52200,
+        "close": 53200,
+        "volume": 2120200,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 53300,
+        "high": 53600,
+        "low": 52600,
+        "close": 52800,
+        "volume": 1656100,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 52800,
+        "high": 53000,
+        "low": 52400,
+        "close": 52400,
+        "volume": 1436100,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 52500,
+        "high": 52600,
+        "low": 52200,
+        "close": 52300,
+        "volume": 819000,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 52500,
+        "high": 53400,
+        "low": 52500,
+        "close": 53400,
+        "volume": 1711500,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 53700,
+        "high": 54300,
+        "low": 53300,
+        "close": 54100,
+        "volume": 2112100,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 54100,
+        "high": 54700,
+        "low": 53800,
+        "close": 53800,
+        "volume": 2242800,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 53800,
+        "high": 54500,
+        "low": 53300,
+        "close": 53500,
+        "volume": 2114700,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 53800,
+        "high": 54000,
+        "low": 52600,
+        "close": 53500,
+        "volume": 3878900,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 53800,
+        "high": 53800,
+        "low": 52100,
+        "close": 52100,
+        "volume": 2316600,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 52000,
+        "high": 52500,
+        "low": 51900,
+        "close": 52000,
+        "volume": 1464500,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 52100,
+        "high": 52400,
+        "low": 51700,
+        "close": 52400,
+        "volume": 2070400,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 52700,
+        "high": 52800,
+        "low": 52000,
+        "close": 52400,
+        "volume": 1626300,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 52100,
+        "high": 52300,
+        "low": 51900,
+        "close": 52000,
+        "volume": 2178900,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 52100,
+        "high": 52700,
+        "low": 51900,
+        "close": 52200,
+        "volume": 1524700,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 52200,
+        "high": 53000,
+        "low": 52200,
+        "close": 52400,
+        "volume": 2488300,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 52600,
+        "high": 52700,
+        "low": 52000,
+        "close": 52200,
+        "volume": 1893500,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 52200,
+        "high": 52400,
+        "low": 51800,
+        "close": 51800,
+        "volume": 1628300,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 51800,
+        "high": 51900,
+        "low": 51000,
+        "close": 51000,
+        "volume": 1743900,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 51500,
+        "high": 51700,
+        "low": 51100,
+        "close": 51100,
+        "volume": 1866100,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 51500,
+        "high": 51500,
+        "low": 51100,
+        "close": 51300,
+        "volume": 1359600,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 51400,
+        "high": 51600,
+        "low": 50900,
+        "close": 51000,
+        "volume": 2479200,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 51000,
+        "high": 51400,
+        "low": 50400,
+        "close": 50400,
+        "volume": 2599600,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 50500,
+        "high": 50600,
+        "low": 50000,
+        "close": 50100,
+        "volume": 2941600,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 50500,
+        "high": 51200,
+        "low": 50200,
+        "close": 50900,
+        "volume": 3345300,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 51000,
+        "high": 51300,
+        "low": 50800,
+        "close": 50800,
+        "volume": 1927900,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 51100,
+        "high": 51900,
+        "low": 50800,
+        "close": 51400,
+        "volume": 2295600,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 51500,
+        "high": 52000,
+        "low": 51200,
+        "close": 51500,
+        "volume": 1894000,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 51800,
+        "high": 51800,
+        "low": 51000,
+        "close": 51400,
+        "volume": 2013700,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 51600,
+        "high": 53100,
+        "low": 51400,
+        "close": 52900,
+        "volume": 4605500,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 53000,
+        "high": 53100,
+        "low": 52600,
+        "close": 52700,
+        "volume": 2091900,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 52900,
+        "high": 52900,
+        "low": 52100,
+        "close": 52100,
+        "volume": 1816000,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 52100,
+        "high": 52600,
+        "low": 51600,
+        "close": 52000,
+        "volume": 1893800,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 52000,
+        "high": 52300,
+        "low": 51600,
+        "close": 52100,
+        "volume": 2324800,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 52200,
+        "high": 52600,
+        "low": 51800,
+        "close": 52000,
+        "volume": 2621700,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 52100,
+        "high": 52200,
+        "low": 51500,
+        "close": 51500,
+        "volume": 3804000,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 51400,
+        "high": 51900,
+        "low": 51000,
+        "close": 51000,
+        "volume": 4119700,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 51000,
+        "high": 51500,
+        "low": 50800,
+        "close": 51100,
+        "volume": 3932500,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 51100,
+        "high": 51600,
+        "low": 50900,
+        "close": 51500,
+        "volume": 3550200,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 55100,
+        "high": 55100,
+        "low": 54600,
+        "close": 55100,
+        "volume": 10561900,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 58800,
+        "high": 58900,
+        "low": 58000,
+        "close": 58900,
+        "volume": 12259300,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 59000,
+        "high": 59900,
+        "low": 58100,
+        "close": 58300,
+        "volume": 12347800,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 58300,
+        "high": 59500,
+        "low": 58000,
+        "close": 58200,
+        "volume": 7522800,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 59000,
+        "high": 62200,
+        "low": 59000,
+        "close": 62200,
+        "volume": 21210800,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 63500,
+        "high": 64300,
+        "low": 62400,
+        "close": 63900,
+        "volume": 8090300,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 64000,
+        "high": 67500,
+        "low": 63600,
+        "close": 67000,
+        "volume": 11056400,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 67000,
+        "high": 67800,
+        "low": 65700,
+        "close": 65800,
+        "volume": 9768400,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 66300,
+        "high": 68400,
+        "low": 66100,
+        "close": 67900,
+        "volume": 7897700,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 72600,
+        "high": 72600,
+        "low": 72100,
+        "close": 72600,
+        "volume": 23093100,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 74900,
+        "high": 75400,
+        "low": 71500,
+        "close": 73300,
+        "volume": 12704000,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 73000,
+        "high": 73300,
+        "low": 70700,
+        "close": 70700,
+        "volume": 14765300,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 75600,
+        "high": 75600,
+        "low": 75400,
+        "close": 75600,
+        "volume": 19414900,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-08-17",
+        "open": 75600,
+        "high": 76600,
+        "low": 71900,
+        "close": 71900,
+        "volume": 22232600,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 69100,
+        "high": 70000,
+        "low": 66900,
+        "close": 66900,
+        "volume": 26621900,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 66000,
+        "high": 66100,
+        "low": 63300,
+        "close": 65800,
+        "volume": 22403700,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 67000,
+        "high": 67100,
+        "low": 62800,
+        "close": 64500,
+        "volume": 13120800,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 69000,
+        "high": 69000,
+        "low": 65000,
+        "close": 65000,
+        "volume": 20341500,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 65700,
+        "high": 65800,
+        "low": 62600,
+        "close": 64200,
+        "volume": 16616200,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 65200,
+        "high": 66700,
+        "low": 63300,
+        "close": 63500,
+        "volume": 17900300,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 65000,
+        "high": 66700,
+        "low": 64500,
+        "close": 64700,
+        "volume": 16715600,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 65700,
+        "high": 65900,
+        "low": 63200,
+        "close": 63400,
+        "volume": 20650300,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 63000,
+        "high": 63000,
+        "low": 60600,
+        "close": 62000,
+        "volume": 24550800,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 62500,
+        "high": 64099,
+        "low": 62000,
+        "close": 62100,
+        "volume": 14984700,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 62500,
+        "high": 63900,
+        "low": 61700,
+        "close": 62300,
+        "volume": 13059500,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 62400,
+        "high": 62500,
+        "low": 60800,
+        "close": 61600,
+        "volume": 19411000,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 62000,
+        "high": 62500,
+        "low": 60800,
+        "close": 60800,
+        "volume": 16127800,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 60500,
+        "high": 60600,
+        "low": 59100,
+        "close": 59100,
+        "volume": 28220800,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 60100,
+        "high": 61400,
+        "low": 59100,
+        "close": 59100,
+        "volume": 16362000,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 59800,
+        "high": 60500,
+        "low": 59100,
+        "close": 60300,
+        "volume": 15067200,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 60800,
+        "high": 61400,
+        "low": 59100,
+        "close": 59200,
+        "volume": 16321000,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 59100,
+        "high": 59300,
+        "low": 55500,
+        "close": 55500,
+        "volume": 26861000,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 56000,
+        "high": 56300,
+        "low": 53200,
+        "close": 53600,
+        "volume": 18952400,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 53600,
+        "high": 53600,
+        "low": 52400,
+        "close": 53000,
+        "volume": 11462100,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 53500,
+        "high": 53900,
+        "low": 51500,
+        "close": 51700,
+        "volume": 12789300,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 52000,
+        "high": 53500,
+        "low": 51700,
+        "close": 53500,
+        "volume": 11801500,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 53800,
+        "high": 53800,
+        "low": 52200,
+        "close": 52200,
+        "volume": 8502600,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 51500,
+        "high": 51600,
+        "low": 49800,
+        "close": 50000,
+        "volume": 17451900,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 50100,
+        "high": 50400,
+        "low": 46500,
+        "close": 46500,
+        "volume": 16835400,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 46000,
+        "high": 46750,
+        "low": 44550,
+        "close": 45000,
+        "volume": 15113400,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 44600,
+        "high": 45250,
+        "low": 44050,
+        "close": 45200,
+        "volume": 8890400,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 45200,
+        "high": 45300,
+        "low": 44100,
+        "close": 45000,
+        "volume": 6887100,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 45200,
+        "high": 48150,
+        "low": 45150,
+        "close": 46850,
+        "volume": 13568000,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 47000,
+        "high": 47550,
+        "low": 46500,
+        "close": 46900,
+        "volume": 5084800,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 45900,
+        "high": 46000,
+        "low": 43850,
+        "close": 44500,
+        "volume": 12896800,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 44500,
+        "high": 46300,
+        "low": 44050,
+        "close": 46100,
+        "volume": 6718300,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 46200,
+        "high": 46400,
+        "low": 44800,
+        "close": 45600,
+        "volume": 5358200,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 45900,
+        "high": 46250,
+        "low": 45000,
+        "close": 45950,
+        "volume": 6192900,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 46000,
+        "high": 46050,
+        "low": 45200,
+        "close": 45200,
+        "volume": 4889700,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 45600,
+        "high": 46150,
+        "low": 44900,
+        "close": 44900,
+        "volume": 5861600,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 45050,
+        "high": 45450,
+        "low": 45000,
+        "close": 45450,
+        "volume": 3629700,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 46000,
+        "high": 47300,
+        "low": 45800,
+        "close": 46500,
+        "volume": 7710800,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 46100,
+        "high": 46450,
+        "low": 45550,
+        "close": 46100,
+        "volume": 5057900,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 46050,
+        "high": 46050,
+        "low": 45000,
+        "close": 45000,
+        "volume": 4839400,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 45000,
+        "high": 45150,
+        "low": 44000,
+        "close": 44000,
+        "volume": 4845000,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 44050,
+        "high": 44550,
+        "low": 41500,
+        "close": 43800,
+        "volume": 8869200,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 43800,
+        "high": 43900,
+        "low": 42400,
+        "close": 43200,
+        "volume": 5382400,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 43000,
+        "high": 43350,
+        "low": 41850,
+        "close": 43350,
+        "volume": 5953100,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 43350,
+        "high": 43400,
+        "low": 42600,
+        "close": 43400,
+        "volume": 4900400,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 43200,
+        "high": 43500,
+        "low": 42900,
+        "close": 43450,
+        "volume": 2821800,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 44200,
+        "high": 45300,
+        "low": 43850,
+        "close": 44700,
+        "volume": 6225600,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 42900,
+        "high": 42950,
+        "low": 41600,
+        "close": 41600,
+        "volume": 15106800,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 41650,
+        "high": 41800,
+        "low": 38700,
+        "close": 41600,
+        "volume": 13998100,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 41300,
+        "high": 41550,
+        "low": 39750,
+        "close": 41500,
+        "volume": 6062800,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 41050,
+        "high": 41550,
+        "low": 40450,
+        "close": 40500,
+        "volume": 5938400,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 39700,
+        "high": 40500,
+        "low": 39450,
+        "close": 40400,
+        "volume": 4618900,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 40500,
+        "high": 41500,
+        "low": 39650,
+        "close": 41450,
+        "volume": 6047500,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 41700,
+        "high": 42100,
+        "low": 41250,
+        "close": 41600,
+        "volume": 4094900,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 41950,
+        "high": 42300,
+        "low": 41650,
+        "close": 42100,
+        "volume": 4294000,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 41800,
+        "high": 42150,
+        "low": 41250,
+        "close": 42050,
+        "volume": 4222000,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 42200,
+        "high": 43050,
+        "low": 41850,
+        "close": 43000,
+        "volume": 4749500,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 44000,
+        "high": 45700,
+        "low": 44000,
+        "close": 45400,
+        "volume": 7308000,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 45000,
+        "high": 45200,
+        "low": 44400,
+        "close": 44950,
+        "volume": 5103200,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 45050,
+        "high": 45050,
+        "low": 44450,
+        "close": 44800,
+        "volume": 3953800,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 44950,
+        "high": 45500,
+        "low": 44500,
+        "close": 44950,
+        "volume": 3845100,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 45400,
+        "high": 45600,
+        "low": 44900,
+        "close": 45400,
+        "volume": 6206500,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 45400,
+        "high": 45400,
+        "low": 44850,
+        "close": 45100,
+        "volume": 2341300,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 45200,
+        "high": 45200,
+        "low": 42150,
+        "close": 42200,
+        "volume": 11573200,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 40900,
+        "high": 42800,
+        "low": 40900,
+        "close": 42700,
+        "volume": 4304300,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 43050,
+        "high": 43150,
+        "low": 42050,
+        "close": 42600,
+        "volume": 2852100,
+        "ticker": "VIC"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 42950,
+        "high": 43000,
+        "low": 41850,
+        "close": 42000,
+        "volume": 3797800,
+        "ticker": "VIC"
+    }
+]

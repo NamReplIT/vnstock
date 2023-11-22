@@ -1,0 +1,551 @@
+[
+    {
+        "time": "2023-05-08",
+        "open": 37970,
+        "high": 37970,
+        "low": 37970,
+        "close": 37970,
+        "volume": 1000,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 40560,
+        "high": 40560,
+        "low": 40560,
+        "close": 40560,
+        "volume": 100,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 40560,
+        "high": 40560,
+        "low": 40560,
+        "close": 40560,
+        "volume": 1500,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 41900,
+        "high": 41900,
+        "low": 41900,
+        "close": 41900,
+        "volume": 2400,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 41900,
+        "high": 41900,
+        "low": 41900,
+        "close": 41900,
+        "volume": 100,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 39270,
+        "high": 39320,
+        "low": 39270,
+        "close": 39320,
+        "volume": 600,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 42040,
+        "high": 42040,
+        "low": 42040,
+        "close": 42040,
+        "volume": 1600,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 44770,
+        "high": 44770,
+        "low": 44770,
+        "close": 44770,
+        "volume": 100,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 42040,
+        "high": 42040,
+        "low": 42040,
+        "close": 42040,
+        "volume": 100,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 41180,
+        "high": 43810,
+        "low": 41180,
+        "close": 43810,
+        "volume": 200,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 46880,
+        "high": 46880,
+        "low": 46880,
+        "close": 46880,
+        "volume": 100,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 43630,
+        "high": 43910,
+        "low": 43630,
+        "close": 43810,
+        "volume": 700,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 40750,
+        "high": 40750,
+        "low": 40750,
+        "close": 40750,
+        "volume": 100,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 42140,
+        "high": 42190,
+        "low": 42140,
+        "close": 42190,
+        "volume": 300,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 39890,
+        "high": 39890,
+        "low": 39890,
+        "close": 39890,
+        "volume": 100,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 37600,
+        "high": 37600,
+        "low": 37600,
+        "close": 37600,
+        "volume": 100,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 40220,
+        "high": 40220,
+        "low": 40220,
+        "close": 40220,
+        "volume": 200,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 43000,
+        "high": 43000,
+        "low": 43000,
+        "close": 43000,
+        "volume": 100,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 43980,
+        "high": 43980,
+        "low": 43980,
+        "close": 43980,
+        "volume": 300,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 42560,
+        "high": 46960,
+        "low": 42560,
+        "close": 46960,
+        "volume": 700,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 43980,
+        "high": 43980,
+        "low": 43980,
+        "close": 43980,
+        "volume": 100,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 42170,
+        "high": 42170,
+        "low": 42170,
+        "close": 42170,
+        "volume": 100,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 42360,
+        "high": 42360,
+        "low": 42360,
+        "close": 42360,
+        "volume": 500,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 45200,
+        "high": 45200,
+        "low": 45200,
+        "close": 45200,
+        "volume": 100,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 45200,
+        "high": 45200,
+        "low": 45200,
+        "close": 45200,
+        "volume": 500,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 45200,
+        "high": 45200,
+        "low": 45200,
+        "close": 45200,
+        "volume": 100,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 42660,
+        "high": 42660,
+        "low": 42660,
+        "close": 42660,
+        "volume": 100,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 45640,
+        "high": 45640,
+        "low": 45640,
+        "close": 45640,
+        "volume": 100,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 45640,
+        "high": 45640,
+        "low": 45640,
+        "close": 45640,
+        "volume": 300,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 42660,
+        "high": 42660,
+        "low": 42660,
+        "close": 42660,
+        "volume": 100,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 45640,
+        "high": 45640,
+        "low": 45640,
+        "close": 45640,
+        "volume": 200,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 48430,
+        "high": 48430,
+        "low": 48430,
+        "close": 48430,
+        "volume": 100,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 45300,
+        "high": 45300,
+        "low": 45300,
+        "close": 45300,
+        "volume": 100,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 48450,
+        "high": 48450,
+        "low": 48400,
+        "close": 48400,
+        "volume": 400,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 45500,
+        "high": 51700,
+        "low": 45500,
+        "close": 51700,
+        "volume": 200,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 48100,
+        "high": 55300,
+        "low": 48100,
+        "close": 55300,
+        "volume": 7800,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 51500,
+        "high": 58800,
+        "low": 51500,
+        "close": 58800,
+        "volume": 300,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 54700,
+        "high": 54700,
+        "low": 54700,
+        "close": 54700,
+        "volume": 100,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 50900,
+        "high": 50900,
+        "low": 50900,
+        "close": 50900,
+        "volume": 2000,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 50900,
+        "high": 50900,
+        "low": 50900,
+        "close": 50900,
+        "volume": 200,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 50900,
+        "high": 50900,
+        "low": 50900,
+        "close": 50900,
+        "volume": 200,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 54400,
+        "high": 54400,
+        "low": 54400,
+        "close": 54400,
+        "volume": 100,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 50600,
+        "high": 50600,
+        "low": 50600,
+        "close": 50600,
+        "volume": 100,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 49000,
+        "high": 53800,
+        "low": 49000,
+        "close": 53800,
+        "volume": 500,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 50100,
+        "high": 50100,
+        "low": 50100,
+        "close": 50100,
+        "volume": 2700,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 47300,
+        "high": 52300,
+        "low": 47300,
+        "close": 52300,
+        "volume": 200,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 49050,
+        "high": 49050,
+        "low": 49050,
+        "close": 49050,
+        "volume": 100,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 45700,
+        "high": 45700,
+        "low": 45650,
+        "close": 45650,
+        "volume": 500,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 48200,
+        "high": 48800,
+        "low": 48200,
+        "close": 48800,
+        "volume": 500,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 45600,
+        "high": 50700,
+        "low": 45600,
+        "close": 50700,
+        "volume": 200,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 47600,
+        "high": 47600,
+        "low": 47200,
+        "close": 47200,
+        "volume": 700,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 44300,
+        "high": 44300,
+        "low": 44300,
+        "close": 44300,
+        "volume": 100,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 47300,
+        "high": 47300,
+        "low": 47300,
+        "close": 47300,
+        "volume": 100,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 45000,
+        "high": 45000,
+        "low": 45000,
+        "close": 45000,
+        "volume": 100,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 47900,
+        "high": 48150,
+        "low": 47900,
+        "close": 48150,
+        "volume": 500,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 51000,
+        "high": 51000,
+        "low": 50000,
+        "close": 50000,
+        "volume": 4500,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 53500,
+        "high": 53500,
+        "low": 46650,
+        "close": 46650,
+        "volume": 200,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 49900,
+        "high": 49900,
+        "low": 49900,
+        "close": 49900,
+        "volume": 100,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 46700,
+        "high": 46850,
+        "low": 46600,
+        "close": 46850,
+        "volume": 1900,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 50100,
+        "high": 50100,
+        "low": 50100,
+        "close": 50100,
+        "volume": 200,
+        "ticker": "TDW"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 50100,
+        "high": 50100,
+        "low": 50100,
+        "close": 50100,
+        "volume": 1200,
+        "ticker": "TDW"
+    }
+]

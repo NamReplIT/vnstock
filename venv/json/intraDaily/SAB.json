@@ -1,0 +1,1289 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 85200,
+        "high": 85200,
+        "low": 82270,
+        "close": 82370,
+        "volume": 94700,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 82620,
+        "high": 82970,
+        "low": 81980,
+        "close": 81980,
+        "volume": 102200,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 82220,
+        "high": 82620,
+        "low": 82120,
+        "close": 82620,
+        "volume": 51300,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 82720,
+        "high": 82720,
+        "low": 81780,
+        "close": 81880,
+        "volume": 64500,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 81780,
+        "high": 82120,
+        "low": 81780,
+        "close": 81880,
+        "volume": 90000,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 81880,
+        "high": 83710,
+        "low": 81480,
+        "close": 81630,
+        "volume": 147900,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 81930,
+        "high": 82070,
+        "low": 80690,
+        "close": 80990,
+        "volume": 142300,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 81580,
+        "high": 82030,
+        "low": 81230,
+        "close": 81280,
+        "volume": 115000,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 81730,
+        "high": 81730,
+        "low": 80640,
+        "close": 80740,
+        "volume": 65400,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 80740,
+        "high": 80740,
+        "low": 80290,
+        "close": 80490,
+        "volume": 91900,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 80490,
+        "high": 80740,
+        "low": 80040,
+        "close": 80390,
+        "volume": 179900,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 80390,
+        "high": 80390,
+        "low": 79300,
+        "close": 79300,
+        "volume": 67500,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 79600,
+        "high": 80140,
+        "low": 79350,
+        "close": 79750,
+        "volume": 64300,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 79990,
+        "high": 80140,
+        "low": 78360,
+        "close": 78760,
+        "volume": 144600,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 79050,
+        "high": 79200,
+        "low": 78510,
+        "close": 78510,
+        "volume": 116500,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 78510,
+        "high": 78660,
+        "low": 77270,
+        "close": 78260,
+        "volume": 97500,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 78260,
+        "high": 78260,
+        "low": 76780,
+        "close": 77020,
+        "volume": 70600,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 77070,
+        "high": 77960,
+        "low": 76870,
+        "close": 76920,
+        "volume": 90900,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 76970,
+        "high": 77420,
+        "low": 76920,
+        "close": 77270,
+        "volume": 145600,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 77270,
+        "high": 78510,
+        "low": 77270,
+        "close": 78260,
+        "volume": 157900,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 77470,
+        "high": 78760,
+        "low": 77470,
+        "close": 78360,
+        "volume": 126100,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 79000,
+        "high": 79000,
+        "low": 78060,
+        "close": 78260,
+        "volume": 138700,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 79250,
+        "high": 79400,
+        "low": 78810,
+        "close": 78950,
+        "volume": 113300,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 79200,
+        "high": 79300,
+        "low": 78900,
+        "close": 79250,
+        "volume": 126800,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 79300,
+        "high": 79400,
+        "low": 79050,
+        "close": 79150,
+        "volume": 205100,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 79350,
+        "high": 79350,
+        "low": 79000,
+        "close": 79150,
+        "volume": 158200,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 79750,
+        "high": 79750,
+        "low": 79000,
+        "close": 79000,
+        "volume": 27400,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 79050,
+        "high": 81100,
+        "low": 79050,
+        "close": 81000,
+        "volume": 109100,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 81050,
+        "high": 81100,
+        "low": 80300,
+        "close": 80900,
+        "volume": 84600,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 80900,
+        "high": 81750,
+        "low": 80300,
+        "close": 81000,
+        "volume": 203200,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 81400,
+        "high": 81400,
+        "low": 79500,
+        "close": 79500,
+        "volume": 108600,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 80500,
+        "high": 80500,
+        "low": 77500,
+        "close": 77500,
+        "volume": 234900,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 78500,
+        "high": 78500,
+        "low": 77950,
+        "close": 78400,
+        "volume": 129400,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 78400,
+        "high": 78400,
+        "low": 77600,
+        "close": 77650,
+        "volume": 97800,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 77650,
+        "high": 77900,
+        "low": 77200,
+        "close": 77500,
+        "volume": 136800,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 78000,
+        "high": 78000,
+        "low": 77400,
+        "close": 77400,
+        "volume": 145800,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 77400,
+        "high": 78250,
+        "low": 77200,
+        "close": 78250,
+        "volume": 198600,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 78950,
+        "high": 78950,
+        "low": 78000,
+        "close": 78000,
+        "volume": 139900,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 77800,
+        "high": 78500,
+        "low": 77200,
+        "close": 77200,
+        "volume": 194600,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 77700,
+        "high": 77700,
+        "low": 77300,
+        "close": 77350,
+        "volume": 84800,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 77600,
+        "high": 77600,
+        "low": 77000,
+        "close": 77000,
+        "volume": 179800,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 77200,
+        "high": 77200,
+        "low": 76750,
+        "close": 76800,
+        "volume": 152700,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 77000,
+        "high": 77400,
+        "low": 76750,
+        "close": 76850,
+        "volume": 78100,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 76850,
+        "high": 77150,
+        "low": 76700,
+        "close": 76800,
+        "volume": 99000,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 76900,
+        "high": 77400,
+        "low": 76800,
+        "close": 76900,
+        "volume": 80000,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 76900,
+        "high": 77000,
+        "low": 76700,
+        "close": 76700,
+        "volume": 91400,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 76800,
+        "high": 77200,
+        "low": 75450,
+        "close": 75500,
+        "volume": 203600,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 75550,
+        "high": 75650,
+        "low": 75000,
+        "close": 75150,
+        "volume": 197800,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 75000,
+        "high": 75400,
+        "low": 75000,
+        "close": 75000,
+        "volume": 203500,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 75000,
+        "high": 76000,
+        "low": 75000,
+        "close": 75500,
+        "volume": 99000,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 75600,
+        "high": 77000,
+        "low": 75600,
+        "close": 76750,
+        "volume": 206700,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 76800,
+        "high": 76900,
+        "low": 76550,
+        "close": 76900,
+        "volume": 119200,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 77150,
+        "high": 77550,
+        "low": 76500,
+        "close": 76750,
+        "volume": 121100,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 76900,
+        "high": 77100,
+        "low": 76300,
+        "close": 76550,
+        "volume": 123200,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 76550,
+        "high": 76800,
+        "low": 76400,
+        "close": 76400,
+        "volume": 151100,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 76400,
+        "high": 76950,
+        "low": 76350,
+        "close": 76600,
+        "volume": 111000,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 76550,
+        "high": 76600,
+        "low": 76200,
+        "close": 76550,
+        "volume": 122400,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 76650,
+        "high": 77750,
+        "low": 76650,
+        "close": 77500,
+        "volume": 232100,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 77900,
+        "high": 79050,
+        "low": 77600,
+        "close": 79000,
+        "volume": 379300,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 78950,
+        "high": 80900,
+        "low": 78950,
+        "close": 80800,
+        "volume": 199200,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 80500,
+        "high": 80750,
+        "low": 79750,
+        "close": 80100,
+        "volume": 151300,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 80000,
+        "high": 80100,
+        "low": 78500,
+        "close": 78500,
+        "volume": 324400,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 78450,
+        "high": 79850,
+        "low": 78300,
+        "close": 78400,
+        "volume": 275500,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 79550,
+        "high": 80000,
+        "low": 79000,
+        "close": 79200,
+        "volume": 132400,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 79650,
+        "high": 79650,
+        "low": 78850,
+        "close": 79450,
+        "volume": 122100,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 79800,
+        "high": 80750,
+        "low": 79500,
+        "close": 80750,
+        "volume": 280200,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 81250,
+        "high": 81250,
+        "low": 79750,
+        "close": 80250,
+        "volume": 245900,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 80100,
+        "high": 81100,
+        "low": 79800,
+        "close": 80500,
+        "volume": 285100,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 81150,
+        "high": 81150,
+        "low": 80300,
+        "close": 80800,
+        "volume": 168600,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 80800,
+        "high": 80850,
+        "low": 80150,
+        "close": 80500,
+        "volume": 127500,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 80650,
+        "high": 80650,
+        "low": 80000,
+        "close": 80300,
+        "volume": 180900,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 80000,
+        "high": 80300,
+        "low": 79250,
+        "close": 79750,
+        "volume": 187300,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 79500,
+        "high": 79800,
+        "low": 79000,
+        "close": 79000,
+        "volume": 163000,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 79000,
+        "high": 79000,
+        "low": 78350,
+        "close": 78650,
+        "volume": 147600,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 79500,
+        "high": 79750,
+        "low": 78500,
+        "close": 78650,
+        "volume": 218500,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-08-17",
+        "open": 78650,
+        "high": 78650,
+        "low": 77800,
+        "close": 77950,
+        "volume": 193600,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 77750,
+        "high": 79250,
+        "low": 76350,
+        "close": 76800,
+        "volume": 305400,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 77250,
+        "high": 77250,
+        "low": 76000,
+        "close": 76350,
+        "volume": 208300,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 76350,
+        "high": 76700,
+        "low": 75000,
+        "close": 75000,
+        "volume": 390700,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 76250,
+        "high": 76400,
+        "low": 75000,
+        "close": 75050,
+        "volume": 353200,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 77450,
+        "high": 77500,
+        "low": 76600,
+        "close": 76750,
+        "volume": 609400,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 77650,
+        "high": 79100,
+        "low": 77350,
+        "close": 78100,
+        "volume": 430600,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 79000,
+        "high": 79000,
+        "low": 77950,
+        "close": 78150,
+        "volume": 286700,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 78250,
+        "high": 79650,
+        "low": 77950,
+        "close": 79050,
+        "volume": 275400,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 79750,
+        "high": 80400,
+        "low": 79350,
+        "close": 79900,
+        "volume": 279300,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 80000,
+        "high": 80250,
+        "low": 79000,
+        "close": 79000,
+        "volume": 295100,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 79500,
+        "high": 80200,
+        "low": 79250,
+        "close": 79400,
+        "volume": 335400,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 79150,
+        "high": 80000,
+        "low": 79150,
+        "close": 79500,
+        "volume": 239300,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 79700,
+        "high": 80500,
+        "low": 79650,
+        "close": 80250,
+        "volume": 235200,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 80400,
+        "high": 80900,
+        "low": 80000,
+        "close": 80300,
+        "volume": 285700,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 80800,
+        "high": 84950,
+        "low": 80800,
+        "close": 83750,
+        "volume": 844600,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 84950,
+        "high": 85250,
+        "low": 83900,
+        "close": 84450,
+        "volume": 482800,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 84550,
+        "high": 84900,
+        "low": 83250,
+        "close": 83400,
+        "volume": 685100,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 88000,
+        "high": 88000,
+        "low": 84100,
+        "close": 85200,
+        "volume": 1162600,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 86000,
+        "high": 86000,
+        "low": 83100,
+        "close": 83100,
+        "volume": 511300,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 83100,
+        "high": 83100,
+        "low": 80400,
+        "close": 80800,
+        "volume": 483600,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 80700,
+        "high": 81800,
+        "low": 78500,
+        "close": 79000,
+        "volume": 665800,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 79100,
+        "high": 81000,
+        "low": 79000,
+        "close": 80500,
+        "volume": 523000,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 80600,
+        "high": 81800,
+        "low": 80000,
+        "close": 80000,
+        "volume": 480400,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 79000,
+        "high": 79400,
+        "low": 77200,
+        "close": 78600,
+        "volume": 463700,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 78700,
+        "high": 79400,
+        "low": 76000,
+        "close": 76000,
+        "volume": 226500,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 76000,
+        "high": 76600,
+        "low": 75000,
+        "close": 75300,
+        "volume": 414000,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 75300,
+        "high": 75600,
+        "low": 73900,
+        "close": 74100,
+        "volume": 509500,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 74200,
+        "high": 74500,
+        "low": 72400,
+        "close": 72400,
+        "volume": 452200,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 73000,
+        "high": 73300,
+        "low": 72400,
+        "close": 72500,
+        "volume": 361200,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 73300,
+        "high": 73300,
+        "low": 72600,
+        "close": 73000,
+        "volume": 218300,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 73200,
+        "high": 73200,
+        "low": 70300,
+        "close": 70300,
+        "volume": 608100,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 70000,
+        "high": 70200,
+        "low": 69300,
+        "close": 70000,
+        "volume": 335600,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 70200,
+        "high": 71000,
+        "low": 69500,
+        "close": 69500,
+        "volume": 185000,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 69500,
+        "high": 70000,
+        "low": 68300,
+        "close": 69600,
+        "volume": 320300,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 69700,
+        "high": 69800,
+        "low": 68800,
+        "close": 68800,
+        "volume": 438200,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 69000,
+        "high": 69800,
+        "low": 68000,
+        "close": 68800,
+        "volume": 596000,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 68800,
+        "high": 68900,
+        "low": 67800,
+        "close": 68000,
+        "volume": 532600,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 68400,
+        "high": 68900,
+        "low": 68200,
+        "close": 68900,
+        "volume": 526200,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 68700,
+        "high": 70400,
+        "low": 68200,
+        "close": 70100,
+        "volume": 605600,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 70100,
+        "high": 71800,
+        "low": 70100,
+        "close": 70900,
+        "volume": 664200,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 71500,
+        "high": 71600,
+        "low": 69900,
+        "close": 69900,
+        "volume": 352500,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 69900,
+        "high": 69900,
+        "low": 67500,
+        "close": 68300,
+        "volume": 511400,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 68300,
+        "high": 68800,
+        "low": 67800,
+        "close": 68300,
+        "volume": 289500,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 68400,
+        "high": 70000,
+        "low": 68000,
+        "close": 70000,
+        "volume": 209500,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 70000,
+        "high": 70000,
+        "low": 67800,
+        "close": 67800,
+        "volume": 315200,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 67700,
+        "high": 69800,
+        "low": 67700,
+        "close": 69100,
+        "volume": 175100,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 69000,
+        "high": 69700,
+        "low": 68500,
+        "close": 69200,
+        "volume": 223500,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 68000,
+        "high": 68500,
+        "low": 66000,
+        "close": 66200,
+        "volume": 389100,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 65900,
+        "high": 65900,
+        "low": 62100,
+        "close": 63100,
+        "volume": 997300,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 63100,
+        "high": 63100,
+        "low": 60800,
+        "close": 60800,
+        "volume": 379900,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 60900,
+        "high": 61000,
+        "low": 56700,
+        "close": 56700,
+        "volume": 840800,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 57000,
+        "high": 57800,
+        "low": 54900,
+        "close": 57400,
+        "volume": 735700,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 57900,
+        "high": 61400,
+        "low": 57900,
+        "close": 61400,
+        "volume": 719700,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 61400,
+        "high": 64700,
+        "low": 61400,
+        "close": 63900,
+        "volume": 745600,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 64500,
+        "high": 66200,
+        "low": 63900,
+        "close": 66200,
+        "volume": 571800,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 66300,
+        "high": 66800,
+        "low": 64900,
+        "close": 65099,
+        "volume": 441800,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 63800,
+        "high": 65300,
+        "low": 62600,
+        "close": 65099,
+        "volume": 924800,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 65500,
+        "high": 65800,
+        "low": 63600,
+        "close": 63900,
+        "volume": 1035500,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 63800,
+        "high": 63800,
+        "low": 62300,
+        "close": 62400,
+        "volume": 740700,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 62400,
+        "high": 63500,
+        "low": 61100,
+        "close": 61300,
+        "volume": 573500,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 61800,
+        "high": 63300,
+        "low": 61700,
+        "close": 62000,
+        "volume": 734800,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 63200,
+        "high": 64500,
+        "low": 63100,
+        "close": 63200,
+        "volume": 1323600,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 63700,
+        "high": 64599,
+        "low": 63200,
+        "close": 64200,
+        "volume": 740900,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 64300,
+        "high": 65400,
+        "low": 63400,
+        "close": 63700,
+        "volume": 978300,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 62700,
+        "high": 63600,
+        "low": 62500,
+        "close": 63000,
+        "volume": 659500,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 63200,
+        "high": 63800,
+        "low": 62900,
+        "close": 63100,
+        "volume": 563600,
+        "ticker": "SAB"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 63100,
+        "high": 63900,
+        "low": 63100,
+        "close": 63500,
+        "volume": 474900,
+        "ticker": "SAB"
+    }
+]

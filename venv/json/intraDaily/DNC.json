@@ -1,0 +1,245 @@
+[
+    {
+        "time": "2023-05-17",
+        "open": 32049,
+        "high": 32049,
+        "low": 32049,
+        "close": 32049,
+        "volume": 200,
+        "ticker": "DNC"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 35170,
+        "high": 35170,
+        "low": 35170,
+        "close": 35170,
+        "volume": 200,
+        "ticker": "DNC"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 38680,
+        "high": 38680,
+        "low": 38680,
+        "close": 38680,
+        "volume": 100,
+        "ticker": "DNC"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 42380,
+        "high": 42480,
+        "low": 42380,
+        "close": 42480,
+        "volume": 300,
+        "ticker": "DNC"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 38480,
+        "high": 38480,
+        "low": 38480,
+        "close": 38480,
+        "volume": 100,
+        "ticker": "DNC"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 42280,
+        "high": 42280,
+        "low": 42280,
+        "close": 42280,
+        "volume": 100,
+        "ticker": "DNC"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 38480,
+        "high": 38480,
+        "low": 38480,
+        "close": 38480,
+        "volume": 100,
+        "ticker": "DNC"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 42180,
+        "high": 42180,
+        "low": 42180,
+        "close": 42180,
+        "volume": 100,
+        "ticker": "DNC"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 38480,
+        "high": 38480,
+        "low": 38480,
+        "close": 38480,
+        "volume": 100,
+        "ticker": "DNC"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 42180,
+        "high": 42180,
+        "low": 42180,
+        "close": 42180,
+        "volume": 200,
+        "ticker": "DNC"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 42180,
+        "high": 42180,
+        "low": 42180,
+        "close": 42180,
+        "volume": 500,
+        "ticker": "DNC"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 39460,
+        "high": 39460,
+        "low": 39460,
+        "close": 39460,
+        "volume": 300,
+        "ticker": "DNC"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 39460,
+        "high": 39460,
+        "low": 39460,
+        "close": 39460,
+        "volume": 500,
+        "ticker": "DNC"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 43350,
+        "high": 43350,
+        "low": 43350,
+        "close": 43350,
+        "volume": 100,
+        "ticker": "DNC"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 39070,
+        "high": 39070,
+        "low": 39070,
+        "close": 39070,
+        "volume": 100,
+        "ticker": "DNC"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 37800,
+        "high": 37800,
+        "low": 37800,
+        "close": 37800,
+        "volume": 100,
+        "ticker": "DNC"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 41500,
+        "high": 41500,
+        "low": 41500,
+        "close": 41500,
+        "volume": 100,
+        "ticker": "DNC"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 37800,
+        "high": 37800,
+        "low": 37800,
+        "close": 37800,
+        "volume": 100,
+        "ticker": "DNC"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 41500,
+        "high": 41500,
+        "low": 41500,
+        "close": 41500,
+        "volume": 100,
+        "ticker": "DNC"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 37800,
+        "high": 37800,
+        "low": 37800,
+        "close": 37800,
+        "volume": 100,
+        "ticker": "DNC"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 41500,
+        "high": 41500,
+        "low": 41500,
+        "close": 41500,
+        "volume": 100,
+        "ticker": "DNC"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 37500,
+        "high": 42100,
+        "low": 37500,
+        "close": 42100,
+        "volume": 200,
+        "ticker": "DNC"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 38600,
+        "high": 46100,
+        "low": 38600,
+        "close": 46100,
+        "volume": 200,
+        "ticker": "DNC"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 41600,
+        "high": 41600,
+        "low": 41600,
+        "close": 41600,
+        "volume": 100,
+        "ticker": "DNC"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 39100,
+        "high": 41500,
+        "low": 39100,
+        "close": 41500,
+        "volume": 200,
+        "ticker": "DNC"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 40100,
+        "high": 40100,
+        "low": 40100,
+        "close": 40100,
+        "volume": 100,
+        "ticker": "DNC"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 44000,
+        "high": 44100,
+        "low": 44000,
+        "close": 44100,
+        "volume": 700,
+        "ticker": "DNC"
+    }
+]

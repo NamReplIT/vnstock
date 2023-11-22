@@ -1,0 +1,1289 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 21260,
+        "high": 21440,
+        "low": 20670,
+        "close": 20890,
+        "volume": 158400,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 21260,
+        "high": 21260,
+        "low": 20970,
+        "close": 20970,
+        "volume": 300,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 21330,
+        "high": 21330,
+        "low": 21150,
+        "close": 21220,
+        "volume": 88000,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 21480,
+        "high": 21480,
+        "low": 21040,
+        "close": 21040,
+        "volume": 4500,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 20970,
+        "high": 21190,
+        "low": 20930,
+        "close": 21000,
+        "volume": 24500,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 21190,
+        "high": 21260,
+        "low": 20930,
+        "close": 21190,
+        "volume": 20000,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 21150,
+        "high": 21410,
+        "low": 21150,
+        "close": 21410,
+        "volume": 52200,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 21660,
+        "high": 21700,
+        "low": 21150,
+        "close": 21190,
+        "volume": 30300,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 21110,
+        "high": 21630,
+        "low": 21110,
+        "close": 21440,
+        "volume": 35300,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 21260,
+        "high": 21880,
+        "low": 21260,
+        "close": 21700,
+        "volume": 82700,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 21960,
+        "high": 22140,
+        "low": 21770,
+        "close": 22140,
+        "volume": 83100,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 22510,
+        "high": 22690,
+        "low": 22210,
+        "close": 22360,
+        "volume": 50900,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 22730,
+        "high": 22730,
+        "low": 22730,
+        "close": 22730,
+        "volume": 200,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 23020,
+        "high": 23090,
+        "low": 22730,
+        "close": 22800,
+        "volume": 54600,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 23060,
+        "high": 23060,
+        "low": 22650,
+        "close": 22870,
+        "volume": 46000,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 22950,
+        "high": 23090,
+        "low": 22690,
+        "close": 23090,
+        "volume": 60600,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 23090,
+        "high": 23460,
+        "low": 23090,
+        "close": 23420,
+        "volume": 26600,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 23420,
+        "high": 23750,
+        "low": 23090,
+        "close": 23390,
+        "volume": 34100,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 23390,
+        "high": 23830,
+        "low": 23390,
+        "close": 23830,
+        "volume": 45600,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 23830,
+        "high": 24050,
+        "low": 23530,
+        "close": 23970,
+        "volume": 60600,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 23970,
+        "high": 24050,
+        "low": 23750,
+        "close": 23970,
+        "volume": 26900,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 24050,
+        "high": 24560,
+        "low": 23750,
+        "close": 24560,
+        "volume": 120800,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 24780,
+        "high": 24780,
+        "low": 23860,
+        "close": 24520,
+        "volume": 21400,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 24740,
+        "high": 24740,
+        "low": 24050,
+        "close": 24490,
+        "volume": 14700,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 24410,
+        "high": 24520,
+        "low": 24190,
+        "close": 24450,
+        "volume": 109500,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 24450,
+        "high": 25000,
+        "low": 24450,
+        "close": 24740,
+        "volume": 45600,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 24930,
+        "high": 24930,
+        "low": 24190,
+        "close": 24670,
+        "volume": 21900,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 24710,
+        "high": 24850,
+        "low": 24410,
+        "close": 24820,
+        "volume": 118200,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 24850,
+        "high": 25070,
+        "low": 24600,
+        "close": 24710,
+        "volume": 19900,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 24930,
+        "high": 24930,
+        "low": 24340,
+        "close": 24560,
+        "volume": 72600,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 24410,
+        "high": 25000,
+        "low": 24410,
+        "close": 24710,
+        "volume": 120400,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 25070,
+        "high": 25070,
+        "low": 24670,
+        "close": 24850,
+        "volume": 24600,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 24710,
+        "high": 24850,
+        "low": 24630,
+        "close": 24710,
+        "volume": 84000,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 24560,
+        "high": 25660,
+        "low": 24560,
+        "close": 25660,
+        "volume": 253600,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 26250,
+        "high": 26360,
+        "low": 25810,
+        "close": 26030,
+        "volume": 283200,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 26250,
+        "high": 27130,
+        "low": 26250,
+        "close": 26390,
+        "volume": 196300,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 26690,
+        "high": 27490,
+        "low": 26390,
+        "close": 27090,
+        "volume": 211200,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 27270,
+        "high": 27930,
+        "low": 27020,
+        "close": 27490,
+        "volume": 243400,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 27640,
+        "high": 27930,
+        "low": 27570,
+        "close": 27860,
+        "volume": 156900,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 28080,
+        "high": 28520,
+        "low": 28040,
+        "close": 28190,
+        "volume": 168300,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 28220,
+        "high": 28660,
+        "low": 28150,
+        "close": 28440,
+        "volume": 154400,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 28630,
+        "high": 28630,
+        "low": 28220,
+        "close": 28300,
+        "volume": 93100,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 28300,
+        "high": 28550,
+        "low": 26760,
+        "close": 28120,
+        "volume": 96400,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 28440,
+        "high": 28660,
+        "low": 28120,
+        "close": 28630,
+        "volume": 196300,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 28660,
+        "high": 28880,
+        "low": 28440,
+        "close": 28660,
+        "volume": 114200,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 28880,
+        "high": 28880,
+        "low": 28370,
+        "close": 28370,
+        "volume": 98100,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 28590,
+        "high": 28880,
+        "low": 28440,
+        "close": 28880,
+        "volume": 140800,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 29320,
+        "high": 30420,
+        "low": 29180,
+        "close": 30350,
+        "volume": 242800,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 30720,
+        "high": 30720,
+        "low": 30310,
+        "close": 30720,
+        "volume": 180400,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 30750,
+        "high": 31520,
+        "low": 30680,
+        "close": 31230,
+        "volume": 235500,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 32650,
+        "high": 32650,
+        "low": 31500,
+        "close": 31850,
+        "volume": 195700,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 32000,
+        "high": 32000,
+        "low": 30850,
+        "close": 31000,
+        "volume": 239100,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 30500,
+        "high": 30700,
+        "low": 29200,
+        "close": 29600,
+        "volume": 351400,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 29600,
+        "high": 30700,
+        "low": 29550,
+        "close": 30400,
+        "volume": 98700,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 30500,
+        "high": 30500,
+        "low": 29500,
+        "close": 29600,
+        "volume": 135800,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 29500,
+        "high": 29500,
+        "low": 28700,
+        "close": 29000,
+        "volume": 207000,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 28950,
+        "high": 29350,
+        "low": 28750,
+        "close": 28800,
+        "volume": 102700,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 28800,
+        "high": 28800,
+        "low": 28000,
+        "close": 28000,
+        "volume": 211700,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 28000,
+        "high": 28100,
+        "low": 27300,
+        "close": 27350,
+        "volume": 227300,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 27800,
+        "high": 27850,
+        "low": 27350,
+        "close": 27500,
+        "volume": 109500,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 27850,
+        "high": 28600,
+        "low": 27650,
+        "close": 28600,
+        "volume": 109200,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 28900,
+        "high": 29000,
+        "low": 28250,
+        "close": 28350,
+        "volume": 147700,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 28450,
+        "high": 28600,
+        "low": 28000,
+        "close": 28000,
+        "volume": 139200,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 28000,
+        "high": 28350,
+        "low": 27500,
+        "close": 27500,
+        "volume": 130100,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 27600,
+        "high": 28500,
+        "low": 27600,
+        "close": 28150,
+        "volume": 68200,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 28200,
+        "high": 28250,
+        "low": 27750,
+        "close": 27750,
+        "volume": 101900,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 27550,
+        "high": 28000,
+        "low": 27550,
+        "close": 28000,
+        "volume": 89000,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 28200,
+        "high": 28400,
+        "low": 27850,
+        "close": 27900,
+        "volume": 80600,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 28000,
+        "high": 29850,
+        "low": 28000,
+        "close": 29800,
+        "volume": 309600,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 29800,
+        "high": 29800,
+        "low": 29100,
+        "close": 29200,
+        "volume": 111600,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 29950,
+        "high": 29950,
+        "low": 29050,
+        "close": 29350,
+        "volume": 123400,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 29050,
+        "high": 29100,
+        "low": 28450,
+        "close": 28900,
+        "volume": 93100,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 28900,
+        "high": 28900,
+        "low": 27200,
+        "close": 28450,
+        "volume": 107800,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 28450,
+        "high": 28550,
+        "low": 28000,
+        "close": 28550,
+        "volume": 96900,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 28500,
+        "high": 28700,
+        "low": 28250,
+        "close": 28250,
+        "volume": 74900,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-08-17",
+        "open": 28250,
+        "high": 28300,
+        "low": 28000,
+        "close": 28050,
+        "volume": 73000,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 28050,
+        "high": 28050,
+        "low": 26150,
+        "close": 26750,
+        "volume": 253500,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 26700,
+        "high": 26900,
+        "low": 26450,
+        "close": 26900,
+        "volume": 84100,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 27100,
+        "high": 27400,
+        "low": 26400,
+        "close": 26950,
+        "volume": 54000,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 27000,
+        "high": 27400,
+        "low": 27000,
+        "close": 27300,
+        "volume": 29200,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 27400,
+        "high": 27750,
+        "low": 27300,
+        "close": 27750,
+        "volume": 29800,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 27750,
+        "high": 27750,
+        "low": 27350,
+        "close": 27600,
+        "volume": 31000,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 27300,
+        "high": 27800,
+        "low": 27300,
+        "close": 27600,
+        "volume": 31700,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 27900,
+        "high": 27900,
+        "low": 27300,
+        "close": 27600,
+        "volume": 36600,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 27600,
+        "high": 27750,
+        "low": 27200,
+        "close": 27750,
+        "volume": 43100,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 27550,
+        "high": 29600,
+        "low": 27400,
+        "close": 29500,
+        "volume": 465100,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 30700,
+        "high": 31550,
+        "low": 30000,
+        "close": 31550,
+        "volume": 608500,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 31500,
+        "high": 32400,
+        "low": 30600,
+        "close": 31550,
+        "volume": 225300,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 32100,
+        "high": 32100,
+        "low": 30500,
+        "close": 31000,
+        "volume": 184200,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 30500,
+        "high": 31000,
+        "low": 30400,
+        "close": 30600,
+        "volume": 279200,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 31500,
+        "high": 31500,
+        "low": 30200,
+        "close": 30300,
+        "volume": 276000,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 29800,
+        "high": 30500,
+        "low": 29800,
+        "close": 30450,
+        "volume": 158100,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 30950,
+        "high": 32549,
+        "low": 30250,
+        "close": 32549,
+        "volume": 648100,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 32549,
+        "high": 32549,
+        "low": 31500,
+        "close": 32000,
+        "volume": 245100,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 32900,
+        "high": 34200,
+        "low": 32500,
+        "close": 34200,
+        "volume": 899700,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 34900,
+        "high": 35900,
+        "low": 34050,
+        "close": 34800,
+        "volume": 420500,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 35600,
+        "high": 35600,
+        "low": 33500,
+        "close": 34650,
+        "volume": 243700,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 34650,
+        "high": 34800,
+        "low": 33750,
+        "close": 34550,
+        "volume": 315100,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 34600,
+        "high": 36600,
+        "low": 34000,
+        "close": 34000,
+        "volume": 324600,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 33900,
+        "high": 33900,
+        "low": 32000,
+        "close": 33700,
+        "volume": 390300,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 34300,
+        "high": 34300,
+        "low": 31350,
+        "close": 31350,
+        "volume": 393800,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 31300,
+        "high": 31450,
+        "low": 29200,
+        "close": 29200,
+        "volume": 548300,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 29150,
+        "high": 31200,
+        "low": 28650,
+        "close": 31200,
+        "volume": 241800,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 31850,
+        "high": 31850,
+        "low": 30000,
+        "close": 30250,
+        "volume": 456400,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 30300,
+        "high": 31450,
+        "low": 30300,
+        "close": 30650,
+        "volume": 205700,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 30200,
+        "high": 31350,
+        "low": 30200,
+        "close": 30850,
+        "volume": 138100,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 30250,
+        "high": 30400,
+        "low": 28700,
+        "close": 29000,
+        "volume": 320500,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 28100,
+        "high": 30000,
+        "low": 28100,
+        "close": 29900,
+        "volume": 176700,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 29900,
+        "high": 30000,
+        "low": 29200,
+        "close": 29600,
+        "volume": 145800,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 29400,
+        "high": 30000,
+        "low": 29200,
+        "close": 29950,
+        "volume": 124400,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 31000,
+        "high": 31450,
+        "low": 30200,
+        "close": 30650,
+        "volume": 293700,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 30900,
+        "high": 31000,
+        "low": 30500,
+        "close": 30650,
+        "volume": 150800,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 30650,
+        "high": 31600,
+        "low": 30500,
+        "close": 31000,
+        "volume": 182300,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 30900,
+        "high": 30900,
+        "low": 30350,
+        "close": 30400,
+        "volume": 241500,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 30400,
+        "high": 31000,
+        "low": 30200,
+        "close": 31000,
+        "volume": 242500,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 31900,
+        "high": 31950,
+        "low": 30600,
+        "close": 31000,
+        "volume": 337000,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 31250,
+        "high": 31250,
+        "low": 29550,
+        "close": 29600,
+        "volume": 297300,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 30150,
+        "high": 30150,
+        "low": 28050,
+        "close": 29900,
+        "volume": 319600,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 29950,
+        "high": 29950,
+        "low": 28700,
+        "close": 28750,
+        "volume": 121100,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 29400,
+        "high": 29400,
+        "low": 28500,
+        "close": 29200,
+        "volume": 158500,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 29000,
+        "high": 29150,
+        "low": 28800,
+        "close": 29150,
+        "volume": 44200,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 29400,
+        "high": 29400,
+        "low": 28500,
+        "close": 29150,
+        "volume": 60700,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 29300,
+        "high": 29300,
+        "low": 28200,
+        "close": 28950,
+        "volume": 82300,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 28500,
+        "high": 28900,
+        "low": 26950,
+        "close": 26950,
+        "volume": 331200,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 26950,
+        "high": 27500,
+        "low": 25100,
+        "close": 27400,
+        "volume": 139000,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 27500,
+        "high": 27500,
+        "low": 26050,
+        "close": 26950,
+        "volume": 64100,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 26800,
+        "high": 26950,
+        "low": 25700,
+        "close": 25700,
+        "volume": 97400,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 25700,
+        "high": 26200,
+        "low": 25300,
+        "close": 26150,
+        "volume": 93700,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 26800,
+        "high": 27600,
+        "low": 26500,
+        "close": 27350,
+        "volume": 171100,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 27800,
+        "high": 27800,
+        "low": 26800,
+        "close": 26900,
+        "volume": 82500,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 26900,
+        "high": 27300,
+        "low": 26600,
+        "close": 27300,
+        "volume": 125100,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 27300,
+        "high": 28500,
+        "low": 26950,
+        "close": 28200,
+        "volume": 162300,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 28000,
+        "high": 29400,
+        "low": 27700,
+        "close": 29400,
+        "volume": 196700,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 29400,
+        "high": 29450,
+        "low": 28750,
+        "close": 28900,
+        "volume": 135300,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 28900,
+        "high": 29050,
+        "low": 28200,
+        "close": 28750,
+        "volume": 131300,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 28750,
+        "high": 28900,
+        "low": 28500,
+        "close": 28800,
+        "volume": 49100,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 28800,
+        "high": 29300,
+        "low": 28500,
+        "close": 28800,
+        "volume": 92500,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 29050,
+        "high": 29850,
+        "low": 28850,
+        "close": 29200,
+        "volume": 131500,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 29200,
+        "high": 29200,
+        "low": 28500,
+        "close": 29000,
+        "volume": 91300,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 29000,
+        "high": 29000,
+        "low": 28300,
+        "close": 28600,
+        "volume": 149500,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 28300,
+        "high": 28500,
+        "low": 28000,
+        "close": 28150,
+        "volume": 107400,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 28150,
+        "high": 28700,
+        "low": 28150,
+        "close": 28450,
+        "volume": 79600,
+        "ticker": "CNG"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 28600,
+        "high": 28600,
+        "low": 27900,
+        "close": 28400,
+        "volume": 81600,
+        "ticker": "CNG"
+    }
+]

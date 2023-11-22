@@ -1,0 +1,380 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 112960,
+        "high": 112960,
+        "low": 112960,
+        "close": 112960,
+        "volume": 100,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 129850,
+        "high": 129850,
+        "low": 129850,
+        "close": 129850,
+        "volume": 100,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 132600,
+        "high": 132600,
+        "low": 132600,
+        "close": 132600,
+        "volume": 100,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 115410,
+        "high": 115410,
+        "low": 115410,
+        "close": 115410,
+        "volume": 500,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 135940,
+        "high": 135940,
+        "low": 135940,
+        "close": 135940,
+        "volume": 200,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 116100,
+        "high": 116100,
+        "low": 116100,
+        "close": 116100,
+        "volume": 500,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 133490,
+        "high": 133490,
+        "low": 133490,
+        "close": 133490,
+        "volume": 100,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 135550,
+        "high": 135550,
+        "low": 135550,
+        "close": 135550,
+        "volume": 100,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 117080,
+        "high": 117080,
+        "low": 117080,
+        "close": 117080,
+        "volume": 500,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 134570,
+        "high": 134570,
+        "low": 134570,
+        "close": 134570,
+        "volume": 300,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 116100,
+        "high": 116100,
+        "low": 116100,
+        "close": 116100,
+        "volume": 500,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 133490,
+        "high": 133490,
+        "low": 133490,
+        "close": 133490,
+        "volume": 100,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 135550,
+        "high": 135550,
+        "low": 135550,
+        "close": 135550,
+        "volume": 100,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 120320,
+        "high": 136530,
+        "low": 120320,
+        "close": 136530,
+        "volume": 600,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 141440,
+        "high": 141440,
+        "low": 124350,
+        "close": 141440,
+        "volume": 1800,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 120520,
+        "high": 120520,
+        "low": 120520,
+        "close": 120520,
+        "volume": 500,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 138590,
+        "high": 138590,
+        "low": 138590,
+        "close": 138590,
+        "volume": 200,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 133190,
+        "high": 141440,
+        "low": 133190,
+        "close": 141440,
+        "volume": 1200,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 121110,
+        "high": 142430,
+        "low": 121110,
+        "close": 137510,
+        "volume": 3300,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 133190,
+        "high": 142430,
+        "low": 133190,
+        "close": 142430,
+        "volume": 1900,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 133190,
+        "high": 145370,
+        "low": 133190,
+        "close": 145370,
+        "volume": 3100,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 143410,
+        "high": 143410,
+        "low": 143410,
+        "close": 143410,
+        "volume": 400,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 137510,
+        "high": 137510,
+        "low": 137510,
+        "close": 137510,
+        "volume": 5000,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 135100,
+        "high": 146000,
+        "low": 135100,
+        "close": 146000,
+        "volume": 1100,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 161800,
+        "high": 161800,
+        "low": 161800,
+        "close": 161800,
+        "volume": 100,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 186000,
+        "high": 186000,
+        "low": 142000,
+        "close": 150000,
+        "volume": 8200,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 148100,
+        "high": 151000,
+        "low": 148100,
+        "close": 151000,
+        "volume": 3300,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 150100,
+        "high": 150100,
+        "low": 135200,
+        "close": 135200,
+        "volume": 2500,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 136200,
+        "high": 136200,
+        "low": 136200,
+        "close": 136200,
+        "volume": 400,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 156600,
+        "high": 156600,
+        "low": 156600,
+        "close": 156600,
+        "volume": 1200,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 155000,
+        "high": 155000,
+        "low": 155000,
+        "close": 155000,
+        "volume": 100,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 159000,
+        "high": 159000,
+        "low": 159000,
+        "close": 159000,
+        "volume": 100,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 139100,
+        "high": 139100,
+        "low": 139100,
+        "close": 139100,
+        "volume": 500,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 150000,
+        "high": 150000,
+        "low": 150000,
+        "close": 150000,
+        "volume": 300,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 151000,
+        "high": 151000,
+        "low": 151000,
+        "close": 151000,
+        "volume": 100,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 151000,
+        "high": 151000,
+        "low": 151000,
+        "close": 151000,
+        "volume": 100,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 151000,
+        "high": 151000,
+        "low": 151000,
+        "close": 151000,
+        "volume": 100,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 173000,
+        "high": 173000,
+        "low": 173000,
+        "close": 173000,
+        "volume": 100,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 194000,
+        "high": 194000,
+        "low": 194000,
+        "close": 194000,
+        "volume": 300,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 223100,
+        "high": 223100,
+        "low": 223100,
+        "close": 223100,
+        "volume": 100,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 256500,
+        "high": 256500,
+        "low": 190000,
+        "close": 190000,
+        "volume": 300,
+        "ticker": "NDC"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 212000,
+        "high": 212000,
+        "low": 212000,
+        "close": 212000,
+        "volume": 200,
+        "ticker": "NDC"
+    }
+]

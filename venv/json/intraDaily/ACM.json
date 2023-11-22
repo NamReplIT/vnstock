@@ -1,0 +1,254 @@
+[
+    {
+        "time": "2023-05-05",
+        "open": 700,
+        "high": 700,
+        "low": 600,
+        "close": 700,
+        "volume": 188400,
+        "ticker": "ACM"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 700,
+        "high": 800,
+        "low": 600,
+        "close": 700,
+        "volume": 1377900,
+        "ticker": "ACM"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 700,
+        "high": 800,
+        "low": 600,
+        "close": 700,
+        "volume": 342600,
+        "ticker": "ACM"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 700,
+        "high": 700,
+        "low": 600,
+        "close": 700,
+        "volume": 349000,
+        "ticker": "ACM"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 800,
+        "high": 800,
+        "low": 700,
+        "close": 800,
+        "volume": 2477200,
+        "ticker": "ACM"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 800,
+        "high": 900,
+        "low": 700,
+        "close": 900,
+        "volume": 2013400,
+        "ticker": "ACM"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 900,
+        "high": 900,
+        "low": 700,
+        "close": 800,
+        "volume": 1155100,
+        "ticker": "ACM"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 800,
+        "high": 900,
+        "low": 700,
+        "close": 900,
+        "volume": 1189500,
+        "ticker": "ACM"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 800,
+        "high": 800,
+        "low": 700,
+        "close": 800,
+        "volume": 715700,
+        "ticker": "ACM"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 700,
+        "high": 800,
+        "low": 600,
+        "close": 800,
+        "volume": 484500,
+        "ticker": "ACM"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 800,
+        "high": 800,
+        "low": 700,
+        "close": 800,
+        "volume": 2837800,
+        "ticker": "ACM"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 800,
+        "high": 800,
+        "low": 700,
+        "close": 800,
+        "volume": 581800,
+        "ticker": "ACM"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 800,
+        "high": 800,
+        "low": 700,
+        "close": 700,
+        "volume": 1330500,
+        "ticker": "ACM"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 700,
+        "high": 800,
+        "low": 600,
+        "close": 800,
+        "volume": 1121000,
+        "ticker": "ACM"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 700,
+        "high": 800,
+        "low": 700,
+        "close": 700,
+        "volume": 608300,
+        "ticker": "ACM"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 700,
+        "high": 800,
+        "low": 600,
+        "close": 700,
+        "volume": 1168600,
+        "ticker": "ACM"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 700,
+        "high": 800,
+        "low": 600,
+        "close": 700,
+        "volume": 289200,
+        "ticker": "ACM"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 700,
+        "high": 800,
+        "low": 600,
+        "close": 700,
+        "volume": 684300,
+        "ticker": "ACM"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 700,
+        "high": 700,
+        "low": 600,
+        "close": 700,
+        "volume": 264500,
+        "ticker": "ACM"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 700,
+        "high": 700,
+        "low": 600,
+        "close": 700,
+        "volume": 423300,
+        "ticker": "ACM"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 600,
+        "high": 700,
+        "low": 600,
+        "close": 700,
+        "volume": 350600,
+        "ticker": "ACM"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 600,
+        "high": 700,
+        "low": 500,
+        "close": 700,
+        "volume": 499400,
+        "ticker": "ACM"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 700,
+        "high": 700,
+        "low": 500,
+        "close": 700,
+        "volume": 388400,
+        "ticker": "ACM"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 600,
+        "high": 600,
+        "low": 500,
+        "close": 600,
+        "volume": 255200,
+        "ticker": "ACM"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 500,
+        "high": 600,
+        "low": 500,
+        "close": 600,
+        "volume": 243100,
+        "ticker": "ACM"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 600,
+        "high": 600,
+        "low": 500,
+        "close": 600,
+        "volume": 386600,
+        "ticker": "ACM"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 500,
+        "high": 600,
+        "low": 500,
+        "close": 600,
+        "volume": 544300,
+        "ticker": "ACM"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 500,
+        "high": 600,
+        "low": 500,
+        "close": 600,
+        "volume": 201200,
+        "ticker": "ACM"
+    }
+]

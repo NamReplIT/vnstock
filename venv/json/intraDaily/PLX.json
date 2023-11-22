@@ -1,0 +1,1289 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 37000,
+        "high": 37050,
+        "low": 36650,
+        "close": 36650,
+        "volume": 580600,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 37000,
+        "high": 37340,
+        "low": 36850,
+        "close": 37190,
+        "volume": 1065300,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 37290,
+        "high": 37540,
+        "low": 37150,
+        "close": 37190,
+        "volume": 617300,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 37240,
+        "high": 37490,
+        "low": 37150,
+        "close": 37390,
+        "volume": 635600,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 37240,
+        "high": 37340,
+        "low": 36850,
+        "close": 37190,
+        "volume": 594600,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 37100,
+        "high": 37240,
+        "low": 36950,
+        "close": 37100,
+        "volume": 546400,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 37100,
+        "high": 37100,
+        "low": 36750,
+        "close": 37000,
+        "volume": 486100,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 37000,
+        "high": 37290,
+        "low": 36850,
+        "close": 37050,
+        "volume": 605400,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 37100,
+        "high": 37490,
+        "low": 37100,
+        "close": 37390,
+        "volume": 957400,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 37340,
+        "high": 37440,
+        "low": 37150,
+        "close": 37150,
+        "volume": 562400,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 36850,
+        "high": 36950,
+        "low": 36600,
+        "close": 36900,
+        "volume": 413600,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 37100,
+        "high": 37290,
+        "low": 36800,
+        "close": 37100,
+        "volume": 548200,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 36950,
+        "high": 37290,
+        "low": 36950,
+        "close": 37150,
+        "volume": 480700,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 37240,
+        "high": 37340,
+        "low": 36800,
+        "close": 36800,
+        "volume": 504900,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 36900,
+        "high": 37000,
+        "low": 36650,
+        "close": 36650,
+        "volume": 606300,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 36560,
+        "high": 36950,
+        "low": 36360,
+        "close": 36700,
+        "volume": 375100,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 36700,
+        "high": 37540,
+        "low": 36700,
+        "close": 37000,
+        "volume": 737800,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 37050,
+        "high": 37490,
+        "low": 37050,
+        "close": 37240,
+        "volume": 868600,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 37540,
+        "high": 37540,
+        "low": 37190,
+        "close": 37240,
+        "volume": 507800,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 37240,
+        "high": 37290,
+        "low": 36800,
+        "close": 36850,
+        "volume": 950100,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 36800,
+        "high": 37050,
+        "low": 36800,
+        "close": 36800,
+        "volume": 416900,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 36900,
+        "high": 37830,
+        "low": 36850,
+        "close": 37590,
+        "volume": 1189000,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 38130,
+        "high": 38770,
+        "low": 37830,
+        "close": 38420,
+        "volume": 1441700,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 38420,
+        "high": 38670,
+        "low": 38080,
+        "close": 38230,
+        "volume": 690200,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 38320,
+        "high": 38320,
+        "low": 37690,
+        "close": 38230,
+        "volume": 1272900,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 38320,
+        "high": 38720,
+        "low": 37640,
+        "close": 37640,
+        "volume": 540900,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 37540,
+        "high": 37640,
+        "low": 37240,
+        "close": 37340,
+        "volume": 591100,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 37340,
+        "high": 37540,
+        "low": 37000,
+        "close": 37290,
+        "volume": 569700,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 37100,
+        "high": 37390,
+        "low": 37050,
+        "close": 37390,
+        "volume": 420000,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 37640,
+        "high": 37730,
+        "low": 37390,
+        "close": 37390,
+        "volume": 436500,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 37340,
+        "high": 38030,
+        "low": 37340,
+        "close": 37640,
+        "volume": 1436500,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 37980,
+        "high": 37980,
+        "low": 36560,
+        "close": 36560,
+        "volume": 620800,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 36950,
+        "high": 37150,
+        "low": 36560,
+        "close": 36560,
+        "volume": 750500,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 36560,
+        "high": 36850,
+        "low": 36360,
+        "close": 36560,
+        "volume": 556100,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 36700,
+        "high": 36850,
+        "low": 36560,
+        "close": 36850,
+        "volume": 454900,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 36950,
+        "high": 37150,
+        "low": 36900,
+        "close": 37000,
+        "volume": 381100,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 37050,
+        "high": 37150,
+        "low": 36650,
+        "close": 36850,
+        "volume": 686500,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 36850,
+        "high": 37050,
+        "low": 36410,
+        "close": 36900,
+        "volume": 830200,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 37190,
+        "high": 37730,
+        "low": 37050,
+        "close": 37490,
+        "volume": 858700,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 37780,
+        "high": 37780,
+        "low": 37240,
+        "close": 37440,
+        "volume": 409900,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 37540,
+        "high": 37540,
+        "low": 36850,
+        "close": 36850,
+        "volume": 689000,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 36950,
+        "high": 37240,
+        "low": 36700,
+        "close": 36700,
+        "volume": 444000,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 36900,
+        "high": 37440,
+        "low": 36750,
+        "close": 37000,
+        "volume": 379100,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 37190,
+        "high": 39160,
+        "low": 37190,
+        "close": 39160,
+        "volume": 3702800,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 39600,
+        "high": 40140,
+        "low": 39160,
+        "close": 39600,
+        "volume": 2214000,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 39450,
+        "high": 40290,
+        "low": 39160,
+        "close": 39600,
+        "volume": 2371600,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 39800,
+        "high": 40090,
+        "low": 39410,
+        "close": 39600,
+        "volume": 1478400,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 39990,
+        "high": 41080,
+        "low": 39800,
+        "close": 41080,
+        "volume": 2415100,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 41270,
+        "high": 41320,
+        "low": 40540,
+        "close": 40540,
+        "volume": 1676900,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 40580,
+        "high": 41220,
+        "low": 40390,
+        "close": 40780,
+        "volume": 1187300,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 40880,
+        "high": 41080,
+        "low": 40440,
+        "close": 40680,
+        "volume": 1142700,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 40630,
+        "high": 40880,
+        "low": 39850,
+        "close": 40190,
+        "volume": 1705900,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 40340,
+        "high": 40830,
+        "low": 39650,
+        "close": 40240,
+        "volume": 2239700,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 40540,
+        "high": 40580,
+        "low": 39850,
+        "close": 39850,
+        "volume": 1122100,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 40090,
+        "high": 40140,
+        "low": 39410,
+        "close": 39410,
+        "volume": 1401500,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 39360,
+        "high": 39600,
+        "low": 38910,
+        "close": 39010,
+        "volume": 2116600,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 39010,
+        "high": 39990,
+        "low": 38960,
+        "close": 39800,
+        "volume": 1741000,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 39900,
+        "high": 40190,
+        "low": 39600,
+        "close": 39600,
+        "volume": 1713100,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 39800,
+        "high": 40540,
+        "low": 39310,
+        "close": 39600,
+        "volume": 1969500,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 39600,
+        "high": 39990,
+        "low": 39500,
+        "close": 39800,
+        "volume": 1219100,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 39800,
+        "high": 39990,
+        "low": 39010,
+        "close": 39210,
+        "volume": 2127700,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 39410,
+        "high": 39500,
+        "low": 39110,
+        "close": 39360,
+        "volume": 1595300,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 39600,
+        "high": 40780,
+        "low": 39600,
+        "close": 40780,
+        "volume": 2751400,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 41470,
+        "high": 41470,
+        "low": 40140,
+        "close": 40290,
+        "volume": 3004500,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 40630,
+        "high": 40630,
+        "low": 40140,
+        "close": 40240,
+        "volume": 1347500,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 40290,
+        "high": 40390,
+        "low": 39410,
+        "close": 39410,
+        "volume": 2016300,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 39900,
+        "high": 39900,
+        "low": 39310,
+        "close": 39600,
+        "volume": 1482200,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 39900,
+        "high": 39990,
+        "low": 39600,
+        "close": 39800,
+        "volume": 1474800,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 39950,
+        "high": 40440,
+        "low": 39950,
+        "close": 40190,
+        "volume": 2949000,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 40490,
+        "high": 40490,
+        "low": 39900,
+        "close": 39990,
+        "volume": 1235700,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 40190,
+        "high": 41170,
+        "low": 40090,
+        "close": 40090,
+        "volume": 2426300,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 40240,
+        "high": 40490,
+        "low": 39310,
+        "close": 39950,
+        "volume": 1139900,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 40040,
+        "high": 40090,
+        "low": 39700,
+        "close": 39850,
+        "volume": 1196600,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 39950,
+        "high": 39950,
+        "low": 39500,
+        "close": 39650,
+        "volume": 1207800,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 39700,
+        "high": 40040,
+        "low": 39360,
+        "close": 39550,
+        "volume": 1006000,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-08-17",
+        "open": 39500,
+        "high": 39650,
+        "low": 39060,
+        "close": 39060,
+        "volume": 1615700,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 39060,
+        "high": 39210,
+        "low": 36700,
+        "close": 36700,
+        "volume": 2701800,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 36560,
+        "high": 37190,
+        "low": 36510,
+        "close": 36850,
+        "volume": 877800,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 37340,
+        "high": 37390,
+        "low": 36360,
+        "close": 37050,
+        "volume": 1252900,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 37440,
+        "high": 37440,
+        "low": 36260,
+        "close": 36750,
+        "volume": 1209200,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 36750,
+        "high": 37150,
+        "low": 36750,
+        "close": 37150,
+        "volume": 583800,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 37150,
+        "high": 37240,
+        "low": 36900,
+        "close": 36900,
+        "volume": 933800,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 36850,
+        "high": 37730,
+        "low": 36850,
+        "close": 37490,
+        "volume": 936300,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 37590,
+        "high": 37640,
+        "low": 37340,
+        "close": 37390,
+        "volume": 798000,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 37640,
+        "high": 38280,
+        "low": 37640,
+        "close": 37730,
+        "volume": 803900,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 37730,
+        "high": 37980,
+        "low": 37730,
+        "close": 37880,
+        "volume": 729500,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 38520,
+        "high": 38770,
+        "low": 38320,
+        "close": 38470,
+        "volume": 1240400,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 38910,
+        "high": 38910,
+        "low": 38520,
+        "close": 38620,
+        "volume": 743400,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 38720,
+        "high": 39160,
+        "low": 38570,
+        "close": 38670,
+        "volume": 832100,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 38620,
+        "high": 39010,
+        "low": 38520,
+        "close": 38720,
+        "volume": 972300,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 38820,
+        "high": 39900,
+        "low": 38820,
+        "close": 39160,
+        "volume": 2041800,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 39310,
+        "high": 39550,
+        "low": 39010,
+        "close": 39310,
+        "volume": 685400,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 39600,
+        "high": 40440,
+        "low": 39310,
+        "close": 39600,
+        "volume": 2266800,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 39900,
+        "high": 39990,
+        "low": 39310,
+        "close": 39310,
+        "volume": 1097300,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 39750,
+        "high": 40580,
+        "low": 39410,
+        "close": 39450,
+        "volume": 1805700,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 39950,
+        "high": 39950,
+        "low": 38370,
+        "close": 38910,
+        "volume": 1405300,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 39110,
+        "high": 39310,
+        "low": 38620,
+        "close": 39210,
+        "volume": 652800,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 39310,
+        "high": 39900,
+        "low": 39110,
+        "close": 39700,
+        "volume": 1059800,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 40000,
+        "high": 40200,
+        "low": 39600,
+        "close": 39800,
+        "volume": 972500,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 39100,
+        "high": 39500,
+        "low": 38000,
+        "close": 39150,
+        "volume": 1040100,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 39150,
+        "high": 39200,
+        "low": 37500,
+        "close": 37500,
+        "volume": 1155700,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 37500,
+        "high": 37950,
+        "low": 37100,
+        "close": 37100,
+        "volume": 1064900,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 37000,
+        "high": 37300,
+        "low": 36000,
+        "close": 36550,
+        "volume": 1673300,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 37050,
+        "high": 37750,
+        "low": 36800,
+        "close": 37750,
+        "volume": 1126200,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 37750,
+        "high": 37750,
+        "low": 37150,
+        "close": 37500,
+        "volume": 435400,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 37500,
+        "high": 37900,
+        "low": 37250,
+        "close": 37500,
+        "volume": 567900,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 37100,
+        "high": 37200,
+        "low": 36000,
+        "close": 36000,
+        "volume": 1026000,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 35150,
+        "high": 36400,
+        "low": 35150,
+        "close": 36250,
+        "volume": 784600,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 36300,
+        "high": 36300,
+        "low": 34400,
+        "close": 34400,
+        "volume": 1530500,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 34900,
+        "high": 35500,
+        "low": 34350,
+        "close": 35000,
+        "volume": 2194100,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 35800,
+        "high": 35900,
+        "low": 35450,
+        "close": 35700,
+        "volume": 1552600,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 36000,
+        "high": 36250,
+        "low": 35950,
+        "close": 36000,
+        "volume": 1524500,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 36250,
+        "high": 37000,
+        "low": 36100,
+        "close": 36900,
+        "volume": 1352900,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 37000,
+        "high": 37500,
+        "low": 36550,
+        "close": 36700,
+        "volume": 1061800,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 36700,
+        "high": 36850,
+        "low": 36500,
+        "close": 36700,
+        "volume": 1299600,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 37500,
+        "high": 37800,
+        "low": 36800,
+        "close": 36800,
+        "volume": 1011900,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 36800,
+        "high": 36850,
+        "low": 36000,
+        "close": 36000,
+        "volume": 1005800,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 36150,
+        "high": 36150,
+        "low": 34450,
+        "close": 35000,
+        "volume": 1299500,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 35050,
+        "high": 35650,
+        "low": 34900,
+        "close": 35000,
+        "volume": 593100,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 35150,
+        "high": 35450,
+        "low": 34400,
+        "close": 35400,
+        "volume": 610400,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 35800,
+        "high": 35850,
+        "low": 35000,
+        "close": 35350,
+        "volume": 377000,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 35350,
+        "high": 35650,
+        "low": 35100,
+        "close": 35500,
+        "volume": 303400,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 35450,
+        "high": 35650,
+        "low": 35250,
+        "close": 35350,
+        "volume": 373900,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 34800,
+        "high": 35100,
+        "low": 32900,
+        "close": 32900,
+        "volume": 1802700,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 33000,
+        "high": 33500,
+        "low": 32200,
+        "close": 33000,
+        "volume": 636400,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 33000,
+        "high": 33300,
+        "low": 32850,
+        "close": 32850,
+        "volume": 267100,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 33300,
+        "high": 33300,
+        "low": 31500,
+        "close": 31900,
+        "volume": 980300,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 31550,
+        "high": 32500,
+        "low": 31300,
+        "close": 32299,
+        "volume": 633200,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 32600,
+        "high": 33550,
+        "low": 32600,
+        "close": 33400,
+        "volume": 768400,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 33450,
+        "high": 33500,
+        "low": 33000,
+        "close": 33100,
+        "volume": 571800,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 33300,
+        "high": 33450,
+        "low": 33100,
+        "close": 33250,
+        "volume": 367100,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 33250,
+        "high": 33950,
+        "low": 33000,
+        "close": 33150,
+        "volume": 482200,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 33150,
+        "high": 34200,
+        "low": 32950,
+        "close": 34200,
+        "volume": 968500,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 34300,
+        "high": 34500,
+        "low": 33950,
+        "close": 33950,
+        "volume": 843300,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 33650,
+        "high": 34000,
+        "low": 33350,
+        "close": 33350,
+        "volume": 744800,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 33500,
+        "high": 33600,
+        "low": 33200,
+        "close": 33350,
+        "volume": 603700,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 33700,
+        "high": 33750,
+        "low": 33300,
+        "close": 33500,
+        "volume": 729200,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 33950,
+        "high": 34350,
+        "low": 33800,
+        "close": 34000,
+        "volume": 1185900,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 34200,
+        "high": 34650,
+        "low": 34000,
+        "close": 34450,
+        "volume": 790400,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 34500,
+        "high": 34550,
+        "low": 33500,
+        "close": 33500,
+        "volume": 897400,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 33200,
+        "high": 33850,
+        "low": 33200,
+        "close": 33500,
+        "volume": 958300,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 33800,
+        "high": 33950,
+        "low": 33500,
+        "close": 33800,
+        "volume": 910900,
+        "ticker": "PLX"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 33850,
+        "high": 34300,
+        "low": 33800,
+        "close": 34050,
+        "volume": 838700,
+        "ticker": "PLX"
+    }
+]

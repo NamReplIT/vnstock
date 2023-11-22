@@ -1,0 +1,1289 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 8520,
+        "high": 8530,
+        "low": 8420,
+        "close": 8450,
+        "volume": 1904700,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 8460,
+        "high": 8770,
+        "low": 8460,
+        "close": 8580,
+        "volume": 3548500,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 8750,
+        "high": 8770,
+        "low": 8650,
+        "close": 8670,
+        "volume": 2381300,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 8660,
+        "high": 8710,
+        "low": 8530,
+        "close": 8550,
+        "volume": 2400000,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 8600,
+        "high": 9100,
+        "low": 8600,
+        "close": 9000,
+        "volume": 7966100,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 9100,
+        "high": 9200,
+        "low": 9000,
+        "close": 9020,
+        "volume": 4714200,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 9010,
+        "high": 9190,
+        "low": 8960,
+        "close": 9150,
+        "volume": 5831700,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 9220,
+        "high": 9260,
+        "low": 8900,
+        "close": 8910,
+        "volume": 5178000,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 9000,
+        "high": 9170,
+        "low": 8970,
+        "close": 9020,
+        "volume": 5175900,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 9090,
+        "high": 9350,
+        "low": 9060,
+        "close": 9100,
+        "volume": 6071400,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 9200,
+        "high": 9200,
+        "low": 8980,
+        "close": 8980,
+        "volume": 2730900,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 8990,
+        "high": 9080,
+        "low": 8730,
+        "close": 8900,
+        "volume": 4307600,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 8910,
+        "high": 9050,
+        "low": 8910,
+        "close": 8970,
+        "volume": 2482700,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 9150,
+        "high": 9200,
+        "low": 9030,
+        "close": 9060,
+        "volume": 4133200,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 9120,
+        "high": 9190,
+        "low": 9050,
+        "close": 9050,
+        "volume": 3482400,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 9060,
+        "high": 9400,
+        "low": 9040,
+        "close": 9130,
+        "volume": 4700100,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 9300,
+        "high": 9360,
+        "low": 9210,
+        "close": 9260,
+        "volume": 4506700,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 9390,
+        "high": 9690,
+        "low": 9360,
+        "close": 9620,
+        "volume": 8025300,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 9680,
+        "high": 9710,
+        "low": 9400,
+        "close": 9530,
+        "volume": 5681800,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 9550,
+        "high": 9880,
+        "low": 9490,
+        "close": 9590,
+        "volume": 6648800,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 9700,
+        "high": 9780,
+        "low": 9550,
+        "close": 9620,
+        "volume": 4650300,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 9750,
+        "high": 9790,
+        "low": 9560,
+        "close": 9580,
+        "volume": 5696600,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 9670,
+        "high": 9820,
+        "low": 9560,
+        "close": 9690,
+        "volume": 5985000,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 9690,
+        "high": 9950,
+        "low": 9690,
+        "close": 9830,
+        "volume": 6266600,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 9900,
+        "high": 9980,
+        "low": 9810,
+        "close": 9850,
+        "volume": 4955400,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 9880,
+        "high": 10500,
+        "low": 9840,
+        "close": 10500,
+        "volume": 13248200,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 10700,
+        "high": 10900,
+        "low": 10450,
+        "close": 10700,
+        "volume": 10880300,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 10850,
+        "high": 11250,
+        "low": 10850,
+        "close": 11200,
+        "volume": 10799900,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 11400,
+        "high": 11400,
+        "low": 11000,
+        "close": 11000,
+        "volume": 10514400,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 11100,
+        "high": 11100,
+        "low": 10500,
+        "close": 10500,
+        "volume": 10971800,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 10500,
+        "high": 10700,
+        "low": 10400,
+        "close": 10650,
+        "volume": 8124600,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 10850,
+        "high": 10850,
+        "low": 10500,
+        "close": 10550,
+        "volume": 6009300,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 10550,
+        "high": 10800,
+        "low": 10300,
+        "close": 10600,
+        "volume": 5554700,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 10600,
+        "high": 11050,
+        "low": 10600,
+        "close": 11000,
+        "volume": 6076900,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 11000,
+        "high": 11200,
+        "low": 10950,
+        "close": 11100,
+        "volume": 5838000,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 11250,
+        "high": 11350,
+        "low": 11000,
+        "close": 11000,
+        "volume": 6927400,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 10950,
+        "high": 11150,
+        "low": 10700,
+        "close": 10900,
+        "volume": 5580300,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 10850,
+        "high": 11000,
+        "low": 10500,
+        "close": 10700,
+        "volume": 6292100,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 10800,
+        "high": 11050,
+        "low": 10650,
+        "close": 10900,
+        "volume": 4875400,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 11000,
+        "high": 11200,
+        "low": 10850,
+        "close": 11050,
+        "volume": 5492600,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 11000,
+        "high": 11050,
+        "low": 10650,
+        "close": 10650,
+        "volume": 3754700,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 10700,
+        "high": 10700,
+        "low": 10550,
+        "close": 10600,
+        "volume": 2165500,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 10650,
+        "high": 11000,
+        "low": 10600,
+        "close": 11000,
+        "volume": 4063500,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 11100,
+        "high": 11100,
+        "low": 10900,
+        "close": 11000,
+        "volume": 2765200,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 11050,
+        "high": 11700,
+        "low": 10950,
+        "close": 11550,
+        "volume": 13380900,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 11550,
+        "high": 11650,
+        "low": 11150,
+        "close": 11350,
+        "volume": 5816600,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 11400,
+        "high": 11750,
+        "low": 11250,
+        "close": 11500,
+        "volume": 5668600,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 11700,
+        "high": 11750,
+        "low": 11500,
+        "close": 11500,
+        "volume": 5245200,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 11550,
+        "high": 11650,
+        "low": 11350,
+        "close": 11350,
+        "volume": 6814100,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 11450,
+        "high": 11500,
+        "low": 11200,
+        "close": 11300,
+        "volume": 4115700,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 11400,
+        "high": 11700,
+        "low": 11350,
+        "close": 11600,
+        "volume": 5976600,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 11700,
+        "high": 11950,
+        "low": 11500,
+        "close": 11700,
+        "volume": 7263800,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 11750,
+        "high": 11850,
+        "low": 11600,
+        "close": 11650,
+        "volume": 4298100,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 11650,
+        "high": 11700,
+        "low": 11400,
+        "close": 11500,
+        "volume": 4140900,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 11600,
+        "high": 11600,
+        "low": 11200,
+        "close": 11200,
+        "volume": 5070400,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 11300,
+        "high": 11450,
+        "low": 11200,
+        "close": 11250,
+        "volume": 3871100,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 11350,
+        "high": 11500,
+        "low": 11300,
+        "close": 11500,
+        "volume": 3424800,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 11600,
+        "high": 11800,
+        "low": 11500,
+        "close": 11700,
+        "volume": 6617300,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 11650,
+        "high": 11850,
+        "low": 11500,
+        "close": 11650,
+        "volume": 5596600,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 11650,
+        "high": 11750,
+        "low": 11500,
+        "close": 11500,
+        "volume": 3731300,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 11550,
+        "high": 11650,
+        "low": 11400,
+        "close": 11650,
+        "volume": 5535700,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 11800,
+        "high": 12300,
+        "low": 11750,
+        "close": 12000,
+        "volume": 11435100,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 12000,
+        "high": 12200,
+        "low": 11700,
+        "close": 11750,
+        "volume": 6078000,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 11900,
+        "high": 11900,
+        "low": 11400,
+        "close": 11400,
+        "volume": 8916100,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 11400,
+        "high": 11700,
+        "low": 11300,
+        "close": 11550,
+        "volume": 6157400,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 11550,
+        "high": 11700,
+        "low": 11400,
+        "close": 11450,
+        "volume": 3892900,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 11550,
+        "high": 11650,
+        "low": 11400,
+        "close": 11600,
+        "volume": 5307900,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 11700,
+        "high": 12150,
+        "low": 11650,
+        "close": 11900,
+        "volume": 11299100,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 12000,
+        "high": 12200,
+        "low": 11850,
+        "close": 11900,
+        "volume": 9770600,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 11950,
+        "high": 12000,
+        "low": 11750,
+        "close": 11800,
+        "volume": 4247900,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 11800,
+        "high": 11900,
+        "low": 11500,
+        "close": 11500,
+        "volume": 5745400,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 11550,
+        "high": 11600,
+        "low": 11250,
+        "close": 11500,
+        "volume": 5158600,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 11550,
+        "high": 11800,
+        "low": 11500,
+        "close": 11600,
+        "volume": 6165500,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 11700,
+        "high": 11800,
+        "low": 11600,
+        "close": 11600,
+        "volume": 4722500,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 11650,
+        "high": 11750,
+        "low": 11450,
+        "close": 11450,
+        "volume": 3803000,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-08-17",
+        "open": 11450,
+        "high": 11500,
+        "low": 11300,
+        "close": 11300,
+        "volume": 5761400,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 11250,
+        "high": 11250,
+        "low": 10550,
+        "close": 10550,
+        "volume": 11129200,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 10300,
+        "high": 10450,
+        "low": 9900,
+        "close": 10000,
+        "volume": 6424400,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 10100,
+        "high": 10200,
+        "low": 9510,
+        "close": 10000,
+        "volume": 4225100,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 10200,
+        "high": 10200,
+        "low": 9960,
+        "close": 9990,
+        "volume": 2267200,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 10100,
+        "high": 10200,
+        "low": 9990,
+        "close": 10200,
+        "volume": 2812100,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 10300,
+        "high": 10900,
+        "low": 10200,
+        "close": 10650,
+        "volume": 6238900,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 10700,
+        "high": 10800,
+        "low": 10500,
+        "close": 10700,
+        "volume": 2880900,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 10750,
+        "high": 10850,
+        "low": 10600,
+        "close": 10700,
+        "volume": 3616300,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 10750,
+        "high": 10950,
+        "low": 10600,
+        "close": 10900,
+        "volume": 4228900,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 10900,
+        "high": 11000,
+        "low": 10750,
+        "close": 10850,
+        "volume": 4023600,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 11050,
+        "high": 11100,
+        "low": 10850,
+        "close": 10850,
+        "volume": 3676800,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 10900,
+        "high": 11050,
+        "low": 10750,
+        "close": 10950,
+        "volume": 4083900,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 11100,
+        "high": 11300,
+        "low": 11000,
+        "close": 11100,
+        "volume": 5668100,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 11000,
+        "high": 11200,
+        "low": 11000,
+        "close": 11050,
+        "volume": 3817800,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 11100,
+        "high": 11400,
+        "low": 10950,
+        "close": 10950,
+        "volume": 7345400,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 11000,
+        "high": 11200,
+        "low": 10850,
+        "close": 11200,
+        "volume": 2924700,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 11300,
+        "high": 11350,
+        "low": 10900,
+        "close": 10950,
+        "volume": 5651200,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 11000,
+        "high": 11050,
+        "low": 10800,
+        "close": 10800,
+        "volume": 4232300,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 10850,
+        "high": 10900,
+        "low": 10750,
+        "close": 10800,
+        "volume": 2570300,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 10800,
+        "high": 11000,
+        "low": 10750,
+        "close": 10800,
+        "volume": 2771900,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 10850,
+        "high": 10900,
+        "low": 10600,
+        "close": 10750,
+        "volume": 4700700,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 10750,
+        "high": 11350,
+        "low": 10750,
+        "close": 11250,
+        "volume": 6209400,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 11300,
+        "high": 11800,
+        "low": 11250,
+        "close": 11600,
+        "volume": 7674300,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 11300,
+        "high": 11900,
+        "low": 11150,
+        "close": 11200,
+        "volume": 9764800,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 11200,
+        "high": 11400,
+        "low": 10450,
+        "close": 10450,
+        "volume": 6559800,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 10300,
+        "high": 10550,
+        "low": 9800,
+        "close": 9800,
+        "volume": 6255100,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 10000,
+        "high": 10000,
+        "low": 9460,
+        "close": 9990,
+        "volume": 3179500,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 10000,
+        "high": 10150,
+        "low": 9970,
+        "close": 10000,
+        "volume": 2480000,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 10100,
+        "high": 10300,
+        "low": 10050,
+        "close": 10050,
+        "volume": 1984000,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 10050,
+        "high": 10550,
+        "low": 10050,
+        "close": 10250,
+        "volume": 3494600,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 10250,
+        "high": 10400,
+        "low": 9750,
+        "close": 9800,
+        "volume": 3696600,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 9800,
+        "high": 10250,
+        "low": 9710,
+        "close": 10200,
+        "volume": 2134900,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 10300,
+        "high": 10400,
+        "low": 9970,
+        "close": 9990,
+        "volume": 2059800,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 9900,
+        "high": 10150,
+        "low": 9900,
+        "close": 10100,
+        "volume": 1880500,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 10100,
+        "high": 10250,
+        "low": 10000,
+        "close": 10150,
+        "volume": 2289800,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 10250,
+        "high": 10600,
+        "low": 10100,
+        "close": 10200,
+        "volume": 3586200,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 10250,
+        "high": 10350,
+        "low": 10150,
+        "close": 10350,
+        "volume": 1052500,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 10500,
+        "high": 10550,
+        "low": 10300,
+        "close": 10300,
+        "volume": 2937900,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 10200,
+        "high": 10300,
+        "low": 10100,
+        "close": 10200,
+        "volume": 1637200,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 10250,
+        "high": 10300,
+        "low": 10000,
+        "close": 10050,
+        "volume": 1827600,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 10100,
+        "high": 10150,
+        "low": 9800,
+        "close": 9800,
+        "volume": 2276500,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 9910,
+        "high": 9910,
+        "low": 9150,
+        "close": 9200,
+        "volume": 3350400,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 9210,
+        "high": 9340,
+        "low": 8810,
+        "close": 8810,
+        "volume": 2021200,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 8860,
+        "high": 9150,
+        "low": 8500,
+        "close": 9150,
+        "volume": 2594800,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 9150,
+        "high": 9190,
+        "low": 9050,
+        "close": 9090,
+        "volume": 936400,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 9040,
+        "high": 9250,
+        "low": 9040,
+        "close": 9130,
+        "volume": 676300,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 9130,
+        "high": 9250,
+        "low": 9100,
+        "close": 9100,
+        "volume": 907500,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 9000,
+        "high": 9000,
+        "low": 8470,
+        "close": 8470,
+        "volume": 3185200,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 8470,
+        "high": 8700,
+        "low": 8090,
+        "close": 8700,
+        "volume": 1480900,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 8660,
+        "high": 8700,
+        "low": 8310,
+        "close": 8310,
+        "volume": 886500,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 8440,
+        "high": 8440,
+        "low": 8000,
+        "close": 8000,
+        "volume": 1248200,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 8000,
+        "high": 8180,
+        "low": 7910,
+        "close": 8180,
+        "volume": 1058000,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 8340,
+        "high": 8700,
+        "low": 8260,
+        "close": 8700,
+        "volume": 1434600,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 8900,
+        "high": 8900,
+        "low": 8600,
+        "close": 8660,
+        "volume": 1142700,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 8750,
+        "high": 8750,
+        "low": 8640,
+        "close": 8660,
+        "volume": 1041900,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 8660,
+        "high": 8730,
+        "low": 8530,
+        "close": 8580,
+        "volume": 1594400,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 8650,
+        "high": 9100,
+        "low": 8590,
+        "close": 9100,
+        "volume": 1980900,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 9110,
+        "high": 9270,
+        "low": 9050,
+        "close": 9130,
+        "volume": 2076200,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 9030,
+        "high": 9500,
+        "low": 9010,
+        "close": 9200,
+        "volume": 2533300,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 9180,
+        "high": 9300,
+        "low": 9010,
+        "close": 9150,
+        "volume": 1232300,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 9200,
+        "high": 9290,
+        "low": 9130,
+        "close": 9200,
+        "volume": 913400,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 9360,
+        "high": 9400,
+        "low": 9220,
+        "close": 9270,
+        "volume": 1895500,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 9270,
+        "high": 9380,
+        "low": 9250,
+        "close": 9330,
+        "volume": 1336400,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 9390,
+        "high": 9490,
+        "low": 9160,
+        "close": 9240,
+        "volume": 2552700,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 9130,
+        "high": 9240,
+        "low": 9060,
+        "close": 9190,
+        "volume": 1355700,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 9250,
+        "high": 9290,
+        "low": 9170,
+        "close": 9260,
+        "volume": 820100,
+        "ticker": "ASM"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 9240,
+        "high": 9350,
+        "low": 9230,
+        "close": 9290,
+        "volume": 1277600,
+        "ticker": "ASM"
+    }
+]

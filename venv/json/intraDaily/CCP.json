@@ -1,0 +1,146 @@
+[
+    {
+        "time": "2023-05-05",
+        "open": 10200,
+        "high": 10200,
+        "low": 10200,
+        "close": 10200,
+        "volume": 500,
+        "ticker": "CCP"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 14200,
+        "high": 14200,
+        "low": 14200,
+        "close": 14200,
+        "volume": 200,
+        "ticker": "CCP"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 14500,
+        "high": 15000,
+        "low": 14000,
+        "close": 14000,
+        "volume": 400,
+        "ticker": "CCP"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 14400,
+        "high": 14400,
+        "low": 14400,
+        "close": 14400,
+        "volume": 100,
+        "ticker": "CCP"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 16500,
+        "high": 16500,
+        "low": 16500,
+        "close": 16500,
+        "volume": 100,
+        "ticker": "CCP"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 17400,
+        "high": 17400,
+        "low": 17400,
+        "close": 17400,
+        "volume": 100,
+        "ticker": "CCP"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 19500,
+        "high": 19500,
+        "low": 19500,
+        "close": 19500,
+        "volume": 100,
+        "ticker": "CCP"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 19500,
+        "high": 19500,
+        "low": 19500,
+        "close": 19500,
+        "volume": 500,
+        "ticker": "CCP"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 22100,
+        "high": 22100,
+        "low": 22100,
+        "close": 22100,
+        "volume": 100,
+        "ticker": "CCP"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 25300,
+        "high": 25300,
+        "low": 25300,
+        "close": 25300,
+        "volume": 100,
+        "ticker": "CCP"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 35300,
+        "high": 35300,
+        "low": 35300,
+        "close": 35300,
+        "volume": 100,
+        "ticker": "CCP"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 30100,
+        "high": 30100,
+        "low": 30100,
+        "close": 30100,
+        "volume": 300,
+        "ticker": "CCP"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 25600,
+        "high": 25600,
+        "low": 25600,
+        "close": 25600,
+        "volume": 100,
+        "ticker": "CCP"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 21800,
+        "high": 21800,
+        "low": 21800,
+        "close": 21800,
+        "volume": 100,
+        "ticker": "CCP"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 18600,
+        "high": 18600,
+        "low": 18600,
+        "close": 18600,
+        "volume": 700,
+        "ticker": "CCP"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 15900,
+        "high": 15900,
+        "low": 15900,
+        "close": 15900,
+        "volume": 1200,
+        "ticker": "CCP"
+    }
+]

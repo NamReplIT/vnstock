@@ -1,0 +1,254 @@
+[
+    {
+        "time": "2023-05-05",
+        "open": 600,
+        "high": 600,
+        "low": 600,
+        "close": 600,
+        "volume": 6100,
+        "ticker": "PSG"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 500,
+        "high": 600,
+        "low": 500,
+        "close": 600,
+        "volume": 1356200,
+        "ticker": "PSG"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 600,
+        "high": 600,
+        "low": 600,
+        "close": 600,
+        "volume": 13200,
+        "ticker": "PSG"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 800,
+        "high": 800,
+        "low": 800,
+        "close": 800,
+        "volume": 176500,
+        "ticker": "PSG"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 900,
+        "high": 900,
+        "low": 900,
+        "close": 900,
+        "volume": 660200,
+        "ticker": "PSG"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 900,
+        "high": 1000,
+        "low": 900,
+        "close": 1000,
+        "volume": 263300,
+        "ticker": "PSG"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 1100,
+        "high": 1100,
+        "low": 1100,
+        "close": 1100,
+        "volume": 118800,
+        "ticker": "PSG"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 1200,
+        "high": 1200,
+        "low": 1200,
+        "close": 1200,
+        "volume": 92400,
+        "ticker": "PSG"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 1300,
+        "high": 1300,
+        "low": 1300,
+        "close": 1300,
+        "volume": 60600,
+        "ticker": "PSG"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 1400,
+        "high": 1400,
+        "low": 1200,
+        "close": 1300,
+        "volume": 332200,
+        "ticker": "PSG"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 1300,
+        "high": 1300,
+        "low": 1200,
+        "close": 1200,
+        "volume": 173400,
+        "ticker": "PSG"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 1100,
+        "high": 1100,
+        "low": 1100,
+        "close": 1100,
+        "volume": 20900,
+        "ticker": "PSG"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 1000,
+        "high": 1000,
+        "low": 1000,
+        "close": 1000,
+        "volume": 36900,
+        "ticker": "PSG"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 900,
+        "high": 1100,
+        "low": 900,
+        "close": 900,
+        "volume": 962700,
+        "ticker": "PSG"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 800,
+        "high": 1000,
+        "low": 800,
+        "close": 1000,
+        "volume": 735800,
+        "ticker": "PSG"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 1000,
+        "high": 1100,
+        "low": 1000,
+        "close": 1100,
+        "volume": 276400,
+        "ticker": "PSG"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 1100,
+        "high": 1200,
+        "low": 1100,
+        "close": 1200,
+        "volume": 112400,
+        "ticker": "PSG"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 1300,
+        "high": 1300,
+        "low": 1100,
+        "close": 1200,
+        "volume": 78600,
+        "ticker": "PSG"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 1200,
+        "high": 1300,
+        "low": 1100,
+        "close": 1300,
+        "volume": 112600,
+        "ticker": "PSG"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 1100,
+        "high": 1100,
+        "low": 1000,
+        "close": 1100,
+        "volume": 61300,
+        "ticker": "PSG"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 1100,
+        "high": 1100,
+        "low": 900,
+        "close": 1100,
+        "volume": 51800,
+        "ticker": "PSG"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 1000,
+        "high": 1000,
+        "low": 1000,
+        "close": 1000,
+        "volume": 110500,
+        "ticker": "PSG"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 1000,
+        "high": 1100,
+        "low": 1000,
+        "close": 1100,
+        "volume": 5900,
+        "ticker": "PSG"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 900,
+        "high": 1100,
+        "low": 900,
+        "close": 900,
+        "volume": 152200,
+        "ticker": "PSG"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 1000,
+        "high": 1000,
+        "low": 900,
+        "close": 900,
+        "volume": 7200,
+        "ticker": "PSG"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 1000,
+        "high": 1100,
+        "low": 1000,
+        "close": 1100,
+        "volume": 1900,
+        "ticker": "PSG"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 1000,
+        "high": 1100,
+        "low": 1000,
+        "close": 1100,
+        "volume": 42200,
+        "ticker": "PSG"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 900,
+        "high": 1000,
+        "low": 900,
+        "close": 1000,
+        "volume": 274900,
+        "ticker": "PSG"
+    }
+]

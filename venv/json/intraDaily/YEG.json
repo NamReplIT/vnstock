@@ -1,0 +1,1289 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 9810,
+        "high": 10150,
+        "low": 9810,
+        "close": 10150,
+        "volume": 12900,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 10250,
+        "high": 10250,
+        "low": 10000,
+        "close": 10000,
+        "volume": 22600,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 10200,
+        "high": 10200,
+        "low": 9900,
+        "close": 9950,
+        "volume": 37300,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 10000,
+        "high": 10600,
+        "low": 10000,
+        "close": 10600,
+        "volume": 132200,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 10800,
+        "high": 11350,
+        "low": 10800,
+        "close": 11350,
+        "volume": 173800,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 12100,
+        "high": 12100,
+        "low": 11300,
+        "close": 11350,
+        "volume": 295900,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 11150,
+        "high": 11200,
+        "low": 10850,
+        "close": 10900,
+        "volume": 89600,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 10950,
+        "high": 11650,
+        "low": 10850,
+        "close": 11650,
+        "volume": 198100,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 11700,
+        "high": 12000,
+        "low": 11350,
+        "close": 11350,
+        "volume": 86600,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 11600,
+        "high": 11900,
+        "low": 11250,
+        "close": 11350,
+        "volume": 72200,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 11000,
+        "high": 11450,
+        "low": 11000,
+        "close": 11200,
+        "volume": 55000,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 11300,
+        "high": 11400,
+        "low": 11100,
+        "close": 11150,
+        "volume": 36800,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 11350,
+        "high": 11350,
+        "low": 11100,
+        "close": 11250,
+        "volume": 76800,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 11600,
+        "high": 11650,
+        "low": 11400,
+        "close": 11400,
+        "volume": 35100,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 11300,
+        "high": 11550,
+        "low": 11200,
+        "close": 11250,
+        "volume": 72100,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 11400,
+        "high": 11550,
+        "low": 11200,
+        "close": 11500,
+        "volume": 65300,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 11700,
+        "high": 11950,
+        "low": 11550,
+        "close": 11900,
+        "volume": 104900,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 12200,
+        "high": 12400,
+        "low": 12000,
+        "close": 12200,
+        "volume": 125300,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 12150,
+        "high": 12200,
+        "low": 11800,
+        "close": 12000,
+        "volume": 118000,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 12400,
+        "high": 12400,
+        "low": 12000,
+        "close": 12150,
+        "volume": 125000,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 12200,
+        "high": 12750,
+        "low": 12200,
+        "close": 12300,
+        "volume": 91000,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 12750,
+        "high": 12750,
+        "low": 11700,
+        "close": 12100,
+        "volume": 192200,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 12300,
+        "high": 12900,
+        "low": 12050,
+        "close": 12850,
+        "volume": 369000,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 13000,
+        "high": 13000,
+        "low": 12750,
+        "close": 12900,
+        "volume": 81300,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 13050,
+        "high": 13800,
+        "low": 12800,
+        "close": 13800,
+        "volume": 217400,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 14500,
+        "high": 14600,
+        "low": 13600,
+        "close": 13600,
+        "volume": 249300,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 13900,
+        "high": 14000,
+        "low": 13350,
+        "close": 13800,
+        "volume": 155900,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 13850,
+        "high": 14400,
+        "low": 13850,
+        "close": 14400,
+        "volume": 131100,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 14600,
+        "high": 14600,
+        "low": 14200,
+        "close": 14350,
+        "volume": 79300,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 14500,
+        "high": 14600,
+        "low": 14150,
+        "close": 14500,
+        "volume": 116600,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 14200,
+        "high": 14400,
+        "low": 14000,
+        "close": 14100,
+        "volume": 126200,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 14200,
+        "high": 14400,
+        "low": 14100,
+        "close": 14250,
+        "volume": 98700,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 14650,
+        "high": 14650,
+        "low": 13800,
+        "close": 14250,
+        "volume": 156600,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 14250,
+        "high": 14650,
+        "low": 14000,
+        "close": 14250,
+        "volume": 39600,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 14250,
+        "high": 14250,
+        "low": 13800,
+        "close": 13900,
+        "volume": 202300,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 13900,
+        "high": 14100,
+        "low": 13800,
+        "close": 14000,
+        "volume": 49500,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 14000,
+        "high": 14150,
+        "low": 13850,
+        "close": 13900,
+        "volume": 132000,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 13600,
+        "high": 14000,
+        "low": 13600,
+        "close": 13950,
+        "volume": 139800,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 13800,
+        "high": 14100,
+        "low": 13700,
+        "close": 14100,
+        "volume": 32800,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 14100,
+        "high": 14150,
+        "low": 13900,
+        "close": 14000,
+        "volume": 92000,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 13850,
+        "high": 13950,
+        "low": 13850,
+        "close": 13900,
+        "volume": 30300,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 13900,
+        "high": 14000,
+        "low": 13850,
+        "close": 14000,
+        "volume": 42000,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 13950,
+        "high": 14000,
+        "low": 13700,
+        "close": 14000,
+        "volume": 64100,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 14350,
+        "high": 14350,
+        "low": 13950,
+        "close": 14000,
+        "volume": 98300,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 14000,
+        "high": 14000,
+        "low": 13900,
+        "close": 13900,
+        "volume": 44000,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 13900,
+        "high": 13950,
+        "low": 13700,
+        "close": 13700,
+        "volume": 37600,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 13700,
+        "high": 13700,
+        "low": 13200,
+        "close": 13600,
+        "volume": 66800,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 13900,
+        "high": 13900,
+        "low": 13450,
+        "close": 13700,
+        "volume": 52200,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 13700,
+        "high": 13700,
+        "low": 13300,
+        "close": 13500,
+        "volume": 52500,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 13450,
+        "high": 13500,
+        "low": 13250,
+        "close": 13500,
+        "volume": 53300,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 13500,
+        "high": 13550,
+        "low": 13300,
+        "close": 13550,
+        "volume": 33900,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 13600,
+        "high": 13600,
+        "low": 13450,
+        "close": 13500,
+        "volume": 24800,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 13500,
+        "high": 14300,
+        "low": 13450,
+        "close": 14000,
+        "volume": 134000,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 14000,
+        "high": 14350,
+        "low": 13700,
+        "close": 13900,
+        "volume": 57700,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 13900,
+        "high": 13900,
+        "low": 13550,
+        "close": 13600,
+        "volume": 35000,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 13500,
+        "high": 13700,
+        "low": 13300,
+        "close": 13600,
+        "volume": 43100,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 13500,
+        "high": 13700,
+        "low": 13350,
+        "close": 13600,
+        "volume": 65800,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 13600,
+        "high": 13900,
+        "low": 13400,
+        "close": 13700,
+        "volume": 67600,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 13700,
+        "high": 13700,
+        "low": 13550,
+        "close": 13650,
+        "volume": 103600,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 13600,
+        "high": 14200,
+        "low": 13550,
+        "close": 14000,
+        "volume": 155800,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 14200,
+        "high": 14850,
+        "low": 14000,
+        "close": 14050,
+        "volume": 496900,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 14550,
+        "high": 14550,
+        "low": 14050,
+        "close": 14050,
+        "volume": 149800,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 14500,
+        "high": 14500,
+        "low": 13500,
+        "close": 13800,
+        "volume": 237100,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 13800,
+        "high": 13800,
+        "low": 13350,
+        "close": 13450,
+        "volume": 151000,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 13450,
+        "high": 13550,
+        "low": 13400,
+        "close": 13400,
+        "volume": 123800,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 13400,
+        "high": 13750,
+        "low": 13400,
+        "close": 13500,
+        "volume": 137900,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 13550,
+        "high": 13700,
+        "low": 13450,
+        "close": 13550,
+        "volume": 42600,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 13700,
+        "high": 13850,
+        "low": 13450,
+        "close": 13750,
+        "volume": 174900,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 13750,
+        "high": 14400,
+        "low": 13750,
+        "close": 14000,
+        "volume": 196800,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 14150,
+        "high": 14150,
+        "low": 13850,
+        "close": 13850,
+        "volume": 117700,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 13900,
+        "high": 14100,
+        "low": 13450,
+        "close": 13500,
+        "volume": 189600,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 13550,
+        "high": 13750,
+        "low": 13350,
+        "close": 13500,
+        "volume": 91400,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 13650,
+        "high": 13950,
+        "low": 13400,
+        "close": 13950,
+        "volume": 100500,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 13950,
+        "high": 14000,
+        "low": 13700,
+        "close": 13750,
+        "volume": 77000,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 13800,
+        "high": 13800,
+        "low": 13600,
+        "close": 13650,
+        "volume": 77100,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-08-17",
+        "open": 13750,
+        "high": 13850,
+        "low": 13500,
+        "close": 13600,
+        "volume": 82100,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 13450,
+        "high": 13450,
+        "low": 12550,
+        "close": 12550,
+        "volume": 208100,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 12600,
+        "high": 12650,
+        "low": 12200,
+        "close": 12500,
+        "volume": 119400,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 12500,
+        "high": 12500,
+        "low": 12100,
+        "close": 12400,
+        "volume": 64200,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 12300,
+        "high": 12400,
+        "low": 11900,
+        "close": 12000,
+        "volume": 95500,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 12100,
+        "high": 12550,
+        "low": 12100,
+        "close": 12450,
+        "volume": 48300,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 12300,
+        "high": 12900,
+        "low": 12300,
+        "close": 12750,
+        "volume": 52500,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 13000,
+        "high": 13400,
+        "low": 12800,
+        "close": 13100,
+        "volume": 132000,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 13200,
+        "high": 13400,
+        "low": 13100,
+        "close": 13100,
+        "volume": 78800,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 13100,
+        "high": 13100,
+        "low": 12400,
+        "close": 12600,
+        "volume": 122500,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 12900,
+        "high": 12900,
+        "low": 12600,
+        "close": 12900,
+        "volume": 31100,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 12900,
+        "high": 13550,
+        "low": 12900,
+        "close": 13350,
+        "volume": 87800,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 13400,
+        "high": 13400,
+        "low": 13050,
+        "close": 13350,
+        "volume": 51900,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 13150,
+        "high": 13300,
+        "low": 13000,
+        "close": 13200,
+        "volume": 124100,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 13300,
+        "high": 13350,
+        "low": 13100,
+        "close": 13150,
+        "volume": 72600,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 13300,
+        "high": 13600,
+        "low": 13050,
+        "close": 13050,
+        "volume": 97800,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 13050,
+        "high": 13200,
+        "low": 13000,
+        "close": 13050,
+        "volume": 71000,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 13050,
+        "high": 13550,
+        "low": 13050,
+        "close": 13200,
+        "volume": 123100,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 13300,
+        "high": 13450,
+        "low": 13050,
+        "close": 13200,
+        "volume": 60300,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 13200,
+        "high": 13500,
+        "low": 13100,
+        "close": 13150,
+        "volume": 22300,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 13000,
+        "high": 13300,
+        "low": 13000,
+        "close": 13100,
+        "volume": 35200,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 13000,
+        "high": 13100,
+        "low": 12800,
+        "close": 12950,
+        "volume": 23100,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 13200,
+        "high": 13300,
+        "low": 12900,
+        "close": 13100,
+        "volume": 38800,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 13000,
+        "high": 13100,
+        "low": 12900,
+        "close": 13100,
+        "volume": 35000,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 12500,
+        "high": 13100,
+        "low": 12500,
+        "close": 12800,
+        "volume": 47200,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 12900,
+        "high": 13000,
+        "low": 12000,
+        "close": 12000,
+        "volume": 48400,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 12000,
+        "high": 12400,
+        "low": 11700,
+        "close": 12100,
+        "volume": 46700,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 12100,
+        "high": 12100,
+        "low": 11650,
+        "close": 12100,
+        "volume": 14300,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 12350,
+        "high": 12350,
+        "low": 11750,
+        "close": 11750,
+        "volume": 34700,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 11750,
+        "high": 12000,
+        "low": 11700,
+        "close": 11950,
+        "volume": 25800,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 12300,
+        "high": 12750,
+        "low": 12300,
+        "close": 12750,
+        "volume": 64000,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 13600,
+        "high": 13600,
+        "low": 13400,
+        "close": 13600,
+        "volume": 257700,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 14000,
+        "high": 14000,
+        "low": 13250,
+        "close": 13400,
+        "volume": 140300,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 14000,
+        "high": 14300,
+        "low": 13600,
+        "close": 14300,
+        "volume": 235700,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 15300,
+        "high": 15300,
+        "low": 15100,
+        "close": 15300,
+        "volume": 483800,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 16350,
+        "high": 16350,
+        "low": 16350,
+        "close": 16350,
+        "volume": 170600,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 17450,
+        "high": 17450,
+        "low": 17450,
+        "close": 17450,
+        "volume": 137100,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 18650,
+        "high": 18650,
+        "low": 16400,
+        "close": 17450,
+        "volume": 587600,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 17450,
+        "high": 17450,
+        "low": 16250,
+        "close": 16250,
+        "volume": 462400,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 15750,
+        "high": 16200,
+        "low": 15250,
+        "close": 15700,
+        "volume": 403500,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 15550,
+        "high": 16750,
+        "low": 15550,
+        "close": 16750,
+        "volume": 284300,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 17700,
+        "high": 17700,
+        "low": 16600,
+        "close": 16600,
+        "volume": 286200,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 16600,
+        "high": 16800,
+        "low": 15500,
+        "close": 15550,
+        "volume": 209500,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 15800,
+        "high": 16100,
+        "low": 14500,
+        "close": 14500,
+        "volume": 234400,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 14800,
+        "high": 15300,
+        "low": 14500,
+        "close": 15300,
+        "volume": 137100,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 15800,
+        "high": 16350,
+        "low": 15400,
+        "close": 16350,
+        "volume": 160000,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 16350,
+        "high": 17200,
+        "low": 15900,
+        "close": 16700,
+        "volume": 594000,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 16500,
+        "high": 16900,
+        "low": 16300,
+        "close": 16300,
+        "volume": 441000,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 16300,
+        "high": 17400,
+        "low": 15200,
+        "close": 17400,
+        "volume": 1504800,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 18500,
+        "high": 18600,
+        "low": 18450,
+        "close": 18600,
+        "volume": 378200,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 19500,
+        "high": 19800,
+        "low": 18050,
+        "close": 18500,
+        "volume": 951900,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 18500,
+        "high": 19000,
+        "low": 17400,
+        "close": 17800,
+        "volume": 266200,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 17000,
+        "high": 17400,
+        "low": 16600,
+        "close": 16600,
+        "volume": 515300,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 15700,
+        "high": 17000,
+        "low": 15700,
+        "close": 16650,
+        "volume": 304500,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 17000,
+        "high": 17000,
+        "low": 16550,
+        "close": 17000,
+        "volume": 290600,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 17100,
+        "high": 17700,
+        "low": 16800,
+        "close": 17100,
+        "volume": 553900,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 17300,
+        "high": 17350,
+        "low": 16700,
+        "close": 16750,
+        "volume": 117900,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 16650,
+        "high": 17900,
+        "low": 16400,
+        "close": 17400,
+        "volume": 1194800,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 17500,
+        "high": 17850,
+        "low": 16800,
+        "close": 17200,
+        "volume": 409600,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 16950,
+        "high": 17400,
+        "low": 16500,
+        "close": 16500,
+        "volume": 402400,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 16500,
+        "high": 16500,
+        "low": 15600,
+        "close": 15700,
+        "volume": 348700,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 16000,
+        "high": 16400,
+        "low": 15950,
+        "close": 16200,
+        "volume": 339600,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 16500,
+        "high": 16650,
+        "low": 16100,
+        "close": 16200,
+        "volume": 345800,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 16200,
+        "high": 16350,
+        "low": 16000,
+        "close": 16100,
+        "volume": 400800,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 16100,
+        "high": 16400,
+        "low": 15500,
+        "close": 15500,
+        "volume": 610800,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 15100,
+        "high": 15800,
+        "low": 15100,
+        "close": 15600,
+        "volume": 417200,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 15700,
+        "high": 16000,
+        "low": 15400,
+        "close": 16000,
+        "volume": 513800,
+        "ticker": "YEG"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 16100,
+        "high": 16450,
+        "low": 16000,
+        "close": 16450,
+        "volume": 462400,
+        "ticker": "YEG"
+    }
+]

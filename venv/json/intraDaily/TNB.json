@@ -1,0 +1,254 @@
+[
+    {
+        "time": "2023-05-05",
+        "open": 8500,
+        "high": 8500,
+        "low": 8500,
+        "close": 8500,
+        "volume": 2500,
+        "ticker": "TNB"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 9400,
+        "high": 9400,
+        "low": 9400,
+        "close": 9400,
+        "volume": 400,
+        "ticker": "TNB"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 9900,
+        "high": 9900,
+        "low": 9900,
+        "close": 9900,
+        "volume": 100,
+        "ticker": "TNB"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 10300,
+        "high": 10300,
+        "low": 10300,
+        "close": 10300,
+        "volume": 100,
+        "ticker": "TNB"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 8800,
+        "high": 8800,
+        "low": 8800,
+        "close": 8800,
+        "volume": 1200,
+        "ticker": "TNB"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 9000,
+        "high": 9000,
+        "low": 9000,
+        "close": 9000,
+        "volume": 900,
+        "ticker": "TNB"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 8700,
+        "high": 9200,
+        "low": 8700,
+        "close": 9200,
+        "volume": 15300,
+        "ticker": "TNB"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 8800,
+        "high": 8800,
+        "low": 8800,
+        "close": 8800,
+        "volume": 4500,
+        "ticker": "TNB"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 8800,
+        "high": 8800,
+        "low": 8800,
+        "close": 8800,
+        "volume": 100,
+        "ticker": "TNB"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 9000,
+        "high": 9000,
+        "low": 9000,
+        "close": 9000,
+        "volume": 300,
+        "ticker": "TNB"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 10000,
+        "high": 10300,
+        "low": 10000,
+        "close": 10300,
+        "volume": 300,
+        "ticker": "TNB"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 11500,
+        "high": 11500,
+        "low": 11500,
+        "close": 11500,
+        "volume": 100,
+        "ticker": "TNB"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 12000,
+        "high": 12000,
+        "low": 12000,
+        "close": 12000,
+        "volume": 100,
+        "ticker": "TNB"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 12000,
+        "high": 12000,
+        "low": 11900,
+        "close": 11900,
+        "volume": 2500,
+        "ticker": "TNB"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 12000,
+        "high": 12000,
+        "low": 12000,
+        "close": 12000,
+        "volume": 400,
+        "ticker": "TNB"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 12000,
+        "high": 12000,
+        "low": 12000,
+        "close": 12000,
+        "volume": 200,
+        "ticker": "TNB"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 12000,
+        "high": 12000,
+        "low": 12000,
+        "close": 12000,
+        "volume": 100,
+        "ticker": "TNB"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 12000,
+        "high": 12000,
+        "low": 12000,
+        "close": 12000,
+        "volume": 1800,
+        "ticker": "TNB"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 12000,
+        "high": 12000,
+        "low": 12000,
+        "close": 12000,
+        "volume": 100,
+        "ticker": "TNB"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 10200,
+        "high": 10200,
+        "low": 10200,
+        "close": 10200,
+        "volume": 100,
+        "ticker": "TNB"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 8800,
+        "high": 8800,
+        "low": 8800,
+        "close": 8800,
+        "volume": 100,
+        "ticker": "TNB"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 9000,
+        "high": 9000,
+        "low": 9000,
+        "close": 9000,
+        "volume": 100,
+        "ticker": "TNB"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 10000,
+        "high": 10200,
+        "low": 10000,
+        "close": 10200,
+        "volume": 500,
+        "ticker": "TNB"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 10000,
+        "high": 10000,
+        "low": 10000,
+        "close": 10000,
+        "volume": 100,
+        "ticker": "TNB"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 10000,
+        "high": 10000,
+        "low": 10000,
+        "close": 10000,
+        "volume": 100,
+        "ticker": "TNB"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 10000,
+        "high": 10000,
+        "low": 10000,
+        "close": 10000,
+        "volume": 100,
+        "ticker": "TNB"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 11500,
+        "high": 11500,
+        "low": 11500,
+        "close": 11500,
+        "volume": 100,
+        "ticker": "TNB"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 11500,
+        "high": 11500,
+        "low": 11500,
+        "close": 11500,
+        "volume": 500,
+        "ticker": "TNB"
+    }
+]

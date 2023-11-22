@@ -1,0 +1,1289 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 21520,
+        "high": 21710,
+        "low": 21250,
+        "close": 21300,
+        "volume": 1371100,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 21250,
+        "high": 21430,
+        "low": 21110,
+        "close": 21200,
+        "volume": 1265800,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 21340,
+        "high": 21570,
+        "low": 21300,
+        "close": 21430,
+        "volume": 1691900,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 21520,
+        "high": 21710,
+        "low": 21520,
+        "close": 21570,
+        "volume": 1169200,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 21710,
+        "high": 21710,
+        "low": 21520,
+        "close": 21610,
+        "volume": 1444900,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 21520,
+        "high": 22440,
+        "low": 21520,
+        "close": 22210,
+        "volume": 3996900,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 22250,
+        "high": 22300,
+        "low": 21980,
+        "close": 22120,
+        "volume": 1697000,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 22300,
+        "high": 22300,
+        "low": 21750,
+        "close": 21750,
+        "volume": 2406400,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 21710,
+        "high": 21930,
+        "low": 21710,
+        "close": 21750,
+        "volume": 1515700,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 21980,
+        "high": 22340,
+        "low": 21750,
+        "close": 21750,
+        "volume": 3013100,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 21890,
+        "high": 22250,
+        "low": 21750,
+        "close": 21800,
+        "volume": 1980700,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 21710,
+        "high": 21800,
+        "low": 21480,
+        "close": 21570,
+        "volume": 3366200,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 21250,
+        "high": 21610,
+        "low": 21110,
+        "close": 21390,
+        "volume": 3068800,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 21610,
+        "high": 21890,
+        "low": 21610,
+        "close": 21710,
+        "volume": 2279000,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 21840,
+        "high": 21840,
+        "low": 21480,
+        "close": 21480,
+        "volume": 1373900,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 21520,
+        "high": 21520,
+        "low": 21300,
+        "close": 21340,
+        "volume": 1846000,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 21570,
+        "high": 21610,
+        "low": 21480,
+        "close": 21520,
+        "volume": 1341600,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 21610,
+        "high": 21660,
+        "low": 21480,
+        "close": 21660,
+        "volume": 1974400,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 21800,
+        "high": 22250,
+        "low": 21750,
+        "close": 22210,
+        "volume": 4675900,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 22250,
+        "high": 22340,
+        "low": 22030,
+        "close": 22160,
+        "volume": 3294900,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 22070,
+        "high": 22250,
+        "low": 21890,
+        "close": 21980,
+        "volume": 2728800,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 22120,
+        "high": 22710,
+        "low": 22030,
+        "close": 22530,
+        "volume": 4792700,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 22890,
+        "high": 23440,
+        "low": 22620,
+        "close": 23210,
+        "volume": 6010800,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 23210,
+        "high": 23480,
+        "low": 22940,
+        "close": 23170,
+        "volume": 3524800,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 23170,
+        "high": 23440,
+        "low": 23070,
+        "close": 23300,
+        "volume": 5447500,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 23530,
+        "high": 23580,
+        "low": 22710,
+        "close": 22710,
+        "volume": 4487400,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 22620,
+        "high": 23300,
+        "low": 22570,
+        "close": 23210,
+        "volume": 4644300,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 23350,
+        "high": 23900,
+        "low": 23210,
+        "close": 23580,
+        "volume": 4833400,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 23670,
+        "high": 23850,
+        "low": 23120,
+        "close": 23260,
+        "volume": 4679500,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 23350,
+        "high": 23530,
+        "low": 22940,
+        "close": 22980,
+        "volume": 4197900,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 22980,
+        "high": 23210,
+        "low": 22620,
+        "close": 22800,
+        "volume": 3399200,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 22980,
+        "high": 23390,
+        "low": 22710,
+        "close": 22710,
+        "volume": 4949200,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 22660,
+        "high": 23170,
+        "low": 22660,
+        "close": 23070,
+        "volume": 2684500,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 23070,
+        "high": 23350,
+        "low": 22940,
+        "close": 23300,
+        "volume": 2935500,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 23350,
+        "high": 23350,
+        "low": 23030,
+        "close": 23210,
+        "volume": 3437400,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 23350,
+        "high": 24170,
+        "low": 23260,
+        "close": 24170,
+        "volume": 9149100,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 24170,
+        "high": 24350,
+        "low": 24030,
+        "close": 24260,
+        "volume": 5008600,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 24350,
+        "high": 24720,
+        "low": 24170,
+        "close": 24530,
+        "volume": 8217700,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 24620,
+        "high": 24670,
+        "low": 24310,
+        "close": 24530,
+        "volume": 3626400,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 24530,
+        "high": 25040,
+        "low": 24400,
+        "close": 24720,
+        "volume": 5354500,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 24720,
+        "high": 24720,
+        "low": 23990,
+        "close": 23990,
+        "volume": 4547600,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 23990,
+        "high": 24210,
+        "low": 23900,
+        "close": 24080,
+        "volume": 2387500,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 25260,
+        "high": 25350,
+        "low": 24760,
+        "close": 24850,
+        "volume": 5716700,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 24900,
+        "high": 24940,
+        "low": 24620,
+        "close": 24940,
+        "volume": 3145200,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 25080,
+        "high": 25720,
+        "low": 24940,
+        "close": 25080,
+        "volume": 6209300,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 25130,
+        "high": 25170,
+        "low": 24350,
+        "close": 24760,
+        "volume": 4878600,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 24760,
+        "high": 25260,
+        "low": 24670,
+        "close": 25170,
+        "volume": 3721200,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 25540,
+        "high": 25760,
+        "low": 25260,
+        "close": 25350,
+        "volume": 5564800,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 25720,
+        "high": 25760,
+        "low": 25080,
+        "close": 25130,
+        "volume": 4021700,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 25350,
+        "high": 25760,
+        "low": 25080,
+        "close": 25580,
+        "volume": 4694800,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 25670,
+        "high": 26220,
+        "low": 25630,
+        "close": 25990,
+        "volume": 6097800,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 25990,
+        "high": 26130,
+        "low": 25490,
+        "close": 25900,
+        "volume": 4542600,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 25900,
+        "high": 25990,
+        "low": 25450,
+        "close": 25580,
+        "volume": 4640200,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 26130,
+        "high": 26360,
+        "low": 25950,
+        "close": 26220,
+        "volume": 6738100,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 26450,
+        "high": 26630,
+        "low": 26080,
+        "close": 26220,
+        "volume": 5425000,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 26310,
+        "high": 26540,
+        "low": 26180,
+        "close": 26540,
+        "volume": 3640600,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 26680,
+        "high": 26720,
+        "low": 26360,
+        "close": 26540,
+        "volume": 3234900,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 26590,
+        "high": 26900,
+        "low": 26450,
+        "close": 26680,
+        "volume": 4136900,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 26680,
+        "high": 27130,
+        "low": 26450,
+        "close": 26770,
+        "volume": 4288900,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 26770,
+        "high": 27320,
+        "low": 26720,
+        "close": 27000,
+        "volume": 4278500,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 27000,
+        "high": 27180,
+        "low": 26490,
+        "close": 26860,
+        "volume": 3871300,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 26900,
+        "high": 28090,
+        "low": 26680,
+        "close": 27820,
+        "volume": 6022300,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 29000,
+        "high": 29280,
+        "low": 28460,
+        "close": 28910,
+        "volume": 7604900,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 29180,
+        "high": 29730,
+        "low": 28870,
+        "close": 28910,
+        "volume": 6778800,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 28960,
+        "high": 29690,
+        "low": 28550,
+        "close": 29600,
+        "volume": 5101400,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 29550,
+        "high": 30280,
+        "low": 29500,
+        "close": 30280,
+        "volume": 5713200,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 30370,
+        "high": 30740,
+        "low": 29820,
+        "close": 30100,
+        "volume": 4804800,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 30510,
+        "high": 30510,
+        "low": 29870,
+        "close": 30100,
+        "volume": 4288200,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 29960,
+        "high": 30550,
+        "low": 29820,
+        "close": 30460,
+        "volume": 4150000,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 30370,
+        "high": 30460,
+        "low": 30010,
+        "close": 30190,
+        "volume": 2360000,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 30100,
+        "high": 30230,
+        "low": 29230,
+        "close": 29370,
+        "volume": 4837400,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 29370,
+        "high": 30320,
+        "low": 29280,
+        "close": 30010,
+        "volume": 4147300,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 30460,
+        "high": 30920,
+        "low": 30140,
+        "close": 30600,
+        "volume": 2751500,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 30920,
+        "high": 30960,
+        "low": 30420,
+        "close": 30420,
+        "volume": 2199700,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 30510,
+        "high": 30690,
+        "low": 30280,
+        "close": 30420,
+        "volume": 2362400,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-08-17",
+        "open": 30420,
+        "high": 30460,
+        "low": 29960,
+        "close": 29960,
+        "volume": 3212400,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 29960,
+        "high": 30100,
+        "low": 27910,
+        "close": 28090,
+        "volume": 6291200,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 28320,
+        "high": 29600,
+        "low": 28320,
+        "close": 29410,
+        "volume": 3456500,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 29910,
+        "high": 29910,
+        "low": 28090,
+        "close": 29600,
+        "volume": 3628100,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 29690,
+        "high": 29820,
+        "low": 29090,
+        "close": 29320,
+        "volume": 2489400,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 29370,
+        "high": 29640,
+        "low": 29280,
+        "close": 29640,
+        "volume": 2787700,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 29640,
+        "high": 29910,
+        "low": 29370,
+        "close": 29640,
+        "volume": 3553200,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 30100,
+        "high": 31330,
+        "low": 30050,
+        "close": 31100,
+        "volume": 9305200,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 31000,
+        "high": 31700,
+        "low": 30350,
+        "close": 30600,
+        "volume": 5786000,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 30950,
+        "high": 31000,
+        "low": 30300,
+        "close": 30400,
+        "volume": 4901900,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 30400,
+        "high": 31000,
+        "low": 30400,
+        "close": 31000,
+        "volume": 3849400,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 31200,
+        "high": 31700,
+        "low": 31050,
+        "close": 31650,
+        "volume": 4955900,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 32200,
+        "high": 32650,
+        "low": 31950,
+        "close": 32100,
+        "volume": 5850500,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 32400,
+        "high": 32500,
+        "low": 31550,
+        "close": 31650,
+        "volume": 6352400,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 33700,
+        "high": 33850,
+        "low": 33500,
+        "close": 33850,
+        "volume": 5806900,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 34800,
+        "high": 35150,
+        "low": 33900,
+        "close": 33950,
+        "volume": 10654400,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 33950,
+        "high": 34350,
+        "low": 33100,
+        "close": 34350,
+        "volume": 5828100,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 34500,
+        "high": 35250,
+        "low": 33700,
+        "close": 34150,
+        "volume": 6598100,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 34150,
+        "high": 34450,
+        "low": 33550,
+        "close": 33600,
+        "volume": 4533700,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 33950,
+        "high": 34400,
+        "low": 33550,
+        "close": 33750,
+        "volume": 4202600,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 33750,
+        "high": 34250,
+        "low": 33300,
+        "close": 33700,
+        "volume": 2884400,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 33900,
+        "high": 34900,
+        "low": 33300,
+        "close": 34900,
+        "volume": 6284000,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 34900,
+        "high": 35700,
+        "low": 34800,
+        "close": 34850,
+        "volume": 4162000,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 35000,
+        "high": 35200,
+        "low": 34300,
+        "close": 34800,
+        "volume": 4354400,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 33850,
+        "high": 34550,
+        "low": 32700,
+        "close": 33700,
+        "volume": 4647500,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 34000,
+        "high": 34450,
+        "low": 31500,
+        "close": 31500,
+        "volume": 4567500,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 31000,
+        "high": 32750,
+        "low": 31000,
+        "close": 31500,
+        "volume": 4064800,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 31700,
+        "high": 32500,
+        "low": 31000,
+        "close": 32500,
+        "volume": 2679300,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 32549,
+        "high": 33150,
+        "low": 32450,
+        "close": 32800,
+        "volume": 3153100,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 33300,
+        "high": 33300,
+        "low": 32700,
+        "close": 32750,
+        "volume": 1884000,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 33500,
+        "high": 34350,
+        "low": 33300,
+        "close": 33750,
+        "volume": 3056100,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 33400,
+        "high": 33900,
+        "low": 32000,
+        "close": 32750,
+        "volume": 5862100,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 32500,
+        "high": 35000,
+        "low": 32299,
+        "close": 35000,
+        "volume": 11004300,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 35000,
+        "high": 35950,
+        "low": 34800,
+        "close": 34800,
+        "volume": 6187200,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 34950,
+        "high": 35350,
+        "low": 34500,
+        "close": 35200,
+        "volume": 4570800,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 35600,
+        "high": 37350,
+        "low": 35350,
+        "close": 37100,
+        "volume": 7215700,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 37600,
+        "high": 37600,
+        "low": 36400,
+        "close": 36400,
+        "volume": 5816900,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 36500,
+        "high": 37100,
+        "low": 35800,
+        "close": 37000,
+        "volume": 4583000,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 37000,
+        "high": 37450,
+        "low": 35900,
+        "close": 36350,
+        "volume": 6047000,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 35800,
+        "high": 37000,
+        "low": 35800,
+        "close": 36750,
+        "volume": 3757100,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 36850,
+        "high": 37900,
+        "low": 36450,
+        "close": 37050,
+        "volume": 6255500,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 37200,
+        "high": 37200,
+        "low": 34500,
+        "close": 34500,
+        "volume": 4328300,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 34900,
+        "high": 35200,
+        "low": 32100,
+        "close": 33200,
+        "volume": 8238300,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 33300,
+        "high": 33500,
+        "low": 32000,
+        "close": 32500,
+        "volume": 4944000,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 32500,
+        "high": 33500,
+        "low": 32299,
+        "close": 33450,
+        "volume": 3798300,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 33600,
+        "high": 33600,
+        "low": 32299,
+        "close": 32750,
+        "volume": 3484500,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 32500,
+        "high": 32700,
+        "low": 30650,
+        "close": 31700,
+        "volume": 10792200,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 31700,
+        "high": 31700,
+        "low": 29900,
+        "close": 29950,
+        "volume": 7789200,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 29400,
+        "high": 29500,
+        "low": 27900,
+        "close": 27900,
+        "volume": 8496600,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 28450,
+        "high": 28900,
+        "low": 27550,
+        "close": 28500,
+        "volume": 3202300,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 28300,
+        "high": 28300,
+        "low": 27000,
+        "close": 27000,
+        "volume": 3364700,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 27000,
+        "high": 27350,
+        "low": 25700,
+        "close": 27000,
+        "volume": 5731100,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 27000,
+        "high": 28000,
+        "low": 26800,
+        "close": 28000,
+        "volume": 2188500,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 28300,
+        "high": 29850,
+        "low": 28100,
+        "close": 29850,
+        "volume": 5760400,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 30000,
+        "high": 30000,
+        "low": 28900,
+        "close": 29300,
+        "volume": 4244600,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 29050,
+        "high": 29750,
+        "low": 29000,
+        "close": 29250,
+        "volume": 2557400,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 29200,
+        "high": 30500,
+        "low": 28750,
+        "close": 29600,
+        "volume": 4494400,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 29800,
+        "high": 31400,
+        "low": 29600,
+        "close": 31400,
+        "volume": 3635600,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 31200,
+        "high": 31800,
+        "low": 31100,
+        "close": 31250,
+        "volume": 4265600,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 30700,
+        "high": 31400,
+        "low": 30700,
+        "close": 30700,
+        "volume": 3574600,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 30700,
+        "high": 31200,
+        "low": 29900,
+        "close": 30500,
+        "volume": 2795900,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 30900,
+        "high": 31300,
+        "low": 30700,
+        "close": 31250,
+        "volume": 2889500,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 31900,
+        "high": 32000,
+        "low": 30950,
+        "close": 31100,
+        "volume": 3215700,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 31300,
+        "high": 32150,
+        "low": 30900,
+        "close": 31950,
+        "volume": 4283600,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 32000,
+        "high": 32200,
+        "low": 30500,
+        "close": 31050,
+        "volume": 4734400,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 30500,
+        "high": 31350,
+        "low": 30500,
+        "close": 31150,
+        "volume": 2666900,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 31550,
+        "high": 32000,
+        "low": 31300,
+        "close": 32000,
+        "volume": 3695900,
+        "ticker": "DCM"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 32049,
+        "high": 32900,
+        "low": 32049,
+        "close": 32450,
+        "volume": 5161000,
+        "ticker": "DCM"
+    }
+]

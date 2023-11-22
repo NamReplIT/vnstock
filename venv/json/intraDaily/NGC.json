@@ -1,0 +1,128 @@
+[
+    {
+        "time": "2023-06-02",
+        "open": 8000,
+        "high": 8000,
+        "low": 8000,
+        "close": 8000,
+        "volume": 1300,
+        "ticker": "NGC"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 6800,
+        "high": 9200,
+        "low": 6800,
+        "close": 9200,
+        "volume": 14200,
+        "ticker": "NGC"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 6100,
+        "high": 7000,
+        "low": 6100,
+        "close": 7000,
+        "volume": 8400,
+        "ticker": "NGC"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 5200,
+        "high": 5200,
+        "low": 5200,
+        "close": 5200,
+        "volume": 1500,
+        "ticker": "NGC"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 5700,
+        "high": 5700,
+        "low": 4500,
+        "close": 4500,
+        "volume": 6900,
+        "ticker": "NGC"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 4300,
+        "high": 4400,
+        "low": 4300,
+        "close": 4300,
+        "volume": 5300,
+        "ticker": "NGC"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 3700,
+        "high": 3800,
+        "low": 3700,
+        "close": 3800,
+        "volume": 4000,
+        "ticker": "NGC"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 3900,
+        "high": 3900,
+        "low": 3800,
+        "close": 3800,
+        "volume": 6300,
+        "ticker": "NGC"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 3300,
+        "high": 3300,
+        "low": 3300,
+        "close": 3300,
+        "volume": 6700,
+        "ticker": "NGC"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 3300,
+        "high": 3300,
+        "low": 3000,
+        "close": 3200,
+        "volume": 3500,
+        "ticker": "NGC"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 3000,
+        "high": 3500,
+        "low": 3000,
+        "close": 3500,
+        "volume": 2300,
+        "ticker": "NGC"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 2900,
+        "high": 2900,
+        "low": 2900,
+        "close": 2900,
+        "volume": 1200,
+        "ticker": "NGC"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 2500,
+        "high": 2500,
+        "low": 2500,
+        "close": 2500,
+        "volume": 1000,
+        "ticker": "NGC"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 2500,
+        "high": 2500,
+        "low": 2500,
+        "close": 2500,
+        "volume": 100,
+        "ticker": "NGC"
+    }
+]

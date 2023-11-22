@@ -1,0 +1,47 @@
+[
+    {
+        "time": "2023-07-25",
+        "open": 9560,
+        "high": 9560,
+        "low": 9560,
+        "close": 9560,
+        "volume": 13000,
+        "ticker": "BNW"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 9000,
+        "high": 9000,
+        "low": 9000,
+        "close": 9000,
+        "volume": 2000,
+        "ticker": "BNW"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 10000,
+        "high": 10000,
+        "low": 10000,
+        "close": 10000,
+        "volume": 15500,
+        "ticker": "BNW"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 11000,
+        "high": 11000,
+        "low": 11000,
+        "close": 11000,
+        "volume": 100,
+        "ticker": "BNW"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 10000,
+        "high": 10000,
+        "low": 10000,
+        "close": 10000,
+        "volume": 3500,
+        "ticker": "BNW"
+    }
+]

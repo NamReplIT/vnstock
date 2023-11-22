@@ -1,0 +1,1280 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 12900,
+        "high": 12900,
+        "low": 12500,
+        "close": 12500,
+        "volume": 200,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 12600,
+        "high": 12600,
+        "low": 12600,
+        "close": 12600,
+        "volume": 1000,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 12500,
+        "high": 12500,
+        "low": 12500,
+        "close": 12500,
+        "volume": 16200,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 12500,
+        "high": 12800,
+        "low": 12500,
+        "close": 12500,
+        "volume": 65900,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 12500,
+        "high": 12500,
+        "low": 12500,
+        "close": 12500,
+        "volume": 15900,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 12600,
+        "high": 12600,
+        "low": 12500,
+        "close": 12600,
+        "volume": 15600,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 12600,
+        "high": 12600,
+        "low": 12600,
+        "close": 12600,
+        "volume": 4600,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 12800,
+        "high": 13800,
+        "low": 12400,
+        "close": 12700,
+        "volume": 21400,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 13900,
+        "high": 13900,
+        "low": 13900,
+        "close": 13900,
+        "volume": 100,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 13000,
+        "high": 13000,
+        "low": 13000,
+        "close": 13000,
+        "volume": 1500,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 13900,
+        "high": 13900,
+        "low": 13900,
+        "close": 13900,
+        "volume": 100,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 12800,
+        "high": 12800,
+        "low": 12700,
+        "close": 12700,
+        "volume": 33000,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 12700,
+        "high": 12800,
+        "low": 12600,
+        "close": 12700,
+        "volume": 19000,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 12700,
+        "high": 12700,
+        "low": 12600,
+        "close": 12600,
+        "volume": 58700,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 12600,
+        "high": 12600,
+        "low": 12500,
+        "close": 12500,
+        "volume": 5000,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 12500,
+        "high": 12500,
+        "low": 12400,
+        "close": 12500,
+        "volume": 82500,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 12400,
+        "high": 12500,
+        "low": 12200,
+        "close": 12500,
+        "volume": 33100,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 12500,
+        "high": 12600,
+        "low": 12400,
+        "close": 12600,
+        "volume": 88500,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 12600,
+        "high": 12600,
+        "low": 12500,
+        "close": 12600,
+        "volume": 27000,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 12600,
+        "high": 12800,
+        "low": 12600,
+        "close": 12700,
+        "volume": 34000,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 12600,
+        "high": 13700,
+        "low": 12600,
+        "close": 12600,
+        "volume": 64500,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 12600,
+        "high": 12800,
+        "low": 12600,
+        "close": 12800,
+        "volume": 15300,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 12600,
+        "high": 12700,
+        "low": 12600,
+        "close": 12600,
+        "volume": 21400,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 12700,
+        "high": 12800,
+        "low": 12600,
+        "close": 12600,
+        "volume": 19000,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 12600,
+        "high": 12700,
+        "low": 12600,
+        "close": 12600,
+        "volume": 20100,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 12700,
+        "high": 12700,
+        "low": 12700,
+        "close": 12700,
+        "volume": 19100,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 12700,
+        "high": 12700,
+        "low": 12500,
+        "close": 12500,
+        "volume": 15300,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 12600,
+        "high": 12600,
+        "low": 12500,
+        "close": 12600,
+        "volume": 31000,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 12500,
+        "high": 12700,
+        "low": 12500,
+        "close": 12700,
+        "volume": 48800,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 12600,
+        "high": 12700,
+        "low": 12500,
+        "close": 12600,
+        "volume": 19900,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 12600,
+        "high": 12600,
+        "low": 12500,
+        "close": 12600,
+        "volume": 10000,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 12600,
+        "high": 12600,
+        "low": 12600,
+        "close": 12600,
+        "volume": 11200,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 12600,
+        "high": 12600,
+        "low": 12600,
+        "close": 12600,
+        "volume": 12300,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 12600,
+        "high": 12600,
+        "low": 12600,
+        "close": 12600,
+        "volume": 9000,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 12700,
+        "high": 12700,
+        "low": 12600,
+        "close": 12700,
+        "volume": 22200,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 12700,
+        "high": 12800,
+        "low": 12700,
+        "close": 12800,
+        "volume": 33300,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 12800,
+        "high": 12900,
+        "low": 12800,
+        "close": 12800,
+        "volume": 73900,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 13000,
+        "high": 13000,
+        "low": 12600,
+        "close": 12700,
+        "volume": 34300,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 13000,
+        "high": 13000,
+        "low": 12700,
+        "close": 12700,
+        "volume": 12400,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 12800,
+        "high": 12800,
+        "low": 12700,
+        "close": 12800,
+        "volume": 7600,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 12800,
+        "high": 12800,
+        "low": 12700,
+        "close": 12800,
+        "volume": 44600,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 12800,
+        "high": 12800,
+        "low": 12700,
+        "close": 12800,
+        "volume": 9300,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 12800,
+        "high": 12800,
+        "low": 12700,
+        "close": 12800,
+        "volume": 20300,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 12800,
+        "high": 12800,
+        "low": 12700,
+        "close": 12700,
+        "volume": 8400,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 12700,
+        "high": 12800,
+        "low": 12700,
+        "close": 12800,
+        "volume": 11300,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 12800,
+        "high": 12800,
+        "low": 12700,
+        "close": 12700,
+        "volume": 14500,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 12700,
+        "high": 12700,
+        "low": 12700,
+        "close": 12700,
+        "volume": 11600,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 12700,
+        "high": 12700,
+        "low": 12600,
+        "close": 12600,
+        "volume": 21800,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 12600,
+        "high": 12800,
+        "low": 12600,
+        "close": 12700,
+        "volume": 50600,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 12700,
+        "high": 12800,
+        "low": 12700,
+        "close": 12700,
+        "volume": 13800,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 12700,
+        "high": 12800,
+        "low": 12600,
+        "close": 12800,
+        "volume": 14700,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 12700,
+        "high": 12700,
+        "low": 12600,
+        "close": 12600,
+        "volume": 20100,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 12600,
+        "high": 12700,
+        "low": 12600,
+        "close": 12700,
+        "volume": 31800,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 12700,
+        "high": 12700,
+        "low": 12600,
+        "close": 12600,
+        "volume": 6000,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 12700,
+        "high": 13000,
+        "low": 12700,
+        "close": 12700,
+        "volume": 13300,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 12700,
+        "high": 12800,
+        "low": 12700,
+        "close": 12700,
+        "volume": 23000,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 12600,
+        "high": 13200,
+        "low": 12600,
+        "close": 12800,
+        "volume": 53900,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 12500,
+        "high": 12800,
+        "low": 12500,
+        "close": 12700,
+        "volume": 67400,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 12700,
+        "high": 12700,
+        "low": 12600,
+        "close": 12700,
+        "volume": 9400,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 12700,
+        "high": 12800,
+        "low": 12600,
+        "close": 12700,
+        "volume": 29400,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 12800,
+        "high": 12800,
+        "low": 12600,
+        "close": 12700,
+        "volume": 32300,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 12700,
+        "high": 12700,
+        "low": 12600,
+        "close": 12700,
+        "volume": 7800,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 12700,
+        "high": 12800,
+        "low": 12600,
+        "close": 12700,
+        "volume": 132000,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 12800,
+        "high": 12800,
+        "low": 12700,
+        "close": 12800,
+        "volume": 44400,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 12900,
+        "high": 12900,
+        "low": 12700,
+        "close": 12800,
+        "volume": 59700,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 12700,
+        "high": 12800,
+        "low": 12700,
+        "close": 12800,
+        "volume": 13300,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 12700,
+        "high": 12700,
+        "low": 12600,
+        "close": 12700,
+        "volume": 10100,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 12700,
+        "high": 12800,
+        "low": 12700,
+        "close": 12700,
+        "volume": 12400,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 12800,
+        "high": 12800,
+        "low": 12800,
+        "close": 12800,
+        "volume": 14800,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 12700,
+        "high": 12900,
+        "low": 12700,
+        "close": 12800,
+        "volume": 57500,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 13200,
+        "high": 13200,
+        "low": 12800,
+        "close": 12800,
+        "volume": 22300,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 12900,
+        "high": 13000,
+        "low": 12800,
+        "close": 12800,
+        "volume": 52800,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 12700,
+        "high": 13200,
+        "low": 12700,
+        "close": 12900,
+        "volume": 57500,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 12900,
+        "high": 12900,
+        "low": 12900,
+        "close": 12900,
+        "volume": 8000,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 12900,
+        "high": 12900,
+        "low": 12900,
+        "close": 12900,
+        "volume": 25800,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-08-17",
+        "open": 12800,
+        "high": 12900,
+        "low": 12800,
+        "close": 12900,
+        "volume": 1200,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 12900,
+        "high": 13300,
+        "low": 12500,
+        "close": 12600,
+        "volume": 36700,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 12700,
+        "high": 12700,
+        "low": 12500,
+        "close": 12500,
+        "volume": 25100,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 12500,
+        "high": 12600,
+        "low": 12500,
+        "close": 12500,
+        "volume": 14900,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 12900,
+        "high": 12900,
+        "low": 12400,
+        "close": 12800,
+        "volume": 17200,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 12500,
+        "high": 12700,
+        "low": 12500,
+        "close": 12700,
+        "volume": 4100,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 12600,
+        "high": 12700,
+        "low": 12600,
+        "close": 12700,
+        "volume": 500,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 12700,
+        "high": 12700,
+        "low": 12700,
+        "close": 12700,
+        "volume": 12100,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 12700,
+        "high": 12800,
+        "low": 12700,
+        "close": 12800,
+        "volume": 3400,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 12800,
+        "high": 12800,
+        "low": 12700,
+        "close": 12800,
+        "volume": 4100,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 12700,
+        "high": 12800,
+        "low": 12700,
+        "close": 12800,
+        "volume": 4400,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 12800,
+        "high": 12900,
+        "low": 12800,
+        "close": 12800,
+        "volume": 29600,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 12600,
+        "high": 12900,
+        "low": 12600,
+        "close": 12900,
+        "volume": 3700,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 12900,
+        "high": 13100,
+        "low": 12800,
+        "close": 12900,
+        "volume": 16700,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 12900,
+        "high": 13000,
+        "low": 12800,
+        "close": 13000,
+        "volume": 16700,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 13400,
+        "high": 13400,
+        "low": 12800,
+        "close": 13000,
+        "volume": 59200,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 13000,
+        "high": 13900,
+        "low": 13000,
+        "close": 13900,
+        "volume": 7600,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 13700,
+        "high": 13700,
+        "low": 13000,
+        "close": 13000,
+        "volume": 22000,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 13000,
+        "high": 13200,
+        "low": 12900,
+        "close": 13200,
+        "volume": 15100,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 13400,
+        "high": 13500,
+        "low": 13300,
+        "close": 13400,
+        "volume": 28800,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 13700,
+        "high": 14500,
+        "low": 13700,
+        "close": 14200,
+        "volume": 39000,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 14200,
+        "high": 14300,
+        "low": 14000,
+        "close": 14300,
+        "volume": 15900,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 14500,
+        "high": 14800,
+        "low": 14300,
+        "close": 14400,
+        "volume": 18800,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 14100,
+        "high": 14200,
+        "low": 14100,
+        "close": 14100,
+        "volume": 5200,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 14000,
+        "high": 14200,
+        "low": 13600,
+        "close": 14200,
+        "volume": 12800,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 13800,
+        "high": 14200,
+        "low": 13300,
+        "close": 14200,
+        "volume": 19600,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 14200,
+        "high": 14200,
+        "low": 13500,
+        "close": 13700,
+        "volume": 7400,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 13600,
+        "high": 13700,
+        "low": 13300,
+        "close": 13700,
+        "volume": 26100,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 13700,
+        "high": 13700,
+        "low": 13500,
+        "close": 13700,
+        "volume": 15000,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 13700,
+        "high": 13700,
+        "low": 13700,
+        "close": 13700,
+        "volume": 2600,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 13700,
+        "high": 13800,
+        "low": 13700,
+        "close": 13800,
+        "volume": 10800,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 13500,
+        "high": 13500,
+        "low": 13500,
+        "close": 13500,
+        "volume": 1400,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 13600,
+        "high": 13600,
+        "low": 13200,
+        "close": 13500,
+        "volume": 20000,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 13500,
+        "high": 13500,
+        "low": 13500,
+        "close": 13500,
+        "volume": 300,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 13500,
+        "high": 13500,
+        "low": 13500,
+        "close": 13500,
+        "volume": 1100,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 13600,
+        "high": 13600,
+        "low": 13400,
+        "close": 13400,
+        "volume": 4400,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 13400,
+        "high": 13500,
+        "low": 13400,
+        "close": 13500,
+        "volume": 23200,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 13500,
+        "high": 13600,
+        "low": 13400,
+        "close": 13600,
+        "volume": 1800,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 13600,
+        "high": 13600,
+        "low": 13400,
+        "close": 13600,
+        "volume": 18000,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 13400,
+        "high": 13500,
+        "low": 13400,
+        "close": 13400,
+        "volume": 20200,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 13500,
+        "high": 13500,
+        "low": 13500,
+        "close": 13500,
+        "volume": 100,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 13400,
+        "high": 14500,
+        "low": 13400,
+        "close": 13600,
+        "volume": 5100,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 13500,
+        "high": 13500,
+        "low": 13500,
+        "close": 13500,
+        "volume": 600,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 13400,
+        "high": 13500,
+        "low": 13300,
+        "close": 13500,
+        "volume": 1200,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 13300,
+        "high": 13400,
+        "low": 13300,
+        "close": 13300,
+        "volume": 1900,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 13300,
+        "high": 13300,
+        "low": 12800,
+        "close": 12900,
+        "volume": 30300,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 13000,
+        "high": 13100,
+        "low": 12800,
+        "close": 13000,
+        "volume": 9100,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 13000,
+        "high": 13100,
+        "low": 12900,
+        "close": 13100,
+        "volume": 20700,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 12800,
+        "high": 13300,
+        "low": 12600,
+        "close": 12800,
+        "volume": 21300,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 13800,
+        "high": 13800,
+        "low": 12300,
+        "close": 13000,
+        "volume": 11900,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 12600,
+        "high": 13400,
+        "low": 12500,
+        "close": 12800,
+        "volume": 29000,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 12700,
+        "high": 13400,
+        "low": 12500,
+        "close": 12500,
+        "volume": 20500,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 12700,
+        "high": 13200,
+        "low": 12700,
+        "close": 13200,
+        "volume": 600,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 12700,
+        "high": 13700,
+        "low": 12700,
+        "close": 13300,
+        "volume": 2800,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 13300,
+        "high": 13400,
+        "low": 13300,
+        "close": 13400,
+        "volume": 700,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 13600,
+        "high": 13600,
+        "low": 13300,
+        "close": 13400,
+        "volume": 13100,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 13400,
+        "high": 13400,
+        "low": 13400,
+        "close": 13400,
+        "volume": 1600,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 13400,
+        "high": 13500,
+        "low": 13200,
+        "close": 13500,
+        "volume": 3400,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 13500,
+        "high": 13600,
+        "low": 13500,
+        "close": 13600,
+        "volume": 10200,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 13200,
+        "high": 13600,
+        "low": 13200,
+        "close": 13600,
+        "volume": 2500,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 13300,
+        "high": 13400,
+        "low": 13100,
+        "close": 13400,
+        "volume": 14900,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 13200,
+        "high": 13500,
+        "low": 13200,
+        "close": 13400,
+        "volume": 6600,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 13100,
+        "high": 13500,
+        "low": 13100,
+        "close": 13400,
+        "volume": 18600,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 13400,
+        "high": 13400,
+        "low": 13400,
+        "close": 13400,
+        "volume": 300,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 13100,
+        "high": 13400,
+        "low": 13100,
+        "close": 13400,
+        "volume": 22100,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 13300,
+        "high": 13300,
+        "low": 13000,
+        "close": 13100,
+        "volume": 15900,
+        "ticker": "TV4"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 13100,
+        "high": 13200,
+        "low": 13000,
+        "close": 13100,
+        "volume": 13700,
+        "ticker": "TV4"
+    }
+]

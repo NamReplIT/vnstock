@@ -1,0 +1,65 @@
+[
+    {
+        "time": "2023-05-31",
+        "open": 36000,
+        "high": 37000,
+        "low": 36000,
+        "close": 37000,
+        "volume": 400,
+        "ticker": "QHD"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 37000,
+        "high": 37000,
+        "low": 37000,
+        "close": 37000,
+        "volume": 200,
+        "ticker": "QHD"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 36000,
+        "high": 36000,
+        "low": 36000,
+        "close": 36000,
+        "volume": 600,
+        "ticker": "QHD"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 36000,
+        "high": 36000,
+        "low": 36000,
+        "close": 36000,
+        "volume": 100,
+        "ticker": "QHD"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 35600,
+        "high": 35600,
+        "low": 35600,
+        "close": 35600,
+        "volume": 100,
+        "ticker": "QHD"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 35600,
+        "high": 35600,
+        "low": 35600,
+        "close": 35600,
+        "volume": 1100,
+        "ticker": "QHD"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 39000,
+        "high": 39000,
+        "low": 39000,
+        "close": 39000,
+        "volume": 100,
+        "ticker": "QHD"
+    }
+]

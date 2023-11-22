@@ -1,0 +1,1280 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 4850,
+        "high": 4850,
+        "low": 4750,
+        "close": 4750,
+        "volume": 45000,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 4850,
+        "high": 4940,
+        "low": 4750,
+        "close": 4750,
+        "volume": 208400,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 4850,
+        "high": 4940,
+        "low": 4750,
+        "close": 4940,
+        "volume": 84500,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 4850,
+        "high": 5040,
+        "low": 4850,
+        "close": 5040,
+        "volume": 351700,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 5040,
+        "high": 5040,
+        "low": 4940,
+        "close": 4940,
+        "volume": 28600,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 4940,
+        "high": 5320,
+        "low": 4940,
+        "close": 5230,
+        "volume": 694500,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 5320,
+        "high": 5510,
+        "low": 5130,
+        "close": 5510,
+        "volume": 1006000,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 5610,
+        "high": 5890,
+        "low": 5510,
+        "close": 5510,
+        "volume": 1031100,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 5610,
+        "high": 5700,
+        "low": 5320,
+        "close": 5420,
+        "volume": 640900,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 5510,
+        "high": 5610,
+        "low": 5320,
+        "close": 5320,
+        "volume": 442800,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 5420,
+        "high": 5510,
+        "low": 5320,
+        "close": 5420,
+        "volume": 395200,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 5420,
+        "high": 5610,
+        "low": 5320,
+        "close": 5320,
+        "volume": 402100,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 5510,
+        "high": 5610,
+        "low": 5420,
+        "close": 5510,
+        "volume": 419800,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 5610,
+        "high": 5610,
+        "low": 5420,
+        "close": 5420,
+        "volume": 156500,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 5510,
+        "high": 5510,
+        "low": 5320,
+        "close": 5420,
+        "volume": 463900,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 5320,
+        "high": 5420,
+        "low": 5230,
+        "close": 5320,
+        "volume": 214400,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 5320,
+        "high": 5420,
+        "low": 5230,
+        "close": 5420,
+        "volume": 342200,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 5420,
+        "high": 5610,
+        "low": 5420,
+        "close": 5610,
+        "volume": 643400,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 4750,
+        "high": 5700,
+        "low": 4750,
+        "close": 5700,
+        "volume": 848200,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 5700,
+        "high": 5890,
+        "low": 5700,
+        "close": 5890,
+        "volume": 976800,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 5890,
+        "high": 5990,
+        "low": 5700,
+        "close": 5890,
+        "volume": 734300,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 5990,
+        "high": 6080,
+        "low": 5800,
+        "close": 5890,
+        "volume": 902600,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 5890,
+        "high": 6080,
+        "low": 5890,
+        "close": 5990,
+        "volume": 892800,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 5990,
+        "high": 5990,
+        "low": 5800,
+        "close": 5990,
+        "volume": 441000,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 5990,
+        "high": 6460,
+        "low": 5990,
+        "close": 6370,
+        "volume": 1181500,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 6370,
+        "high": 6650,
+        "low": 6180,
+        "close": 6180,
+        "volume": 1080400,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 6270,
+        "high": 6270,
+        "low": 5990,
+        "close": 6180,
+        "volume": 717300,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 6180,
+        "high": 6270,
+        "low": 5890,
+        "close": 6180,
+        "volume": 502700,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 6180,
+        "high": 6460,
+        "low": 6080,
+        "close": 6370,
+        "volume": 2058100,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 6370,
+        "high": 6560,
+        "low": 6080,
+        "close": 6180,
+        "volume": 700700,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 6080,
+        "high": 6270,
+        "low": 5990,
+        "close": 6080,
+        "volume": 705800,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 6080,
+        "high": 6270,
+        "low": 6080,
+        "close": 6180,
+        "volume": 616000,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 6180,
+        "high": 6180,
+        "low": 5890,
+        "close": 5990,
+        "volume": 503200,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 5700,
+        "high": 5990,
+        "low": 5700,
+        "close": 5990,
+        "volume": 363400,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 5990,
+        "high": 6180,
+        "low": 5890,
+        "close": 6180,
+        "volume": 624600,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 6180,
+        "high": 6270,
+        "low": 6080,
+        "close": 6270,
+        "volume": 416000,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 6270,
+        "high": 6370,
+        "low": 6080,
+        "close": 6180,
+        "volume": 657400,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 6180,
+        "high": 6180,
+        "low": 5890,
+        "close": 6080,
+        "volume": 697800,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 6080,
+        "high": 6080,
+        "low": 5890,
+        "close": 5990,
+        "volume": 265200,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 5990,
+        "high": 6180,
+        "low": 5990,
+        "close": 5990,
+        "volume": 439700,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 6080,
+        "high": 6080,
+        "low": 5890,
+        "close": 5890,
+        "volume": 242200,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 5890,
+        "high": 5990,
+        "low": 5800,
+        "close": 5890,
+        "volume": 411600,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 5890,
+        "high": 5990,
+        "low": 5890,
+        "close": 5990,
+        "volume": 191900,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 5990,
+        "high": 6080,
+        "low": 5890,
+        "close": 5990,
+        "volume": 334300,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 5990,
+        "high": 6080,
+        "low": 5890,
+        "close": 6080,
+        "volume": 551200,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 6080,
+        "high": 6080,
+        "low": 5890,
+        "close": 5890,
+        "volume": 432500,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 5890,
+        "high": 6750,
+        "low": 5800,
+        "close": 6750,
+        "volume": 2356800,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 7410,
+        "high": 7410,
+        "low": 6940,
+        "close": 7410,
+        "volume": 2418300,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 7600,
+        "high": 7790,
+        "low": 7130,
+        "close": 7320,
+        "volume": 2015700,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 7320,
+        "high": 7320,
+        "low": 7030,
+        "close": 7220,
+        "volume": 975400,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 7220,
+        "high": 7600,
+        "low": 7130,
+        "close": 7320,
+        "volume": 1117100,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 7320,
+        "high": 7600,
+        "low": 7220,
+        "close": 7510,
+        "volume": 1359700,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 7510,
+        "high": 7510,
+        "low": 7220,
+        "close": 7320,
+        "volume": 1072100,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 7320,
+        "high": 7320,
+        "low": 7130,
+        "close": 7220,
+        "volume": 657900,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 7220,
+        "high": 7320,
+        "low": 7130,
+        "close": 7220,
+        "volume": 697700,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 7220,
+        "high": 7320,
+        "low": 7030,
+        "close": 7320,
+        "volume": 718300,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 7320,
+        "high": 7410,
+        "low": 7220,
+        "close": 7320,
+        "volume": 623600,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 7320,
+        "high": 7600,
+        "low": 7320,
+        "close": 7600,
+        "volume": 1735400,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 7510,
+        "high": 7600,
+        "low": 7410,
+        "close": 7510,
+        "volume": 655000,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 7510,
+        "high": 7600,
+        "low": 7320,
+        "close": 7320,
+        "volume": 742600,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 7410,
+        "high": 7510,
+        "low": 7220,
+        "close": 7510,
+        "volume": 993300,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 7410,
+        "high": 7600,
+        "low": 7410,
+        "close": 7510,
+        "volume": 625100,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 7410,
+        "high": 7410,
+        "low": 7030,
+        "close": 7320,
+        "volume": 1908300,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 7130,
+        "high": 7320,
+        "low": 7030,
+        "close": 7030,
+        "volume": 687500,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 7030,
+        "high": 7220,
+        "low": 7030,
+        "close": 7220,
+        "volume": 439800,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 7130,
+        "high": 7220,
+        "low": 7030,
+        "close": 7030,
+        "volume": 594900,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 7030,
+        "high": 7220,
+        "low": 6940,
+        "close": 7220,
+        "volume": 680000,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 7130,
+        "high": 7220,
+        "low": 7030,
+        "close": 7220,
+        "volume": 547000,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 7220,
+        "high": 7320,
+        "low": 7030,
+        "close": 7220,
+        "volume": 876500,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 7220,
+        "high": 7600,
+        "low": 7130,
+        "close": 7600,
+        "volume": 1903000,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 7600,
+        "high": 7600,
+        "low": 7320,
+        "close": 7320,
+        "volume": 915700,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 7410,
+        "high": 7510,
+        "low": 7130,
+        "close": 7410,
+        "volume": 725600,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 7410,
+        "high": 7600,
+        "low": 7410,
+        "close": 7510,
+        "volume": 1130200,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 7510,
+        "high": 7980,
+        "low": 7510,
+        "close": 7790,
+        "volume": 1375300,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 7790,
+        "high": 7790,
+        "low": 7510,
+        "close": 7600,
+        "volume": 547500,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-08-17",
+        "open": 7600,
+        "high": 7790,
+        "low": 7510,
+        "close": 7600,
+        "volume": 785800,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 7510,
+        "high": 7600,
+        "low": 6650,
+        "close": 6750,
+        "volume": 1574100,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 6750,
+        "high": 6940,
+        "low": 6560,
+        "close": 6750,
+        "volume": 618600,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 6750,
+        "high": 6840,
+        "low": 6370,
+        "close": 6750,
+        "volume": 454800,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 6650,
+        "high": 6840,
+        "low": 6460,
+        "close": 6560,
+        "volume": 457400,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 6840,
+        "high": 6840,
+        "low": 6560,
+        "close": 6750,
+        "volume": 176300,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 6840,
+        "high": 6840,
+        "low": 6560,
+        "close": 6650,
+        "volume": 333700,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 6650,
+        "high": 6840,
+        "low": 6560,
+        "close": 6840,
+        "volume": 339600,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 6750,
+        "high": 6840,
+        "low": 6650,
+        "close": 6840,
+        "volume": 215400,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 6840,
+        "high": 6840,
+        "low": 6650,
+        "close": 6840,
+        "volume": 381300,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 6840,
+        "high": 6940,
+        "low": 6750,
+        "close": 6840,
+        "volume": 384000,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 6940,
+        "high": 6940,
+        "low": 6840,
+        "close": 6840,
+        "volume": 374600,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 6840,
+        "high": 7320,
+        "low": 6840,
+        "close": 7220,
+        "volume": 1045900,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 7320,
+        "high": 7410,
+        "low": 7130,
+        "close": 7220,
+        "volume": 475900,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 7220,
+        "high": 7320,
+        "low": 7130,
+        "close": 7320,
+        "volume": 552500,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 7320,
+        "high": 7410,
+        "low": 7030,
+        "close": 7130,
+        "volume": 798800,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 7030,
+        "high": 7220,
+        "low": 7030,
+        "close": 7130,
+        "volume": 376800,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 7130,
+        "high": 7410,
+        "low": 7030,
+        "close": 7220,
+        "volume": 575900,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 7220,
+        "high": 7220,
+        "low": 6940,
+        "close": 7030,
+        "volume": 395500,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 7030,
+        "high": 7130,
+        "low": 6840,
+        "close": 7030,
+        "volume": 374000,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 7030,
+        "high": 7130,
+        "low": 6940,
+        "close": 7030,
+        "volume": 283100,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 7030,
+        "high": 7220,
+        "low": 6840,
+        "close": 7220,
+        "volume": 604700,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 7130,
+        "high": 7220,
+        "low": 7030,
+        "close": 7220,
+        "volume": 492600,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 7220,
+        "high": 7890,
+        "low": 7130,
+        "close": 7510,
+        "volume": 2458500,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 7510,
+        "high": 7600,
+        "low": 7030,
+        "close": 7320,
+        "volume": 1175600,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 7320,
+        "high": 7320,
+        "low": 6460,
+        "close": 6460,
+        "volume": 1221200,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 6460,
+        "high": 6750,
+        "low": 6370,
+        "close": 6460,
+        "volume": 700100,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 6460,
+        "high": 6650,
+        "low": 6270,
+        "close": 6560,
+        "volume": 623600,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 6750,
+        "high": 6750,
+        "low": 6370,
+        "close": 6560,
+        "volume": 557500,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 6650,
+        "high": 6650,
+        "low": 6370,
+        "close": 6460,
+        "volume": 232400,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 6560,
+        "high": 6560,
+        "low": 6460,
+        "close": 6560,
+        "volume": 268600,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 6460,
+        "high": 6460,
+        "low": 5990,
+        "close": 5990,
+        "volume": 648300,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 6180,
+        "high": 6370,
+        "low": 5890,
+        "close": 6270,
+        "volume": 325700,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 6270,
+        "high": 6370,
+        "low": 6080,
+        "close": 6080,
+        "volume": 139400,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 6080,
+        "high": 6270,
+        "low": 6080,
+        "close": 6270,
+        "volume": 118300,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 6180,
+        "high": 6370,
+        "low": 6180,
+        "close": 6370,
+        "volume": 243100,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 6460,
+        "high": 6460,
+        "low": 6270,
+        "close": 6370,
+        "volume": 279200,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 6460,
+        "high": 6460,
+        "low": 6270,
+        "close": 6460,
+        "volume": 166100,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 6460,
+        "high": 6460,
+        "low": 6270,
+        "close": 6270,
+        "volume": 143100,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 6370,
+        "high": 6370,
+        "low": 6180,
+        "close": 6180,
+        "volume": 205300,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 6270,
+        "high": 6370,
+        "low": 5990,
+        "close": 6080,
+        "volume": 173500,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 6080,
+        "high": 6080,
+        "low": 5800,
+        "close": 5890,
+        "volume": 247400,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 5990,
+        "high": 5990,
+        "low": 5800,
+        "close": 5890,
+        "volume": 143000,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 5890,
+        "high": 5990,
+        "low": 5700,
+        "close": 5990,
+        "volume": 202800,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 5890,
+        "high": 5990,
+        "low": 5890,
+        "close": 5890,
+        "volume": 73700,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 5890,
+        "high": 5990,
+        "low": 5800,
+        "close": 5990,
+        "volume": 147200,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 5990,
+        "high": 6080,
+        "low": 5890,
+        "close": 5890,
+        "volume": 77300,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 5890,
+        "high": 5890,
+        "low": 5320,
+        "close": 5510,
+        "volume": 293000,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 5610,
+        "high": 5700,
+        "low": 5420,
+        "close": 5700,
+        "volume": 264900,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 5610,
+        "high": 5800,
+        "low": 5610,
+        "close": 5700,
+        "volume": 132500,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 5900,
+        "high": 5900,
+        "low": 5500,
+        "close": 5600,
+        "volume": 96600,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 5700,
+        "high": 5700,
+        "low": 5400,
+        "close": 5700,
+        "volume": 82800,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 5700,
+        "high": 6000,
+        "low": 5600,
+        "close": 6000,
+        "volume": 323200,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 6000,
+        "high": 6000,
+        "low": 5700,
+        "close": 5900,
+        "volume": 143200,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 5900,
+        "high": 5900,
+        "low": 5800,
+        "close": 5800,
+        "volume": 135800,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 5800,
+        "high": 5900,
+        "low": 5800,
+        "close": 5900,
+        "volume": 129600,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 5800,
+        "high": 6100,
+        "low": 5800,
+        "close": 6100,
+        "volume": 358900,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 6200,
+        "high": 6200,
+        "low": 6000,
+        "close": 6100,
+        "volume": 371600,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 6000,
+        "high": 6200,
+        "low": 6000,
+        "close": 6100,
+        "volume": 114300,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 6100,
+        "high": 6500,
+        "low": 6100,
+        "close": 6400,
+        "volume": 638300,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 6400,
+        "high": 6500,
+        "low": 6200,
+        "close": 6300,
+        "volume": 238200,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 6400,
+        "high": 6500,
+        "low": 6200,
+        "close": 6300,
+        "volume": 254500,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 6300,
+        "high": 6300,
+        "low": 6000,
+        "close": 6300,
+        "volume": 396800,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 6200,
+        "high": 6300,
+        "low": 6000,
+        "close": 6200,
+        "volume": 394600,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 6100,
+        "high": 6200,
+        "low": 5900,
+        "close": 6200,
+        "volume": 322500,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 6200,
+        "high": 6500,
+        "low": 6200,
+        "close": 6400,
+        "volume": 598400,
+        "ticker": "TVN"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 6300,
+        "high": 6400,
+        "low": 6200,
+        "close": 6300,
+        "volume": 168900,
+        "ticker": "TVN"
+    }
+]

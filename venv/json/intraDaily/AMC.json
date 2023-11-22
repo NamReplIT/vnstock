@@ -1,0 +1,659 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 18440,
+        "high": 18440,
+        "low": 18440,
+        "close": 18440,
+        "volume": 100,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 16670,
+        "high": 16670,
+        "low": 16670,
+        "close": 16670,
+        "volume": 200,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 18260,
+        "high": 18260,
+        "low": 18260,
+        "close": 18260,
+        "volume": 100,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 16770,
+        "high": 16770,
+        "low": 16770,
+        "close": 16770,
+        "volume": 100,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 18440,
+        "high": 18440,
+        "low": 18440,
+        "close": 18440,
+        "volume": 200,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 16770,
+        "high": 16770,
+        "low": 16770,
+        "close": 16770,
+        "volume": 200,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 18440,
+        "high": 18440,
+        "low": 18440,
+        "close": 18440,
+        "volume": 100,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 18630,
+        "high": 18910,
+        "low": 18630,
+        "close": 18910,
+        "volume": 900,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 20490,
+        "high": 20490,
+        "low": 20490,
+        "close": 20490,
+        "volume": 100,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 19280,
+        "high": 19280,
+        "low": 19100,
+        "close": 19100,
+        "volume": 300,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 17700,
+        "high": 17700,
+        "low": 17700,
+        "close": 17700,
+        "volume": 300,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 19100,
+        "high": 19100,
+        "low": 19100,
+        "close": 19100,
+        "volume": 100,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 19000,
+        "high": 19000,
+        "low": 19000,
+        "close": 19000,
+        "volume": 300,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 18820,
+        "high": 18820,
+        "low": 18160,
+        "close": 18160,
+        "volume": 300,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 19930,
+        "high": 19930,
+        "low": 18820,
+        "close": 18820,
+        "volume": 200,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 20030,
+        "high": 20030,
+        "low": 20030,
+        "close": 20030,
+        "volume": 100,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 20030,
+        "high": 20030,
+        "low": 20030,
+        "close": 20030,
+        "volume": 100,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 19930,
+        "high": 19930,
+        "low": 19930,
+        "close": 19930,
+        "volume": 500,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 19930,
+        "high": 19930,
+        "low": 19930,
+        "close": 19930,
+        "volume": 100,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 19930,
+        "high": 19930,
+        "low": 19930,
+        "close": 19930,
+        "volume": 1000,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 19930,
+        "high": 19930,
+        "low": 19930,
+        "close": 19930,
+        "volume": 1000,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 20030,
+        "high": 20030,
+        "low": 20030,
+        "close": 20030,
+        "volume": 500,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 21980,
+        "high": 21980,
+        "low": 21980,
+        "close": 21980,
+        "volume": 1900,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 21980,
+        "high": 21980,
+        "low": 21980,
+        "close": 21980,
+        "volume": 1000,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 19840,
+        "high": 20400,
+        "low": 19840,
+        "close": 20400,
+        "volume": 4000,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 20400,
+        "high": 20400,
+        "low": 18440,
+        "close": 20400,
+        "volume": 1100,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 20310,
+        "high": 20400,
+        "low": 20310,
+        "close": 20400,
+        "volume": 1800,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 20490,
+        "high": 20490,
+        "low": 20490,
+        "close": 20490,
+        "volume": 2000,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 20400,
+        "high": 20400,
+        "low": 20400,
+        "close": 20400,
+        "volume": 1400,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 20400,
+        "high": 20500,
+        "low": 20400,
+        "close": 20500,
+        "volume": 1100,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 20400,
+        "high": 20500,
+        "low": 20400,
+        "close": 20500,
+        "volume": 600,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 20000,
+        "high": 20500,
+        "low": 20000,
+        "close": 20500,
+        "volume": 4500,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 22500,
+        "high": 22500,
+        "low": 22500,
+        "close": 22500,
+        "volume": 100,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 20500,
+        "high": 20500,
+        "low": 20500,
+        "close": 20500,
+        "volume": 100,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 19500,
+        "high": 19500,
+        "low": 19500,
+        "close": 19500,
+        "volume": 100,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 20000,
+        "high": 20000,
+        "low": 20000,
+        "close": 20000,
+        "volume": 9400,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 22000,
+        "high": 22000,
+        "low": 22000,
+        "close": 22000,
+        "volume": 100,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 19800,
+        "high": 19800,
+        "low": 19800,
+        "close": 19800,
+        "volume": 100,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 21700,
+        "high": 21700,
+        "low": 17900,
+        "close": 18400,
+        "volume": 36600,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 20200,
+        "high": 20200,
+        "low": 17600,
+        "close": 18500,
+        "volume": 7300,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 20300,
+        "high": 20300,
+        "low": 18200,
+        "close": 18300,
+        "volume": 7000,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 18300,
+        "high": 18300,
+        "low": 18100,
+        "close": 18100,
+        "volume": 5300,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 18000,
+        "high": 18000,
+        "low": 17600,
+        "close": 17800,
+        "volume": 13100,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 17800,
+        "high": 17800,
+        "low": 17800,
+        "close": 17800,
+        "volume": 100,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 19500,
+        "high": 19500,
+        "low": 17900,
+        "close": 18000,
+        "volume": 5600,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 17800,
+        "high": 18000,
+        "low": 17800,
+        "close": 18000,
+        "volume": 2400,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 18000,
+        "high": 18000,
+        "low": 18000,
+        "close": 18000,
+        "volume": 300,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 17600,
+        "high": 18000,
+        "low": 17600,
+        "close": 17700,
+        "volume": 2200,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 17100,
+        "high": 17100,
+        "low": 17100,
+        "close": 17100,
+        "volume": 100,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 17100,
+        "high": 18000,
+        "low": 17100,
+        "close": 18000,
+        "volume": 1200,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 17200,
+        "high": 17200,
+        "low": 17100,
+        "close": 17100,
+        "volume": 700,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 17900,
+        "high": 17900,
+        "low": 17900,
+        "close": 17900,
+        "volume": 100,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 17900,
+        "high": 17900,
+        "low": 17100,
+        "close": 17900,
+        "volume": 2300,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 17400,
+        "high": 17400,
+        "low": 17400,
+        "close": 17400,
+        "volume": 1000,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 17400,
+        "high": 17400,
+        "low": 17400,
+        "close": 17400,
+        "volume": 100,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 17400,
+        "high": 17400,
+        "low": 17400,
+        "close": 17400,
+        "volume": 400,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 17600,
+        "high": 17600,
+        "low": 17600,
+        "close": 17600,
+        "volume": 400,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 17600,
+        "high": 17600,
+        "low": 17100,
+        "close": 17100,
+        "volume": 200,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 17900,
+        "high": 17900,
+        "low": 17900,
+        "close": 17900,
+        "volume": 1100,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 17900,
+        "high": 17900,
+        "low": 17900,
+        "close": 17900,
+        "volume": 1000,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 17900,
+        "high": 17900,
+        "low": 17900,
+        "close": 17900,
+        "volume": 100,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 17900,
+        "high": 17900,
+        "low": 17900,
+        "close": 17900,
+        "volume": 100,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 17900,
+        "high": 17900,
+        "low": 17900,
+        "close": 17900,
+        "volume": 100,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 17000,
+        "high": 17000,
+        "low": 17000,
+        "close": 17000,
+        "volume": 1500,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 17700,
+        "high": 18000,
+        "low": 16700,
+        "close": 16700,
+        "volume": 1600,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 17100,
+        "high": 17100,
+        "low": 17100,
+        "close": 17100,
+        "volume": 200,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 18400,
+        "high": 18400,
+        "low": 18400,
+        "close": 18400,
+        "volume": 100,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 16900,
+        "high": 16900,
+        "low": 16900,
+        "close": 16900,
+        "volume": 3000,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 17900,
+        "high": 18000,
+        "low": 17600,
+        "close": 18000,
+        "volume": 800,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 18800,
+        "high": 18800,
+        "low": 18800,
+        "close": 18800,
+        "volume": 100,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 17100,
+        "high": 17900,
+        "low": 17100,
+        "close": 17900,
+        "volume": 500,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 17100,
+        "high": 17100,
+        "low": 17100,
+        "close": 17100,
+        "volume": 200,
+        "ticker": "AMC"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 17500,
+        "high": 17500,
+        "low": 17500,
+        "close": 17500,
+        "volume": 3000,
+        "ticker": "AMC"
+    }
+]

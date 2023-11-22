@@ -1,0 +1,1127 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 11600,
+        "high": 11600,
+        "low": 9000,
+        "close": 9000,
+        "volume": 2000,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 12200,
+        "high": 12200,
+        "low": 12200,
+        "close": 12200,
+        "volume": 100,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 12200,
+        "high": 12200,
+        "low": 12200,
+        "close": 12200,
+        "volume": 100,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 10000,
+        "high": 10000,
+        "low": 10000,
+        "close": 10000,
+        "volume": 3000,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 10600,
+        "high": 10600,
+        "low": 10600,
+        "close": 10600,
+        "volume": 200,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 10600,
+        "high": 10600,
+        "low": 10600,
+        "close": 10600,
+        "volume": 100,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 9500,
+        "high": 9500,
+        "low": 9500,
+        "close": 9500,
+        "volume": 1300,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 9500,
+        "high": 9500,
+        "low": 9500,
+        "close": 9500,
+        "volume": 1200,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 9500,
+        "high": 9500,
+        "low": 9500,
+        "close": 9500,
+        "volume": 1200,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 9500,
+        "high": 9600,
+        "low": 9100,
+        "close": 9100,
+        "volume": 3700,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 10700,
+        "high": 10700,
+        "low": 10700,
+        "close": 10700,
+        "volume": 100,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 10600,
+        "high": 10600,
+        "low": 10600,
+        "close": 10600,
+        "volume": 100,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 10900,
+        "high": 10900,
+        "low": 9100,
+        "close": 9800,
+        "volume": 7100,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 8200,
+        "high": 9400,
+        "low": 8000,
+        "close": 8500,
+        "volume": 18200,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 9300,
+        "high": 9300,
+        "low": 9300,
+        "close": 9300,
+        "volume": 1400,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 9900,
+        "high": 9900,
+        "low": 9300,
+        "close": 9300,
+        "volume": 2200,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 10900,
+        "high": 10900,
+        "low": 8900,
+        "close": 8900,
+        "volume": 1200,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 8400,
+        "high": 8400,
+        "low": 8400,
+        "close": 8400,
+        "volume": 1300,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 9500,
+        "high": 9500,
+        "low": 8900,
+        "close": 9200,
+        "volume": 2800,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 9300,
+        "high": 9300,
+        "low": 9000,
+        "close": 9000,
+        "volume": 1800,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 9200,
+        "high": 9700,
+        "low": 9200,
+        "close": 9700,
+        "volume": 3400,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 9200,
+        "high": 9200,
+        "low": 9100,
+        "close": 9100,
+        "volume": 34200,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 9300,
+        "high": 9300,
+        "low": 9300,
+        "close": 9300,
+        "volume": 100,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 9000,
+        "high": 9500,
+        "low": 9000,
+        "close": 9500,
+        "volume": 6900,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 9100,
+        "high": 9200,
+        "low": 9000,
+        "close": 9100,
+        "volume": 3500,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 9100,
+        "high": 9100,
+        "low": 9100,
+        "close": 9100,
+        "volume": 900,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 9000,
+        "high": 9700,
+        "low": 9000,
+        "close": 9700,
+        "volume": 1300,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 9100,
+        "high": 9100,
+        "low": 9100,
+        "close": 9100,
+        "volume": 500,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 9500,
+        "high": 9500,
+        "low": 9500,
+        "close": 9500,
+        "volume": 2000,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 9100,
+        "high": 9100,
+        "low": 9100,
+        "close": 9100,
+        "volume": 500,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 9000,
+        "high": 9200,
+        "low": 8900,
+        "close": 9200,
+        "volume": 900,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 9100,
+        "high": 9800,
+        "low": 9000,
+        "close": 9500,
+        "volume": 700,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 9500,
+        "high": 9500,
+        "low": 9500,
+        "close": 9500,
+        "volume": 100,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 9100,
+        "high": 9100,
+        "low": 9100,
+        "close": 9100,
+        "volume": 200,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 9000,
+        "high": 10400,
+        "low": 9000,
+        "close": 10000,
+        "volume": 7900,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 10200,
+        "high": 11500,
+        "low": 10200,
+        "close": 11500,
+        "volume": 3100,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 11500,
+        "high": 11500,
+        "low": 8900,
+        "close": 9000,
+        "volume": 2200,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 9800,
+        "high": 9800,
+        "low": 9800,
+        "close": 9800,
+        "volume": 100,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 9200,
+        "high": 9200,
+        "low": 9100,
+        "close": 9100,
+        "volume": 600,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 9100,
+        "high": 9700,
+        "low": 9100,
+        "close": 9700,
+        "volume": 600,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 8300,
+        "high": 8800,
+        "low": 8200,
+        "close": 8800,
+        "volume": 3100,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 9700,
+        "high": 9700,
+        "low": 9700,
+        "close": 9700,
+        "volume": 100,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 9800,
+        "high": 9800,
+        "low": 9800,
+        "close": 9800,
+        "volume": 300,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 9500,
+        "high": 10300,
+        "low": 9500,
+        "close": 10300,
+        "volume": 5000,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 10000,
+        "high": 10000,
+        "low": 10000,
+        "close": 10000,
+        "volume": 1000,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 10000,
+        "high": 10000,
+        "low": 9200,
+        "close": 9200,
+        "volume": 5500,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 9300,
+        "high": 9500,
+        "low": 9300,
+        "close": 9300,
+        "volume": 5000,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 9900,
+        "high": 9900,
+        "low": 9900,
+        "close": 9900,
+        "volume": 100,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 10000,
+        "high": 10000,
+        "low": 10000,
+        "close": 10000,
+        "volume": 200,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 10000,
+        "high": 10000,
+        "low": 9900,
+        "close": 9900,
+        "volume": 200,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 9200,
+        "high": 9200,
+        "low": 9200,
+        "close": 9200,
+        "volume": 500,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 8800,
+        "high": 8800,
+        "low": 8800,
+        "close": 8800,
+        "volume": 800,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 9000,
+        "high": 10100,
+        "low": 9000,
+        "close": 10100,
+        "volume": 19800,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 11300,
+        "high": 11300,
+        "low": 11000,
+        "close": 11300,
+        "volume": 25700,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 12800,
+        "high": 12800,
+        "low": 12800,
+        "close": 12800,
+        "volume": 29000,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 14700,
+        "high": 14700,
+        "low": 14600,
+        "close": 14700,
+        "volume": 11500,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 16700,
+        "high": 16700,
+        "low": 16600,
+        "close": 16700,
+        "volume": 47600,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 18800,
+        "high": 18800,
+        "low": 15000,
+        "close": 16500,
+        "volume": 16500,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 16800,
+        "high": 16800,
+        "low": 16000,
+        "close": 16000,
+        "volume": 47600,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 14300,
+        "high": 16000,
+        "low": 14300,
+        "close": 15900,
+        "volume": 26300,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 17500,
+        "high": 17500,
+        "low": 17500,
+        "close": 17500,
+        "volume": 17100,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 20100,
+        "high": 20100,
+        "low": 18900,
+        "close": 20100,
+        "volume": 34000,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 22000,
+        "high": 22000,
+        "low": 18000,
+        "close": 21200,
+        "volume": 7600,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-08-17",
+        "open": 19000,
+        "high": 19000,
+        "low": 18500,
+        "close": 18500,
+        "volume": 4300,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 18000,
+        "high": 21600,
+        "low": 16000,
+        "close": 16500,
+        "volume": 56200,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 16800,
+        "high": 19800,
+        "low": 16800,
+        "close": 19800,
+        "volume": 9400,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 19200,
+        "high": 20500,
+        "low": 18000,
+        "close": 20000,
+        "volume": 10000,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 19600,
+        "high": 19600,
+        "low": 18500,
+        "close": 18500,
+        "volume": 1000,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 18300,
+        "high": 18300,
+        "low": 17500,
+        "close": 17500,
+        "volume": 6300,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 17500,
+        "high": 18100,
+        "low": 17500,
+        "close": 17800,
+        "volume": 9900,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 17900,
+        "high": 19800,
+        "low": 17900,
+        "close": 19800,
+        "volume": 1800,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 18200,
+        "high": 19000,
+        "low": 18200,
+        "close": 19000,
+        "volume": 3700,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 18500,
+        "high": 20600,
+        "low": 18500,
+        "close": 20000,
+        "volume": 12900,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 20000,
+        "high": 20000,
+        "low": 18200,
+        "close": 19000,
+        "volume": 21400,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 19000,
+        "high": 21000,
+        "low": 18900,
+        "close": 20900,
+        "volume": 17900,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 23100,
+        "high": 23100,
+        "low": 18700,
+        "close": 20000,
+        "volume": 600,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 21200,
+        "high": 22900,
+        "low": 19100,
+        "close": 21900,
+        "volume": 5500,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 19100,
+        "high": 19100,
+        "low": 19000,
+        "close": 19100,
+        "volume": 13500,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 19000,
+        "high": 19100,
+        "low": 19000,
+        "close": 19100,
+        "volume": 4500,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 19100,
+        "high": 19100,
+        "low": 19000,
+        "close": 19100,
+        "volume": 4800,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 19000,
+        "high": 20500,
+        "low": 18600,
+        "close": 20000,
+        "volume": 18100,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 22000,
+        "high": 22000,
+        "low": 18300,
+        "close": 21000,
+        "volume": 2900,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 20800,
+        "high": 20800,
+        "low": 18100,
+        "close": 18600,
+        "volume": 7800,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 18100,
+        "high": 18100,
+        "low": 18000,
+        "close": 18000,
+        "volume": 2800,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 18000,
+        "high": 18000,
+        "low": 17900,
+        "close": 18000,
+        "volume": 8100,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 18000,
+        "high": 18300,
+        "low": 18000,
+        "close": 18300,
+        "volume": 3000,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 17000,
+        "high": 18100,
+        "low": 17000,
+        "close": 18100,
+        "volume": 9200,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 16300,
+        "high": 17700,
+        "low": 15400,
+        "close": 17700,
+        "volume": 24700,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 17400,
+        "high": 17400,
+        "low": 14100,
+        "close": 14100,
+        "volume": 10100,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 16300,
+        "high": 16300,
+        "low": 16300,
+        "close": 16300,
+        "volume": 100,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 14000,
+        "high": 14200,
+        "low": 14000,
+        "close": 14000,
+        "volume": 5400,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 15000,
+        "high": 16200,
+        "low": 15000,
+        "close": 16200,
+        "volume": 5500,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 17500,
+        "high": 17500,
+        "low": 17500,
+        "close": 17500,
+        "volume": 100,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 19200,
+        "high": 19200,
+        "low": 19200,
+        "close": 19200,
+        "volume": 100,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 16400,
+        "high": 17000,
+        "low": 16400,
+        "close": 16400,
+        "volume": 2700,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 16600,
+        "high": 16600,
+        "low": 16600,
+        "close": 16600,
+        "volume": 300,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 14300,
+        "high": 14300,
+        "low": 14300,
+        "close": 14300,
+        "volume": 300,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 12700,
+        "high": 12700,
+        "low": 12700,
+        "close": 12700,
+        "volume": 100,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 14500,
+        "high": 14500,
+        "low": 12800,
+        "close": 12800,
+        "volume": 300,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 15300,
+        "high": 15400,
+        "low": 15300,
+        "close": 15400,
+        "volume": 900,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 17200,
+        "high": 17200,
+        "low": 17200,
+        "close": 17200,
+        "volume": 400,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 13100,
+        "high": 13100,
+        "low": 13000,
+        "close": 13000,
+        "volume": 3000,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 14800,
+        "high": 14800,
+        "low": 14800,
+        "close": 14800,
+        "volume": 100,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 13500,
+        "high": 14000,
+        "low": 13500,
+        "close": 14000,
+        "volume": 1000,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 12500,
+        "high": 12500,
+        "low": 12500,
+        "close": 12500,
+        "volume": 100,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 14300,
+        "high": 14300,
+        "low": 11800,
+        "close": 12500,
+        "volume": 1400,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 14300,
+        "high": 14300,
+        "low": 12500,
+        "close": 12500,
+        "volume": 300,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 11200,
+        "high": 11200,
+        "low": 11200,
+        "close": 11200,
+        "volume": 5200,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 10600,
+        "high": 10600,
+        "low": 9700,
+        "close": 9800,
+        "volume": 5000,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 11500,
+        "high": 11600,
+        "low": 11500,
+        "close": 11600,
+        "volume": 300,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 12800,
+        "high": 12800,
+        "low": 12800,
+        "close": 12800,
+        "volume": 300,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 13600,
+        "high": 13600,
+        "low": 13600,
+        "close": 13600,
+        "volume": 100,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 12000,
+        "high": 12000,
+        "low": 11600,
+        "close": 11600,
+        "volume": 2400,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 12000,
+        "high": 12000,
+        "low": 12000,
+        "close": 12000,
+        "volume": 600,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 12800,
+        "high": 12800,
+        "low": 12800,
+        "close": 12800,
+        "volume": 400,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 11200,
+        "high": 12000,
+        "low": 11200,
+        "close": 12000,
+        "volume": 900,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 13300,
+        "high": 13300,
+        "low": 13300,
+        "close": 13300,
+        "volume": 100,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 14500,
+        "high": 14500,
+        "low": 14500,
+        "close": 14500,
+        "volume": 100,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 16200,
+        "high": 16200,
+        "low": 13900,
+        "close": 13900,
+        "volume": 800,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 15200,
+        "high": 15200,
+        "low": 15200,
+        "close": 15200,
+        "volume": 100,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 13500,
+        "high": 13500,
+        "low": 13000,
+        "close": 13000,
+        "volume": 4700,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 11600,
+        "high": 12000,
+        "low": 11600,
+        "close": 12000,
+        "volume": 1100,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 12900,
+        "high": 12900,
+        "low": 11100,
+        "close": 12900,
+        "volume": 300,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 12300,
+        "high": 12300,
+        "low": 12300,
+        "close": 12300,
+        "volume": 3200,
+        "ticker": "VHD"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 12300,
+        "high": 12300,
+        "low": 12300,
+        "close": 12300,
+        "volume": 500,
+        "ticker": "VHD"
+    }
+]

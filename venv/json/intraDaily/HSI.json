@@ -1,0 +1,254 @@
+[
+    {
+        "time": "2023-05-05",
+        "open": 800,
+        "high": 1000,
+        "low": 800,
+        "close": 900,
+        "volume": 12700,
+        "ticker": "HSI"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 800,
+        "high": 1000,
+        "low": 800,
+        "close": 900,
+        "volume": 25300,
+        "ticker": "HSI"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 1100,
+        "high": 1100,
+        "low": 1100,
+        "close": 1100,
+        "volume": 1300,
+        "ticker": "HSI"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 1100,
+        "high": 1100,
+        "low": 1000,
+        "close": 1000,
+        "volume": 10900,
+        "ticker": "HSI"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 1000,
+        "high": 1100,
+        "low": 1000,
+        "close": 1100,
+        "volume": 20600,
+        "ticker": "HSI"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 1000,
+        "high": 1000,
+        "low": 1000,
+        "close": 1000,
+        "volume": 100,
+        "ticker": "HSI"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 1100,
+        "high": 1100,
+        "low": 1100,
+        "close": 1100,
+        "volume": 3000,
+        "ticker": "HSI"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 1000,
+        "high": 1200,
+        "low": 1000,
+        "close": 1200,
+        "volume": 22300,
+        "ticker": "HSI"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 1000,
+        "high": 1100,
+        "low": 1000,
+        "close": 1100,
+        "volume": 17400,
+        "ticker": "HSI"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 1100,
+        "high": 1200,
+        "low": 1100,
+        "close": 1200,
+        "volume": 16700,
+        "ticker": "HSI"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 1300,
+        "high": 1300,
+        "low": 1200,
+        "close": 1300,
+        "volume": 38800,
+        "ticker": "HSI"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 1300,
+        "high": 1300,
+        "low": 1200,
+        "close": 1300,
+        "volume": 3500,
+        "ticker": "HSI"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 1300,
+        "high": 1300,
+        "low": 1200,
+        "close": 1200,
+        "volume": 19300,
+        "ticker": "HSI"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 1200,
+        "high": 1300,
+        "low": 1200,
+        "close": 1300,
+        "volume": 2200,
+        "ticker": "HSI"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 1200,
+        "high": 1200,
+        "low": 1200,
+        "close": 1200,
+        "volume": 4600,
+        "ticker": "HSI"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 1200,
+        "high": 1200,
+        "low": 1200,
+        "close": 1200,
+        "volume": 6200,
+        "ticker": "HSI"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 1100,
+        "high": 1200,
+        "low": 1100,
+        "close": 1200,
+        "volume": 4700,
+        "ticker": "HSI"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 1100,
+        "high": 1300,
+        "low": 1100,
+        "close": 1300,
+        "volume": 11800,
+        "ticker": "HSI"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 1400,
+        "high": 1400,
+        "low": 1400,
+        "close": 1400,
+        "volume": 4600,
+        "ticker": "HSI"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 1500,
+        "high": 1600,
+        "low": 1400,
+        "close": 1500,
+        "volume": 10700,
+        "ticker": "HSI"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 1300,
+        "high": 1500,
+        "low": 1300,
+        "close": 1500,
+        "volume": 5800,
+        "ticker": "HSI"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 1400,
+        "high": 1400,
+        "low": 1400,
+        "close": 1400,
+        "volume": 3300,
+        "ticker": "HSI"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 1300,
+        "high": 1300,
+        "low": 1300,
+        "close": 1300,
+        "volume": 14100,
+        "ticker": "HSI"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 1300,
+        "high": 1400,
+        "low": 1200,
+        "close": 1400,
+        "volume": 30300,
+        "ticker": "HSI"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 1200,
+        "high": 1300,
+        "low": 1200,
+        "close": 1300,
+        "volume": 400,
+        "ticker": "HSI"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 1100,
+        "high": 1200,
+        "low": 1100,
+        "close": 1200,
+        "volume": 5000,
+        "ticker": "HSI"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 1100,
+        "high": 1200,
+        "low": 1100,
+        "close": 1200,
+        "volume": 6100,
+        "ticker": "HSI"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 1100,
+        "high": 1300,
+        "low": 1100,
+        "close": 1200,
+        "volume": 6500,
+        "ticker": "HSI"
+    }
+]

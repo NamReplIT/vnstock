@@ -1,0 +1,245 @@
+[
+    {
+        "time": "2023-05-05",
+        "open": 1000,
+        "high": 1000,
+        "low": 1000,
+        "close": 1000,
+        "volume": 2300,
+        "ticker": "PXA"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 1000,
+        "high": 1100,
+        "low": 1000,
+        "close": 1000,
+        "volume": 2600,
+        "ticker": "PXA"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 1000,
+        "high": 1100,
+        "low": 1000,
+        "close": 1000,
+        "volume": 5700,
+        "ticker": "PXA"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 1100,
+        "high": 1100,
+        "low": 1100,
+        "close": 1100,
+        "volume": 2300,
+        "ticker": "PXA"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 1100,
+        "high": 1200,
+        "low": 1100,
+        "close": 1200,
+        "volume": 12700,
+        "ticker": "PXA"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 1300,
+        "high": 1300,
+        "low": 1100,
+        "close": 1300,
+        "volume": 8600,
+        "ticker": "PXA"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 1300,
+        "high": 1300,
+        "low": 1200,
+        "close": 1300,
+        "volume": 20100,
+        "ticker": "PXA"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 1300,
+        "high": 1300,
+        "low": 1200,
+        "close": 1300,
+        "volume": 48700,
+        "ticker": "PXA"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 1400,
+        "high": 1400,
+        "low": 1200,
+        "close": 1400,
+        "volume": 10800,
+        "ticker": "PXA"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 1200,
+        "high": 1300,
+        "low": 1200,
+        "close": 1200,
+        "volume": 6500,
+        "ticker": "PXA"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 1300,
+        "high": 1300,
+        "low": 1200,
+        "close": 1200,
+        "volume": 36200,
+        "ticker": "PXA"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 1200,
+        "high": 1300,
+        "low": 1200,
+        "close": 1300,
+        "volume": 55500,
+        "ticker": "PXA"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 1200,
+        "high": 1300,
+        "low": 1100,
+        "close": 1200,
+        "volume": 35300,
+        "ticker": "PXA"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 1200,
+        "high": 1200,
+        "low": 1200,
+        "close": 1200,
+        "volume": 10900,
+        "ticker": "PXA"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 1200,
+        "high": 1200,
+        "low": 1100,
+        "close": 1100,
+        "volume": 31100,
+        "ticker": "PXA"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 1100,
+        "high": 1200,
+        "low": 1100,
+        "close": 1100,
+        "volume": 131700,
+        "ticker": "PXA"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 1200,
+        "high": 1200,
+        "low": 1100,
+        "close": 1200,
+        "volume": 27100,
+        "ticker": "PXA"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 1200,
+        "high": 1200,
+        "low": 1100,
+        "close": 1200,
+        "volume": 59900,
+        "ticker": "PXA"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 1200,
+        "high": 1300,
+        "low": 1100,
+        "close": 1200,
+        "volume": 8400,
+        "ticker": "PXA"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 1200,
+        "high": 1200,
+        "low": 1100,
+        "close": 1200,
+        "volume": 32500,
+        "ticker": "PXA"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 1100,
+        "high": 1300,
+        "low": 1100,
+        "close": 1200,
+        "volume": 35100,
+        "ticker": "PXA"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 1200,
+        "high": 1300,
+        "low": 1200,
+        "close": 1200,
+        "volume": 19300,
+        "ticker": "PXA"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 1100,
+        "high": 1200,
+        "low": 1100,
+        "close": 1100,
+        "volume": 5600,
+        "ticker": "PXA"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 1100,
+        "high": 1200,
+        "low": 1100,
+        "close": 1200,
+        "volume": 400,
+        "ticker": "PXA"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 1300,
+        "high": 1300,
+        "low": 1200,
+        "close": 1200,
+        "volume": 5100,
+        "ticker": "PXA"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 1200,
+        "high": 1200,
+        "low": 1100,
+        "close": 1200,
+        "volume": 8700,
+        "ticker": "PXA"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 1200,
+        "high": 1300,
+        "low": 1200,
+        "close": 1300,
+        "volume": 7000,
+        "ticker": "PXA"
+    }
+]

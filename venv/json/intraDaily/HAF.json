@@ -1,0 +1,677 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 17500,
+        "high": 17500,
+        "low": 17500,
+        "close": 17500,
+        "volume": 200,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 17200,
+        "high": 17200,
+        "low": 14300,
+        "close": 14300,
+        "volume": 700,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 16500,
+        "high": 16500,
+        "low": 15000,
+        "close": 15000,
+        "volume": 600,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 16400,
+        "high": 16400,
+        "low": 15500,
+        "close": 15500,
+        "volume": 800,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 18200,
+        "high": 18200,
+        "low": 18200,
+        "close": 18200,
+        "volume": 200,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 20000,
+        "high": 20000,
+        "low": 20000,
+        "close": 20000,
+        "volume": 200,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 18000,
+        "high": 18000,
+        "low": 18000,
+        "close": 18000,
+        "volume": 200,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 20000,
+        "high": 20000,
+        "low": 20000,
+        "close": 20000,
+        "volume": 200,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 17000,
+        "high": 17000,
+        "low": 17000,
+        "close": 17000,
+        "volume": 200,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 18500,
+        "high": 18500,
+        "low": 18500,
+        "close": 18500,
+        "volume": 200,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 17000,
+        "high": 17000,
+        "low": 17000,
+        "close": 17000,
+        "volume": 200,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 17200,
+        "high": 17200,
+        "low": 17200,
+        "close": 17200,
+        "volume": 200,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 19000,
+        "high": 19000,
+        "low": 19000,
+        "close": 19000,
+        "volume": 200,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 19500,
+        "high": 19500,
+        "low": 19500,
+        "close": 19500,
+        "volume": 200,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 17500,
+        "high": 17500,
+        "low": 17500,
+        "close": 17500,
+        "volume": 200,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 19500,
+        "high": 19500,
+        "low": 14900,
+        "close": 14900,
+        "volume": 900,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 18000,
+        "high": 18000,
+        "low": 14600,
+        "close": 14700,
+        "volume": 3500,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 17000,
+        "high": 17000,
+        "low": 17000,
+        "close": 17000,
+        "volume": 200,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 19100,
+        "high": 19100,
+        "low": 14500,
+        "close": 14700,
+        "volume": 6900,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 18200,
+        "high": 18200,
+        "low": 14600,
+        "close": 17000,
+        "volume": 2700,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 17300,
+        "high": 17300,
+        "low": 14000,
+        "close": 16700,
+        "volume": 2600,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 18200,
+        "high": 18200,
+        "low": 14300,
+        "close": 14300,
+        "volume": 500,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 17600,
+        "high": 17600,
+        "low": 14500,
+        "close": 14500,
+        "volume": 6000,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 18000,
+        "high": 18000,
+        "low": 15000,
+        "close": 15000,
+        "volume": 500,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 18200,
+        "high": 18200,
+        "low": 15000,
+        "close": 15000,
+        "volume": 1800,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 17600,
+        "high": 17600,
+        "low": 14900,
+        "close": 15800,
+        "volume": 5700,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 17300,
+        "high": 17300,
+        "low": 17300,
+        "close": 17300,
+        "volume": 200,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 19200,
+        "high": 19200,
+        "low": 17000,
+        "close": 17900,
+        "volume": 2900,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 19500,
+        "high": 19500,
+        "low": 15300,
+        "close": 15300,
+        "volume": 9500,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 17700,
+        "high": 17700,
+        "low": 15300,
+        "close": 15300,
+        "volume": 6700,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 18000,
+        "high": 18000,
+        "low": 18000,
+        "close": 18000,
+        "volume": 200,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 20000,
+        "high": 20000,
+        "low": 20000,
+        "close": 20000,
+        "volume": 200,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 22000,
+        "high": 22000,
+        "low": 17000,
+        "close": 17000,
+        "volume": 300,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 22300,
+        "high": 22300,
+        "low": 17300,
+        "close": 17300,
+        "volume": 300,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 23000,
+        "high": 23000,
+        "low": 23000,
+        "close": 23000,
+        "volume": 200,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 25400,
+        "high": 25400,
+        "low": 25400,
+        "close": 25400,
+        "volume": 200,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 28200,
+        "high": 28200,
+        "low": 28200,
+        "close": 28200,
+        "volume": 200,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 31000,
+        "high": 31000,
+        "low": 31000,
+        "close": 31000,
+        "volume": 100,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 33000,
+        "high": 33000,
+        "low": 33000,
+        "close": 33000,
+        "volume": 100,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 34000,
+        "high": 34000,
+        "low": 34000,
+        "close": 34000,
+        "volume": 100,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 35000,
+        "high": 35000,
+        "low": 35000,
+        "close": 35000,
+        "volume": 100,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 35000,
+        "high": 35000,
+        "low": 35000,
+        "close": 35000,
+        "volume": 100,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 29800,
+        "high": 29800,
+        "low": 29800,
+        "close": 29800,
+        "volume": 100,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 31000,
+        "high": 31000,
+        "low": 31000,
+        "close": 31000,
+        "volume": 100,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 32000,
+        "high": 32000,
+        "low": 32000,
+        "close": 32000,
+        "volume": 100,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 33000,
+        "high": 33000,
+        "low": 33000,
+        "close": 33000,
+        "volume": 100,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 34000,
+        "high": 34000,
+        "low": 28100,
+        "close": 28100,
+        "volume": 200,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 32000,
+        "high": 32000,
+        "low": 32000,
+        "close": 32000,
+        "volume": 100,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 33000,
+        "high": 33000,
+        "low": 27200,
+        "close": 27200,
+        "volume": 600,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 29500,
+        "high": 29500,
+        "low": 29500,
+        "close": 29500,
+        "volume": 100,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 31000,
+        "high": 31000,
+        "low": 31000,
+        "close": 31000,
+        "volume": 100,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 32000,
+        "high": 32000,
+        "low": 32000,
+        "close": 32000,
+        "volume": 100,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 33000,
+        "high": 33000,
+        "low": 33000,
+        "close": 33000,
+        "volume": 100,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 34000,
+        "high": 34000,
+        "low": 34000,
+        "close": 34000,
+        "volume": 100,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 35000,
+        "high": 35000,
+        "low": 35000,
+        "close": 35000,
+        "volume": 100,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 36000,
+        "high": 36000,
+        "low": 36000,
+        "close": 36000,
+        "volume": 100,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 30600,
+        "high": 30600,
+        "low": 30600,
+        "close": 30600,
+        "volume": 200,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 32000,
+        "high": 32000,
+        "low": 32000,
+        "close": 32000,
+        "volume": 100,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 33000,
+        "high": 33000,
+        "low": 33000,
+        "close": 33000,
+        "volume": 100,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 19800,
+        "high": 19800,
+        "low": 19800,
+        "close": 19800,
+        "volume": 100,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 21700,
+        "high": 21700,
+        "low": 16900,
+        "close": 16900,
+        "volume": 400,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 20000,
+        "high": 20000,
+        "low": 15400,
+        "close": 15400,
+        "volume": 3000,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 17500,
+        "high": 17500,
+        "low": 14100,
+        "close": 15300,
+        "volume": 8500,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 17000,
+        "high": 17000,
+        "low": 15100,
+        "close": 15100,
+        "volume": 4900,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 16800,
+        "high": 16800,
+        "low": 16800,
+        "close": 16800,
+        "volume": 3700,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 18100,
+        "high": 18100,
+        "low": 18100,
+        "close": 18100,
+        "volume": 100,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 19500,
+        "high": 19500,
+        "low": 15400,
+        "close": 16500,
+        "volume": 3700,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 18500,
+        "high": 18500,
+        "low": 14300,
+        "close": 16500,
+        "volume": 4700,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 17000,
+        "high": 17000,
+        "low": 16800,
+        "close": 16800,
+        "volume": 1100,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 18500,
+        "high": 18500,
+        "low": 14800,
+        "close": 16500,
+        "volume": 5500,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 18000,
+        "high": 18000,
+        "low": 16100,
+        "close": 16100,
+        "volume": 500,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 17000,
+        "high": 17000,
+        "low": 17000,
+        "close": 17000,
+        "volume": 100,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 18800,
+        "high": 18800,
+        "low": 15000,
+        "close": 16400,
+        "volume": 3900,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 16500,
+        "high": 16500,
+        "low": 16500,
+        "close": 16500,
+        "volume": 200,
+        "ticker": "HAF"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 18200,
+        "high": 18200,
+        "low": 15900,
+        "close": 15900,
+        "volume": 400,
+        "ticker": "HAF"
+    }
+]

@@ -1,0 +1,749 @@
+[
+    {
+        "time": "2023-05-08",
+        "open": 25370,
+        "high": 25370,
+        "low": 25370,
+        "close": 25370,
+        "volume": 200,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 25460,
+        "high": 25460,
+        "low": 25460,
+        "close": 25460,
+        "volume": 200,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 25560,
+        "high": 25560,
+        "low": 25560,
+        "close": 25560,
+        "volume": 100,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 25560,
+        "high": 25560,
+        "low": 25560,
+        "close": 25560,
+        "volume": 800,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 27910,
+        "high": 27910,
+        "low": 27910,
+        "close": 27910,
+        "volume": 200,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 27910,
+        "high": 27910,
+        "low": 27910,
+        "close": 27910,
+        "volume": 100,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 27910,
+        "high": 27910,
+        "low": 27910,
+        "close": 27910,
+        "volume": 400,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 27910,
+        "high": 27910,
+        "low": 27910,
+        "close": 27910,
+        "volume": 100,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 27910,
+        "high": 27910,
+        "low": 27910,
+        "close": 27910,
+        "volume": 200,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 28400,
+        "high": 28400,
+        "low": 28400,
+        "close": 28400,
+        "volume": 500,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 28400,
+        "high": 28400,
+        "low": 28400,
+        "close": 28400,
+        "volume": 500,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 28890,
+        "high": 28890,
+        "low": 28500,
+        "close": 28500,
+        "volume": 400,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 28600,
+        "high": 28600,
+        "low": 28600,
+        "close": 28600,
+        "volume": 100,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 28600,
+        "high": 28600,
+        "low": 28400,
+        "close": 28400,
+        "volume": 300,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 28400,
+        "high": 28400,
+        "low": 28400,
+        "close": 28400,
+        "volume": 100,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 28600,
+        "high": 28600,
+        "low": 28600,
+        "close": 28600,
+        "volume": 100,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 28600,
+        "high": 28890,
+        "low": 28600,
+        "close": 28890,
+        "volume": 1100,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 28890,
+        "high": 28890,
+        "low": 28890,
+        "close": 28890,
+        "volume": 200,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 28890,
+        "high": 28890,
+        "low": 28890,
+        "close": 28890,
+        "volume": 200,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 28890,
+        "high": 28890,
+        "low": 28890,
+        "close": 28890,
+        "volume": 200,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 28890,
+        "high": 30850,
+        "low": 28890,
+        "close": 30850,
+        "volume": 700,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 28890,
+        "high": 29190,
+        "low": 28890,
+        "close": 29190,
+        "volume": 500,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 29190,
+        "high": 29190,
+        "low": 29190,
+        "close": 29190,
+        "volume": 200,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 29190,
+        "high": 29190,
+        "low": 29190,
+        "close": 29190,
+        "volume": 100,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 29190,
+        "high": 29190,
+        "low": 29190,
+        "close": 29190,
+        "volume": 100,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 29380,
+        "high": 29380,
+        "low": 29380,
+        "close": 29380,
+        "volume": 500,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 29380,
+        "high": 29380,
+        "low": 29380,
+        "close": 29380,
+        "volume": 200,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 29380,
+        "high": 29380,
+        "low": 28890,
+        "close": 29190,
+        "volume": 1300,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 29380,
+        "high": 29380,
+        "low": 29190,
+        "close": 29190,
+        "volume": 300,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 29190,
+        "high": 29190,
+        "low": 28500,
+        "close": 28500,
+        "volume": 900,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 28500,
+        "high": 28500,
+        "low": 28500,
+        "close": 28500,
+        "volume": 300,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 28500,
+        "high": 28500,
+        "low": 28400,
+        "close": 28400,
+        "volume": 800,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 28400,
+        "high": 28400,
+        "low": 28400,
+        "close": 28400,
+        "volume": 100,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 28400,
+        "high": 29380,
+        "low": 28400,
+        "close": 28890,
+        "volume": 1000,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 29380,
+        "high": 29380,
+        "low": 29190,
+        "close": 29190,
+        "volume": 1400,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 29380,
+        "high": 29380,
+        "low": 29190,
+        "close": 29190,
+        "volume": 1800,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 29190,
+        "high": 29190,
+        "low": 29190,
+        "close": 29190,
+        "volume": 300,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 29190,
+        "high": 29190,
+        "low": 29190,
+        "close": 29190,
+        "volume": 200,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 27910,
+        "high": 27910,
+        "low": 27910,
+        "close": 27910,
+        "volume": 100,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 27910,
+        "high": 27910,
+        "low": 27910,
+        "close": 27910,
+        "volume": 200,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 27910,
+        "high": 27910,
+        "low": 27910,
+        "close": 27910,
+        "volume": 500,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 28010,
+        "high": 28010,
+        "low": 28010,
+        "close": 28010,
+        "volume": 200,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 30750,
+        "high": 30750,
+        "low": 30750,
+        "close": 30750,
+        "volume": 1600,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 33790,
+        "high": 33790,
+        "low": 33790,
+        "close": 33790,
+        "volume": 500,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 34280,
+        "high": 34280,
+        "low": 33790,
+        "close": 34280,
+        "volume": 7000,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 34770,
+        "high": 34770,
+        "low": 34770,
+        "close": 34770,
+        "volume": 1500,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 33890,
+        "high": 34280,
+        "low": 32320,
+        "close": 34280,
+        "volume": 6300,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 33400,
+        "high": 33400,
+        "low": 33400,
+        "close": 33400,
+        "volume": 1000,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 33790,
+        "high": 33790,
+        "low": 33790,
+        "close": 33790,
+        "volume": 200,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 31340,
+        "high": 32610,
+        "low": 31340,
+        "close": 32320,
+        "volume": 2600,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 32320,
+        "high": 32420,
+        "low": 32320,
+        "close": 32420,
+        "volume": 1200,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 32520,
+        "high": 32520,
+        "low": 32520,
+        "close": 32520,
+        "volume": 100,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 32610,
+        "high": 32610,
+        "low": 32520,
+        "close": 32520,
+        "volume": 200,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 32520,
+        "high": 32520,
+        "low": 32520,
+        "close": 32520,
+        "volume": 100,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 32610,
+        "high": 32610,
+        "low": 32520,
+        "close": 32520,
+        "volume": 1000,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 32610,
+        "high": 32610,
+        "low": 32610,
+        "close": 32610,
+        "volume": 900,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 32710,
+        "high": 32710,
+        "low": 32710,
+        "close": 32710,
+        "volume": 800,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 32810,
+        "high": 32810,
+        "low": 32810,
+        "close": 32810,
+        "volume": 1000,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 32810,
+        "high": 32810,
+        "low": 32810,
+        "close": 32810,
+        "volume": 300,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 32910,
+        "high": 32910,
+        "low": 32810,
+        "close": 32810,
+        "volume": 1000,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 32810,
+        "high": 32810,
+        "low": 32810,
+        "close": 32810,
+        "volume": 300,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 32810,
+        "high": 32810,
+        "low": 32810,
+        "close": 32810,
+        "volume": 400,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 32810,
+        "high": 32810,
+        "low": 32810,
+        "close": 32810,
+        "volume": 500,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 32910,
+        "high": 32910,
+        "low": 32810,
+        "close": 32810,
+        "volume": 800,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 32810,
+        "high": 32810,
+        "low": 32810,
+        "close": 32810,
+        "volume": 300,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 32910,
+        "high": 32910,
+        "low": 32910,
+        "close": 32910,
+        "volume": 200,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 32910,
+        "high": 32910,
+        "low": 32810,
+        "close": 32810,
+        "volume": 1000,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 32910,
+        "high": 32910,
+        "low": 32910,
+        "close": 32910,
+        "volume": 300,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 32910,
+        "high": 32910,
+        "low": 32910,
+        "close": 32910,
+        "volume": 200,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 32910,
+        "high": 32910,
+        "low": 32910,
+        "close": 32910,
+        "volume": 200,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 32910,
+        "high": 32910,
+        "low": 32910,
+        "close": 32910,
+        "volume": 500,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 32610,
+        "high": 32910,
+        "low": 32610,
+        "close": 32910,
+        "volume": 400,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 32910,
+        "high": 32910,
+        "low": 32910,
+        "close": 32910,
+        "volume": 100,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 32910,
+        "high": 32910,
+        "low": 32910,
+        "close": 32910,
+        "volume": 300,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 32910,
+        "high": 33010,
+        "low": 32910,
+        "close": 32910,
+        "volume": 700,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 32910,
+        "high": 32910,
+        "low": 32910,
+        "close": 32910,
+        "volume": 300,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 32910,
+        "high": 32910,
+        "low": 32910,
+        "close": 32910,
+        "volume": 100,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 32610,
+        "high": 32610,
+        "low": 32610,
+        "close": 32610,
+        "volume": 300,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 32910,
+        "high": 32910,
+        "low": 30360,
+        "close": 30360,
+        "volume": 1800,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 30850,
+        "high": 30850,
+        "low": 30850,
+        "close": 30850,
+        "volume": 400,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 33100,
+        "high": 33300,
+        "low": 32810,
+        "close": 33300,
+        "volume": 2800,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 32910,
+        "high": 33300,
+        "low": 32910,
+        "close": 33300,
+        "volume": 2400,
+        "ticker": "VGP"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 33010,
+        "high": 33300,
+        "low": 33010,
+        "close": 33300,
+        "volume": 3100,
+        "ticker": "VGP"
+    }
+]

@@ -1,0 +1,1289 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 24350,
+        "high": 24990,
+        "low": 24300,
+        "close": 24840,
+        "volume": 4096800,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 24840,
+        "high": 24940,
+        "low": 24500,
+        "close": 24550,
+        "volume": 2277400,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 24690,
+        "high": 25140,
+        "low": 24640,
+        "close": 25040,
+        "volume": 4363100,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 25230,
+        "high": 25230,
+        "low": 24740,
+        "close": 25040,
+        "volume": 2357900,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 25140,
+        "high": 25280,
+        "low": 24990,
+        "close": 25040,
+        "volume": 3753700,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 25140,
+        "high": 25330,
+        "low": 24940,
+        "close": 25040,
+        "volume": 3410200,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 25090,
+        "high": 25680,
+        "low": 24940,
+        "close": 25530,
+        "volume": 4945900,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 25770,
+        "high": 25870,
+        "low": 25140,
+        "close": 25180,
+        "volume": 3721500,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 25180,
+        "high": 25380,
+        "low": 24990,
+        "close": 25140,
+        "volume": 3213900,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 25040,
+        "high": 25180,
+        "low": 24690,
+        "close": 24740,
+        "volume": 3619900,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 24840,
+        "high": 25630,
+        "low": 24690,
+        "close": 25230,
+        "volume": 5547900,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 25230,
+        "high": 25630,
+        "low": 25040,
+        "close": 25330,
+        "volume": 5498200,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 25480,
+        "high": 25920,
+        "low": 25480,
+        "close": 25680,
+        "volume": 4614500,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 25820,
+        "high": 26760,
+        "low": 25820,
+        "close": 26120,
+        "volume": 13195300,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 26410,
+        "high": 26510,
+        "low": 25820,
+        "close": 25820,
+        "volume": 6168000,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 25680,
+        "high": 25970,
+        "low": 25430,
+        "close": 25530,
+        "volume": 5438600,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 25580,
+        "high": 26170,
+        "low": 25530,
+        "close": 25920,
+        "volume": 3762500,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 26260,
+        "high": 26710,
+        "low": 26020,
+        "close": 26710,
+        "volume": 6369000,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 26710,
+        "high": 26950,
+        "low": 26410,
+        "close": 26760,
+        "volume": 6029000,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 26850,
+        "high": 27050,
+        "low": 26410,
+        "close": 26610,
+        "volume": 6243400,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 26510,
+        "high": 26900,
+        "low": 26310,
+        "close": 26900,
+        "volume": 5117200,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 27300,
+        "high": 27390,
+        "low": 26900,
+        "close": 26900,
+        "volume": 6621400,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 27250,
+        "high": 27250,
+        "low": 26360,
+        "close": 26360,
+        "volume": 8471900,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 26360,
+        "high": 27200,
+        "low": 26260,
+        "close": 27200,
+        "volume": 8086100,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 27300,
+        "high": 27300,
+        "low": 26800,
+        "close": 27050,
+        "volume": 6348800,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 27200,
+        "high": 27200,
+        "low": 26000,
+        "close": 26100,
+        "volume": 11880700,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 26300,
+        "high": 26600,
+        "low": 25900,
+        "close": 26600,
+        "volume": 5209400,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 26700,
+        "high": 26700,
+        "low": 26000,
+        "close": 26400,
+        "volume": 4709300,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 26550,
+        "high": 26600,
+        "low": 26150,
+        "close": 26150,
+        "volume": 5283700,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 26350,
+        "high": 26650,
+        "low": 26000,
+        "close": 26100,
+        "volume": 5746400,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 26150,
+        "high": 26600,
+        "low": 26000,
+        "close": 26350,
+        "volume": 5327000,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 26500,
+        "high": 27750,
+        "low": 26500,
+        "close": 26850,
+        "volume": 16677000,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 26900,
+        "high": 27300,
+        "low": 26600,
+        "close": 27100,
+        "volume": 5267900,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 27150,
+        "high": 27300,
+        "low": 26850,
+        "close": 27300,
+        "volume": 4004700,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 27400,
+        "high": 28550,
+        "low": 27350,
+        "close": 28500,
+        "volume": 11823300,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 28650,
+        "high": 29100,
+        "low": 28350,
+        "close": 28900,
+        "volume": 6072800,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 29000,
+        "high": 29150,
+        "low": 28350,
+        "close": 28700,
+        "volume": 7126700,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 28900,
+        "high": 28900,
+        "low": 27800,
+        "close": 28500,
+        "volume": 6253200,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 28700,
+        "high": 28800,
+        "low": 28400,
+        "close": 28800,
+        "volume": 4239100,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 29000,
+        "high": 29350,
+        "low": 28700,
+        "close": 29050,
+        "volume": 4761500,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 29150,
+        "high": 29200,
+        "low": 28000,
+        "close": 28000,
+        "volume": 5766300,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 28000,
+        "high": 28400,
+        "low": 27900,
+        "close": 28150,
+        "volume": 4014200,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 28250,
+        "high": 28550,
+        "low": 28100,
+        "close": 28200,
+        "volume": 3165800,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 28400,
+        "high": 29800,
+        "low": 28200,
+        "close": 29800,
+        "volume": 13301700,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 29800,
+        "high": 29900,
+        "low": 29200,
+        "close": 29550,
+        "volume": 5100100,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 29400,
+        "high": 30250,
+        "low": 28900,
+        "close": 29600,
+        "volume": 10664500,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 29300,
+        "high": 29800,
+        "low": 28950,
+        "close": 29800,
+        "volume": 4716600,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 30100,
+        "high": 30600,
+        "low": 30050,
+        "close": 30050,
+        "volume": 6482300,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 30150,
+        "high": 30550,
+        "low": 30000,
+        "close": 30200,
+        "volume": 6365800,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 30200,
+        "high": 30550,
+        "low": 29500,
+        "close": 29800,
+        "volume": 6584400,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 30100,
+        "high": 30400,
+        "low": 29950,
+        "close": 30300,
+        "volume": 3597300,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 30400,
+        "high": 30550,
+        "low": 29600,
+        "close": 30350,
+        "volume": 4901300,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 30400,
+        "high": 31300,
+        "low": 30300,
+        "close": 30950,
+        "volume": 6678200,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 30750,
+        "high": 31150,
+        "low": 30650,
+        "close": 30850,
+        "volume": 3723400,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 30900,
+        "high": 31000,
+        "low": 30300,
+        "close": 30300,
+        "volume": 4672900,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 30300,
+        "high": 30400,
+        "low": 29600,
+        "close": 29900,
+        "volume": 5131400,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 29700,
+        "high": 30450,
+        "low": 29700,
+        "close": 30450,
+        "volume": 4538900,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 30800,
+        "high": 30850,
+        "low": 30200,
+        "close": 30500,
+        "volume": 3289000,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 30500,
+        "high": 30950,
+        "low": 30250,
+        "close": 30300,
+        "volume": 4837000,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 30300,
+        "high": 30450,
+        "low": 30000,
+        "close": 30250,
+        "volume": 3368000,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 30300,
+        "high": 30750,
+        "low": 30100,
+        "close": 30450,
+        "volume": 5037900,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 30500,
+        "high": 31150,
+        "low": 30350,
+        "close": 30850,
+        "volume": 6336700,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 31150,
+        "high": 31200,
+        "low": 30700,
+        "close": 30800,
+        "volume": 4243000,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 30800,
+        "high": 30850,
+        "low": 30000,
+        "close": 30000,
+        "volume": 6331900,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 30050,
+        "high": 30500,
+        "low": 29950,
+        "close": 30200,
+        "volume": 3465900,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 30200,
+        "high": 30300,
+        "low": 29700,
+        "close": 29700,
+        "volume": 3800600,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 30000,
+        "high": 30300,
+        "low": 29650,
+        "close": 30300,
+        "volume": 3917100,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 30650,
+        "high": 31300,
+        "low": 30500,
+        "close": 31300,
+        "volume": 6836200,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 31500,
+        "high": 31950,
+        "low": 31150,
+        "close": 31200,
+        "volume": 5763000,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 31100,
+        "high": 31300,
+        "low": 30550,
+        "close": 30550,
+        "volume": 4930600,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 30600,
+        "high": 30700,
+        "low": 29850,
+        "close": 29850,
+        "volume": 5267900,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 29950,
+        "high": 30000,
+        "low": 29100,
+        "close": 29500,
+        "volume": 6797800,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 29900,
+        "high": 30850,
+        "low": 29500,
+        "close": 30650,
+        "volume": 8766400,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 30700,
+        "high": 30850,
+        "low": 30050,
+        "close": 30150,
+        "volume": 3845800,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 30150,
+        "high": 30400,
+        "low": 29900,
+        "close": 30300,
+        "volume": 3121400,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-08-17",
+        "open": 30500,
+        "high": 31400,
+        "low": 30450,
+        "close": 30500,
+        "volume": 9451000,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 30400,
+        "high": 30500,
+        "low": 28400,
+        "close": 28400,
+        "volume": 9040600,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 28700,
+        "high": 28950,
+        "low": 28050,
+        "close": 28500,
+        "volume": 5737500,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 28550,
+        "high": 29200,
+        "low": 27100,
+        "close": 29200,
+        "volume": 7545500,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 29500,
+        "high": 29500,
+        "low": 28650,
+        "close": 28850,
+        "volume": 3203400,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 28850,
+        "high": 29750,
+        "low": 28650,
+        "close": 29750,
+        "volume": 5737700,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 29700,
+        "high": 30450,
+        "low": 29550,
+        "close": 29900,
+        "volume": 5319200,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 30250,
+        "high": 30300,
+        "low": 29850,
+        "close": 30200,
+        "volume": 6371600,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 30450,
+        "high": 31000,
+        "low": 30200,
+        "close": 30600,
+        "volume": 7375900,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 30850,
+        "high": 32700,
+        "low": 30600,
+        "close": 32700,
+        "volume": 13793500,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 33000,
+        "high": 33450,
+        "low": 32650,
+        "close": 32700,
+        "volume": 7648600,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 32950,
+        "high": 33950,
+        "low": 32700,
+        "close": 33500,
+        "volume": 14784300,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 33500,
+        "high": 34950,
+        "low": 33150,
+        "close": 34050,
+        "volume": 8499000,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 34200,
+        "high": 34250,
+        "low": 33400,
+        "close": 33550,
+        "volume": 9409600,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 33500,
+        "high": 34400,
+        "low": 33400,
+        "close": 34000,
+        "volume": 7059900,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 34300,
+        "high": 34800,
+        "low": 33850,
+        "close": 33950,
+        "volume": 10502500,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 34000,
+        "high": 35900,
+        "low": 33850,
+        "close": 35850,
+        "volume": 10655700,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 35900,
+        "high": 36150,
+        "low": 35000,
+        "close": 35400,
+        "volume": 7666300,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 35450,
+        "high": 35750,
+        "low": 34250,
+        "close": 34250,
+        "volume": 9379100,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 34500,
+        "high": 34850,
+        "low": 34000,
+        "close": 34450,
+        "volume": 6456300,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 34300,
+        "high": 34900,
+        "low": 34000,
+        "close": 34600,
+        "volume": 5658300,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 34950,
+        "high": 34950,
+        "low": 34200,
+        "close": 34650,
+        "volume": 6549800,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 34900,
+        "high": 35500,
+        "low": 34800,
+        "close": 35300,
+        "volume": 6012500,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 35300,
+        "high": 35300,
+        "low": 34200,
+        "close": 34200,
+        "volume": 10239300,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 33000,
+        "high": 33300,
+        "low": 31850,
+        "close": 31850,
+        "volume": 12454700,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 32000,
+        "high": 32100,
+        "low": 29650,
+        "close": 29650,
+        "volume": 10370300,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 29650,
+        "high": 31350,
+        "low": 29600,
+        "close": 30000,
+        "volume": 6857700,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 30500,
+        "high": 31500,
+        "low": 29950,
+        "close": 31500,
+        "volume": 5809200,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 31400,
+        "high": 31500,
+        "low": 30600,
+        "close": 30850,
+        "volume": 4609900,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 31250,
+        "high": 31500,
+        "low": 30200,
+        "close": 30550,
+        "volume": 4029900,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 30400,
+        "high": 31250,
+        "low": 30400,
+        "close": 31100,
+        "volume": 3579300,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 30700,
+        "high": 30750,
+        "low": 29000,
+        "close": 29000,
+        "volume": 8448900,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 28800,
+        "high": 30600,
+        "low": 28600,
+        "close": 29700,
+        "volume": 5671500,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 29950,
+        "high": 30250,
+        "low": 29000,
+        "close": 29000,
+        "volume": 3238300,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 29000,
+        "high": 29850,
+        "low": 28450,
+        "close": 29850,
+        "volume": 4049600,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 29850,
+        "high": 30500,
+        "low": 29650,
+        "close": 30500,
+        "volume": 3182600,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 30800,
+        "high": 31000,
+        "low": 30000,
+        "close": 30200,
+        "volume": 3502200,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 30200,
+        "high": 31150,
+        "low": 30050,
+        "close": 31150,
+        "volume": 4229600,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 31400,
+        "high": 32100,
+        "low": 31200,
+        "close": 31500,
+        "volume": 5449800,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 31100,
+        "high": 31600,
+        "low": 30550,
+        "close": 31400,
+        "volume": 3969800,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 31200,
+        "high": 31350,
+        "low": 30150,
+        "close": 30150,
+        "volume": 4658300,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 30400,
+        "high": 30750,
+        "low": 28050,
+        "close": 28050,
+        "volume": 2896800,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 28600,
+        "high": 29000,
+        "low": 26200,
+        "close": 28000,
+        "volume": 8071900,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 28000,
+        "high": 28200,
+        "low": 27000,
+        "close": 27050,
+        "volume": 4017100,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 27150,
+        "high": 28900,
+        "low": 27000,
+        "close": 28900,
+        "volume": 6817500,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 28900,
+        "high": 29500,
+        "low": 28550,
+        "close": 28950,
+        "volume": 4350000,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 28950,
+        "high": 29650,
+        "low": 28950,
+        "close": 29500,
+        "volume": 3709700,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 29550,
+        "high": 29700,
+        "low": 28650,
+        "close": 28700,
+        "volume": 3306200,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 28000,
+        "high": 28050,
+        "low": 26700,
+        "close": 26800,
+        "volume": 12013500,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 27300,
+        "high": 27900,
+        "low": 26400,
+        "close": 27500,
+        "volume": 4307800,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 27100,
+        "high": 27600,
+        "low": 26000,
+        "close": 26000,
+        "volume": 2921300,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 26300,
+        "high": 26300,
+        "low": 24300,
+        "close": 24400,
+        "volume": 7250700,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 24500,
+        "high": 26050,
+        "low": 24250,
+        "close": 26000,
+        "volume": 5611600,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 26500,
+        "high": 27700,
+        "low": 26350,
+        "close": 27400,
+        "volume": 6023400,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 27550,
+        "high": 27600,
+        "low": 26750,
+        "close": 27000,
+        "volume": 5563400,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 27300,
+        "high": 27550,
+        "low": 27100,
+        "close": 27400,
+        "volume": 3628400,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 27300,
+        "high": 27700,
+        "low": 26950,
+        "close": 26950,
+        "volume": 4494700,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 27050,
+        "high": 28800,
+        "low": 27000,
+        "close": 28800,
+        "volume": 7072500,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 29000,
+        "high": 29800,
+        "low": 28800,
+        "close": 29000,
+        "volume": 8145100,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 28700,
+        "high": 29800,
+        "low": 28500,
+        "close": 28900,
+        "volume": 5684500,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 28800,
+        "high": 29300,
+        "low": 28400,
+        "close": 29200,
+        "volume": 4696800,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 29600,
+        "high": 29750,
+        "low": 29050,
+        "close": 29400,
+        "volume": 4706300,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 30150,
+        "high": 30300,
+        "low": 29350,
+        "close": 29450,
+        "volume": 5784200,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 29400,
+        "high": 29600,
+        "low": 28950,
+        "close": 29600,
+        "volume": 4274700,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 29700,
+        "high": 29900,
+        "low": 28600,
+        "close": 28700,
+        "volume": 6900400,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 28100,
+        "high": 29600,
+        "low": 27950,
+        "close": 29350,
+        "volume": 6048700,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 29700,
+        "high": 29750,
+        "low": 29300,
+        "close": 29500,
+        "volume": 3705400,
+        "ticker": "HCM"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 29450,
+        "high": 30450,
+        "low": 29450,
+        "close": 30300,
+        "volume": 8341300,
+        "ticker": "HCM"
+    }
+]

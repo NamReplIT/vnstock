@@ -1,0 +1,308 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 47920,
+        "high": 47920,
+        "low": 47920,
+        "close": 47920,
+        "volume": 400,
+        "ticker": "HEC"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 47920,
+        "high": 50250,
+        "low": 47920,
+        "close": 49320,
+        "volume": 1400,
+        "ticker": "HEC"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 49320,
+        "high": 49320,
+        "low": 49130,
+        "close": 49130,
+        "volume": 1500,
+        "ticker": "HEC"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 53600,
+        "high": 53600,
+        "low": 53600,
+        "close": 53600,
+        "volume": 100,
+        "ticker": "HEC"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 51900,
+        "high": 51900,
+        "low": 50600,
+        "close": 50600,
+        "volume": 200,
+        "ticker": "HEC"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 47900,
+        "high": 49600,
+        "low": 47900,
+        "close": 49600,
+        "volume": 200,
+        "ticker": "HEC"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 46900,
+        "high": 46900,
+        "low": 46900,
+        "close": 46900,
+        "volume": 100,
+        "ticker": "HEC"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 46900,
+        "high": 46900,
+        "low": 46900,
+        "close": 46900,
+        "volume": 500,
+        "ticker": "HEC"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 48600,
+        "high": 48600,
+        "low": 48600,
+        "close": 48600,
+        "volume": 200,
+        "ticker": "HEC"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 49000,
+        "high": 49000,
+        "low": 49000,
+        "close": 49000,
+        "volume": 500,
+        "ticker": "HEC"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 51000,
+        "high": 51000,
+        "low": 51000,
+        "close": 51000,
+        "volume": 100,
+        "ticker": "HEC"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 51000,
+        "high": 51000,
+        "low": 51000,
+        "close": 51000,
+        "volume": 300,
+        "ticker": "HEC"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 51000,
+        "high": 51000,
+        "low": 51000,
+        "close": 51000,
+        "volume": 200,
+        "ticker": "HEC"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 51000,
+        "high": 51000,
+        "low": 51000,
+        "close": 51000,
+        "volume": 200,
+        "ticker": "HEC"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 51000,
+        "high": 51000,
+        "low": 51000,
+        "close": 51000,
+        "volume": 200,
+        "ticker": "HEC"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 51000,
+        "high": 51000,
+        "low": 51000,
+        "close": 51000,
+        "volume": 200,
+        "ticker": "HEC"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 51000,
+        "high": 51000,
+        "low": 51000,
+        "close": 51000,
+        "volume": 100,
+        "ticker": "HEC"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 50000,
+        "high": 50000,
+        "low": 50000,
+        "close": 50000,
+        "volume": 900,
+        "ticker": "HEC"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 50000,
+        "high": 50000,
+        "low": 50000,
+        "close": 50000,
+        "volume": 100,
+        "ticker": "HEC"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 51000,
+        "high": 51000,
+        "low": 50000,
+        "close": 50000,
+        "volume": 1100,
+        "ticker": "HEC"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 51000,
+        "high": 51000,
+        "low": 51000,
+        "close": 51000,
+        "volume": 500,
+        "ticker": "HEC"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 52500,
+        "high": 52500,
+        "low": 52500,
+        "close": 52500,
+        "volume": 100,
+        "ticker": "HEC"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 52500,
+        "high": 53000,
+        "low": 52500,
+        "close": 53000,
+        "volume": 200,
+        "ticker": "HEC"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 50000,
+        "high": 52000,
+        "low": 50000,
+        "close": 50000,
+        "volume": 1800,
+        "ticker": "HEC"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 51000,
+        "high": 51000,
+        "low": 50000,
+        "close": 50000,
+        "volume": 200,
+        "ticker": "HEC"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 50000,
+        "high": 50000,
+        "low": 50000,
+        "close": 50000,
+        "volume": 100,
+        "ticker": "HEC"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 50000,
+        "high": 50000,
+        "low": 50000,
+        "close": 50000,
+        "volume": 400,
+        "ticker": "HEC"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 51000,
+        "high": 51000,
+        "low": 51000,
+        "close": 51000,
+        "volume": 100,
+        "ticker": "HEC"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 50000,
+        "high": 50000,
+        "low": 50000,
+        "close": 50000,
+        "volume": 200,
+        "ticker": "HEC"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 51000,
+        "high": 51000,
+        "low": 51000,
+        "close": 51000,
+        "volume": 200,
+        "ticker": "HEC"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 50000,
+        "high": 50000,
+        "low": 50000,
+        "close": 50000,
+        "volume": 400,
+        "ticker": "HEC"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 50900,
+        "high": 51000,
+        "low": 50900,
+        "close": 51000,
+        "volume": 700,
+        "ticker": "HEC"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 50000,
+        "high": 51000,
+        "low": 50000,
+        "close": 51000,
+        "volume": 1400,
+        "ticker": "HEC"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 50000,
+        "high": 50000,
+        "low": 50000,
+        "close": 50000,
+        "volume": 100,
+        "ticker": "HEC"
+    }
+]

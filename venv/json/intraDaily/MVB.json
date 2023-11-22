@@ -1,0 +1,893 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 18010,
+        "high": 18010,
+        "low": 18010,
+        "close": 18010,
+        "volume": 100,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 18110,
+        "high": 18110,
+        "low": 17250,
+        "close": 17250,
+        "volume": 400,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 17250,
+        "high": 17250,
+        "low": 17250,
+        "close": 17250,
+        "volume": 100,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 17540,
+        "high": 17540,
+        "low": 17540,
+        "close": 17540,
+        "volume": 700,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 17250,
+        "high": 17540,
+        "low": 17250,
+        "close": 17440,
+        "volume": 1300,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 17730,
+        "high": 17730,
+        "low": 17250,
+        "close": 17250,
+        "volume": 300,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 18860,
+        "high": 18860,
+        "low": 17350,
+        "close": 17350,
+        "volume": 200,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 18390,
+        "high": 18390,
+        "low": 18390,
+        "close": 18390,
+        "volume": 100,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 17440,
+        "high": 17820,
+        "low": 17250,
+        "close": 17820,
+        "volume": 2700,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 17160,
+        "high": 17540,
+        "low": 17160,
+        "close": 17540,
+        "volume": 600,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 17250,
+        "high": 17440,
+        "low": 17160,
+        "close": 17440,
+        "volume": 600,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 17350,
+        "high": 17920,
+        "low": 17250,
+        "close": 17920,
+        "volume": 2500,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 18010,
+        "high": 18010,
+        "low": 17920,
+        "close": 17920,
+        "volume": 1200,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 18010,
+        "high": 18010,
+        "low": 18010,
+        "close": 18010,
+        "volume": 200,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 17820,
+        "high": 17820,
+        "low": 17820,
+        "close": 17820,
+        "volume": 100,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 17820,
+        "high": 18010,
+        "low": 17820,
+        "close": 18010,
+        "volume": 200,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 17250,
+        "high": 17250,
+        "low": 17250,
+        "close": 17250,
+        "volume": 200,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 18010,
+        "high": 18010,
+        "low": 17250,
+        "close": 17920,
+        "volume": 300,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 18860,
+        "high": 18860,
+        "low": 18010,
+        "close": 18010,
+        "volume": 200,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 17540,
+        "high": 18010,
+        "low": 17540,
+        "close": 18010,
+        "volume": 2000,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 18010,
+        "high": 18200,
+        "low": 18010,
+        "close": 18200,
+        "volume": 2100,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 18100,
+        "high": 19800,
+        "low": 18100,
+        "close": 19800,
+        "volume": 200,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 18600,
+        "high": 19400,
+        "low": 18500,
+        "close": 19000,
+        "volume": 900,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 18200,
+        "high": 18900,
+        "low": 18200,
+        "close": 18900,
+        "volume": 200,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 17900,
+        "high": 18400,
+        "low": 17300,
+        "close": 17300,
+        "volume": 1100,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 18400,
+        "high": 18400,
+        "low": 17300,
+        "close": 17300,
+        "volume": 300,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 18300,
+        "high": 18300,
+        "low": 17300,
+        "close": 17300,
+        "volume": 1200,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 17600,
+        "high": 17600,
+        "low": 17600,
+        "close": 17600,
+        "volume": 100,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 17300,
+        "high": 17300,
+        "low": 17300,
+        "close": 17300,
+        "volume": 100,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 17200,
+        "high": 17600,
+        "low": 17200,
+        "close": 17500,
+        "volume": 2300,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 17700,
+        "high": 17900,
+        "low": 17700,
+        "close": 17900,
+        "volume": 400,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 17600,
+        "high": 17600,
+        "low": 17300,
+        "close": 17300,
+        "volume": 1100,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 17900,
+        "high": 17900,
+        "low": 17900,
+        "close": 17900,
+        "volume": 100,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 17700,
+        "high": 17700,
+        "low": 17600,
+        "close": 17700,
+        "volume": 700,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 17700,
+        "high": 17900,
+        "low": 17600,
+        "close": 17900,
+        "volume": 1900,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 17900,
+        "high": 18400,
+        "low": 17900,
+        "close": 18400,
+        "volume": 300,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 18200,
+        "high": 18300,
+        "low": 18200,
+        "close": 18300,
+        "volume": 600,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 18200,
+        "high": 18700,
+        "low": 18200,
+        "close": 18700,
+        "volume": 600,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 18700,
+        "high": 18700,
+        "low": 18100,
+        "close": 18500,
+        "volume": 2000,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 18100,
+        "high": 18500,
+        "low": 18100,
+        "close": 18500,
+        "volume": 1100,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 18400,
+        "high": 18400,
+        "low": 18300,
+        "close": 18400,
+        "volume": 1800,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 18400,
+        "high": 18400,
+        "low": 18400,
+        "close": 18400,
+        "volume": 1200,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 18200,
+        "high": 18200,
+        "low": 18200,
+        "close": 18200,
+        "volume": 1700,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 18400,
+        "high": 19300,
+        "low": 18400,
+        "close": 18600,
+        "volume": 6600,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 19000,
+        "high": 19500,
+        "low": 19000,
+        "close": 19500,
+        "volume": 13500,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 19300,
+        "high": 19500,
+        "low": 18900,
+        "close": 19500,
+        "volume": 2800,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 19000,
+        "high": 19500,
+        "low": 19000,
+        "close": 19500,
+        "volume": 900,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 19800,
+        "high": 19900,
+        "low": 19100,
+        "close": 19400,
+        "volume": 500,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 19900,
+        "high": 19900,
+        "low": 19900,
+        "close": 19900,
+        "volume": 100,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 19600,
+        "high": 19600,
+        "low": 19000,
+        "close": 19000,
+        "volume": 2700,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 19500,
+        "high": 19500,
+        "low": 18900,
+        "close": 18900,
+        "volume": 1600,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 18600,
+        "high": 18900,
+        "low": 18500,
+        "close": 18900,
+        "volume": 1800,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 18700,
+        "high": 19000,
+        "low": 18700,
+        "close": 19000,
+        "volume": 300,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 18900,
+        "high": 18900,
+        "low": 18500,
+        "close": 18900,
+        "volume": 4100,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 18500,
+        "high": 18800,
+        "low": 18400,
+        "close": 18800,
+        "volume": 5300,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 18800,
+        "high": 18900,
+        "low": 18400,
+        "close": 18900,
+        "volume": 1800,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 18900,
+        "high": 18900,
+        "low": 18900,
+        "close": 18900,
+        "volume": 200,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 18500,
+        "high": 19000,
+        "low": 18400,
+        "close": 19000,
+        "volume": 1400,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 19000,
+        "high": 19000,
+        "low": 18800,
+        "close": 19000,
+        "volume": 400,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 18900,
+        "high": 19000,
+        "low": 18500,
+        "close": 19000,
+        "volume": 700,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 18900,
+        "high": 18900,
+        "low": 18600,
+        "close": 18900,
+        "volume": 400,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 19000,
+        "high": 19000,
+        "low": 19000,
+        "close": 19000,
+        "volume": 100,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 18900,
+        "high": 18900,
+        "low": 18900,
+        "close": 18900,
+        "volume": 3200,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 19100,
+        "high": 19300,
+        "low": 18900,
+        "close": 19300,
+        "volume": 400,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 19300,
+        "high": 19500,
+        "low": 19000,
+        "close": 19400,
+        "volume": 1500,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 19000,
+        "high": 19000,
+        "low": 19000,
+        "close": 19000,
+        "volume": 1400,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 18900,
+        "high": 18900,
+        "low": 18900,
+        "close": 18900,
+        "volume": 600,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 19400,
+        "high": 19400,
+        "low": 19400,
+        "close": 19400,
+        "volume": 100,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 19000,
+        "high": 19300,
+        "low": 18600,
+        "close": 19300,
+        "volume": 900,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 19200,
+        "high": 19200,
+        "low": 19200,
+        "close": 19200,
+        "volume": 100,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 19600,
+        "high": 19800,
+        "low": 19600,
+        "close": 19700,
+        "volume": 10500,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 19500,
+        "high": 19500,
+        "low": 19500,
+        "close": 19500,
+        "volume": 200,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 19500,
+        "high": 19800,
+        "low": 19500,
+        "close": 19800,
+        "volume": 2200,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 19200,
+        "high": 19900,
+        "low": 18500,
+        "close": 19900,
+        "volume": 16200,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 19300,
+        "high": 19300,
+        "low": 19200,
+        "close": 19300,
+        "volume": 600,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 19000,
+        "high": 19400,
+        "low": 19000,
+        "close": 19400,
+        "volume": 200,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 19000,
+        "high": 19400,
+        "low": 19000,
+        "close": 19400,
+        "volume": 400,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 19000,
+        "high": 19400,
+        "low": 19000,
+        "close": 19400,
+        "volume": 2300,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 19000,
+        "high": 19300,
+        "low": 18800,
+        "close": 19300,
+        "volume": 600,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 19200,
+        "high": 19300,
+        "low": 19000,
+        "close": 19000,
+        "volume": 6000,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 19100,
+        "high": 19300,
+        "low": 19100,
+        "close": 19200,
+        "volume": 300,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 19200,
+        "high": 19200,
+        "low": 19200,
+        "close": 19200,
+        "volume": 100,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 19200,
+        "high": 19200,
+        "low": 19200,
+        "close": 19200,
+        "volume": 100,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 19200,
+        "high": 19200,
+        "low": 19200,
+        "close": 19200,
+        "volume": 900,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 19300,
+        "high": 19800,
+        "low": 19300,
+        "close": 19800,
+        "volume": 200,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 19900,
+        "high": 19900,
+        "low": 19900,
+        "close": 19900,
+        "volume": 100,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 19900,
+        "high": 19900,
+        "low": 19900,
+        "close": 19900,
+        "volume": 200,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 19900,
+        "high": 19900,
+        "low": 19900,
+        "close": 19900,
+        "volume": 100,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 19700,
+        "high": 19700,
+        "low": 19700,
+        "close": 19700,
+        "volume": 500,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 19500,
+        "high": 19500,
+        "low": 19500,
+        "close": 19500,
+        "volume": 1500,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 19700,
+        "high": 19900,
+        "low": 19700,
+        "close": 19900,
+        "volume": 700,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 19900,
+        "high": 19900,
+        "low": 19900,
+        "close": 19900,
+        "volume": 3200,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 19900,
+        "high": 19900,
+        "low": 19900,
+        "close": 19900,
+        "volume": 200,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 19800,
+        "high": 19800,
+        "low": 19800,
+        "close": 19800,
+        "volume": 300,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 19700,
+        "high": 19700,
+        "low": 19300,
+        "close": 19300,
+        "volume": 1200,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 20900,
+        "high": 20900,
+        "low": 20900,
+        "close": 20900,
+        "volume": 100,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 21200,
+        "high": 21200,
+        "low": 21200,
+        "close": 21200,
+        "volume": 100,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 19700,
+        "high": 20500,
+        "low": 19700,
+        "close": 20500,
+        "volume": 200,
+        "ticker": "MVB"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 20900,
+        "high": 20900,
+        "low": 20900,
+        "close": 20900,
+        "volume": 100,
+        "ticker": "MVB"
+    }
+]

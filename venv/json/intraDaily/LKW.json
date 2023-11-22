@@ -1,0 +1,497 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 33560,
+        "high": 33560,
+        "low": 33560,
+        "close": 33560,
+        "volume": 100,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 29670,
+        "high": 29670,
+        "low": 29670,
+        "close": 29670,
+        "volume": 100,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 27570,
+        "high": 27570,
+        "low": 27570,
+        "close": 27570,
+        "volume": 100,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 29480,
+        "high": 29480,
+        "low": 29480,
+        "close": 29480,
+        "volume": 200,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 31380,
+        "high": 33280,
+        "low": 31380,
+        "close": 33280,
+        "volume": 300,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 30050,
+        "high": 30050,
+        "low": 28520,
+        "close": 28520,
+        "volume": 2500,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 29570,
+        "high": 29570,
+        "low": 28520,
+        "close": 28520,
+        "volume": 2400,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 32140,
+        "high": 32140,
+        "low": 32140,
+        "close": 32140,
+        "volume": 1000,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 32140,
+        "high": 32140,
+        "low": 31850,
+        "close": 31850,
+        "volume": 3400,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 29100,
+        "high": 29480,
+        "low": 28710,
+        "close": 29480,
+        "volume": 1000,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 28810,
+        "high": 28810,
+        "low": 28810,
+        "close": 28810,
+        "volume": 100,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 28810,
+        "high": 28900,
+        "low": 28810,
+        "close": 28900,
+        "volume": 1100,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 30900,
+        "high": 30900,
+        "low": 30240,
+        "close": 30240,
+        "volume": 300,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 28520,
+        "high": 30900,
+        "low": 28520,
+        "close": 30900,
+        "volume": 1700,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 30810,
+        "high": 30900,
+        "low": 30810,
+        "close": 30900,
+        "volume": 200,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 29100,
+        "high": 29100,
+        "low": 29100,
+        "close": 29100,
+        "volume": 3000,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 31000,
+        "high": 31000,
+        "low": 30520,
+        "close": 30520,
+        "volume": 1300,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 30140,
+        "high": 30140,
+        "low": 30140,
+        "close": 30140,
+        "volume": 900,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 31280,
+        "high": 31380,
+        "low": 31280,
+        "close": 31380,
+        "volume": 700,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 29000,
+        "high": 29000,
+        "low": 29000,
+        "close": 29000,
+        "volume": 100,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 29000,
+        "high": 29000,
+        "low": 29000,
+        "close": 29000,
+        "volume": 100,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 30500,
+        "high": 30500,
+        "low": 30500,
+        "close": 30500,
+        "volume": 200,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 30500,
+        "high": 30500,
+        "low": 30500,
+        "close": 30500,
+        "volume": 200,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 30000,
+        "high": 32900,
+        "low": 30000,
+        "close": 32900,
+        "volume": 5500,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 32700,
+        "high": 32700,
+        "low": 29400,
+        "close": 29400,
+        "volume": 2000,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 30300,
+        "high": 30300,
+        "low": 30100,
+        "close": 30100,
+        "volume": 1400,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 32800,
+        "high": 32800,
+        "low": 32800,
+        "close": 32800,
+        "volume": 100,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 29000,
+        "high": 29000,
+        "low": 29000,
+        "close": 29000,
+        "volume": 100,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 29000,
+        "high": 29100,
+        "low": 29000,
+        "close": 29000,
+        "volume": 1000,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 30900,
+        "high": 32900,
+        "low": 30900,
+        "close": 32900,
+        "volume": 200,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 28200,
+        "high": 28300,
+        "low": 28200,
+        "close": 28300,
+        "volume": 300,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 29000,
+        "high": 29000,
+        "low": 29000,
+        "close": 29000,
+        "volume": 100,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 28700,
+        "high": 28700,
+        "low": 28600,
+        "close": 28600,
+        "volume": 2000,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 28600,
+        "high": 28600,
+        "low": 28600,
+        "close": 28600,
+        "volume": 100,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 30000,
+        "high": 32800,
+        "low": 30000,
+        "close": 32800,
+        "volume": 1800,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 28300,
+        "high": 31000,
+        "low": 28300,
+        "close": 31000,
+        "volume": 400,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 29800,
+        "high": 29800,
+        "low": 29800,
+        "close": 29800,
+        "volume": 100,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 30500,
+        "high": 30500,
+        "low": 30400,
+        "close": 30500,
+        "volume": 1000,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 28000,
+        "high": 30500,
+        "low": 28000,
+        "close": 30500,
+        "volume": 400,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 30900,
+        "high": 30900,
+        "low": 30900,
+        "close": 30900,
+        "volume": 100,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 30900,
+        "high": 30900,
+        "low": 30900,
+        "close": 30900,
+        "volume": 100,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 29900,
+        "high": 29900,
+        "low": 29900,
+        "close": 29900,
+        "volume": 4600,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 30200,
+        "high": 30200,
+        "low": 30200,
+        "close": 30200,
+        "volume": 1000,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 30500,
+        "high": 34700,
+        "low": 30500,
+        "close": 34700,
+        "volume": 800,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 36600,
+        "high": 36600,
+        "low": 36600,
+        "close": 36600,
+        "volume": 300,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 30100,
+        "high": 30100,
+        "low": 30100,
+        "close": 30100,
+        "volume": 1100,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 30100,
+        "high": 30100,
+        "low": 30100,
+        "close": 30100,
+        "volume": 500,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 29800,
+        "high": 34500,
+        "low": 29800,
+        "close": 34500,
+        "volume": 1100,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 30500,
+        "high": 30500,
+        "low": 30500,
+        "close": 30500,
+        "volume": 400,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 31000,
+        "high": 31000,
+        "low": 31000,
+        "close": 31000,
+        "volume": 500,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 30600,
+        "high": 31000,
+        "low": 30600,
+        "close": 31000,
+        "volume": 300,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 30600,
+        "high": 30600,
+        "low": 30600,
+        "close": 30600,
+        "volume": 400,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 30000,
+        "high": 30000,
+        "low": 30000,
+        "close": 30000,
+        "volume": 1000,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 30000,
+        "high": 30000,
+        "low": 30000,
+        "close": 30000,
+        "volume": 600,
+        "ticker": "LKW"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 30000,
+        "high": 30000,
+        "low": 30000,
+        "close": 30000,
+        "volume": 500,
+        "ticker": "LKW"
+    }
+]

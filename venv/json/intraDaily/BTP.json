@@ -1,0 +1,1253 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 12220,
+        "high": 12220,
+        "low": 12040,
+        "close": 12130,
+        "volume": 4100,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 12410,
+        "high": 12450,
+        "low": 12130,
+        "close": 12130,
+        "volume": 2300,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 12130,
+        "high": 12130,
+        "low": 12130,
+        "close": 12130,
+        "volume": 1000,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 12410,
+        "high": 12410,
+        "low": 12310,
+        "close": 12310,
+        "volume": 1300,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 12780,
+        "high": 12820,
+        "low": 12500,
+        "close": 12690,
+        "volume": 4600,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 12550,
+        "high": 12820,
+        "low": 12550,
+        "close": 12690,
+        "volume": 9100,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 12870,
+        "high": 12960,
+        "low": 12780,
+        "close": 12960,
+        "volume": 16900,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 12960,
+        "high": 12960,
+        "low": 12780,
+        "close": 12960,
+        "volume": 33600,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 13330,
+        "high": 13330,
+        "low": 12820,
+        "close": 13330,
+        "volume": 6000,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 13330,
+        "high": 13330,
+        "low": 12960,
+        "close": 13290,
+        "volume": 17400,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 13190,
+        "high": 13190,
+        "low": 13150,
+        "close": 13150,
+        "volume": 1200,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 13240,
+        "high": 13330,
+        "low": 13150,
+        "close": 13150,
+        "volume": 7200,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 13290,
+        "high": 13330,
+        "low": 13290,
+        "close": 13330,
+        "volume": 2600,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 13800,
+        "high": 13890,
+        "low": 13660,
+        "close": 13660,
+        "volume": 8900,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 13980,
+        "high": 14070,
+        "low": 13800,
+        "close": 13800,
+        "volume": 6300,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 14070,
+        "high": 14070,
+        "low": 13610,
+        "close": 13890,
+        "volume": 12900,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 13800,
+        "high": 14170,
+        "low": 13610,
+        "close": 14170,
+        "volume": 10700,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 13700,
+        "high": 14210,
+        "low": 13700,
+        "close": 14210,
+        "volume": 5600,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 14170,
+        "high": 14170,
+        "low": 14070,
+        "close": 14070,
+        "volume": 1300,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 14070,
+        "high": 14630,
+        "low": 14070,
+        "close": 14440,
+        "volume": 72400,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 14440,
+        "high": 14440,
+        "low": 14260,
+        "close": 14350,
+        "volume": 15900,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 14260,
+        "high": 14630,
+        "low": 14120,
+        "close": 14630,
+        "volume": 13800,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 14630,
+        "high": 14680,
+        "low": 14440,
+        "close": 14680,
+        "volume": 9800,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 14630,
+        "high": 15140,
+        "low": 14540,
+        "close": 15140,
+        "volume": 13800,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 14810,
+        "high": 14810,
+        "low": 14680,
+        "close": 14810,
+        "volume": 11800,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 15140,
+        "high": 15140,
+        "low": 14810,
+        "close": 15140,
+        "volume": 47400,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 15140,
+        "high": 15320,
+        "low": 15090,
+        "close": 15280,
+        "volume": 27800,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 15280,
+        "high": 15370,
+        "low": 15090,
+        "close": 15230,
+        "volume": 49000,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 15230,
+        "high": 15230,
+        "low": 15090,
+        "close": 15230,
+        "volume": 28800,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 15000,
+        "high": 15000,
+        "low": 14810,
+        "close": 15000,
+        "volume": 3500,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 14630,
+        "high": 15190,
+        "low": 14630,
+        "close": 15000,
+        "volume": 5500,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 15140,
+        "high": 15140,
+        "low": 14720,
+        "close": 14720,
+        "volume": 1600,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 14720,
+        "high": 14720,
+        "low": 14260,
+        "close": 14490,
+        "volume": 6200,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 14260,
+        "high": 15000,
+        "low": 14170,
+        "close": 15000,
+        "volume": 10600,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 15000,
+        "high": 15000,
+        "low": 15000,
+        "close": 15000,
+        "volume": 1700,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 14630,
+        "high": 14720,
+        "low": 14630,
+        "close": 14630,
+        "volume": 7000,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 14630,
+        "high": 14720,
+        "low": 14170,
+        "close": 14350,
+        "volume": 19900,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 14350,
+        "high": 14630,
+        "low": 14170,
+        "close": 14630,
+        "volume": 4700,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 14630,
+        "high": 14630,
+        "low": 14630,
+        "close": 14630,
+        "volume": 11500,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 14540,
+        "high": 14540,
+        "low": 14540,
+        "close": 14540,
+        "volume": 100,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 14540,
+        "high": 14540,
+        "low": 14540,
+        "close": 14540,
+        "volume": 1100,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 14170,
+        "high": 14490,
+        "low": 14170,
+        "close": 14490,
+        "volume": 400,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 14490,
+        "high": 14630,
+        "low": 14350,
+        "close": 14630,
+        "volume": 12900,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 14350,
+        "high": 14630,
+        "low": 14310,
+        "close": 14630,
+        "volume": 4800,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 14310,
+        "high": 14630,
+        "low": 14310,
+        "close": 14630,
+        "volume": 1900,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 14260,
+        "high": 14630,
+        "low": 14260,
+        "close": 14630,
+        "volume": 2500,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 14260,
+        "high": 14630,
+        "low": 14260,
+        "close": 14630,
+        "volume": 3400,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 14350,
+        "high": 14350,
+        "low": 14350,
+        "close": 14350,
+        "volume": 2400,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 14350,
+        "high": 14350,
+        "low": 14350,
+        "close": 14350,
+        "volume": 1000,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 14350,
+        "high": 14810,
+        "low": 14350,
+        "close": 14810,
+        "volume": 13300,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 14810,
+        "high": 14810,
+        "low": 14350,
+        "close": 14810,
+        "volume": 8300,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 14720,
+        "high": 15090,
+        "low": 14680,
+        "close": 14810,
+        "volume": 95800,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 14810,
+        "high": 14810,
+        "low": 14630,
+        "close": 14770,
+        "volume": 44400,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 14770,
+        "high": 14770,
+        "low": 14490,
+        "close": 14630,
+        "volume": 44300,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 14860,
+        "high": 14860,
+        "low": 14580,
+        "close": 14810,
+        "volume": 49900,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 14860,
+        "high": 15000,
+        "low": 14630,
+        "close": 14810,
+        "volume": 62600,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 14810,
+        "high": 14950,
+        "low": 14720,
+        "close": 14950,
+        "volume": 17800,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 14950,
+        "high": 14950,
+        "low": 14720,
+        "close": 14720,
+        "volume": 15400,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 14770,
+        "high": 14770,
+        "low": 14350,
+        "close": 14770,
+        "volume": 18500,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 14540,
+        "high": 14540,
+        "low": 14350,
+        "close": 14350,
+        "volume": 24800,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 14400,
+        "high": 14680,
+        "low": 14210,
+        "close": 14680,
+        "volume": 3600,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 14630,
+        "high": 14680,
+        "low": 14440,
+        "close": 14680,
+        "volume": 11500,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 14680,
+        "high": 14680,
+        "low": 14400,
+        "close": 14440,
+        "volume": 15300,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 14310,
+        "high": 14680,
+        "low": 14310,
+        "close": 14680,
+        "volume": 4800,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 14440,
+        "high": 14490,
+        "low": 14350,
+        "close": 14350,
+        "volume": 4600,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 14400,
+        "high": 14540,
+        "low": 14310,
+        "close": 14540,
+        "volume": 12100,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 14540,
+        "high": 14630,
+        "low": 14540,
+        "close": 14540,
+        "volume": 6100,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 14540,
+        "high": 14630,
+        "low": 14350,
+        "close": 14490,
+        "volume": 26500,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 14350,
+        "high": 14490,
+        "low": 14350,
+        "close": 14400,
+        "volume": 12900,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 14400,
+        "high": 14630,
+        "low": 14350,
+        "close": 14350,
+        "volume": 9900,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 14350,
+        "high": 14540,
+        "low": 14350,
+        "close": 14540,
+        "volume": 1600,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 14440,
+        "high": 14540,
+        "low": 13840,
+        "close": 14440,
+        "volume": 15300,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 14440,
+        "high": 14440,
+        "low": 14440,
+        "close": 14440,
+        "volume": 1800,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 14490,
+        "high": 14630,
+        "low": 14490,
+        "close": 14630,
+        "volume": 1200,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 14350,
+        "high": 14350,
+        "low": 14120,
+        "close": 14120,
+        "volume": 17100,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 14440,
+        "high": 14440,
+        "low": 13980,
+        "close": 13980,
+        "volume": 4700,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 14440,
+        "high": 14440,
+        "low": 13610,
+        "close": 13890,
+        "volume": 21900,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 13700,
+        "high": 13800,
+        "low": 13700,
+        "close": 13800,
+        "volume": 12200,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 14260,
+        "high": 14350,
+        "low": 14260,
+        "close": 14350,
+        "volume": 1900,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 14540,
+        "high": 14540,
+        "low": 14440,
+        "close": 14440,
+        "volume": 8300,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 14720,
+        "high": 14720,
+        "low": 14440,
+        "close": 14440,
+        "volume": 5400,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 14440,
+        "high": 14630,
+        "low": 14440,
+        "close": 14630,
+        "volume": 10200,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 15050,
+        "high": 15050,
+        "low": 14770,
+        "close": 15000,
+        "volume": 26300,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 15050,
+        "high": 15090,
+        "low": 14950,
+        "close": 15000,
+        "volume": 16800,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 15000,
+        "high": 15460,
+        "low": 15000,
+        "close": 15460,
+        "volume": 41000,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 15600,
+        "high": 15600,
+        "low": 14910,
+        "close": 15460,
+        "volume": 110200,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 15280,
+        "high": 15460,
+        "low": 15190,
+        "close": 15280,
+        "volume": 6000,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 15280,
+        "high": 15510,
+        "low": 15280,
+        "close": 15510,
+        "volume": 24000,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 15650,
+        "high": 15740,
+        "low": 15280,
+        "close": 15460,
+        "volume": 60500,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 15460,
+        "high": 15460,
+        "low": 15370,
+        "close": 15420,
+        "volume": 32500,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 15420,
+        "high": 15420,
+        "low": 14810,
+        "close": 15000,
+        "volume": 49900,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 14800,
+        "high": 15450,
+        "low": 14700,
+        "close": 14700,
+        "volume": 10300,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 14700,
+        "high": 14850,
+        "low": 14700,
+        "close": 14750,
+        "volume": 24900,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 14850,
+        "high": 14850,
+        "low": 14600,
+        "close": 14650,
+        "volume": 7300,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 14400,
+        "high": 14500,
+        "low": 14300,
+        "close": 14450,
+        "volume": 7200,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 15000,
+        "high": 15000,
+        "low": 14500,
+        "close": 14750,
+        "volume": 4800,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 15300,
+        "high": 15300,
+        "low": 15000,
+        "close": 15000,
+        "volume": 2700,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 14500,
+        "high": 14900,
+        "low": 14300,
+        "close": 14300,
+        "volume": 23800,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 14300,
+        "high": 14300,
+        "low": 14000,
+        "close": 14250,
+        "volume": 35800,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 14000,
+        "high": 14250,
+        "low": 13800,
+        "close": 14250,
+        "volume": 8200,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 13900,
+        "high": 14250,
+        "low": 13600,
+        "close": 14000,
+        "volume": 2400,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 14200,
+        "high": 14200,
+        "low": 13850,
+        "close": 13850,
+        "volume": 2200,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 13900,
+        "high": 13900,
+        "low": 13500,
+        "close": 13850,
+        "volume": 9000,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 13850,
+        "high": 14000,
+        "low": 13850,
+        "close": 13850,
+        "volume": 400,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 14200,
+        "high": 14200,
+        "low": 13500,
+        "close": 13500,
+        "volume": 4700,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 13300,
+        "high": 13500,
+        "low": 13300,
+        "close": 13350,
+        "volume": 5600,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 13400,
+        "high": 13700,
+        "low": 13400,
+        "close": 13700,
+        "volume": 300,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 13700,
+        "high": 14200,
+        "low": 13500,
+        "close": 14200,
+        "volume": 5400,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 13500,
+        "high": 14200,
+        "low": 13500,
+        "close": 14200,
+        "volume": 800,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 13600,
+        "high": 14200,
+        "low": 13600,
+        "close": 14200,
+        "volume": 4600,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 14200,
+        "high": 14200,
+        "low": 13600,
+        "close": 14150,
+        "volume": 1600,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 14150,
+        "high": 14150,
+        "low": 13700,
+        "close": 14100,
+        "volume": 8300,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 13700,
+        "high": 14200,
+        "low": 13700,
+        "close": 14200,
+        "volume": 4000,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 13850,
+        "high": 14200,
+        "low": 13850,
+        "close": 14200,
+        "volume": 200,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 13800,
+        "high": 13800,
+        "low": 13600,
+        "close": 13800,
+        "volume": 3900,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 13800,
+        "high": 13800,
+        "low": 13500,
+        "close": 13800,
+        "volume": 11400,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 13800,
+        "high": 13800,
+        "low": 13800,
+        "close": 13800,
+        "volume": 1100,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 13500,
+        "high": 13950,
+        "low": 13500,
+        "close": 13550,
+        "volume": 1000,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 13550,
+        "high": 13850,
+        "low": 13500,
+        "close": 13850,
+        "volume": 7200,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 13500,
+        "high": 13550,
+        "low": 13500,
+        "close": 13500,
+        "volume": 4100,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 13300,
+        "high": 13500,
+        "low": 12650,
+        "close": 13500,
+        "volume": 6100,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 13400,
+        "high": 13400,
+        "low": 13000,
+        "close": 13400,
+        "volume": 700,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 13400,
+        "high": 13400,
+        "low": 13000,
+        "close": 13400,
+        "volume": 3600,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 13350,
+        "high": 13400,
+        "low": 13000,
+        "close": 13400,
+        "volume": 5000,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 13400,
+        "high": 13400,
+        "low": 13400,
+        "close": 13400,
+        "volume": 400,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 13100,
+        "high": 13300,
+        "low": 13100,
+        "close": 13200,
+        "volume": 3200,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 13400,
+        "high": 13450,
+        "low": 13100,
+        "close": 13200,
+        "volume": 13600,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 13100,
+        "high": 13200,
+        "low": 13100,
+        "close": 13200,
+        "volume": 2000,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 13100,
+        "high": 13200,
+        "low": 13100,
+        "close": 13200,
+        "volume": 1300,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 13200,
+        "high": 13200,
+        "low": 13000,
+        "close": 13200,
+        "volume": 15800,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 12950,
+        "high": 13200,
+        "low": 12950,
+        "close": 13100,
+        "volume": 3300,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 13100,
+        "high": 13100,
+        "low": 13100,
+        "close": 13100,
+        "volume": 600,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 13100,
+        "high": 13100,
+        "low": 13000,
+        "close": 13050,
+        "volume": 9100,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 13050,
+        "high": 13200,
+        "low": 13000,
+        "close": 13200,
+        "volume": 7200,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 13000,
+        "high": 13200,
+        "low": 13000,
+        "close": 13200,
+        "volume": 700,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 13150,
+        "high": 13350,
+        "low": 12950,
+        "close": 13350,
+        "volume": 15300,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 13000,
+        "high": 13200,
+        "low": 13000,
+        "close": 13100,
+        "volume": 1000,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 13100,
+        "high": 13100,
+        "low": 13000,
+        "close": 13100,
+        "volume": 4900,
+        "ticker": "BTP"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 13100,
+        "high": 13100,
+        "low": 13000,
+        "close": 13000,
+        "volume": 9900,
+        "ticker": "BTP"
+    }
+]

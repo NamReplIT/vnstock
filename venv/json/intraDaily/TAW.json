@@ -1,0 +1,74 @@
+[
+    {
+        "time": "2023-05-22",
+        "open": 15510,
+        "high": 15510,
+        "low": 11110,
+        "close": 11110,
+        "volume": 200,
+        "ticker": "TAW"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 11470,
+        "high": 11470,
+        "low": 11470,
+        "close": 11470,
+        "volume": 100,
+        "ticker": "TAW"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 11750,
+        "high": 11750,
+        "low": 11750,
+        "close": 11750,
+        "volume": 100,
+        "ticker": "TAW"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 11500,
+        "high": 11500,
+        "low": 11500,
+        "close": 11500,
+        "volume": 100,
+        "ticker": "TAW"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 9800,
+        "high": 10100,
+        "low": 9800,
+        "close": 10100,
+        "volume": 300,
+        "ticker": "TAW"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 10100,
+        "high": 10100,
+        "low": 10100,
+        "close": 10100,
+        "volume": 1400,
+        "ticker": "TAW"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 10500,
+        "high": 11000,
+        "low": 10500,
+        "close": 11000,
+        "volume": 1400,
+        "ticker": "TAW"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 10100,
+        "high": 10100,
+        "low": 10100,
+        "close": 10100,
+        "volume": 2800,
+        "ticker": "TAW"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "time": "2023-06-28",
+        "open": 21000,
+        "high": 21000,
+        "low": 21000,
+        "close": 21000,
+        "volume": 100,
+        "ticker": "NTF"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 24000,
+        "high": 24000,
+        "low": 24000,
+        "close": 24000,
+        "volume": 100,
+        "ticker": "NTF"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 20500,
+        "high": 20500,
+        "low": 20500,
+        "close": 20500,
+        "volume": 100,
+        "ticker": "NTF"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 17500,
+        "high": 17500,
+        "low": 17500,
+        "close": 17500,
+        "volume": 100,
+        "ticker": "NTF"
+    }
+]

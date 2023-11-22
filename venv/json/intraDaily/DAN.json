@@ -1,0 +1,524 @@
+[
+    {
+        "time": "2023-05-09",
+        "open": 24970,
+        "high": 24970,
+        "low": 24970,
+        "close": 24970,
+        "volume": 200,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 21740,
+        "high": 21740,
+        "low": 21740,
+        "close": 21740,
+        "volume": 800,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 24970,
+        "high": 24970,
+        "low": 24970,
+        "close": 24970,
+        "volume": 100,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 27810,
+        "high": 27810,
+        "low": 27810,
+        "close": 27810,
+        "volume": 100,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 26930,
+        "high": 26930,
+        "low": 24480,
+        "close": 24480,
+        "volume": 900,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 21740,
+        "high": 25270,
+        "low": 21740,
+        "close": 25270,
+        "volume": 800,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 24480,
+        "high": 24480,
+        "low": 24480,
+        "close": 24480,
+        "volume": 100,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 28010,
+        "high": 28010,
+        "low": 28010,
+        "close": 28010,
+        "volume": 100,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 24970,
+        "high": 24970,
+        "low": 24970,
+        "close": 24970,
+        "volume": 100,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 24870,
+        "high": 24870,
+        "low": 24870,
+        "close": 24870,
+        "volume": 100,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 21150,
+        "high": 24480,
+        "low": 21150,
+        "close": 24480,
+        "volume": 200,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 19490,
+        "high": 19490,
+        "low": 19490,
+        "close": 19490,
+        "volume": 100,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 22330,
+        "high": 22330,
+        "low": 22330,
+        "close": 22330,
+        "volume": 600,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 23500,
+        "high": 24870,
+        "low": 23500,
+        "close": 24870,
+        "volume": 300,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 27420,
+        "high": 27420,
+        "low": 27420,
+        "close": 27420,
+        "volume": 100,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 28300,
+        "high": 28300,
+        "low": 28300,
+        "close": 28300,
+        "volume": 100,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 24090,
+        "high": 24090,
+        "low": 24090,
+        "close": 24090,
+        "volume": 100,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 21050,
+        "high": 21250,
+        "low": 21050,
+        "close": 21250,
+        "volume": 1000,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 24190,
+        "high": 24190,
+        "low": 24190,
+        "close": 24190,
+        "volume": 100,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 27710,
+        "high": 27710,
+        "low": 23500,
+        "close": 24190,
+        "volume": 600,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 23600,
+        "high": 23600,
+        "low": 23600,
+        "close": 23600,
+        "volume": 1000,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 21840,
+        "high": 21840,
+        "low": 21840,
+        "close": 21840,
+        "volume": 100,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 24480,
+        "high": 24480,
+        "low": 24480,
+        "close": 24480,
+        "volume": 100,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 26930,
+        "high": 26930,
+        "low": 26930,
+        "close": 26930,
+        "volume": 100,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 30850,
+        "high": 30850,
+        "low": 23010,
+        "close": 23010,
+        "volume": 200,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 29280,
+        "high": 29280,
+        "low": 29280,
+        "close": 29280,
+        "volume": 100,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 24970,
+        "high": 24970,
+        "low": 24970,
+        "close": 24970,
+        "volume": 300,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 22130,
+        "high": 22130,
+        "low": 22130,
+        "close": 22130,
+        "volume": 100,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 25360,
+        "high": 25360,
+        "low": 25360,
+        "close": 25360,
+        "volume": 1000,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 28890,
+        "high": 28890,
+        "low": 28890,
+        "close": 28890,
+        "volume": 100,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 27320,
+        "high": 27320,
+        "low": 27320,
+        "close": 27320,
+        "volume": 100,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 25460,
+        "high": 25460,
+        "low": 25460,
+        "close": 25460,
+        "volume": 100,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 25460,
+        "high": 25460,
+        "low": 25460,
+        "close": 25460,
+        "volume": 500,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 28200,
+        "high": 28200,
+        "low": 28200,
+        "close": 28200,
+        "volume": 100,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 27910,
+        "high": 27910,
+        "low": 24680,
+        "close": 24680,
+        "volume": 200,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 28890,
+        "high": 28890,
+        "low": 28890,
+        "close": 28890,
+        "volume": 100,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 25070,
+        "high": 28400,
+        "low": 24970,
+        "close": 28400,
+        "volume": 1600,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 28600,
+        "high": 28600,
+        "low": 28600,
+        "close": 28600,
+        "volume": 100,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 28790,
+        "high": 28790,
+        "low": 28790,
+        "close": 28790,
+        "volume": 100,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 28400,
+        "high": 28890,
+        "low": 28400,
+        "close": 28890,
+        "volume": 900,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 33100,
+        "high": 33100,
+        "low": 33100,
+        "close": 33100,
+        "volume": 1300,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 34000,
+        "high": 34000,
+        "low": 34000,
+        "close": 34000,
+        "volume": 100,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 29000,
+        "high": 29000,
+        "low": 29000,
+        "close": 29000,
+        "volume": 200,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 29000,
+        "high": 33200,
+        "low": 29000,
+        "close": 33200,
+        "volume": 200,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 32100,
+        "high": 33000,
+        "low": 30000,
+        "close": 30000,
+        "volume": 600,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 26700,
+        "high": 35600,
+        "low": 26700,
+        "close": 35600,
+        "volume": 200,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 34900,
+        "high": 34900,
+        "low": 34900,
+        "close": 34900,
+        "volume": 100,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 29700,
+        "high": 34600,
+        "low": 29700,
+        "close": 34600,
+        "volume": 200,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 34500,
+        "high": 34500,
+        "low": 34500,
+        "close": 34500,
+        "volume": 100,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 29400,
+        "high": 29400,
+        "low": 29400,
+        "close": 29400,
+        "volume": 200,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 25200,
+        "high": 25200,
+        "low": 25200,
+        "close": 25200,
+        "volume": 200,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 25500,
+        "high": 25500,
+        "low": 25500,
+        "close": 25500,
+        "volume": 100,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 25500,
+        "high": 25500,
+        "low": 25500,
+        "close": 25500,
+        "volume": 500,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 22300,
+        "high": 25000,
+        "low": 22300,
+        "close": 25000,
+        "volume": 500,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 24600,
+        "high": 25100,
+        "low": 24600,
+        "close": 25000,
+        "volume": 1400,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 28700,
+        "high": 28700,
+        "low": 28700,
+        "close": 28700,
+        "volume": 100,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 24600,
+        "high": 26600,
+        "low": 24600,
+        "close": 26600,
+        "volume": 300,
+        "ticker": "DAN"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 28000,
+        "high": 28000,
+        "low": 28000,
+        "close": 28000,
+        "volume": 100,
+        "ticker": "DAN"
+    }
+]

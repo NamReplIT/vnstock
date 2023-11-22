@@ -1,0 +1,362 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 4900,
+        "high": 5200,
+        "low": 4900,
+        "close": 5200,
+        "volume": 858800,
+        "ticker": "TVC"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 5100,
+        "high": 5200,
+        "low": 5100,
+        "close": 5100,
+        "volume": 84700,
+        "ticker": "TVC"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 5100,
+        "high": 5300,
+        "low": 5100,
+        "close": 5200,
+        "volume": 719700,
+        "ticker": "TVC"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 5200,
+        "high": 5300,
+        "low": 5100,
+        "close": 5200,
+        "volume": 446400,
+        "ticker": "TVC"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 5300,
+        "high": 5800,
+        "low": 5300,
+        "close": 5800,
+        "volume": 1119000,
+        "ticker": "TVC"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 6300,
+        "high": 6300,
+        "low": 6100,
+        "close": 6300,
+        "volume": 4827200,
+        "ticker": "TVC"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 6300,
+        "high": 6400,
+        "low": 6100,
+        "close": 6300,
+        "volume": 1744100,
+        "ticker": "TVC"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 6400,
+        "high": 7000,
+        "low": 6400,
+        "close": 6600,
+        "volume": 1914600,
+        "ticker": "TVC"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 6600,
+        "high": 6600,
+        "low": 6300,
+        "close": 6400,
+        "volume": 1315700,
+        "ticker": "TVC"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 6400,
+        "high": 6600,
+        "low": 6300,
+        "close": 6400,
+        "volume": 1545800,
+        "ticker": "TVC"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 6400,
+        "high": 6500,
+        "low": 6200,
+        "close": 6300,
+        "volume": 1196900,
+        "ticker": "TVC"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 6300,
+        "high": 6300,
+        "low": 5900,
+        "close": 6100,
+        "volume": 1901900,
+        "ticker": "TVC"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 5700,
+        "high": 5900,
+        "low": 5500,
+        "close": 5500,
+        "volume": 4460500,
+        "ticker": "TVC"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 5600,
+        "high": 5800,
+        "low": 5500,
+        "close": 5600,
+        "volume": 964900,
+        "ticker": "TVC"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 5800,
+        "high": 5800,
+        "low": 5500,
+        "close": 5600,
+        "volume": 1650200,
+        "ticker": "TVC"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 5500,
+        "high": 5500,
+        "low": 5200,
+        "close": 5300,
+        "volume": 2731900,
+        "ticker": "TVC"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 5400,
+        "high": 5800,
+        "low": 5300,
+        "close": 5700,
+        "volume": 2389600,
+        "ticker": "TVC"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 5800,
+        "high": 6200,
+        "low": 5800,
+        "close": 6200,
+        "volume": 3233500,
+        "ticker": "TVC"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 6200,
+        "high": 6800,
+        "low": 6200,
+        "close": 6600,
+        "volume": 2252400,
+        "ticker": "TVC"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 6800,
+        "high": 7000,
+        "low": 6600,
+        "close": 6800,
+        "volume": 2477300,
+        "ticker": "TVC"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 6800,
+        "high": 6800,
+        "low": 6300,
+        "close": 6400,
+        "volume": 2254000,
+        "ticker": "TVC"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 6300,
+        "high": 6300,
+        "low": 6100,
+        "close": 6100,
+        "volume": 1612100,
+        "ticker": "TVC"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 6100,
+        "high": 6700,
+        "low": 6100,
+        "close": 6500,
+        "volume": 1634900,
+        "ticker": "TVC"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 7000,
+        "high": 7000,
+        "low": 6700,
+        "close": 6700,
+        "volume": 2044500,
+        "ticker": "TVC"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 6800,
+        "high": 6900,
+        "low": 6400,
+        "close": 6400,
+        "volume": 1801400,
+        "ticker": "TVC"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 6500,
+        "high": 6700,
+        "low": 6400,
+        "close": 6500,
+        "volume": 1839400,
+        "ticker": "TVC"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 6300,
+        "high": 7000,
+        "low": 6300,
+        "close": 6700,
+        "volume": 1943300,
+        "ticker": "TVC"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 6700,
+        "high": 7100,
+        "low": 6500,
+        "close": 6500,
+        "volume": 2621100,
+        "ticker": "TVC"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 6600,
+        "high": 6700,
+        "low": 6500,
+        "close": 6600,
+        "volume": 1159800,
+        "ticker": "TVC"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 6800,
+        "high": 6900,
+        "low": 6600,
+        "close": 6700,
+        "volume": 2650700,
+        "ticker": "TVC"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 6900,
+        "high": 6900,
+        "low": 6400,
+        "close": 6500,
+        "volume": 1798900,
+        "ticker": "TVC"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 6400,
+        "high": 6500,
+        "low": 6100,
+        "close": 6100,
+        "volume": 1494400,
+        "ticker": "TVC"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 6200,
+        "high": 6200,
+        "low": 5900,
+        "close": 6000,
+        "volume": 1214500,
+        "ticker": "TVC"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 5800,
+        "high": 5800,
+        "low": 5500,
+        "close": 5600,
+        "volume": 1336100,
+        "ticker": "TVC"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 5500,
+        "high": 5800,
+        "low": 5400,
+        "close": 5700,
+        "volume": 1132100,
+        "ticker": "TVC"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 5500,
+        "high": 5600,
+        "low": 5300,
+        "close": 5600,
+        "volume": 1344300,
+        "ticker": "TVC"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 5300,
+        "high": 5500,
+        "low": 5100,
+        "close": 5100,
+        "volume": 1110400,
+        "ticker": "TVC"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 5400,
+        "high": 5500,
+        "low": 5200,
+        "close": 5300,
+        "volume": 660400,
+        "ticker": "TVC"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 5400,
+        "high": 5600,
+        "low": 5400,
+        "close": 5600,
+        "volume": 742600,
+        "ticker": "TVC"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 5700,
+        "high": 5800,
+        "low": 5500,
+        "close": 5700,
+        "volume": 1137300,
+        "ticker": "TVC"
+    }
+]

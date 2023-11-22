@@ -1,0 +1,1289 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 27560,
+        "high": 28240,
+        "low": 27280,
+        "close": 27440,
+        "volume": 1083600,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 27400,
+        "high": 27720,
+        "low": 26880,
+        "close": 27240,
+        "volume": 1370900,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 27400,
+        "high": 28120,
+        "low": 27200,
+        "close": 27960,
+        "volume": 1137100,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 28040,
+        "high": 28040,
+        "low": 27440,
+        "close": 27520,
+        "volume": 444100,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 27920,
+        "high": 28560,
+        "low": 27720,
+        "close": 28080,
+        "volume": 1374800,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 28280,
+        "high": 28680,
+        "low": 27880,
+        "close": 28200,
+        "volume": 891700,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 28160,
+        "high": 28200,
+        "low": 27560,
+        "close": 27800,
+        "volume": 1147800,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 28000,
+        "high": 28960,
+        "low": 28000,
+        "close": 28240,
+        "volume": 1494200,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 28400,
+        "high": 28480,
+        "low": 27880,
+        "close": 27920,
+        "volume": 769500,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 28000,
+        "high": 28280,
+        "low": 27200,
+        "close": 27240,
+        "volume": 913100,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 27520,
+        "high": 27680,
+        "low": 27040,
+        "close": 27520,
+        "volume": 592100,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 27120,
+        "high": 27520,
+        "low": 26800,
+        "close": 27440,
+        "volume": 898100,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 27680,
+        "high": 28040,
+        "low": 27520,
+        "close": 27960,
+        "volume": 726800,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 27960,
+        "high": 27960,
+        "low": 27360,
+        "close": 27400,
+        "volume": 750600,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 27520,
+        "high": 27840,
+        "low": 27400,
+        "close": 27440,
+        "volume": 881100,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 27080,
+        "high": 27680,
+        "low": 27040,
+        "close": 27440,
+        "volume": 685600,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 27840,
+        "high": 28400,
+        "low": 27600,
+        "close": 27840,
+        "volume": 1402600,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 28400,
+        "high": 28400,
+        "low": 27920,
+        "close": 28080,
+        "volume": 804300,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 28360,
+        "high": 29520,
+        "low": 28360,
+        "close": 28960,
+        "volume": 2024200,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 29120,
+        "high": 29760,
+        "low": 28840,
+        "close": 29280,
+        "volume": 1471100,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 29280,
+        "high": 29680,
+        "low": 29160,
+        "close": 29240,
+        "volume": 888700,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 29560,
+        "high": 29640,
+        "low": 28880,
+        "close": 29000,
+        "volume": 977600,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 29200,
+        "high": 29240,
+        "low": 28320,
+        "close": 28560,
+        "volume": 1332300,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 28560,
+        "high": 29200,
+        "low": 28200,
+        "close": 28960,
+        "volume": 1124100,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 29280,
+        "high": 29560,
+        "low": 28800,
+        "close": 29120,
+        "volume": 1074800,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 29280,
+        "high": 29960,
+        "low": 29040,
+        "close": 29040,
+        "volume": 1425000,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 29040,
+        "high": 29840,
+        "low": 28840,
+        "close": 29600,
+        "volume": 1205200,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 29680,
+        "high": 29720,
+        "low": 29080,
+        "close": 29480,
+        "volume": 664600,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 29480,
+        "high": 30000,
+        "low": 29280,
+        "close": 29320,
+        "volume": 786600,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 29360,
+        "high": 29560,
+        "low": 28800,
+        "close": 28800,
+        "volume": 1374300,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 28920,
+        "high": 28960,
+        "low": 28480,
+        "close": 28560,
+        "volume": 866700,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 29100,
+        "high": 30300,
+        "low": 29000,
+        "close": 29500,
+        "volume": 1021100,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 29550,
+        "high": 29900,
+        "low": 29050,
+        "close": 29100,
+        "volume": 529800,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 29300,
+        "high": 29600,
+        "low": 29000,
+        "close": 29600,
+        "volume": 712400,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 30000,
+        "high": 30000,
+        "low": 29500,
+        "close": 29750,
+        "volume": 543500,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 30000,
+        "high": 30650,
+        "low": 30000,
+        "close": 30250,
+        "volume": 1433800,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 30250,
+        "high": 30300,
+        "low": 29900,
+        "close": 29950,
+        "volume": 1045600,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 29950,
+        "high": 29950,
+        "low": 29000,
+        "close": 29250,
+        "volume": 1544400,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 29300,
+        "high": 29600,
+        "low": 29200,
+        "close": 29200,
+        "volume": 559400,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 29400,
+        "high": 29600,
+        "low": 29100,
+        "close": 29100,
+        "volume": 594900,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 29100,
+        "high": 29100,
+        "low": 28450,
+        "close": 28450,
+        "volume": 804200,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 28450,
+        "high": 28500,
+        "low": 27950,
+        "close": 28000,
+        "volume": 859400,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 28300,
+        "high": 28700,
+        "low": 27700,
+        "close": 28700,
+        "volume": 515500,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 28500,
+        "high": 28900,
+        "low": 28300,
+        "close": 28750,
+        "volume": 459500,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 29100,
+        "high": 29100,
+        "low": 28600,
+        "close": 28600,
+        "volume": 770000,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 28500,
+        "high": 28600,
+        "low": 28000,
+        "close": 28300,
+        "volume": 367200,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 28000,
+        "high": 28450,
+        "low": 27700,
+        "close": 28400,
+        "volume": 558900,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 28450,
+        "high": 29000,
+        "low": 28400,
+        "close": 29000,
+        "volume": 854000,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 29200,
+        "high": 29300,
+        "low": 28800,
+        "close": 28900,
+        "volume": 998900,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 28900,
+        "high": 29200,
+        "low": 28550,
+        "close": 29200,
+        "volume": 756100,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 29600,
+        "high": 31200,
+        "low": 29550,
+        "close": 31200,
+        "volume": 4170600,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 31600,
+        "high": 33350,
+        "low": 31500,
+        "close": 33350,
+        "volume": 3108700,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 33300,
+        "high": 35000,
+        "low": 33100,
+        "close": 34250,
+        "volume": 2394800,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 34150,
+        "high": 36600,
+        "low": 33600,
+        "close": 36600,
+        "volume": 3249400,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 37400,
+        "high": 37950,
+        "low": 36000,
+        "close": 36500,
+        "volume": 2146100,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 36500,
+        "high": 39050,
+        "low": 36100,
+        "close": 38950,
+        "volume": 2773500,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 38950,
+        "high": 39800,
+        "low": 38250,
+        "close": 38850,
+        "volume": 2117400,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 39000,
+        "high": 39650,
+        "low": 38050,
+        "close": 38950,
+        "volume": 2845100,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 39200,
+        "high": 39850,
+        "low": 38450,
+        "close": 39100,
+        "volume": 2955800,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 38800,
+        "high": 39600,
+        "low": 38700,
+        "close": 38850,
+        "volume": 2682700,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 38750,
+        "high": 41350,
+        "low": 38500,
+        "close": 39400,
+        "volume": 12732900,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 39350,
+        "high": 39400,
+        "low": 38500,
+        "close": 38600,
+        "volume": 4830300,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 38300,
+        "high": 38600,
+        "low": 36600,
+        "close": 36950,
+        "volume": 9712700,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 37400,
+        "high": 38650,
+        "low": 37000,
+        "close": 37000,
+        "volume": 6743800,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 37300,
+        "high": 37800,
+        "low": 37050,
+        "close": 37200,
+        "volume": 4836600,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 37200,
+        "high": 38150,
+        "low": 36850,
+        "close": 37000,
+        "volume": 8506900,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 37500,
+        "high": 37850,
+        "low": 36950,
+        "close": 37700,
+        "volume": 7419700,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 38150,
+        "high": 38750,
+        "low": 36700,
+        "close": 36800,
+        "volume": 12712300,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 36800,
+        "high": 37100,
+        "low": 35600,
+        "close": 35600,
+        "volume": 12278100,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 35300,
+        "high": 36800,
+        "low": 35100,
+        "close": 36100,
+        "volume": 6369400,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 36350,
+        "high": 36650,
+        "low": 35800,
+        "close": 36050,
+        "volume": 4533100,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 36050,
+        "high": 36900,
+        "low": 35500,
+        "close": 36900,
+        "volume": 5675700,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 37500,
+        "high": 38400,
+        "low": 37000,
+        "close": 37600,
+        "volume": 7980100,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 38000,
+        "high": 38000,
+        "low": 37000,
+        "close": 37000,
+        "volume": 4775600,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 37000,
+        "high": 37600,
+        "low": 36700,
+        "close": 37300,
+        "volume": 4435200,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-08-17",
+        "open": 37300,
+        "high": 37800,
+        "low": 36600,
+        "close": 36600,
+        "volume": 4742300,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 36300,
+        "high": 36450,
+        "low": 34050,
+        "close": 34050,
+        "volume": 7044600,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 33300,
+        "high": 33850,
+        "low": 32100,
+        "close": 32400,
+        "volume": 4962600,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 32500,
+        "high": 33200,
+        "low": 31000,
+        "close": 33100,
+        "volume": 4635600,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 33300,
+        "high": 33600,
+        "low": 32500,
+        "close": 32500,
+        "volume": 2452500,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 32600,
+        "high": 34400,
+        "low": 32600,
+        "close": 34200,
+        "volume": 4507500,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 34200,
+        "high": 34250,
+        "low": 33500,
+        "close": 33600,
+        "volume": 3409200,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 34000,
+        "high": 34800,
+        "low": 33650,
+        "close": 34300,
+        "volume": 2726000,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 34500,
+        "high": 35950,
+        "low": 34500,
+        "close": 35200,
+        "volume": 5695200,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 35250,
+        "high": 36500,
+        "low": 35150,
+        "close": 36200,
+        "volume": 5032700,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 36500,
+        "high": 36600,
+        "low": 35950,
+        "close": 36300,
+        "volume": 3480100,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 36900,
+        "high": 36900,
+        "low": 36050,
+        "close": 36200,
+        "volume": 3502200,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 36200,
+        "high": 38000,
+        "low": 35650,
+        "close": 38000,
+        "volume": 8293400,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 38050,
+        "high": 38500,
+        "low": 37000,
+        "close": 37500,
+        "volume": 5583700,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 37300,
+        "high": 38400,
+        "low": 37250,
+        "close": 37800,
+        "volume": 4247200,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 38000,
+        "high": 38100,
+        "low": 35700,
+        "close": 35700,
+        "volume": 6323800,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 35700,
+        "high": 37200,
+        "low": 35500,
+        "close": 37200,
+        "volume": 3516000,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 37600,
+        "high": 38450,
+        "low": 36500,
+        "close": 37000,
+        "volume": 6033100,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 37000,
+        "high": 37000,
+        "low": 35750,
+        "close": 35750,
+        "volume": 4764500,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 35800,
+        "high": 36250,
+        "low": 35100,
+        "close": 35550,
+        "volume": 3393700,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 35500,
+        "high": 35550,
+        "low": 34000,
+        "close": 34250,
+        "volume": 3649500,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 34500,
+        "high": 34650,
+        "low": 33200,
+        "close": 33500,
+        "volume": 3566000,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 33950,
+        "high": 35800,
+        "low": 33700,
+        "close": 35800,
+        "volume": 2674900,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 35900,
+        "high": 36600,
+        "low": 35350,
+        "close": 35500,
+        "volume": 2856100,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 34050,
+        "high": 35000,
+        "low": 33050,
+        "close": 33500,
+        "volume": 4121100,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 33450,
+        "high": 34000,
+        "low": 31200,
+        "close": 31200,
+        "volume": 3365000,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 30600,
+        "high": 32400,
+        "low": 29700,
+        "close": 29700,
+        "volume": 3038200,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 29700,
+        "high": 31750,
+        "low": 29200,
+        "close": 31750,
+        "volume": 2877700,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 31500,
+        "high": 31700,
+        "low": 30750,
+        "close": 31100,
+        "volume": 1733500,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 31600,
+        "high": 31900,
+        "low": 30800,
+        "close": 30800,
+        "volume": 1650500,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 30800,
+        "high": 31500,
+        "low": 30800,
+        "close": 31000,
+        "volume": 949300,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 30550,
+        "high": 30700,
+        "low": 28850,
+        "close": 28850,
+        "volume": 4475000,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 28500,
+        "high": 30550,
+        "low": 28400,
+        "close": 29900,
+        "volume": 3071500,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 30100,
+        "high": 30400,
+        "low": 29300,
+        "close": 29850,
+        "volume": 1857200,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 29850,
+        "high": 31000,
+        "low": 29800,
+        "close": 31000,
+        "volume": 2238100,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 31000,
+        "high": 31450,
+        "low": 30600,
+        "close": 31250,
+        "volume": 1441000,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 31500,
+        "high": 31700,
+        "low": 30400,
+        "close": 30400,
+        "volume": 2417300,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 30500,
+        "high": 30900,
+        "low": 29850,
+        "close": 30900,
+        "volume": 1796400,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 31300,
+        "high": 31950,
+        "low": 31000,
+        "close": 31350,
+        "volume": 3085000,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 30600,
+        "high": 32100,
+        "low": 30400,
+        "close": 31900,
+        "volume": 2514400,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 32000,
+        "high": 32350,
+        "low": 31100,
+        "close": 31100,
+        "volume": 2357900,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 31150,
+        "high": 31800,
+        "low": 29700,
+        "close": 29700,
+        "volume": 2238700,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 30000,
+        "high": 30250,
+        "low": 27650,
+        "close": 28050,
+        "volume": 4074300,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 28100,
+        "high": 29400,
+        "low": 28100,
+        "close": 28500,
+        "volume": 3177000,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 28750,
+        "high": 30450,
+        "low": 28500,
+        "close": 30450,
+        "volume": 2536500,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 30100,
+        "high": 31250,
+        "low": 30100,
+        "close": 30700,
+        "volume": 2890000,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 31000,
+        "high": 31700,
+        "low": 30400,
+        "close": 31700,
+        "volume": 1744000,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 31800,
+        "high": 32049,
+        "low": 30600,
+        "close": 31000,
+        "volume": 1900000,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 30500,
+        "high": 30500,
+        "low": 28850,
+        "close": 29900,
+        "volume": 5504300,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 30000,
+        "high": 31650,
+        "low": 29700,
+        "close": 31500,
+        "volume": 2076800,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 31450,
+        "high": 31950,
+        "low": 30750,
+        "close": 30750,
+        "volume": 1957200,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 31100,
+        "high": 31600,
+        "low": 29450,
+        "close": 29700,
+        "volume": 2288300,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 30000,
+        "high": 30500,
+        "low": 29400,
+        "close": 30500,
+        "volume": 2178500,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 30950,
+        "high": 32600,
+        "low": 30700,
+        "close": 32600,
+        "volume": 3722100,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 32900,
+        "high": 32950,
+        "low": 32000,
+        "close": 32500,
+        "volume": 2536900,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 32900,
+        "high": 32900,
+        "low": 32049,
+        "close": 32700,
+        "volume": 2689600,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 32299,
+        "high": 33200,
+        "low": 32200,
+        "close": 32299,
+        "volume": 2026200,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 32500,
+        "high": 34550,
+        "low": 32450,
+        "close": 34550,
+        "volume": 5252500,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 34600,
+        "high": 35400,
+        "low": 34200,
+        "close": 34200,
+        "volume": 7016600,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 34000,
+        "high": 35050,
+        "low": 33800,
+        "close": 33800,
+        "volume": 5487400,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 33900,
+        "high": 34650,
+        "low": 33200,
+        "close": 33950,
+        "volume": 3392100,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 34500,
+        "high": 35000,
+        "low": 33850,
+        "close": 34200,
+        "volume": 2535200,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 35050,
+        "high": 35050,
+        "low": 33750,
+        "close": 33800,
+        "volume": 3432300,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 33800,
+        "high": 35200,
+        "low": 33500,
+        "close": 35200,
+        "volume": 4914100,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 35300,
+        "high": 35350,
+        "low": 33800,
+        "close": 34100,
+        "volume": 5598400,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 33250,
+        "high": 34350,
+        "low": 33250,
+        "close": 34000,
+        "volume": 3003500,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 34350,
+        "high": 34600,
+        "low": 34150,
+        "close": 34500,
+        "volume": 3573000,
+        "ticker": "HDC"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 34500,
+        "high": 36400,
+        "low": 34050,
+        "close": 36400,
+        "volume": 13991500,
+        "ticker": "HDC"
+    }
+]

@@ -1,0 +1,398 @@
+[
+    {
+        "time": "2023-09-08T09:00:00+07:00",
+        "open": 800,
+        "high": 800,
+        "low": 700,
+        "close": 800,
+        "volume": 26200,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-09-08T10:00:00+07:00",
+        "open": 700,
+        "high": 700,
+        "low": 700,
+        "close": 700,
+        "volume": 302700,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-09-08T11:00:00+07:00",
+        "open": 700,
+        "high": 700,
+        "low": 700,
+        "close": 700,
+        "volume": 3400,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-09-08T13:00:00+07:00",
+        "open": 700,
+        "high": 700,
+        "low": 700,
+        "close": 700,
+        "volume": 522000,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-09-08T14:00:00+07:00",
+        "open": 700,
+        "high": 800,
+        "low": 700,
+        "close": 800,
+        "volume": 264400,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-09-15T09:00:00+07:00",
+        "open": 600,
+        "high": 700,
+        "low": 600,
+        "close": 700,
+        "volume": 177900,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-09-15T10:00:00+07:00",
+        "open": 600,
+        "high": 700,
+        "low": 600,
+        "close": 700,
+        "volume": 700,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-09-15T11:00:00+07:00",
+        "open": 700,
+        "high": 700,
+        "low": 700,
+        "close": 700,
+        "volume": 100,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-09-15T13:00:00+07:00",
+        "open": 700,
+        "high": 700,
+        "low": 600,
+        "close": 700,
+        "volume": 57500,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-09-15T14:00:00+07:00",
+        "open": 700,
+        "high": 700,
+        "low": 600,
+        "close": 600,
+        "volume": 172800,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-09-22T09:00:00+07:00",
+        "open": 600,
+        "high": 600,
+        "low": 600,
+        "close": 600,
+        "volume": 9700,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-09-22T10:00:00+07:00",
+        "open": 500,
+        "high": 600,
+        "low": 500,
+        "close": 600,
+        "volume": 44000,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-09-22T11:00:00+07:00",
+        "open": 600,
+        "high": 600,
+        "low": 600,
+        "close": 600,
+        "volume": 71000,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-09-22T13:00:00+07:00",
+        "open": 600,
+        "high": 700,
+        "low": 500,
+        "close": 700,
+        "volume": 83400,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-09-22T14:00:00+07:00",
+        "open": 700,
+        "high": 700,
+        "low": 600,
+        "close": 700,
+        "volume": 203100,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-09-29T09:00:00+07:00",
+        "open": 600,
+        "high": 700,
+        "low": 600,
+        "close": 700,
+        "volume": 1300,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-09-29T10:00:00+07:00",
+        "open": 700,
+        "high": 700,
+        "low": 600,
+        "close": 700,
+        "volume": 2600,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-09-29T11:00:00+07:00",
+        "open": 700,
+        "high": 700,
+        "low": 700,
+        "close": 700,
+        "volume": 30500,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-09-29T13:00:00+07:00",
+        "open": 600,
+        "high": 700,
+        "low": 600,
+        "close": 700,
+        "volume": 110200,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-09-29T14:00:00+07:00",
+        "open": 700,
+        "high": 700,
+        "low": 700,
+        "close": 700,
+        "volume": 69100,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-10-06T09:00:00+07:00",
+        "open": 600,
+        "high": 700,
+        "low": 600,
+        "close": 700,
+        "volume": 1000,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-10-06T10:00:00+07:00",
+        "open": 700,
+        "high": 700,
+        "low": 700,
+        "close": 700,
+        "volume": 1800,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-10-06T13:00:00+07:00",
+        "open": 600,
+        "high": 700,
+        "low": 600,
+        "close": 700,
+        "volume": 27700,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-10-06T14:00:00+07:00",
+        "open": 700,
+        "high": 700,
+        "low": 700,
+        "close": 700,
+        "volume": 4000,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-10-20T09:00:00+07:00",
+        "open": 700,
+        "high": 700,
+        "low": 600,
+        "close": 600,
+        "volume": 52900,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-10-20T10:00:00+07:00",
+        "open": 600,
+        "high": 600,
+        "low": 600,
+        "close": 600,
+        "volume": 900,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-10-20T11:00:00+07:00",
+        "open": 600,
+        "high": 600,
+        "low": 600,
+        "close": 600,
+        "volume": 20000,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-10-20T13:00:00+07:00",
+        "open": 600,
+        "high": 600,
+        "low": 600,
+        "close": 600,
+        "volume": 6200,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-10-27T09:00:00+07:00",
+        "open": 600,
+        "high": 600,
+        "low": 500,
+        "close": 500,
+        "volume": 12300,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-10-27T10:00:00+07:00",
+        "open": 500,
+        "high": 500,
+        "low": 500,
+        "close": 500,
+        "volume": 48200,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-10-27T13:00:00+07:00",
+        "open": 500,
+        "high": 500,
+        "low": 500,
+        "close": 500,
+        "volume": 15000,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-10-27T14:00:00+07:00",
+        "open": 600,
+        "high": 600,
+        "low": 600,
+        "close": 600,
+        "volume": 100,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-11-03T09:00:00+07:00",
+        "open": 600,
+        "high": 600,
+        "low": 600,
+        "close": 600,
+        "volume": 2700,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-11-03T10:00:00+07:00",
+        "open": 500,
+        "high": 500,
+        "low": 500,
+        "close": 500,
+        "volume": 300,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-11-03T11:00:00+07:00",
+        "open": 600,
+        "high": 600,
+        "low": 600,
+        "close": 600,
+        "volume": 100,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-11-03T13:00:00+07:00",
+        "open": 600,
+        "high": 600,
+        "low": 500,
+        "close": 500,
+        "volume": 300,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-11-03T14:00:00+07:00",
+        "open": 600,
+        "high": 600,
+        "low": 500,
+        "close": 600,
+        "volume": 11500,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-11-10T09:00:00+07:00",
+        "open": 600,
+        "high": 600,
+        "low": 600,
+        "close": 600,
+        "volume": 2700,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-11-10T11:00:00+07:00",
+        "open": 500,
+        "high": 500,
+        "low": 500,
+        "close": 500,
+        "volume": 400,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-11-10T13:00:00+07:00",
+        "open": 600,
+        "high": 600,
+        "low": 600,
+        "close": 600,
+        "volume": 1400,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-11-10T14:00:00+07:00",
+        "open": 500,
+        "high": 600,
+        "low": 500,
+        "close": 600,
+        "volume": 13800,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-11-17T09:00:00+07:00",
+        "open": 500,
+        "high": 600,
+        "low": 500,
+        "close": 500,
+        "volume": 252800,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-11-17T10:00:00+07:00",
+        "open": 500,
+        "high": 600,
+        "low": 500,
+        "close": 600,
+        "volume": 241100,
+        "ticker": "PVA"
+    },
+    {
+        "time": "2023-11-17T13:00:00+07:00",
+        "open": 500,
+        "high": 600,
+        "low": 500,
+        "close": 600,
+        "volume": 200,
+        "ticker": "PVA"
+    }
+]

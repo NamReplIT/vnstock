@@ -1,0 +1,407 @@
+[
+    {
+        "time": "2023-05-05",
+        "open": 192000,
+        "high": 192000,
+        "low": 192000,
+        "close": 192000,
+        "volume": 200,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 192000,
+        "high": 192000,
+        "low": 192000,
+        "close": 192000,
+        "volume": 100,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 192000,
+        "high": 192000,
+        "low": 192000,
+        "close": 192000,
+        "volume": 100,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 164000,
+        "high": 164000,
+        "low": 164000,
+        "close": 164000,
+        "volume": 500,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 164100,
+        "high": 164100,
+        "low": 164100,
+        "close": 164100,
+        "volume": 1600,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 156000,
+        "high": 156000,
+        "low": 156000,
+        "close": 156000,
+        "volume": 1200,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 179400,
+        "high": 179400,
+        "low": 179400,
+        "close": 179400,
+        "volume": 100,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 189900,
+        "high": 189900,
+        "low": 189900,
+        "close": 189900,
+        "volume": 500,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 189900,
+        "high": 189900,
+        "low": 189900,
+        "close": 189900,
+        "volume": 100,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 188900,
+        "high": 188900,
+        "low": 188900,
+        "close": 188900,
+        "volume": 400,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 188900,
+        "high": 188900,
+        "low": 188900,
+        "close": 188900,
+        "volume": 200,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 189900,
+        "high": 189900,
+        "low": 189900,
+        "close": 189900,
+        "volume": 400,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 189000,
+        "high": 189000,
+        "low": 189000,
+        "close": 189000,
+        "volume": 500,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 199000,
+        "high": 199000,
+        "low": 189000,
+        "close": 189000,
+        "volume": 200,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 181000,
+        "high": 181000,
+        "low": 180500,
+        "close": 180500,
+        "volume": 500,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 185000,
+        "high": 185000,
+        "low": 185000,
+        "close": 185000,
+        "volume": 200,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 186000,
+        "high": 186000,
+        "low": 185100,
+        "close": 185100,
+        "volume": 2600,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 185100,
+        "high": 185100,
+        "low": 185100,
+        "close": 185100,
+        "volume": 1500,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 185100,
+        "high": 185100,
+        "low": 185100,
+        "close": 185100,
+        "volume": 1000,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 184000,
+        "high": 184000,
+        "low": 184000,
+        "close": 184000,
+        "volume": 500,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 184000,
+        "high": 184000,
+        "low": 184000,
+        "close": 184000,
+        "volume": 200,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 187100,
+        "high": 187100,
+        "low": 187100,
+        "close": 187100,
+        "volume": 300,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 188000,
+        "high": 188000,
+        "low": 188000,
+        "close": 188000,
+        "volume": 800,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 188000,
+        "high": 188000,
+        "low": 188000,
+        "close": 188000,
+        "volume": 2700,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 188000,
+        "high": 188000,
+        "low": 188000,
+        "close": 188000,
+        "volume": 600,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 188000,
+        "high": 188000,
+        "low": 188000,
+        "close": 188000,
+        "volume": 400,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 188000,
+        "high": 188000,
+        "low": 188000,
+        "close": 188000,
+        "volume": 600,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 188000,
+        "high": 188000,
+        "low": 188000,
+        "close": 188000,
+        "volume": 100,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 189000,
+        "high": 189000,
+        "low": 189000,
+        "close": 189000,
+        "volume": 200,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 189000,
+        "high": 189000,
+        "low": 189000,
+        "close": 189000,
+        "volume": 100,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 189000,
+        "high": 190000,
+        "low": 184000,
+        "close": 184000,
+        "volume": 800,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 188400,
+        "high": 188400,
+        "low": 188400,
+        "close": 188400,
+        "volume": 300,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 188400,
+        "high": 188400,
+        "low": 188400,
+        "close": 188400,
+        "volume": 100,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 189000,
+        "high": 189000,
+        "low": 189000,
+        "close": 189000,
+        "volume": 100,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 166000,
+        "high": 166000,
+        "low": 166000,
+        "close": 166000,
+        "volume": 300,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 180000,
+        "high": 180000,
+        "low": 180000,
+        "close": 180000,
+        "volume": 100,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 180000,
+        "high": 180000,
+        "low": 180000,
+        "close": 180000,
+        "volume": 200,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 175000,
+        "high": 175000,
+        "low": 175000,
+        "close": 175000,
+        "volume": 100,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 182000,
+        "high": 182000,
+        "low": 182000,
+        "close": 182000,
+        "volume": 700,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 182000,
+        "high": 182000,
+        "low": 182000,
+        "close": 182000,
+        "volume": 800,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 190000,
+        "high": 190000,
+        "low": 190000,
+        "close": 190000,
+        "volume": 300,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 170000,
+        "high": 170000,
+        "low": 170000,
+        "close": 170000,
+        "volume": 200,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 185000,
+        "high": 185000,
+        "low": 185000,
+        "close": 185000,
+        "volume": 100,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 185000,
+        "high": 185000,
+        "low": 185000,
+        "close": 185000,
+        "volume": 700,
+        "ticker": "CMF"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 185000,
+        "high": 185000,
+        "low": 185000,
+        "close": 185000,
+        "volume": 100,
+        "ticker": "CMF"
+    }
+]

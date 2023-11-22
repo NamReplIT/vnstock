@@ -1,0 +1,821 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 24820,
+        "high": 24820,
+        "low": 24820,
+        "close": 24820,
+        "volume": 500,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 25640,
+        "high": 25640,
+        "low": 25640,
+        "close": 25640,
+        "volume": 10000,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 23640,
+        "high": 23640,
+        "low": 23640,
+        "close": 23640,
+        "volume": 1500,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 22730,
+        "high": 22730,
+        "low": 22730,
+        "close": 22730,
+        "volume": 1000,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 22730,
+        "high": 22730,
+        "low": 22730,
+        "close": 22730,
+        "volume": 500,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 22730,
+        "high": 22730,
+        "low": 22730,
+        "close": 22730,
+        "volume": 1500,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 22730,
+        "high": 22730,
+        "low": 22730,
+        "close": 22730,
+        "volume": 200,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 22730,
+        "high": 22730,
+        "low": 22730,
+        "close": 22730,
+        "volume": 4500,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 22730,
+        "high": 22730,
+        "low": 22730,
+        "close": 22730,
+        "volume": 16000,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 22730,
+        "high": 22730,
+        "low": 22730,
+        "close": 22730,
+        "volume": 2600,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 22820,
+        "high": 23640,
+        "low": 22820,
+        "close": 23640,
+        "volume": 10700,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 26000,
+        "high": 26000,
+        "low": 26000,
+        "close": 26000,
+        "volume": 600,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 23820,
+        "high": 23820,
+        "low": 23640,
+        "close": 23640,
+        "volume": 6200,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 22730,
+        "high": 23270,
+        "low": 22730,
+        "close": 23270,
+        "volume": 3000,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 24000,
+        "high": 24000,
+        "low": 24000,
+        "close": 24000,
+        "volume": 100,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 24000,
+        "high": 24000,
+        "low": 24000,
+        "close": 24000,
+        "volume": 1600,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 22730,
+        "high": 23640,
+        "low": 22730,
+        "close": 23640,
+        "volume": 900,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 23640,
+        "high": 23640,
+        "low": 23180,
+        "close": 23180,
+        "volume": 3600,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 22730,
+        "high": 23180,
+        "low": 22730,
+        "close": 22730,
+        "volume": 25600,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 22730,
+        "high": 23910,
+        "low": 22730,
+        "close": 22730,
+        "volume": 4800,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 21820,
+        "high": 21820,
+        "low": 21820,
+        "close": 21820,
+        "volume": 4500,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 22270,
+        "high": 22910,
+        "low": 20450,
+        "close": 20450,
+        "volume": 7000,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 22450,
+        "high": 22450,
+        "low": 22450,
+        "close": 22450,
+        "volume": 30000,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 22550,
+        "high": 22550,
+        "low": 22550,
+        "close": 22550,
+        "volume": 100,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 21090,
+        "high": 21090,
+        "low": 21090,
+        "close": 21090,
+        "volume": 300,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 22180,
+        "high": 22180,
+        "low": 22180,
+        "close": 22180,
+        "volume": 15200,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 21910,
+        "high": 22550,
+        "low": 21910,
+        "close": 22550,
+        "volume": 4800,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 22270,
+        "high": 22270,
+        "low": 22270,
+        "close": 22270,
+        "volume": 1000,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 22090,
+        "high": 22730,
+        "low": 22090,
+        "close": 22730,
+        "volume": 1100,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 24200,
+        "high": 24500,
+        "low": 24200,
+        "close": 24500,
+        "volume": 3300,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 22400,
+        "high": 24500,
+        "low": 22400,
+        "close": 24500,
+        "volume": 5300,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 23000,
+        "high": 23000,
+        "low": 23000,
+        "close": 23000,
+        "volume": 1000,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 23000,
+        "high": 23000,
+        "low": 22000,
+        "close": 22000,
+        "volume": 700,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 22900,
+        "high": 22900,
+        "low": 22200,
+        "close": 22200,
+        "volume": 175700,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 22100,
+        "high": 22900,
+        "low": 22000,
+        "close": 22900,
+        "volume": 2600,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 22500,
+        "high": 22500,
+        "low": 22500,
+        "close": 22500,
+        "volume": 2100,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 22500,
+        "high": 22500,
+        "low": 22500,
+        "close": 22500,
+        "volume": 1500,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 22600,
+        "high": 22600,
+        "low": 22600,
+        "close": 22600,
+        "volume": 2700,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 21300,
+        "high": 23600,
+        "low": 21300,
+        "close": 23600,
+        "volume": 200,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 22500,
+        "high": 22600,
+        "low": 22500,
+        "close": 22600,
+        "volume": 2700,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 22500,
+        "high": 22500,
+        "low": 22500,
+        "close": 22500,
+        "volume": 3000,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 22500,
+        "high": 22600,
+        "low": 22500,
+        "close": 22600,
+        "volume": 1800,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 22800,
+        "high": 23000,
+        "low": 22700,
+        "close": 23000,
+        "volume": 7200,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 22500,
+        "high": 23000,
+        "low": 22500,
+        "close": 23000,
+        "volume": 2500,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 22800,
+        "high": 24000,
+        "low": 22500,
+        "close": 23500,
+        "volume": 5100,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 22800,
+        "high": 23600,
+        "low": 22800,
+        "close": 23400,
+        "volume": 2400,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 23100,
+        "high": 23400,
+        "low": 23100,
+        "close": 23400,
+        "volume": 1500,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 23400,
+        "high": 23400,
+        "low": 23400,
+        "close": 23400,
+        "volume": 500,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 22500,
+        "high": 23400,
+        "low": 22500,
+        "close": 23400,
+        "volume": 1000,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 22600,
+        "high": 23000,
+        "low": 22600,
+        "close": 23000,
+        "volume": 300,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 23000,
+        "high": 23500,
+        "low": 23000,
+        "close": 23500,
+        "volume": 500,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 23000,
+        "high": 23400,
+        "low": 23000,
+        "close": 23400,
+        "volume": 700,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 23000,
+        "high": 23400,
+        "low": 23000,
+        "close": 23400,
+        "volume": 300,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 23400,
+        "high": 23400,
+        "low": 23100,
+        "close": 23100,
+        "volume": 700,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 23400,
+        "high": 23500,
+        "low": 23400,
+        "close": 23500,
+        "volume": 17900,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 23500,
+        "high": 23500,
+        "low": 23500,
+        "close": 23500,
+        "volume": 100,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 23500,
+        "high": 23600,
+        "low": 23500,
+        "close": 23600,
+        "volume": 600,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 24000,
+        "high": 24000,
+        "low": 24000,
+        "close": 24000,
+        "volume": 500,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 23500,
+        "high": 24000,
+        "low": 23500,
+        "close": 24000,
+        "volume": 1000,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 23800,
+        "high": 23800,
+        "low": 23500,
+        "close": 23500,
+        "volume": 400,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 23500,
+        "high": 23500,
+        "low": 23100,
+        "close": 23400,
+        "volume": 1500,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 23100,
+        "high": 23400,
+        "low": 23100,
+        "close": 23400,
+        "volume": 1000,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 23000,
+        "high": 23400,
+        "low": 23000,
+        "close": 23400,
+        "volume": 200,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 22900,
+        "high": 23300,
+        "low": 22900,
+        "close": 23300,
+        "volume": 3200,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 23000,
+        "high": 23300,
+        "low": 23000,
+        "close": 23300,
+        "volume": 9300,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 23200,
+        "high": 23200,
+        "low": 23200,
+        "close": 23200,
+        "volume": 200,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 23000,
+        "high": 24400,
+        "low": 23000,
+        "close": 23500,
+        "volume": 3300,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 23500,
+        "high": 23700,
+        "low": 23500,
+        "close": 23500,
+        "volume": 4600,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 23000,
+        "high": 23000,
+        "low": 23000,
+        "close": 23000,
+        "volume": 1400,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 23000,
+        "high": 23000,
+        "low": 23000,
+        "close": 23000,
+        "volume": 100,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 23000,
+        "high": 23000,
+        "low": 23000,
+        "close": 23000,
+        "volume": 200,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 23000,
+        "high": 23000,
+        "low": 22000,
+        "close": 22000,
+        "volume": 300,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 23000,
+        "high": 23000,
+        "low": 22700,
+        "close": 22700,
+        "volume": 300,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 22100,
+        "high": 22500,
+        "low": 22100,
+        "close": 22500,
+        "volume": 24200,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 22600,
+        "high": 22600,
+        "low": 22600,
+        "close": 22600,
+        "volume": 100,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 22600,
+        "high": 22700,
+        "low": 22600,
+        "close": 22700,
+        "volume": 1000,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 21500,
+        "high": 22600,
+        "low": 21300,
+        "close": 22100,
+        "volume": 15200,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 22000,
+        "high": 22000,
+        "low": 21300,
+        "close": 22000,
+        "volume": 700,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 22000,
+        "high": 22000,
+        "low": 22000,
+        "close": 22000,
+        "volume": 900,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 21300,
+        "high": 21300,
+        "low": 21300,
+        "close": 21300,
+        "volume": 300,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 21300,
+        "high": 21300,
+        "low": 21300,
+        "close": 21300,
+        "volume": 200,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 21000,
+        "high": 21100,
+        "low": 21000,
+        "close": 21100,
+        "volume": 2700,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 21800,
+        "high": 21800,
+        "low": 21800,
+        "close": 21800,
+        "volume": 100,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 21800,
+        "high": 21800,
+        "low": 21800,
+        "close": 21800,
+        "volume": 100,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 21800,
+        "high": 21800,
+        "low": 21800,
+        "close": 21800,
+        "volume": 100,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 20300,
+        "high": 21000,
+        "low": 20300,
+        "close": 21000,
+        "volume": 24600,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 21000,
+        "high": 21000,
+        "low": 21000,
+        "close": 21000,
+        "volume": 100,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 21000,
+        "high": 21800,
+        "low": 21000,
+        "close": 21800,
+        "volume": 1500,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 22500,
+        "high": 22600,
+        "low": 22500,
+        "close": 22600,
+        "volume": 600,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 20500,
+        "high": 21500,
+        "low": 20400,
+        "close": 21500,
+        "volume": 2400,
+        "ticker": "SJE"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 21500,
+        "high": 21500,
+        "low": 21500,
+        "close": 21500,
+        "volume": 400,
+        "ticker": "SJE"
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "time": "2023-05-08",
+        "open": 11340,
+        "high": 11340,
+        "low": 11340,
+        "close": 11340,
+        "volume": 300,
+        "ticker": "NFC"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 12250,
+        "high": 12250,
+        "low": 12250,
+        "close": 12250,
+        "volume": 300,
+        "ticker": "NFC"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 12250,
+        "high": 12250,
+        "low": 12250,
+        "close": 12250,
+        "volume": 200,
+        "ticker": "NFC"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 12700,
+        "high": 12700,
+        "low": 12700,
+        "close": 12700,
+        "volume": 200,
+        "ticker": "NFC"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 12700,
+        "high": 12700,
+        "low": 12700,
+        "close": 12700,
+        "volume": 2000,
+        "ticker": "NFC"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 12700,
+        "high": 12700,
+        "low": 12700,
+        "close": 12700,
+        "volume": 100,
+        "ticker": "NFC"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 12700,
+        "high": 13700,
+        "low": 12700,
+        "close": 13700,
+        "volume": 1700,
+        "ticker": "NFC"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 11800,
+        "high": 11800,
+        "low": 11800,
+        "close": 11800,
+        "volume": 200,
+        "ticker": "NFC"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 12900,
+        "high": 12900,
+        "low": 12900,
+        "close": 12900,
+        "volume": 1000,
+        "ticker": "NFC"
+    }
+]

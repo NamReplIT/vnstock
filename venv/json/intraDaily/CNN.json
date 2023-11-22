@@ -1,0 +1,947 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 38940,
+        "high": 38940,
+        "low": 32740,
+        "close": 32740,
+        "volume": 300,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 32450,
+        "high": 32540,
+        "low": 32450,
+        "close": 32540,
+        "volume": 200,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 32640,
+        "high": 32640,
+        "low": 32640,
+        "close": 32640,
+        "volume": 200,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 29690,
+        "high": 29690,
+        "low": 29690,
+        "close": 29690,
+        "volume": 200,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 34810,
+        "high": 34810,
+        "low": 34810,
+        "close": 34810,
+        "volume": 600,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 40020,
+        "high": 40020,
+        "low": 40020,
+        "close": 40020,
+        "volume": 200,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 33130,
+        "high": 36180,
+        "low": 33130,
+        "close": 36180,
+        "volume": 300,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 31950,
+        "high": 38050,
+        "low": 31950,
+        "close": 32540,
+        "volume": 800,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 32840,
+        "high": 38050,
+        "low": 32840,
+        "close": 38050,
+        "volume": 400,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 33430,
+        "high": 38150,
+        "low": 33430,
+        "close": 38150,
+        "volume": 600,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 33920,
+        "high": 33920,
+        "low": 33920,
+        "close": 33920,
+        "volume": 100,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 32940,
+        "high": 37170,
+        "low": 32940,
+        "close": 33130,
+        "volume": 500,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 33430,
+        "high": 36870,
+        "low": 33430,
+        "close": 36870,
+        "volume": 500,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 33920,
+        "high": 39720,
+        "low": 33920,
+        "close": 39720,
+        "volume": 400,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 42380,
+        "high": 42380,
+        "low": 31950,
+        "close": 31950,
+        "volume": 400,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 33430,
+        "high": 33430,
+        "low": 33430,
+        "close": 33430,
+        "volume": 200,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 33430,
+        "high": 33430,
+        "low": 33430,
+        "close": 33430,
+        "volume": 100,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 33040,
+        "high": 36770,
+        "low": 33040,
+        "close": 33430,
+        "volume": 1900,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 33430,
+        "high": 37360,
+        "low": 33430,
+        "close": 37360,
+        "volume": 1000,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 34410,
+        "high": 37360,
+        "low": 34410,
+        "close": 37360,
+        "volume": 400,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 34410,
+        "high": 39330,
+        "low": 34410,
+        "close": 34510,
+        "volume": 400,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 34410,
+        "high": 38840,
+        "low": 34410,
+        "close": 34510,
+        "volume": 600,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 38840,
+        "high": 38840,
+        "low": 37260,
+        "close": 38840,
+        "volume": 800,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 39330,
+        "high": 39330,
+        "low": 35990,
+        "close": 35990,
+        "volume": 800,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 39330,
+        "high": 39330,
+        "low": 35590,
+        "close": 35990,
+        "volume": 900,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 36970,
+        "high": 39330,
+        "low": 34810,
+        "close": 34810,
+        "volume": 1600,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 36870,
+        "high": 39330,
+        "low": 36870,
+        "close": 39330,
+        "volume": 300,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 39330,
+        "high": 44240,
+        "low": 35890,
+        "close": 44240,
+        "volume": 11300,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 50050,
+        "high": 50050,
+        "low": 50050,
+        "close": 50050,
+        "volume": 4400,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 57520,
+        "high": 57520,
+        "low": 57520,
+        "close": 57520,
+        "volume": 11100,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 66070,
+        "high": 66070,
+        "low": 57520,
+        "close": 66070,
+        "volume": 24800,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 75020,
+        "high": 75020,
+        "low": 60960,
+        "close": 63910,
+        "volume": 9600,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 66860,
+        "high": 68830,
+        "low": 56530,
+        "close": 56530,
+        "volume": 12700,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 55060,
+        "high": 55160,
+        "low": 50140,
+        "close": 50140,
+        "volume": 5600,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 50240,
+        "high": 53590,
+        "low": 49160,
+        "close": 53590,
+        "volume": 3600,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 49750,
+        "high": 57030,
+        "low": 49750,
+        "close": 57030,
+        "volume": 2000,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 58010,
+        "high": 62730,
+        "low": 57620,
+        "close": 60960,
+        "volume": 6200,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 62930,
+        "high": 63420,
+        "low": 58500,
+        "close": 61650,
+        "volume": 2800,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 60470,
+        "high": 60470,
+        "low": 58010,
+        "close": 58990,
+        "volume": 7800,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 59090,
+        "high": 59090,
+        "low": 58700,
+        "close": 58700,
+        "volume": 2600,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 59980,
+        "high": 59980,
+        "low": 58010,
+        "close": 59090,
+        "volume": 1500,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 57030,
+        "high": 58890,
+        "low": 54270,
+        "close": 58890,
+        "volume": 4000,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 56930,
+        "high": 57030,
+        "low": 55550,
+        "close": 57030,
+        "volume": 900,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 55060,
+        "high": 55060,
+        "low": 50730,
+        "close": 50730,
+        "volume": 4500,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 51230,
+        "high": 51320,
+        "low": 51230,
+        "close": 51320,
+        "volume": 1700,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 51620,
+        "high": 53980,
+        "low": 51620,
+        "close": 53980,
+        "volume": 2400,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 53980,
+        "high": 54080,
+        "low": 52600,
+        "close": 52600,
+        "volume": 2000,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 53590,
+        "high": 53590,
+        "low": 53190,
+        "close": 53190,
+        "volume": 2200,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 53090,
+        "high": 53190,
+        "low": 53090,
+        "close": 53090,
+        "volume": 600,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 52310,
+        "high": 53590,
+        "low": 52310,
+        "close": 53590,
+        "volume": 500,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 50100,
+        "high": 52500,
+        "low": 50100,
+        "close": 52000,
+        "volume": 2100,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 51700,
+        "high": 51900,
+        "low": 51700,
+        "close": 51900,
+        "volume": 900,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 51700,
+        "high": 51900,
+        "low": 45100,
+        "close": 51700,
+        "volume": 5700,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 47000,
+        "high": 47000,
+        "low": 46900,
+        "close": 46900,
+        "volume": 3100,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 47000,
+        "high": 53900,
+        "low": 47000,
+        "close": 47900,
+        "volume": 400,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 47900,
+        "high": 47900,
+        "low": 47900,
+        "close": 47900,
+        "volume": 300,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 49000,
+        "high": 49000,
+        "low": 49000,
+        "close": 49000,
+        "volume": 2100,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 48500,
+        "high": 49000,
+        "low": 48500,
+        "close": 48500,
+        "volume": 1600,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 48700,
+        "high": 48700,
+        "low": 48700,
+        "close": 48700,
+        "volume": 300,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 48700,
+        "high": 48700,
+        "low": 48000,
+        "close": 48000,
+        "volume": 2100,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 48200,
+        "high": 48200,
+        "low": 48200,
+        "close": 48200,
+        "volume": 400,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 48100,
+        "high": 48100,
+        "low": 47500,
+        "close": 47500,
+        "volume": 2000,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 46500,
+        "high": 46500,
+        "low": 46500,
+        "close": 46500,
+        "volume": 300,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 46000,
+        "high": 47000,
+        "low": 45100,
+        "close": 47000,
+        "volume": 1300,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-08-17",
+        "open": 46000,
+        "high": 46500,
+        "low": 44500,
+        "close": 45100,
+        "volume": 1900,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 46000,
+        "high": 46000,
+        "low": 45100,
+        "close": 45100,
+        "volume": 400,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 45000,
+        "high": 45000,
+        "low": 40100,
+        "close": 40100,
+        "volume": 2100,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 41100,
+        "high": 41100,
+        "low": 41100,
+        "close": 41100,
+        "volume": 500,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 41900,
+        "high": 41900,
+        "low": 41500,
+        "close": 41600,
+        "volume": 1600,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 43000,
+        "high": 43000,
+        "low": 43000,
+        "close": 43000,
+        "volume": 2200,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 41300,
+        "high": 41300,
+        "low": 41300,
+        "close": 41300,
+        "volume": 100,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 41800,
+        "high": 41900,
+        "low": 41800,
+        "close": 41900,
+        "volume": 200,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 42100,
+        "high": 42100,
+        "low": 41900,
+        "close": 41900,
+        "volume": 1500,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 41500,
+        "high": 42000,
+        "low": 41500,
+        "close": 41500,
+        "volume": 2100,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 46000,
+        "high": 46000,
+        "low": 42000,
+        "close": 42000,
+        "volume": 1500,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 44200,
+        "high": 45000,
+        "low": 43100,
+        "close": 43100,
+        "volume": 600,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 42100,
+        "high": 42100,
+        "low": 42100,
+        "close": 42100,
+        "volume": 300,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 44000,
+        "high": 47000,
+        "low": 44000,
+        "close": 47000,
+        "volume": 3000,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 43700,
+        "high": 43700,
+        "low": 43700,
+        "close": 43700,
+        "volume": 100,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 43900,
+        "high": 43900,
+        "low": 43900,
+        "close": 43900,
+        "volume": 500,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 44300,
+        "high": 44300,
+        "low": 41000,
+        "close": 41000,
+        "volume": 3600,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 41500,
+        "high": 41500,
+        "low": 41500,
+        "close": 41500,
+        "volume": 500,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 42000,
+        "high": 44000,
+        "low": 42000,
+        "close": 44000,
+        "volume": 400,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 42100,
+        "high": 42100,
+        "low": 42100,
+        "close": 42100,
+        "volume": 1600,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 42100,
+        "high": 42100,
+        "low": 42100,
+        "close": 42100,
+        "volume": 600,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 42500,
+        "high": 45000,
+        "low": 42500,
+        "close": 45000,
+        "volume": 1300,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 42500,
+        "high": 45400,
+        "low": 42500,
+        "close": 45400,
+        "volume": 300,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 44000,
+        "high": 44000,
+        "low": 44000,
+        "close": 44000,
+        "volume": 300,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 42200,
+        "high": 42200,
+        "low": 42200,
+        "close": 42200,
+        "volume": 300,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 42200,
+        "high": 42200,
+        "low": 42200,
+        "close": 42200,
+        "volume": 100,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 42300,
+        "high": 42300,
+        "low": 42200,
+        "close": 42200,
+        "volume": 600,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 42200,
+        "high": 42200,
+        "low": 42200,
+        "close": 42200,
+        "volume": 500,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 42200,
+        "high": 42200,
+        "low": 42200,
+        "close": 42200,
+        "volume": 800,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 35900,
+        "high": 45600,
+        "low": 35900,
+        "close": 45600,
+        "volume": 300,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 42200,
+        "high": 42200,
+        "low": 33500,
+        "close": 40000,
+        "volume": 1800,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 40100,
+        "high": 40100,
+        "low": 40100,
+        "close": 40100,
+        "volume": 200,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 40100,
+        "high": 40100,
+        "low": 34500,
+        "close": 34500,
+        "volume": 1100,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 39600,
+        "high": 39600,
+        "low": 39600,
+        "close": 39600,
+        "volume": 100,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 40000,
+        "high": 40000,
+        "low": 40000,
+        "close": 40000,
+        "volume": 1900,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 40200,
+        "high": 40200,
+        "low": 40200,
+        "close": 40200,
+        "volume": 100,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 40500,
+        "high": 40500,
+        "low": 40500,
+        "close": 40500,
+        "volume": 500,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 40000,
+        "high": 40000,
+        "low": 40000,
+        "close": 40000,
+        "volume": 500,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 40500,
+        "high": 40500,
+        "low": 40500,
+        "close": 40500,
+        "volume": 200,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 40500,
+        "high": 40500,
+        "low": 40500,
+        "close": 40500,
+        "volume": 900,
+        "ticker": "CNN"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 40600,
+        "high": 40600,
+        "low": 40600,
+        "close": 40600,
+        "volume": 200,
+        "ticker": "CNN"
+    }
+]

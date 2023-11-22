@@ -1,0 +1,497 @@
+[
+    {
+        "time": "2023-05-09",
+        "open": 35150,
+        "high": 35150,
+        "low": 35150,
+        "close": 35150,
+        "volume": 300,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 29960,
+        "high": 29960,
+        "low": 29960,
+        "close": 29960,
+        "volume": 100,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 34390,
+        "high": 34390,
+        "low": 34390,
+        "close": 34390,
+        "volume": 100,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 34390,
+        "high": 34390,
+        "low": 34390,
+        "close": 34390,
+        "volume": 100,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 33600,
+        "high": 33600,
+        "low": 33600,
+        "close": 33600,
+        "volume": 200,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 37340,
+        "high": 37340,
+        "low": 37340,
+        "close": 37340,
+        "volume": 400,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 37730,
+        "high": 37730,
+        "low": 37340,
+        "close": 37340,
+        "volume": 2200,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 37830,
+        "high": 37830,
+        "low": 37830,
+        "close": 37830,
+        "volume": 400,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 37340,
+        "high": 37340,
+        "low": 37340,
+        "close": 37340,
+        "volume": 500,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 37830,
+        "high": 37830,
+        "low": 37830,
+        "close": 37830,
+        "volume": 200,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 36350,
+        "high": 36350,
+        "low": 36350,
+        "close": 36350,
+        "volume": 100,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 36350,
+        "high": 36350,
+        "low": 36350,
+        "close": 36350,
+        "volume": 100,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 37830,
+        "high": 37830,
+        "low": 37830,
+        "close": 37830,
+        "volume": 100,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 37830,
+        "high": 37830,
+        "low": 37830,
+        "close": 37830,
+        "volume": 1400,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 37830,
+        "high": 37830,
+        "low": 37830,
+        "close": 37830,
+        "volume": 300,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 37830,
+        "high": 39300,
+        "low": 37830,
+        "close": 39300,
+        "volume": 600,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 39100,
+        "high": 39100,
+        "low": 39100,
+        "close": 39100,
+        "volume": 1200,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 39300,
+        "high": 39300,
+        "low": 39300,
+        "close": 39300,
+        "volume": 300,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 39300,
+        "high": 39300,
+        "low": 39300,
+        "close": 39300,
+        "volume": 200,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 39300,
+        "high": 39300,
+        "low": 39300,
+        "close": 39300,
+        "volume": 100,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 40280,
+        "high": 40280,
+        "low": 40280,
+        "close": 40280,
+        "volume": 200,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 39300,
+        "high": 39300,
+        "low": 39300,
+        "close": 39300,
+        "volume": 500,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 39300,
+        "high": 39300,
+        "low": 39300,
+        "close": 39300,
+        "volume": 100,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 40000,
+        "high": 40000,
+        "low": 40000,
+        "close": 40000,
+        "volume": 100,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 34500,
+        "high": 34500,
+        "low": 34500,
+        "close": 34500,
+        "volume": 100,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 39600,
+        "high": 39600,
+        "low": 39600,
+        "close": 39600,
+        "volume": 400,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 34900,
+        "high": 34900,
+        "low": 34900,
+        "close": 34900,
+        "volume": 100,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 40000,
+        "high": 40000,
+        "low": 40000,
+        "close": 40000,
+        "volume": 800,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 40000,
+        "high": 40000,
+        "low": 40000,
+        "close": 40000,
+        "volume": 100,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 40000,
+        "high": 40000,
+        "low": 40000,
+        "close": 40000,
+        "volume": 100,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 40000,
+        "high": 40000,
+        "low": 40000,
+        "close": 40000,
+        "volume": 100,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 40000,
+        "high": 40000,
+        "low": 40000,
+        "close": 40000,
+        "volume": 100,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 40000,
+        "high": 40000,
+        "low": 40000,
+        "close": 40000,
+        "volume": 100,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 40000,
+        "high": 40000,
+        "low": 40000,
+        "close": 40000,
+        "volume": 100,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 40500,
+        "high": 40500,
+        "low": 40500,
+        "close": 40500,
+        "volume": 500,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 40000,
+        "high": 40000,
+        "low": 40000,
+        "close": 40000,
+        "volume": 500,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 40400,
+        "high": 40500,
+        "low": 40400,
+        "close": 40500,
+        "volume": 1000,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 42900,
+        "high": 42900,
+        "low": 42900,
+        "close": 42900,
+        "volume": 100,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 43000,
+        "high": 43000,
+        "low": 43000,
+        "close": 43000,
+        "volume": 900,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 42500,
+        "high": 42500,
+        "low": 42500,
+        "close": 42500,
+        "volume": 200,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 44000,
+        "high": 44000,
+        "low": 44000,
+        "close": 44000,
+        "volume": 200,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 44000,
+        "high": 44000,
+        "low": 44000,
+        "close": 44000,
+        "volume": 100,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 41400,
+        "high": 41400,
+        "low": 40200,
+        "close": 40200,
+        "volume": 200,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 45000,
+        "high": 45000,
+        "low": 45000,
+        "close": 45000,
+        "volume": 600,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 44000,
+        "high": 44000,
+        "low": 44000,
+        "close": 44000,
+        "volume": 100,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 44000,
+        "high": 44000,
+        "low": 44000,
+        "close": 44000,
+        "volume": 100,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 44000,
+        "high": 44000,
+        "low": 44000,
+        "close": 44000,
+        "volume": 100,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 44000,
+        "high": 44000,
+        "low": 44000,
+        "close": 44000,
+        "volume": 200,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 44000,
+        "high": 44000,
+        "low": 44000,
+        "close": 44000,
+        "volume": 200,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 44000,
+        "high": 44000,
+        "low": 44000,
+        "close": 44000,
+        "volume": 200,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 43800,
+        "high": 43800,
+        "low": 43800,
+        "close": 43800,
+        "volume": 200,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 44000,
+        "high": 45000,
+        "low": 44000,
+        "close": 45000,
+        "volume": 400,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 45000,
+        "high": 45000,
+        "low": 45000,
+        "close": 45000,
+        "volume": 500,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 45000,
+        "high": 45000,
+        "low": 45000,
+        "close": 45000,
+        "volume": 100,
+        "ticker": "DNH"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 45000,
+        "high": 45000,
+        "low": 45000,
+        "close": 45000,
+        "volume": 600,
+        "ticker": "DNH"
+    }
+]

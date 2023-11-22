@@ -1,0 +1,92 @@
+[
+    {
+        "time": "2023-06-05",
+        "open": 17000,
+        "high": 17000,
+        "low": 17000,
+        "close": 17000,
+        "volume": 100,
+        "ticker": "HPM"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 14500,
+        "high": 14500,
+        "low": 14500,
+        "close": 14500,
+        "volume": 200,
+        "ticker": "HPM"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 14500,
+        "high": 14500,
+        "low": 14500,
+        "close": 14500,
+        "volume": 1400,
+        "ticker": "HPM"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 14500,
+        "high": 14500,
+        "low": 14500,
+        "close": 14500,
+        "volume": 1400,
+        "ticker": "HPM"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 15500,
+        "high": 15500,
+        "low": 15500,
+        "close": 15500,
+        "volume": 400,
+        "ticker": "HPM"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 14500,
+        "high": 15000,
+        "low": 14500,
+        "close": 15000,
+        "volume": 190000,
+        "ticker": "HPM"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 14700,
+        "high": 14700,
+        "low": 14700,
+        "close": 14700,
+        "volume": 400,
+        "ticker": "HPM"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 12500,
+        "high": 12500,
+        "low": 12500,
+        "close": 12500,
+        "volume": 300,
+        "ticker": "HPM"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 12500,
+        "high": 12500,
+        "low": 12500,
+        "close": 12500,
+        "volume": 100,
+        "ticker": "HPM"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 12500,
+        "high": 12500,
+        "low": 12500,
+        "close": 12500,
+        "volume": 100,
+        "ticker": "HPM"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "time": "2023-05-08",
+        "open": 11000,
+        "high": 11000,
+        "low": 11000,
+        "close": 11000,
+        "volume": 100,
+        "ticker": "HFC"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 11900,
+        "high": 11900,
+        "low": 11900,
+        "close": 11900,
+        "volume": 100,
+        "ticker": "HFC"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 13300,
+        "high": 13300,
+        "low": 13300,
+        "close": 13300,
+        "volume": 100,
+        "ticker": "HFC"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 13000,
+        "high": 13000,
+        "low": 13000,
+        "close": 13000,
+        "volume": 100,
+        "ticker": "HFC"
+    }
+]

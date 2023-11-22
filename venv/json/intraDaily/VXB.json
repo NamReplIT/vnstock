@@ -1,0 +1,200 @@
+[
+    {
+        "time": "2023-05-05",
+        "open": 8000,
+        "high": 8000,
+        "low": 8000,
+        "close": 8000,
+        "volume": 100,
+        "ticker": "VXB"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 8400,
+        "high": 8400,
+        "low": 6800,
+        "close": 6900,
+        "volume": 300,
+        "ticker": "VXB"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 8800,
+        "high": 8800,
+        "low": 8800,
+        "close": 8800,
+        "volume": 100,
+        "ticker": "VXB"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 6200,
+        "high": 8200,
+        "low": 6200,
+        "close": 8200,
+        "volume": 6600,
+        "ticker": "VXB"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 7300,
+        "high": 7300,
+        "low": 7300,
+        "close": 7300,
+        "volume": 800,
+        "ticker": "VXB"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 8300,
+        "high": 8300,
+        "low": 8300,
+        "close": 8300,
+        "volume": 200,
+        "ticker": "VXB"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 9500,
+        "high": 9500,
+        "low": 9500,
+        "close": 9500,
+        "volume": 1400,
+        "ticker": "VXB"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 10900,
+        "high": 10900,
+        "low": 10900,
+        "close": 10900,
+        "volume": 800,
+        "ticker": "VXB"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 12500,
+        "high": 12500,
+        "low": 12500,
+        "close": 12500,
+        "volume": 200,
+        "ticker": "VXB"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 14300,
+        "high": 14300,
+        "low": 10700,
+        "close": 13800,
+        "volume": 11100,
+        "ticker": "VXB"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 12400,
+        "high": 12400,
+        "low": 12000,
+        "close": 12400,
+        "volume": 14600,
+        "ticker": "VXB"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 14200,
+        "high": 14200,
+        "low": 13700,
+        "close": 13700,
+        "volume": 2500,
+        "ticker": "VXB"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 16100,
+        "high": 16100,
+        "low": 14900,
+        "close": 14900,
+        "volume": 300,
+        "ticker": "VXB"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 17300,
+        "high": 17300,
+        "low": 17300,
+        "close": 17300,
+        "volume": 100,
+        "ticker": "VXB"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 19000,
+        "high": 19000,
+        "low": 19000,
+        "close": 19000,
+        "volume": 100,
+        "ticker": "VXB"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 19000,
+        "high": 19000,
+        "low": 19000,
+        "close": 19000,
+        "volume": 100,
+        "ticker": "VXB"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 20900,
+        "high": 20900,
+        "low": 20900,
+        "close": 20900,
+        "volume": 200,
+        "ticker": "VXB"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 19500,
+        "high": 19500,
+        "low": 19300,
+        "close": 19300,
+        "volume": 700,
+        "ticker": "VXB"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 21000,
+        "high": 21000,
+        "low": 21000,
+        "close": 21000,
+        "volume": 100,
+        "ticker": "VXB"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 17900,
+        "high": 17900,
+        "low": 17900,
+        "close": 17900,
+        "volume": 200,
+        "ticker": "VXB"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 15300,
+        "high": 18200,
+        "low": 15300,
+        "close": 15300,
+        "volume": 900,
+        "ticker": "VXB"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 14400,
+        "high": 14400,
+        "low": 14400,
+        "close": 14400,
+        "volume": 500,
+        "ticker": "VXB"
+    }
+]

@@ -1,0 +1,254 @@
+[
+    {
+        "time": "2023-05-05",
+        "open": 600,
+        "high": 600,
+        "low": 600,
+        "close": 600,
+        "volume": 1700,
+        "ticker": "CLG"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 600,
+        "high": 700,
+        "low": 600,
+        "close": 700,
+        "volume": 121300,
+        "ticker": "CLG"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 800,
+        "high": 800,
+        "low": 700,
+        "close": 700,
+        "volume": 70800,
+        "ticker": "CLG"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 700,
+        "high": 700,
+        "low": 600,
+        "close": 700,
+        "volume": 50900,
+        "ticker": "CLG"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 700,
+        "high": 800,
+        "low": 700,
+        "close": 800,
+        "volume": 478500,
+        "ticker": "CLG"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 900,
+        "high": 900,
+        "low": 800,
+        "close": 900,
+        "volume": 366200,
+        "ticker": "CLG"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 900,
+        "high": 1000,
+        "low": 800,
+        "close": 900,
+        "volume": 363500,
+        "ticker": "CLG"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 900,
+        "high": 900,
+        "low": 800,
+        "close": 900,
+        "volume": 163400,
+        "ticker": "CLG"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 800,
+        "high": 900,
+        "low": 800,
+        "close": 800,
+        "volume": 105200,
+        "ticker": "CLG"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 700,
+        "high": 800,
+        "low": 700,
+        "close": 800,
+        "volume": 66900,
+        "ticker": "CLG"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 700,
+        "high": 800,
+        "low": 700,
+        "close": 800,
+        "volume": 67700,
+        "ticker": "CLG"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 700,
+        "high": 800,
+        "low": 700,
+        "close": 800,
+        "volume": 86400,
+        "ticker": "CLG"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 700,
+        "high": 800,
+        "low": 700,
+        "close": 800,
+        "volume": 86200,
+        "ticker": "CLG"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 800,
+        "high": 800,
+        "low": 700,
+        "close": 800,
+        "volume": 70500,
+        "ticker": "CLG"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 800,
+        "high": 900,
+        "low": 800,
+        "close": 800,
+        "volume": 207400,
+        "ticker": "CLG"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 800,
+        "high": 900,
+        "low": 800,
+        "close": 800,
+        "volume": 97100,
+        "ticker": "CLG"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 800,
+        "high": 900,
+        "low": 800,
+        "close": 900,
+        "volume": 162500,
+        "ticker": "CLG"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 900,
+        "high": 900,
+        "low": 700,
+        "close": 900,
+        "volume": 73900,
+        "ticker": "CLG"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 700,
+        "high": 800,
+        "low": 700,
+        "close": 800,
+        "volume": 44000,
+        "ticker": "CLG"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 700,
+        "high": 700,
+        "low": 700,
+        "close": 700,
+        "volume": 66100,
+        "ticker": "CLG"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 700,
+        "high": 800,
+        "low": 600,
+        "close": 800,
+        "volume": 46000,
+        "ticker": "CLG"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 800,
+        "high": 800,
+        "low": 700,
+        "close": 800,
+        "volume": 82900,
+        "ticker": "CLG"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 700,
+        "high": 800,
+        "low": 600,
+        "close": 800,
+        "volume": 14700,
+        "ticker": "CLG"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 600,
+        "high": 700,
+        "low": 600,
+        "close": 600,
+        "volume": 131300,
+        "ticker": "CLG"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 600,
+        "high": 600,
+        "low": 500,
+        "close": 600,
+        "volume": 132200,
+        "ticker": "CLG"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 600,
+        "high": 700,
+        "low": 600,
+        "close": 700,
+        "volume": 90500,
+        "ticker": "CLG"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 600,
+        "high": 700,
+        "low": 600,
+        "close": 700,
+        "volume": 38400,
+        "ticker": "CLG"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 600,
+        "high": 700,
+        "low": 600,
+        "close": 600,
+        "volume": 77100,
+        "ticker": "CLG"
+    }
+]

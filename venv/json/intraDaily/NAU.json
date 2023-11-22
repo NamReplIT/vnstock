@@ -1,0 +1,542 @@
+[
+    {
+        "time": "2023-05-10",
+        "open": 4920,
+        "high": 4920,
+        "low": 4920,
+        "close": 4920,
+        "volume": 100,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 5590,
+        "high": 5590,
+        "low": 5590,
+        "close": 5590,
+        "volume": 200,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 5590,
+        "high": 5590,
+        "low": 5590,
+        "close": 5590,
+        "volume": 100,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 6270,
+        "high": 6750,
+        "low": 6270,
+        "close": 6750,
+        "volume": 1200,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 7520,
+        "high": 7620,
+        "low": 7520,
+        "close": 7620,
+        "volume": 600,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 8200,
+        "high": 8200,
+        "low": 8200,
+        "close": 8200,
+        "volume": 100,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 7140,
+        "high": 7140,
+        "low": 5590,
+        "close": 5590,
+        "volume": 500,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 6750,
+        "high": 6750,
+        "low": 6460,
+        "close": 6750,
+        "volume": 400,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 6170,
+        "high": 6850,
+        "low": 6170,
+        "close": 6170,
+        "volume": 300,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 5880,
+        "high": 5880,
+        "low": 5880,
+        "close": 5880,
+        "volume": 100,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 5880,
+        "high": 6170,
+        "low": 5310,
+        "close": 5310,
+        "volume": 4600,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 5020,
+        "high": 5020,
+        "low": 4920,
+        "close": 4920,
+        "volume": 1500,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 5690,
+        "high": 5690,
+        "low": 5110,
+        "close": 5110,
+        "volume": 200,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 5400,
+        "high": 5980,
+        "low": 5400,
+        "close": 5980,
+        "volume": 1100,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 4820,
+        "high": 4820,
+        "low": 4820,
+        "close": 4820,
+        "volume": 100,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 4240,
+        "high": 5500,
+        "low": 4240,
+        "close": 4920,
+        "volume": 600,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 5020,
+        "high": 5020,
+        "low": 5020,
+        "close": 5020,
+        "volume": 100,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 5110,
+        "high": 5110,
+        "low": 5110,
+        "close": 5110,
+        "volume": 100,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 5020,
+        "high": 5020,
+        "low": 5020,
+        "close": 5020,
+        "volume": 100,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 4920,
+        "high": 5020,
+        "low": 4920,
+        "close": 4920,
+        "volume": 400,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 4920,
+        "high": 4920,
+        "low": 4920,
+        "close": 4920,
+        "volume": 300,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 5020,
+        "high": 5020,
+        "low": 5020,
+        "close": 5020,
+        "volume": 300,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 4920,
+        "high": 5210,
+        "low": 4920,
+        "close": 4920,
+        "volume": 300,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 5020,
+        "high": 5020,
+        "low": 5020,
+        "close": 5020,
+        "volume": 100,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 4730,
+        "high": 4730,
+        "low": 4730,
+        "close": 4730,
+        "volume": 100,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 4050,
+        "high": 4050,
+        "low": 4050,
+        "close": 4050,
+        "volume": 200,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 4630,
+        "high": 4630,
+        "low": 4630,
+        "close": 4630,
+        "volume": 100,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 5310,
+        "high": 5310,
+        "low": 5310,
+        "close": 5310,
+        "volume": 2200,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 5400,
+        "high": 5400,
+        "low": 5400,
+        "close": 5400,
+        "volume": 400,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 6080,
+        "high": 6080,
+        "low": 5400,
+        "close": 5790,
+        "volume": 1700,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 5110,
+        "high": 6460,
+        "low": 5110,
+        "close": 6460,
+        "volume": 300,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 5500,
+        "high": 5590,
+        "low": 5500,
+        "close": 5590,
+        "volume": 1400,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 5590,
+        "high": 5590,
+        "low": 5590,
+        "close": 5590,
+        "volume": 100,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 5200,
+        "high": 5200,
+        "low": 5200,
+        "close": 5200,
+        "volume": 100,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 5200,
+        "high": 5200,
+        "low": 5200,
+        "close": 5200,
+        "volume": 200,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 5000,
+        "high": 5300,
+        "low": 4600,
+        "close": 5300,
+        "volume": 1600,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 5700,
+        "high": 5700,
+        "low": 5300,
+        "close": 5700,
+        "volume": 2800,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 5300,
+        "high": 5300,
+        "low": 5300,
+        "close": 5300,
+        "volume": 100,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 5500,
+        "high": 5500,
+        "low": 5500,
+        "close": 5500,
+        "volume": 100,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 6300,
+        "high": 6300,
+        "low": 5100,
+        "close": 5100,
+        "volume": 300,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 6000,
+        "high": 6000,
+        "low": 6000,
+        "close": 6000,
+        "volume": 100,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 6800,
+        "high": 6800,
+        "low": 6800,
+        "close": 6800,
+        "volume": 100,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 5800,
+        "high": 5800,
+        "low": 5800,
+        "close": 5800,
+        "volume": 100,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 5200,
+        "high": 5200,
+        "low": 5200,
+        "close": 5200,
+        "volume": 100,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 4900,
+        "high": 5500,
+        "low": 4900,
+        "close": 5100,
+        "volume": 400,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 5000,
+        "high": 5000,
+        "low": 5000,
+        "close": 5000,
+        "volume": 300,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 5700,
+        "high": 5700,
+        "low": 4900,
+        "close": 4900,
+        "volume": 400,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 5000,
+        "high": 5000,
+        "low": 5000,
+        "close": 5000,
+        "volume": 100,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 5400,
+        "high": 5400,
+        "low": 5200,
+        "close": 5200,
+        "volume": 200,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 5000,
+        "high": 5000,
+        "low": 5000,
+        "close": 5000,
+        "volume": 300,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 4900,
+        "high": 4900,
+        "low": 4900,
+        "close": 4900,
+        "volume": 100,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 4400,
+        "high": 4400,
+        "low": 4400,
+        "close": 4400,
+        "volume": 100,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 4100,
+        "high": 4100,
+        "low": 4100,
+        "close": 4100,
+        "volume": 100,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 4700,
+        "high": 4700,
+        "low": 4700,
+        "close": 4700,
+        "volume": 100,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 5400,
+        "high": 5400,
+        "low": 5400,
+        "close": 5400,
+        "volume": 200,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 5500,
+        "high": 5500,
+        "low": 5500,
+        "close": 5500,
+        "volume": 100,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 5100,
+        "high": 5100,
+        "low": 5100,
+        "close": 5100,
+        "volume": 100,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 5000,
+        "high": 5000,
+        "low": 5000,
+        "close": 5000,
+        "volume": 100,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 4900,
+        "high": 4900,
+        "low": 4900,
+        "close": 4900,
+        "volume": 100,
+        "ticker": "NAU"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 4600,
+        "high": 5600,
+        "low": 4600,
+        "close": 4700,
+        "volume": 400,
+        "ticker": "NAU"
+    }
+]

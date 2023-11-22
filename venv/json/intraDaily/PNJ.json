@@ -1,0 +1,1289 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 75560,
+        "high": 75560,
+        "low": 74580,
+        "close": 74670,
+        "volume": 240000,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 75360,
+        "high": 75560,
+        "low": 74580,
+        "close": 74770,
+        "volume": 191600,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 74770,
+        "high": 75060,
+        "low": 74380,
+        "close": 74480,
+        "volume": 215700,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 75060,
+        "high": 75060,
+        "low": 73980,
+        "close": 74080,
+        "volume": 182700,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 74180,
+        "high": 74380,
+        "low": 73690,
+        "close": 73790,
+        "volume": 332600,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 73790,
+        "high": 74380,
+        "low": 73400,
+        "close": 73500,
+        "volume": 308300,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 73600,
+        "high": 73790,
+        "low": 73000,
+        "close": 73300,
+        "volume": 332300,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 73600,
+        "high": 74080,
+        "low": 73600,
+        "close": 73690,
+        "volume": 201500,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 73790,
+        "high": 73880,
+        "low": 73100,
+        "close": 73100,
+        "volume": 190400,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 72800,
+        "high": 73400,
+        "low": 72800,
+        "close": 73100,
+        "volume": 170100,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 73200,
+        "high": 73200,
+        "low": 72120,
+        "close": 72220,
+        "volume": 355900,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 72420,
+        "high": 72420,
+        "low": 71140,
+        "close": 71140,
+        "volume": 311300,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 71530,
+        "high": 71630,
+        "low": 70650,
+        "close": 70650,
+        "volume": 266800,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 71920,
+        "high": 72120,
+        "low": 70750,
+        "close": 70850,
+        "volume": 616700,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 71340,
+        "high": 71340,
+        "low": 70060,
+        "close": 70160,
+        "volume": 437200,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 69960,
+        "high": 70450,
+        "low": 69670,
+        "close": 69870,
+        "volume": 389000,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 70550,
+        "high": 70750,
+        "low": 69960,
+        "close": 70650,
+        "volume": 296500,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 70750,
+        "high": 71040,
+        "low": 69770,
+        "close": 70060,
+        "volume": 276500,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 70060,
+        "high": 70450,
+        "low": 69570,
+        "close": 69770,
+        "volume": 497900,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 69870,
+        "high": 69960,
+        "low": 69470,
+        "close": 69570,
+        "volume": 328600,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 69570,
+        "high": 69770,
+        "low": 68790,
+        "close": 68990,
+        "volume": 357000,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 69570,
+        "high": 71630,
+        "low": 69070,
+        "close": 71630,
+        "volume": 779700,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 72900,
+        "high": 72900,
+        "low": 71630,
+        "close": 72320,
+        "volume": 553900,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 71730,
+        "high": 72020,
+        "low": 71040,
+        "close": 71440,
+        "volume": 633400,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 71440,
+        "high": 71440,
+        "low": 70550,
+        "close": 71240,
+        "volume": 767100,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 71240,
+        "high": 71440,
+        "low": 70650,
+        "close": 70850,
+        "volume": 511900,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 71440,
+        "high": 71440,
+        "low": 70750,
+        "close": 71240,
+        "volume": 715300,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 70940,
+        "high": 71740,
+        "low": 70650,
+        "close": 71740,
+        "volume": 579100,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 72030,
+        "high": 73710,
+        "low": 71930,
+        "close": 72530,
+        "volume": 1436700,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 72530,
+        "high": 73220,
+        "low": 72030,
+        "close": 72030,
+        "volume": 506900,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 71930,
+        "high": 72730,
+        "low": 71740,
+        "close": 72530,
+        "volume": 504900,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 72730,
+        "high": 73220,
+        "low": 71830,
+        "close": 72030,
+        "volume": 1005800,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 71930,
+        "high": 72030,
+        "low": 70450,
+        "close": 71540,
+        "volume": 864000,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 71540,
+        "high": 71540,
+        "low": 70250,
+        "close": 71540,
+        "volume": 1044200,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 71440,
+        "high": 72230,
+        "low": 70850,
+        "close": 72030,
+        "volume": 807300,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 72430,
+        "high": 73710,
+        "low": 72430,
+        "close": 73710,
+        "volume": 1305700,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 73710,
+        "high": 75100,
+        "low": 73420,
+        "close": 75000,
+        "volume": 1296800,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 74800,
+        "high": 75590,
+        "low": 73520,
+        "close": 75590,
+        "volume": 820900,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 75590,
+        "high": 75590,
+        "low": 73710,
+        "close": 74700,
+        "volume": 797700,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 74700,
+        "high": 74900,
+        "low": 73710,
+        "close": 74010,
+        "volume": 702400,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 74010,
+        "high": 75000,
+        "low": 73220,
+        "close": 74210,
+        "volume": 1116900,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 74410,
+        "high": 74410,
+        "low": 73020,
+        "close": 74210,
+        "volume": 1239300,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 74310,
+        "high": 74310,
+        "low": 72820,
+        "close": 73220,
+        "volume": 1031000,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 73220,
+        "high": 73420,
+        "low": 72820,
+        "close": 73220,
+        "volume": 852500,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 73520,
+        "high": 74110,
+        "low": 72920,
+        "close": 72920,
+        "volume": 1309300,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 72920,
+        "high": 73120,
+        "low": 71830,
+        "close": 71830,
+        "volume": 1152400,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 71830,
+        "high": 72430,
+        "low": 71040,
+        "close": 71040,
+        "volume": 1310100,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 72920,
+        "high": 73120,
+        "low": 71540,
+        "close": 72920,
+        "volume": 1085300,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 72920,
+        "high": 74010,
+        "low": 72920,
+        "close": 73710,
+        "volume": 1309300,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 73910,
+        "high": 73910,
+        "low": 73020,
+        "close": 73020,
+        "volume": 920500,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 73420,
+        "high": 77280,
+        "low": 73320,
+        "close": 77180,
+        "volume": 3894700,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 79350,
+        "high": 79350,
+        "low": 77080,
+        "close": 77670,
+        "volume": 1447100,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 77970,
+        "high": 79750,
+        "low": 77570,
+        "close": 79450,
+        "volume": 2521400,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 78960,
+        "high": 79550,
+        "low": 78170,
+        "close": 78860,
+        "volume": 1035100,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 78860,
+        "high": 78960,
+        "low": 77670,
+        "close": 77770,
+        "volume": 1017200,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 77870,
+        "high": 78070,
+        "low": 77180,
+        "close": 78070,
+        "volume": 701000,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 78370,
+        "high": 79850,
+        "low": 77870,
+        "close": 79160,
+        "volume": 1050100,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 79260,
+        "high": 79650,
+        "low": 78070,
+        "close": 78460,
+        "volume": 1348400,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 78660,
+        "high": 80150,
+        "low": 78170,
+        "close": 79650,
+        "volume": 1918100,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 79650,
+        "high": 81140,
+        "low": 79260,
+        "close": 80940,
+        "volume": 1611300,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 80940,
+        "high": 80940,
+        "low": 79350,
+        "close": 80050,
+        "volume": 988000,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 80340,
+        "high": 81930,
+        "low": 80340,
+        "close": 81730,
+        "volume": 1271700,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 81930,
+        "high": 83210,
+        "low": 81430,
+        "close": 82130,
+        "volume": 1245400,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 82030,
+        "high": 82520,
+        "low": 80150,
+        "close": 80150,
+        "volume": 2546300,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 80150,
+        "high": 80640,
+        "low": 79260,
+        "close": 80640,
+        "volume": 434600,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 80640,
+        "high": 81230,
+        "low": 79550,
+        "close": 80440,
+        "volume": 555500,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 80440,
+        "high": 80740,
+        "low": 79350,
+        "close": 79950,
+        "volume": 1237200,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 80050,
+        "high": 81330,
+        "low": 79750,
+        "close": 81330,
+        "volume": 618400,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 81730,
+        "high": 81730,
+        "low": 80050,
+        "close": 80540,
+        "volume": 578200,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 80540,
+        "high": 80540,
+        "low": 79450,
+        "close": 79450,
+        "volume": 596700,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 79450,
+        "high": 79650,
+        "low": 78070,
+        "close": 78170,
+        "volume": 1184900,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 78370,
+        "high": 79750,
+        "low": 78170,
+        "close": 78560,
+        "volume": 568900,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 79160,
+        "high": 79160,
+        "low": 78270,
+        "close": 78560,
+        "volume": 519100,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 78460,
+        "high": 78560,
+        "low": 77470,
+        "close": 78170,
+        "volume": 713400,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 78170,
+        "high": 79350,
+        "low": 77770,
+        "close": 79350,
+        "volume": 586800,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-08-17",
+        "open": 79350,
+        "high": 79650,
+        "low": 77180,
+        "close": 79350,
+        "volume": 726900,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 78460,
+        "high": 79160,
+        "low": 75200,
+        "close": 77670,
+        "volume": 1087700,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 78660,
+        "high": 78660,
+        "low": 76190,
+        "close": 78170,
+        "volume": 550300,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 78170,
+        "high": 78170,
+        "low": 76290,
+        "close": 77670,
+        "volume": 545500,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 77280,
+        "high": 77670,
+        "low": 76290,
+        "close": 76680,
+        "volume": 329100,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 76490,
+        "high": 77380,
+        "low": 76490,
+        "close": 77180,
+        "volume": 258400,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 76980,
+        "high": 77770,
+        "low": 76490,
+        "close": 77470,
+        "volume": 593000,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 78070,
+        "high": 78660,
+        "low": 77470,
+        "close": 78660,
+        "volume": 456600,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 79160,
+        "high": 80050,
+        "low": 78660,
+        "close": 79550,
+        "volume": 768000,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 79650,
+        "high": 79950,
+        "low": 79060,
+        "close": 79850,
+        "volume": 506000,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 79650,
+        "high": 80440,
+        "low": 79650,
+        "close": 79650,
+        "volume": 728000,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 80250,
+        "high": 80340,
+        "low": 79350,
+        "close": 79650,
+        "volume": 346000,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 80150,
+        "high": 80250,
+        "low": 79550,
+        "close": 80250,
+        "volume": 721800,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 81230,
+        "high": 84400,
+        "low": 80640,
+        "close": 83310,
+        "volume": 1808500,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 82720,
+        "high": 83710,
+        "low": 82420,
+        "close": 83110,
+        "volume": 695300,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 83610,
+        "high": 83610,
+        "low": 80640,
+        "close": 82720,
+        "volume": 816700,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 82130,
+        "high": 82720,
+        "low": 81230,
+        "close": 82720,
+        "volume": 510000,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 83110,
+        "high": 83510,
+        "low": 82030,
+        "close": 82420,
+        "volume": 782500,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 82420,
+        "high": 82420,
+        "low": 80340,
+        "close": 80340,
+        "volume": 483400,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 80440,
+        "high": 81140,
+        "low": 79850,
+        "close": 80540,
+        "volume": 664600,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 80050,
+        "high": 81230,
+        "low": 79650,
+        "close": 80640,
+        "volume": 416600,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 80640,
+        "high": 80840,
+        "low": 79450,
+        "close": 80340,
+        "volume": 581800,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 80540,
+        "high": 81930,
+        "low": 79950,
+        "close": 81830,
+        "volume": 593500,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 81830,
+        "high": 81930,
+        "low": 80250,
+        "close": 81730,
+        "volume": 552700,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 80250,
+        "high": 81040,
+        "low": 79060,
+        "close": 80150,
+        "volume": 1001300,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 80640,
+        "high": 80640,
+        "low": 78660,
+        "close": 78960,
+        "volume": 574700,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 78460,
+        "high": 79160,
+        "low": 77670,
+        "close": 77670,
+        "volume": 570400,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 77670,
+        "high": 78860,
+        "low": 77180,
+        "close": 78270,
+        "volume": 413500,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 78170,
+        "high": 78170,
+        "low": 77470,
+        "close": 77670,
+        "volume": 332700,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 77670,
+        "high": 78560,
+        "low": 77670,
+        "close": 77970,
+        "volume": 136600,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 77970,
+        "high": 79650,
+        "low": 77670,
+        "close": 78070,
+        "volume": 270900,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 78560,
+        "high": 78560,
+        "low": 76680,
+        "close": 76680,
+        "volume": 442200,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 76580,
+        "high": 77180,
+        "low": 76290,
+        "close": 76780,
+        "volume": 332800,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 77380,
+        "high": 77570,
+        "low": 76880,
+        "close": 76980,
+        "volume": 155700,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 77380,
+        "high": 77380,
+        "low": 76680,
+        "close": 77180,
+        "volume": 195300,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 78170,
+        "high": 79550,
+        "low": 77280,
+        "close": 79160,
+        "volume": 560600,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 80150,
+        "high": 80540,
+        "low": 78460,
+        "close": 78660,
+        "volume": 473700,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 79260,
+        "high": 79450,
+        "low": 78960,
+        "close": 79450,
+        "volume": 300500,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 79750,
+        "high": 80340,
+        "low": 79160,
+        "close": 79160,
+        "volume": 315400,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 79160,
+        "high": 79550,
+        "low": 78460,
+        "close": 78960,
+        "volume": 286700,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 79750,
+        "high": 79750,
+        "low": 78560,
+        "close": 79060,
+        "volume": 520200,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 79160,
+        "high": 79260,
+        "low": 78270,
+        "close": 78270,
+        "volume": 216100,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 78170,
+        "high": 78170,
+        "low": 74700,
+        "close": 76190,
+        "volume": 640500,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 76190,
+        "high": 76780,
+        "low": 75100,
+        "close": 75100,
+        "volume": 569300,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 75500,
+        "high": 76500,
+        "low": 75000,
+        "close": 75400,
+        "volume": 265300,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 75900,
+        "high": 75900,
+        "low": 74300,
+        "close": 74300,
+        "volume": 421000,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 74800,
+        "high": 75000,
+        "low": 74000,
+        "close": 74800,
+        "volume": 282700,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 74800,
+        "high": 75600,
+        "low": 74300,
+        "close": 74300,
+        "volume": 353800,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 74000,
+        "high": 74000,
+        "low": 72000,
+        "close": 74000,
+        "volume": 904700,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 73800,
+        "high": 74000,
+        "low": 72600,
+        "close": 73600,
+        "volume": 343600,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 73600,
+        "high": 73600,
+        "low": 72600,
+        "close": 72900,
+        "volume": 218300,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 73000,
+        "high": 73000,
+        "low": 71500,
+        "close": 72000,
+        "volume": 481100,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 71500,
+        "high": 72100,
+        "low": 71100,
+        "close": 72000,
+        "volume": 293500,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 72200,
+        "high": 74000,
+        "low": 72200,
+        "close": 73800,
+        "volume": 374100,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 74800,
+        "high": 74900,
+        "low": 73800,
+        "close": 73800,
+        "volume": 1746500,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 74000,
+        "high": 76800,
+        "low": 74000,
+        "close": 76600,
+        "volume": 544600,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 76900,
+        "high": 76900,
+        "low": 75400,
+        "close": 75900,
+        "volume": 231100,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 75000,
+        "high": 77400,
+        "low": 75000,
+        "close": 77000,
+        "volume": 408600,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 77000,
+        "high": 77500,
+        "low": 76200,
+        "close": 76500,
+        "volume": 433300,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 76000,
+        "high": 76600,
+        "low": 75700,
+        "close": 76000,
+        "volume": 228700,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 76000,
+        "high": 76500,
+        "low": 75900,
+        "close": 76100,
+        "volume": 157100,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 76200,
+        "high": 78300,
+        "low": 76200,
+        "close": 78100,
+        "volume": 475500,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 79000,
+        "high": 79300,
+        "low": 78000,
+        "close": 78300,
+        "volume": 204500,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 78100,
+        "high": 78500,
+        "low": 77800,
+        "close": 78000,
+        "volume": 151400,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 78000,
+        "high": 79400,
+        "low": 77900,
+        "close": 78900,
+        "volume": 892000,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 78600,
+        "high": 79700,
+        "low": 78300,
+        "close": 79000,
+        "volume": 668700,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 79700,
+        "high": 81200,
+        "low": 79500,
+        "close": 81100,
+        "volume": 1009700,
+        "ticker": "PNJ"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 80700,
+        "high": 81400,
+        "low": 80600,
+        "close": 81200,
+        "volume": 641700,
+        "ticker": "PNJ"
+    }
+]

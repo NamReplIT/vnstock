@@ -1,0 +1,857 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 4160,
+        "high": 4160,
+        "low": 4080,
+        "close": 4090,
+        "volume": 2317900,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 4100,
+        "high": 4110,
+        "low": 4050,
+        "close": 4059,
+        "volume": 2451400,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 4059,
+        "high": 4080,
+        "low": 4000,
+        "close": 4010,
+        "volume": 7247200,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 4000,
+        "high": 4080,
+        "low": 3980,
+        "close": 4019,
+        "volume": 3651200,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 4030,
+        "high": 4150,
+        "low": 4019,
+        "close": 4110,
+        "volume": 6639700,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 4160,
+        "high": 4200,
+        "low": 4120,
+        "close": 4140,
+        "volume": 5063100,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 4100,
+        "high": 4390,
+        "low": 4080,
+        "close": 4330,
+        "volume": 9882400,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 4370,
+        "high": 4430,
+        "low": 4200,
+        "close": 4210,
+        "volume": 6981600,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 4190,
+        "high": 4220,
+        "low": 4130,
+        "close": 4130,
+        "volume": 5402600,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 4100,
+        "high": 4330,
+        "low": 4100,
+        "close": 4170,
+        "volume": 12876800,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 4150,
+        "high": 4160,
+        "low": 4080,
+        "close": 4080,
+        "volume": 7442700,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 4080,
+        "high": 4140,
+        "low": 4019,
+        "close": 4050,
+        "volume": 6724100,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 4030,
+        "high": 4090,
+        "low": 4030,
+        "close": 4070,
+        "volume": 4482900,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 4059,
+        "high": 4059,
+        "low": 3990,
+        "close": 4000,
+        "volume": 6625000,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 4000,
+        "high": 4030,
+        "low": 3860,
+        "close": 3890,
+        "volume": 7811800,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 3800,
+        "high": 4000,
+        "low": 3770,
+        "close": 3840,
+        "volume": 5110300,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 3820,
+        "high": 3950,
+        "low": 3820,
+        "close": 3860,
+        "volume": 3582800,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 3850,
+        "high": 4050,
+        "low": 3850,
+        "close": 4030,
+        "volume": 4198000,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 4100,
+        "high": 4120,
+        "low": 3960,
+        "close": 4010,
+        "volume": 2712100,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 4010,
+        "high": 4070,
+        "low": 3990,
+        "close": 4019,
+        "volume": 2900200,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 4030,
+        "high": 4150,
+        "low": 4019,
+        "close": 4070,
+        "volume": 4082900,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 4070,
+        "high": 4190,
+        "low": 4070,
+        "close": 4100,
+        "volume": 3765500,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 4100,
+        "high": 4150,
+        "low": 4030,
+        "close": 4040,
+        "volume": 3292300,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 4030,
+        "high": 4070,
+        "low": 3990,
+        "close": 4040,
+        "volume": 3114300,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 4110,
+        "high": 4320,
+        "low": 4080,
+        "close": 4320,
+        "volume": 10120700,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 4350,
+        "high": 4620,
+        "low": 4350,
+        "close": 4500,
+        "volume": 15886900,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 4500,
+        "high": 4620,
+        "low": 4300,
+        "close": 4400,
+        "volume": 6418800,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 4450,
+        "high": 4450,
+        "low": 4280,
+        "close": 4310,
+        "volume": 5480600,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 4300,
+        "high": 4610,
+        "low": 4300,
+        "close": 4610,
+        "volume": 13012900,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 4610,
+        "high": 4920,
+        "low": 4400,
+        "close": 4600,
+        "volume": 12775200,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 4600,
+        "high": 4690,
+        "low": 4450,
+        "close": 4600,
+        "volume": 5177800,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 4600,
+        "high": 4790,
+        "low": 4470,
+        "close": 4470,
+        "volume": 6788100,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 4400,
+        "high": 4470,
+        "low": 4200,
+        "close": 4270,
+        "volume": 5521700,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 4270,
+        "high": 4490,
+        "low": 4270,
+        "close": 4490,
+        "volume": 2844500,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 4490,
+        "high": 4560,
+        "low": 4400,
+        "close": 4420,
+        "volume": 3711300,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 4420,
+        "high": 4550,
+        "low": 4420,
+        "close": 4500,
+        "volume": 3760900,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 4500,
+        "high": 4500,
+        "low": 4380,
+        "close": 4490,
+        "volume": 4883600,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 4480,
+        "high": 4580,
+        "low": 4300,
+        "close": 4580,
+        "volume": 4087600,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 4580,
+        "high": 4720,
+        "low": 4500,
+        "close": 4620,
+        "volume": 6218800,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 4650,
+        "high": 4670,
+        "low": 4550,
+        "close": 4560,
+        "volume": 3100100,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 4530,
+        "high": 4550,
+        "low": 4440,
+        "close": 4440,
+        "volume": 3736200,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 4440,
+        "high": 4500,
+        "low": 4390,
+        "close": 4440,
+        "volume": 2501600,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 4500,
+        "high": 4500,
+        "low": 4360,
+        "close": 4470,
+        "volume": 2441600,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 4480,
+        "high": 4500,
+        "low": 4410,
+        "close": 4420,
+        "volume": 2258400,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 4400,
+        "high": 4420,
+        "low": 4240,
+        "close": 4240,
+        "volume": 7069600,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 4240,
+        "high": 4240,
+        "low": 4000,
+        "close": 4050,
+        "volume": 5239600,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 4000,
+        "high": 4130,
+        "low": 4000,
+        "close": 4090,
+        "volume": 2377000,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 4250,
+        "high": 4300,
+        "low": 4120,
+        "close": 4180,
+        "volume": 2931000,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 4180,
+        "high": 4220,
+        "low": 4100,
+        "close": 4130,
+        "volume": 2508800,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 4050,
+        "high": 4130,
+        "low": 3980,
+        "close": 4040,
+        "volume": 2870400,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 4019,
+        "high": 4150,
+        "low": 4019,
+        "close": 4140,
+        "volume": 3617400,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 4140,
+        "high": 4180,
+        "low": 4040,
+        "close": 4080,
+        "volume": 3128700,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 4150,
+        "high": 4250,
+        "low": 4150,
+        "close": 4190,
+        "volume": 2949600,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 4330,
+        "high": 4330,
+        "low": 4130,
+        "close": 4180,
+        "volume": 2141100,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 4180,
+        "high": 4200,
+        "low": 4090,
+        "close": 4090,
+        "volume": 2717300,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 4100,
+        "high": 4140,
+        "low": 4050,
+        "close": 4130,
+        "volume": 1293200,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 4130,
+        "high": 4160,
+        "low": 4100,
+        "close": 4110,
+        "volume": 2156000,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 4130,
+        "high": 4330,
+        "low": 4120,
+        "close": 4320,
+        "volume": 5294400,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 4250,
+        "high": 4390,
+        "low": 4220,
+        "close": 4230,
+        "volume": 2294600,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 4160,
+        "high": 4240,
+        "low": 4110,
+        "close": 4190,
+        "volume": 2888200,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 4180,
+        "high": 4480,
+        "low": 4100,
+        "close": 4480,
+        "volume": 4989900,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 4500,
+        "high": 4790,
+        "low": 4500,
+        "close": 4790,
+        "volume": 3323000,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 4780,
+        "high": 5120,
+        "low": 4780,
+        "close": 5040,
+        "volume": 17065900,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 5040,
+        "high": 5100,
+        "low": 4690,
+        "close": 4690,
+        "volume": 10498700,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 4690,
+        "high": 4950,
+        "low": 4520,
+        "close": 4780,
+        "volume": 7106600,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 4780,
+        "high": 4800,
+        "low": 4670,
+        "close": 4700,
+        "volume": 4751500,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 4850,
+        "high": 5020,
+        "low": 4750,
+        "close": 5020,
+        "volume": 9597800,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 5360,
+        "high": 5370,
+        "low": 5050,
+        "close": 5370,
+        "volume": 21783800,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 5680,
+        "high": 5740,
+        "low": 5420,
+        "close": 5740,
+        "volume": 20438500,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 5850,
+        "high": 6080,
+        "low": 5750,
+        "close": 5760,
+        "volume": 11726800,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 5900,
+        "high": 6110,
+        "low": 5860,
+        "close": 5960,
+        "volume": 13162000,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 5960,
+        "high": 5960,
+        "low": 5550,
+        "close": 5800,
+        "volume": 13709000,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 5900,
+        "high": 6200,
+        "low": 5900,
+        "close": 6200,
+        "volume": 3382700,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 6590,
+        "high": 6630,
+        "low": 6210,
+        "close": 6300,
+        "volume": 10385200,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 6350,
+        "high": 6500,
+        "low": 6170,
+        "close": 6290,
+        "volume": 8222000,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-08-17",
+        "open": 6300,
+        "high": 6570,
+        "low": 6180,
+        "close": 6350,
+        "volume": 14376500,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 5950,
+        "high": 6300,
+        "low": 5910,
+        "close": 5910,
+        "volume": 9904500,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 5500,
+        "high": 5700,
+        "low": 5500,
+        "close": 5500,
+        "volume": 20475800,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 5150,
+        "high": 5600,
+        "low": 5120,
+        "close": 5500,
+        "volume": 11165700,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 5500,
+        "high": 5660,
+        "low": 5350,
+        "close": 5430,
+        "volume": 4594300,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 5390,
+        "high": 5630,
+        "low": 5390,
+        "close": 5630,
+        "volume": 10170300,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 5260,
+        "high": 5940,
+        "low": 5260,
+        "close": 5700,
+        "volume": 9319200,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 5800,
+        "high": 6090,
+        "low": 5800,
+        "close": 6090,
+        "volume": 13038800,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 6450,
+        "high": 6450,
+        "low": 6120,
+        "close": 6180,
+        "volume": 6171000,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 6300,
+        "high": 6500,
+        "low": 6200,
+        "close": 6390,
+        "volume": 9896600,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 6400,
+        "high": 6830,
+        "low": 6400,
+        "close": 6830,
+        "volume": 17833500,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 7100,
+        "high": 7300,
+        "low": 7000,
+        "close": 7300,
+        "volume": 19071700,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 7350,
+        "high": 7500,
+        "low": 6790,
+        "close": 7200,
+        "volume": 13964200,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 7050,
+        "high": 7300,
+        "low": 7030,
+        "close": 7200,
+        "volume": 13117800,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 7200,
+        "high": 7680,
+        "low": 7100,
+        "close": 7310,
+        "volume": 11040300,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 6800,
+        "high": 6800,
+        "low": 6800,
+        "close": 6800,
+        "volume": 2214900,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 6330,
+        "high": 6330,
+        "low": 6330,
+        "close": 6330,
+        "volume": 252300,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 5890,
+        "high": 5890,
+        "low": 5890,
+        "close": 5890,
+        "volume": 268600,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 5480,
+        "high": 5650,
+        "low": 5480,
+        "close": 5480,
+        "volume": 83258800,
+        "ticker": "HPX"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 5100,
+        "high": 5650,
+        "low": 5100,
+        "close": 5460,
+        "volume": 33578000,
+        "ticker": "HPX"
+    }
+]

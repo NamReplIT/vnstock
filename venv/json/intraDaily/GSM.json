@@ -1,0 +1,650 @@
+[
+    {
+        "time": "2023-05-05",
+        "open": 11740,
+        "high": 11740,
+        "low": 11740,
+        "close": 11740,
+        "volume": 100,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 13430,
+        "high": 13430,
+        "low": 13430,
+        "close": 13430,
+        "volume": 100,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 15410,
+        "high": 15410,
+        "low": 15030,
+        "close": 15030,
+        "volume": 200,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 12870,
+        "high": 12870,
+        "low": 12870,
+        "close": 12870,
+        "volume": 100,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 12210,
+        "high": 12210,
+        "low": 12210,
+        "close": 12210,
+        "volume": 500,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 14000,
+        "high": 14000,
+        "low": 14000,
+        "close": 14000,
+        "volume": 400,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 13150,
+        "high": 14560,
+        "low": 13150,
+        "close": 14560,
+        "volume": 2200,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 13620,
+        "high": 13620,
+        "low": 13620,
+        "close": 13620,
+        "volume": 5000,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 14090,
+        "high": 14090,
+        "low": 13620,
+        "close": 13620,
+        "volume": 5100,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 14090,
+        "high": 14650,
+        "low": 14090,
+        "close": 14650,
+        "volume": 7000,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 13250,
+        "high": 13900,
+        "low": 13250,
+        "close": 13620,
+        "volume": 13100,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 13810,
+        "high": 14560,
+        "low": 13810,
+        "close": 14560,
+        "volume": 14500,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 14560,
+        "high": 14560,
+        "low": 14560,
+        "close": 14560,
+        "volume": 4000,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 14560,
+        "high": 14560,
+        "low": 14560,
+        "close": 14560,
+        "volume": 7300,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 14560,
+        "high": 15970,
+        "low": 14560,
+        "close": 15970,
+        "volume": 18400,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 14840,
+        "high": 14840,
+        "low": 14560,
+        "close": 14560,
+        "volume": 10000,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 14750,
+        "high": 14750,
+        "low": 14750,
+        "close": 14750,
+        "volume": 200,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 14750,
+        "high": 14750,
+        "low": 14750,
+        "close": 14750,
+        "volume": 1900,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 14750,
+        "high": 14750,
+        "low": 14750,
+        "close": 14750,
+        "volume": 500,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 15030,
+        "high": 15030,
+        "low": 15030,
+        "close": 15030,
+        "volume": 7500,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 15030,
+        "high": 15880,
+        "low": 15030,
+        "close": 15880,
+        "volume": 1100,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 15030,
+        "high": 15030,
+        "low": 15030,
+        "close": 15030,
+        "volume": 1000,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 15030,
+        "high": 15030,
+        "low": 15030,
+        "close": 15030,
+        "volume": 3000,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 15030,
+        "high": 15030,
+        "low": 15030,
+        "close": 15030,
+        "volume": 9800,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 15500,
+        "high": 15500,
+        "low": 15500,
+        "close": 15500,
+        "volume": 200,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 15310,
+        "high": 15310,
+        "low": 15310,
+        "close": 15310,
+        "volume": 500,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 15500,
+        "high": 15500,
+        "low": 15500,
+        "close": 15500,
+        "volume": 2100,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 15500,
+        "high": 15500,
+        "low": 15410,
+        "close": 15500,
+        "volume": 2400,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 15500,
+        "high": 15590,
+        "low": 15500,
+        "close": 15500,
+        "volume": 5500,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 15500,
+        "high": 15500,
+        "low": 15500,
+        "close": 15500,
+        "volume": 1500,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 15500,
+        "high": 15500,
+        "low": 15500,
+        "close": 15500,
+        "volume": 2400,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 15600,
+        "high": 15600,
+        "low": 15600,
+        "close": 15600,
+        "volume": 4600,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 14000,
+        "high": 15800,
+        "low": 13500,
+        "close": 15800,
+        "volume": 8200,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 14700,
+        "high": 14700,
+        "low": 14700,
+        "close": 14700,
+        "volume": 10000,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 13000,
+        "high": 13000,
+        "low": 13000,
+        "close": 13000,
+        "volume": 100,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 14500,
+        "high": 14500,
+        "low": 14500,
+        "close": 14500,
+        "volume": 10000,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 15500,
+        "high": 15500,
+        "low": 15500,
+        "close": 15500,
+        "volume": 10000,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 14000,
+        "high": 17800,
+        "low": 14000,
+        "close": 17800,
+        "volume": 25100,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 16100,
+        "high": 16100,
+        "low": 16100,
+        "close": 16100,
+        "volume": 500,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 14000,
+        "high": 14000,
+        "low": 14000,
+        "close": 14000,
+        "volume": 300,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 16100,
+        "high": 16100,
+        "low": 16100,
+        "close": 16100,
+        "volume": 100,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 15500,
+        "high": 15500,
+        "low": 15500,
+        "close": 15500,
+        "volume": 1000,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 15500,
+        "high": 15500,
+        "low": 15500,
+        "close": 15500,
+        "volume": 2200,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 15500,
+        "high": 15600,
+        "low": 15500,
+        "close": 15600,
+        "volume": 5500,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 17800,
+        "high": 17800,
+        "low": 17800,
+        "close": 17800,
+        "volume": 1100,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 20000,
+        "high": 20000,
+        "low": 19700,
+        "close": 19700,
+        "volume": 900,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 19800,
+        "high": 19800,
+        "low": 19800,
+        "close": 19800,
+        "volume": 100,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 22000,
+        "high": 22000,
+        "low": 22000,
+        "close": 22000,
+        "volume": 100,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 18900,
+        "high": 18900,
+        "low": 18900,
+        "close": 18900,
+        "volume": 800,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 21600,
+        "high": 21600,
+        "low": 21600,
+        "close": 21600,
+        "volume": 100,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 24600,
+        "high": 24600,
+        "low": 24600,
+        "close": 24600,
+        "volume": 100,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 24700,
+        "high": 27800,
+        "low": 24700,
+        "close": 27800,
+        "volume": 600,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 30500,
+        "high": 30500,
+        "low": 24500,
+        "close": 24500,
+        "volume": 200,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 31500,
+        "high": 31500,
+        "low": 31500,
+        "close": 31500,
+        "volume": 100,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 26800,
+        "high": 26800,
+        "low": 26800,
+        "close": 26800,
+        "volume": 100,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 28900,
+        "high": 28900,
+        "low": 22800,
+        "close": 26500,
+        "volume": 1000,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 26700,
+        "high": 26700,
+        "low": 22100,
+        "close": 22100,
+        "volume": 1400,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 24900,
+        "high": 24900,
+        "low": 22700,
+        "close": 22700,
+        "volume": 200,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 24200,
+        "high": 24200,
+        "low": 24200,
+        "close": 24200,
+        "volume": 100,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 20600,
+        "high": 20600,
+        "low": 20600,
+        "close": 20600,
+        "volume": 100,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 17600,
+        "high": 20000,
+        "low": 17600,
+        "close": 17600,
+        "volume": 3100,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 15200,
+        "high": 20200,
+        "low": 15200,
+        "close": 19100,
+        "volume": 49200,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 17700,
+        "high": 17700,
+        "low": 17700,
+        "close": 17700,
+        "volume": 100,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 17700,
+        "high": 19400,
+        "low": 17700,
+        "close": 18800,
+        "volume": 600,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 21400,
+        "high": 21400,
+        "low": 18700,
+        "close": 18700,
+        "volume": 1100,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 16400,
+        "high": 18700,
+        "low": 16400,
+        "close": 18700,
+        "volume": 1300,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 20900,
+        "high": 20900,
+        "low": 20900,
+        "close": 20900,
+        "volume": 100,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 24000,
+        "high": 24000,
+        "low": 17800,
+        "close": 19000,
+        "volume": 1400,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 22400,
+        "high": 22400,
+        "low": 16800,
+        "close": 19700,
+        "volume": 3400,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 20900,
+        "high": 20900,
+        "low": 15800,
+        "close": 18300,
+        "volume": 900,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 16100,
+        "high": 17200,
+        "low": 15500,
+        "close": 17200,
+        "volume": 4900,
+        "ticker": "GSM"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 18100,
+        "high": 18100,
+        "low": 15900,
+        "close": 17400,
+        "volume": 1100,
+        "ticker": "GSM"
+    }
+]

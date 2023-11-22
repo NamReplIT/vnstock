@@ -1,0 +1,326 @@
+[
+    {
+        "time": "2023-05-05",
+        "open": 69830,
+        "high": 69830,
+        "low": 69830,
+        "close": 69830,
+        "volume": 100,
+        "ticker": "SGC"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 63030,
+        "high": 76740,
+        "low": 62930,
+        "close": 68950,
+        "volume": 600,
+        "ticker": "SGC"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 69140,
+        "high": 69140,
+        "low": 57600,
+        "close": 57600,
+        "volume": 300,
+        "ticker": "SGC"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 63030,
+        "high": 63030,
+        "low": 63030,
+        "close": 63030,
+        "volume": 100,
+        "ticker": "SGC"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 69140,
+        "high": 69140,
+        "low": 69140,
+        "close": 69140,
+        "volume": 100,
+        "ticker": "SGC"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 75950,
+        "high": 75950,
+        "low": 75950,
+        "close": 75950,
+        "volume": 100,
+        "ticker": "SGC"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 82160,
+        "high": 82160,
+        "low": 82160,
+        "close": 82160,
+        "volume": 100,
+        "ticker": "SGC"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 73980,
+        "high": 73980,
+        "low": 73980,
+        "close": 73980,
+        "volume": 200,
+        "ticker": "SGC"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 66580,
+        "high": 66580,
+        "low": 66580,
+        "close": 66580,
+        "volume": 1000,
+        "ticker": "SGC"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 60170,
+        "high": 60170,
+        "low": 60170,
+        "close": 60170,
+        "volume": 200,
+        "ticker": "SGC"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 64010,
+        "high": 64010,
+        "low": 64010,
+        "close": 64010,
+        "volume": 100,
+        "ticker": "SGC"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 68950,
+        "high": 68950,
+        "low": 68950,
+        "close": 68950,
+        "volume": 100,
+        "ticker": "SGC"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 70920,
+        "high": 70920,
+        "low": 70920,
+        "close": 70920,
+        "volume": 100,
+        "ticker": "SGC"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 77820,
+        "high": 77820,
+        "low": 77820,
+        "close": 77820,
+        "volume": 100,
+        "ticker": "SGC"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 70130,
+        "high": 72690,
+        "low": 70130,
+        "close": 72690,
+        "volume": 300,
+        "ticker": "SGC"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 65489,
+        "high": 72500,
+        "low": 65489,
+        "close": 72500,
+        "volume": 200,
+        "ticker": "SGC"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 77530,
+        "high": 77530,
+        "low": 77530,
+        "close": 77530,
+        "volume": 100,
+        "ticker": "SGC"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 77720,
+        "high": 77720,
+        "low": 77720,
+        "close": 77720,
+        "volume": 100,
+        "ticker": "SGC"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 78320,
+        "high": 78320,
+        "low": 78320,
+        "close": 78320,
+        "volume": 100,
+        "ticker": "SGC"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 70520,
+        "high": 70520,
+        "low": 70520,
+        "close": 70520,
+        "volume": 400,
+        "ticker": "SGC"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 74070,
+        "high": 74070,
+        "low": 74070,
+        "close": 74070,
+        "volume": 100,
+        "ticker": "SGC"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 66680,
+        "high": 69040,
+        "low": 66680,
+        "close": 69040,
+        "volume": 200,
+        "ticker": "SGC"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 73380,
+        "high": 73380,
+        "low": 73380,
+        "close": 73380,
+        "volume": 100,
+        "ticker": "SGC"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 66080,
+        "high": 66080,
+        "low": 66080,
+        "close": 66080,
+        "volume": 100,
+        "ticker": "SGC"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 72200,
+        "high": 72200,
+        "low": 72200,
+        "close": 72200,
+        "volume": 100,
+        "ticker": "SGC"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 65000,
+        "high": 65000,
+        "low": 65000,
+        "close": 65000,
+        "volume": 100,
+        "ticker": "SGC"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 58500,
+        "high": 58500,
+        "low": 58500,
+        "close": 58500,
+        "volume": 1200,
+        "ticker": "SGC"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 54200,
+        "high": 54200,
+        "low": 54200,
+        "close": 54200,
+        "volume": 500,
+        "ticker": "SGC"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 51000,
+        "high": 51000,
+        "low": 51000,
+        "close": 51000,
+        "volume": 700,
+        "ticker": "SGC"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 51000,
+        "high": 51000,
+        "low": 51000,
+        "close": 51000,
+        "volume": 100,
+        "ticker": "SGC"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 56100,
+        "high": 56100,
+        "low": 56100,
+        "close": 56100,
+        "volume": 100,
+        "ticker": "SGC"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 61600,
+        "high": 61600,
+        "low": 51000,
+        "close": 51000,
+        "volume": 400,
+        "ticker": "SGC"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 56000,
+        "high": 56000,
+        "low": 56000,
+        "close": 56000,
+        "volume": 100,
+        "ticker": "SGC"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 61300,
+        "high": 61300,
+        "low": 61300,
+        "close": 61300,
+        "volume": 100,
+        "ticker": "SGC"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 65200,
+        "high": 65200,
+        "low": 65200,
+        "close": 65200,
+        "volume": 100,
+        "ticker": "SGC"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 71100,
+        "high": 71100,
+        "low": 71100,
+        "close": 71100,
+        "volume": 100,
+        "ticker": "SGC"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "time": "2023-05-05",
+        "open": 12480,
+        "high": 12480,
+        "low": 12480,
+        "close": 12480,
+        "volume": 100,
+        "ticker": "BSC"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 12000,
+        "high": 12000,
+        "low": 12000,
+        "close": 12000,
+        "volume": 100,
+        "ticker": "BSC"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 12000,
+        "high": 12000,
+        "low": 12000,
+        "close": 12000,
+        "volume": 100,
+        "ticker": "BSC"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 12000,
+        "high": 12000,
+        "low": 12000,
+        "close": 12000,
+        "volume": 300,
+        "ticker": "BSC"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 12000,
+        "high": 12000,
+        "low": 12000,
+        "close": 12000,
+        "volume": 600,
+        "ticker": "BSC"
+    }
+]

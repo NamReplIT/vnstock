@@ -1,0 +1,1289 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 17900,
+        "high": 17900,
+        "low": 17400,
+        "close": 17600,
+        "volume": 309300,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 17700,
+        "high": 17900,
+        "low": 17100,
+        "close": 17300,
+        "volume": 357900,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 17400,
+        "high": 17700,
+        "low": 17000,
+        "close": 17600,
+        "volume": 380300,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 17700,
+        "high": 17800,
+        "low": 17400,
+        "close": 17800,
+        "volume": 231400,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 17900,
+        "high": 17900,
+        "low": 17100,
+        "close": 17800,
+        "volume": 402100,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 17700,
+        "high": 17700,
+        "low": 17000,
+        "close": 17600,
+        "volume": 621000,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 17500,
+        "high": 17600,
+        "low": 17000,
+        "close": 17500,
+        "volume": 409100,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 17300,
+        "high": 17800,
+        "low": 17000,
+        "close": 17000,
+        "volume": 445200,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 17500,
+        "high": 17500,
+        "low": 17000,
+        "close": 17400,
+        "volume": 638200,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 17400,
+        "high": 17500,
+        "low": 17000,
+        "close": 17400,
+        "volume": 403600,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 17400,
+        "high": 17700,
+        "low": 17000,
+        "close": 17200,
+        "volume": 335800,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 17400,
+        "high": 17500,
+        "low": 16700,
+        "close": 16700,
+        "volume": 578900,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 16700,
+        "high": 16700,
+        "low": 15600,
+        "close": 15700,
+        "volume": 340100,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 15300,
+        "high": 16300,
+        "low": 15200,
+        "close": 16300,
+        "volume": 667900,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 16300,
+        "high": 16800,
+        "low": 15800,
+        "close": 16700,
+        "volume": 637800,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 16700,
+        "high": 16800,
+        "low": 16300,
+        "close": 16600,
+        "volume": 386000,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 16600,
+        "high": 17000,
+        "low": 16000,
+        "close": 16800,
+        "volume": 745900,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 16800,
+        "high": 16800,
+        "low": 16400,
+        "close": 16500,
+        "volume": 488900,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 16500,
+        "high": 16600,
+        "low": 16000,
+        "close": 16400,
+        "volume": 551900,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 16400,
+        "high": 16500,
+        "low": 15700,
+        "close": 16000,
+        "volume": 531100,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 16000,
+        "high": 16300,
+        "low": 15700,
+        "close": 15700,
+        "volume": 339200,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 15600,
+        "high": 15900,
+        "low": 15500,
+        "close": 15700,
+        "volume": 360000,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 15700,
+        "high": 15800,
+        "low": 15100,
+        "close": 15600,
+        "volume": 944300,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 15500,
+        "high": 15800,
+        "low": 15000,
+        "close": 15700,
+        "volume": 1188100,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 15700,
+        "high": 15700,
+        "low": 15000,
+        "close": 15700,
+        "volume": 1393600,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 15500,
+        "high": 16100,
+        "low": 15100,
+        "close": 15300,
+        "volume": 1193100,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 15200,
+        "high": 15500,
+        "low": 15000,
+        "close": 15200,
+        "volume": 614700,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 15100,
+        "high": 15400,
+        "low": 14900,
+        "close": 15000,
+        "volume": 1025000,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 14900,
+        "high": 15500,
+        "low": 14600,
+        "close": 15500,
+        "volume": 1203300,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 15300,
+        "high": 15700,
+        "low": 15200,
+        "close": 15600,
+        "volume": 1091300,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 15600,
+        "high": 15600,
+        "low": 15300,
+        "close": 15500,
+        "volume": 437100,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 15300,
+        "high": 15600,
+        "low": 15000,
+        "close": 15500,
+        "volume": 1322700,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 15600,
+        "high": 15600,
+        "low": 15000,
+        "close": 15400,
+        "volume": 885900,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 15300,
+        "high": 15400,
+        "low": 15000,
+        "close": 15300,
+        "volume": 779000,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 15200,
+        "high": 15500,
+        "low": 15000,
+        "close": 15200,
+        "volume": 1475000,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 15200,
+        "high": 15200,
+        "low": 14800,
+        "close": 14800,
+        "volume": 974300,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 14800,
+        "high": 15300,
+        "low": 14700,
+        "close": 14800,
+        "volume": 1313100,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 14800,
+        "high": 15000,
+        "low": 14100,
+        "close": 14800,
+        "volume": 1148300,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 14700,
+        "high": 15000,
+        "low": 14600,
+        "close": 15000,
+        "volume": 836300,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 14900,
+        "high": 15200,
+        "low": 14600,
+        "close": 15000,
+        "volume": 1504800,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 14900,
+        "high": 15000,
+        "low": 14700,
+        "close": 14700,
+        "volume": 531500,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 14700,
+        "high": 15000,
+        "low": 14400,
+        "close": 14400,
+        "volume": 862300,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 14600,
+        "high": 14700,
+        "low": 14200,
+        "close": 14200,
+        "volume": 473400,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 14200,
+        "high": 14400,
+        "low": 14100,
+        "close": 14200,
+        "volume": 475500,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 14100,
+        "high": 14400,
+        "low": 13900,
+        "close": 14400,
+        "volume": 871200,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 14400,
+        "high": 14400,
+        "low": 14100,
+        "close": 14400,
+        "volume": 347000,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 14300,
+        "high": 14800,
+        "low": 14100,
+        "close": 14700,
+        "volume": 469900,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 14700,
+        "high": 15000,
+        "low": 14500,
+        "close": 14800,
+        "volume": 856500,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 14800,
+        "high": 14900,
+        "low": 14500,
+        "close": 14800,
+        "volume": 837000,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 14700,
+        "high": 15100,
+        "low": 14600,
+        "close": 15100,
+        "volume": 1148200,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 15100,
+        "high": 15600,
+        "low": 14800,
+        "close": 15400,
+        "volume": 1227000,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 15300,
+        "high": 15400,
+        "low": 14600,
+        "close": 14800,
+        "volume": 1058600,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 14700,
+        "high": 15000,
+        "low": 14700,
+        "close": 14800,
+        "volume": 547000,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 14800,
+        "high": 15200,
+        "low": 14700,
+        "close": 14800,
+        "volume": 1043200,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 15000,
+        "high": 15100,
+        "low": 14600,
+        "close": 15100,
+        "volume": 1032700,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 15100,
+        "high": 15300,
+        "low": 14800,
+        "close": 15200,
+        "volume": 595000,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 15200,
+        "high": 15400,
+        "low": 14800,
+        "close": 15200,
+        "volume": 1166500,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 15200,
+        "high": 15200,
+        "low": 14500,
+        "close": 14500,
+        "volume": 1882000,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 14400,
+        "high": 14800,
+        "low": 14200,
+        "close": 14500,
+        "volume": 1882700,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 14500,
+        "high": 15000,
+        "low": 14300,
+        "close": 14500,
+        "volume": 1192000,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 14700,
+        "high": 14800,
+        "low": 14200,
+        "close": 14700,
+        "volume": 1366600,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 14700,
+        "high": 14800,
+        "low": 14500,
+        "close": 14800,
+        "volume": 865100,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 14800,
+        "high": 14800,
+        "low": 14500,
+        "close": 14800,
+        "volume": 896500,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 14700,
+        "high": 15000,
+        "low": 14400,
+        "close": 14400,
+        "volume": 1359000,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 14500,
+        "high": 14500,
+        "low": 14100,
+        "close": 14400,
+        "volume": 661800,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 14400,
+        "high": 14500,
+        "low": 14100,
+        "close": 14100,
+        "volume": 681000,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 14200,
+        "high": 14200,
+        "low": 13800,
+        "close": 13900,
+        "volume": 778600,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 14000,
+        "high": 14100,
+        "low": 13900,
+        "close": 14000,
+        "volume": 532100,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 14100,
+        "high": 14600,
+        "low": 13900,
+        "close": 14500,
+        "volume": 1475600,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 14500,
+        "high": 14700,
+        "low": 14300,
+        "close": 14600,
+        "volume": 900300,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 14600,
+        "high": 14700,
+        "low": 14300,
+        "close": 14400,
+        "volume": 801500,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 14400,
+        "high": 14700,
+        "low": 14100,
+        "close": 14300,
+        "volume": 778900,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 14300,
+        "high": 14500,
+        "low": 14200,
+        "close": 14200,
+        "volume": 445500,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 14200,
+        "high": 14400,
+        "low": 14100,
+        "close": 14100,
+        "volume": 381400,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 14100,
+        "high": 14400,
+        "low": 13900,
+        "close": 13900,
+        "volume": 1054800,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-08-17",
+        "open": 14000,
+        "high": 14000,
+        "low": 13500,
+        "close": 13600,
+        "volume": 1004900,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 13700,
+        "high": 13700,
+        "low": 13300,
+        "close": 13600,
+        "volume": 2014000,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 13500,
+        "high": 14100,
+        "low": 13500,
+        "close": 14100,
+        "volume": 820400,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 14000,
+        "high": 14200,
+        "low": 13800,
+        "close": 14100,
+        "volume": 685100,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 14100,
+        "high": 14300,
+        "low": 13700,
+        "close": 13800,
+        "volume": 1016200,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 13700,
+        "high": 14000,
+        "low": 13700,
+        "close": 14000,
+        "volume": 522800,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 13900,
+        "high": 14000,
+        "low": 13700,
+        "close": 13800,
+        "volume": 577100,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 13800,
+        "high": 14000,
+        "low": 13700,
+        "close": 13900,
+        "volume": 970200,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 13900,
+        "high": 14200,
+        "low": 13800,
+        "close": 14000,
+        "volume": 939700,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 14000,
+        "high": 14100,
+        "low": 13700,
+        "close": 13800,
+        "volume": 936900,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 13800,
+        "high": 14100,
+        "low": 13600,
+        "close": 14000,
+        "volume": 993800,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 14000,
+        "high": 14300,
+        "low": 13800,
+        "close": 14300,
+        "volume": 1841500,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 14300,
+        "high": 14800,
+        "low": 14100,
+        "close": 14700,
+        "volume": 1205700,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 14800,
+        "high": 14800,
+        "low": 14300,
+        "close": 14400,
+        "volume": 1018000,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 14400,
+        "high": 14600,
+        "low": 14300,
+        "close": 14300,
+        "volume": 739900,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 14300,
+        "high": 14400,
+        "low": 14200,
+        "close": 14200,
+        "volume": 714100,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 14200,
+        "high": 14400,
+        "low": 14100,
+        "close": 14300,
+        "volume": 709200,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 14300,
+        "high": 14400,
+        "low": 14100,
+        "close": 14100,
+        "volume": 675200,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 14000,
+        "high": 14300,
+        "low": 13800,
+        "close": 14000,
+        "volume": 939500,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 14100,
+        "high": 14200,
+        "low": 13900,
+        "close": 13900,
+        "volume": 430900,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 13900,
+        "high": 14000,
+        "low": 13800,
+        "close": 13800,
+        "volume": 410200,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 13900,
+        "high": 14100,
+        "low": 13900,
+        "close": 14100,
+        "volume": 475300,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 14200,
+        "high": 14400,
+        "low": 14000,
+        "close": 14100,
+        "volume": 568300,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 14000,
+        "high": 14300,
+        "low": 14000,
+        "close": 14000,
+        "volume": 206800,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 13800,
+        "high": 14200,
+        "low": 13800,
+        "close": 14100,
+        "volume": 671400,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 14200,
+        "high": 14800,
+        "low": 14100,
+        "close": 14400,
+        "volume": 1477000,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 14400,
+        "high": 14500,
+        "low": 14100,
+        "close": 14100,
+        "volume": 803100,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 14100,
+        "high": 14100,
+        "low": 13900,
+        "close": 14100,
+        "volume": 446900,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 14100,
+        "high": 14300,
+        "low": 13900,
+        "close": 14300,
+        "volume": 508300,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 14300,
+        "high": 14400,
+        "low": 14100,
+        "close": 14200,
+        "volume": 808000,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 14200,
+        "high": 14400,
+        "low": 14100,
+        "close": 14300,
+        "volume": 342800,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 14300,
+        "high": 14300,
+        "low": 13800,
+        "close": 13800,
+        "volume": 565400,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 13800,
+        "high": 14100,
+        "low": 13600,
+        "close": 14000,
+        "volume": 1070800,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 14000,
+        "high": 14300,
+        "low": 13900,
+        "close": 14100,
+        "volume": 487400,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 14200,
+        "high": 14400,
+        "low": 14000,
+        "close": 14200,
+        "volume": 571400,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 14300,
+        "high": 14900,
+        "low": 14100,
+        "close": 14500,
+        "volume": 1319100,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 14500,
+        "high": 14800,
+        "low": 14200,
+        "close": 14700,
+        "volume": 1289200,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 14700,
+        "high": 16100,
+        "low": 14500,
+        "close": 16100,
+        "volume": 3178900,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 16000,
+        "high": 17000,
+        "low": 15900,
+        "close": 16200,
+        "volume": 2400700,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 16100,
+        "high": 16600,
+        "low": 15500,
+        "close": 15900,
+        "volume": 1876800,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 15900,
+        "high": 16200,
+        "low": 15300,
+        "close": 15900,
+        "volume": 1343200,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 15900,
+        "high": 16100,
+        "low": 15600,
+        "close": 15600,
+        "volume": 974700,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 15600,
+        "high": 15700,
+        "low": 14100,
+        "close": 14600,
+        "volume": 1984200,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 14600,
+        "high": 14600,
+        "low": 14100,
+        "close": 14300,
+        "volume": 474900,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 14100,
+        "high": 14900,
+        "low": 14100,
+        "close": 14800,
+        "volume": 435400,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 14700,
+        "high": 14900,
+        "low": 14200,
+        "close": 14900,
+        "volume": 493600,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 14900,
+        "high": 15100,
+        "low": 14700,
+        "close": 15000,
+        "volume": 397800,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 15000,
+        "high": 15300,
+        "low": 14700,
+        "close": 14700,
+        "volume": 451100,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 14500,
+        "high": 14700,
+        "low": 14100,
+        "close": 14500,
+        "volume": 748100,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 14500,
+        "high": 14800,
+        "low": 14300,
+        "close": 14800,
+        "volume": 538100,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 14800,
+        "high": 14800,
+        "low": 14500,
+        "close": 14500,
+        "volume": 196500,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 14500,
+        "high": 15100,
+        "low": 14300,
+        "close": 14400,
+        "volume": 836300,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 14400,
+        "high": 14700,
+        "low": 13900,
+        "close": 14000,
+        "volume": 333500,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 14400,
+        "high": 14400,
+        "low": 14000,
+        "close": 14000,
+        "volume": 373900,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 14000,
+        "high": 14000,
+        "low": 13500,
+        "close": 13500,
+        "volume": 597400,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 13500,
+        "high": 14000,
+        "low": 13500,
+        "close": 13800,
+        "volume": 579100,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 14000,
+        "high": 14000,
+        "low": 13600,
+        "close": 13700,
+        "volume": 432000,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 13700,
+        "high": 13900,
+        "low": 13400,
+        "close": 13800,
+        "volume": 805400,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 14000,
+        "high": 14000,
+        "low": 13500,
+        "close": 13500,
+        "volume": 758900,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 13600,
+        "high": 13600,
+        "low": 13300,
+        "close": 13300,
+        "volume": 559100,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 13600,
+        "high": 13600,
+        "low": 12900,
+        "close": 13000,
+        "volume": 1178100,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 13100,
+        "high": 13300,
+        "low": 13000,
+        "close": 13200,
+        "volume": 318300,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 13400,
+        "high": 13500,
+        "low": 12800,
+        "close": 12800,
+        "volume": 1008300,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 12700,
+        "high": 12900,
+        "low": 12400,
+        "close": 12900,
+        "volume": 689200,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 13100,
+        "high": 13100,
+        "low": 12600,
+        "close": 12700,
+        "volume": 464600,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 12600,
+        "high": 12900,
+        "low": 12600,
+        "close": 12900,
+        "volume": 362400,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 12900,
+        "high": 12900,
+        "low": 12700,
+        "close": 12900,
+        "volume": 458700,
+        "ticker": "DVM"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 12900,
+        "high": 12900,
+        "low": 12700,
+        "close": 12900,
+        "volume": 334600,
+        "ticker": "DVM"
+    }
+]

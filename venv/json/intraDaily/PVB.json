@@ -1,0 +1,1289 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 13300,
+        "high": 13300,
+        "low": 13200,
+        "close": 13300,
+        "volume": 17400,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 13200,
+        "high": 13300,
+        "low": 13200,
+        "close": 13200,
+        "volume": 41800,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 13300,
+        "high": 13700,
+        "low": 13300,
+        "close": 13700,
+        "volume": 74700,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 13800,
+        "high": 14600,
+        "low": 13800,
+        "close": 14000,
+        "volume": 517200,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 14200,
+        "high": 14300,
+        "low": 14000,
+        "close": 14000,
+        "volume": 114200,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 14100,
+        "high": 14600,
+        "low": 14000,
+        "close": 14200,
+        "volume": 252300,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 14200,
+        "high": 14400,
+        "low": 14100,
+        "close": 14300,
+        "volume": 229000,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 14300,
+        "high": 14400,
+        "low": 14100,
+        "close": 14100,
+        "volume": 157200,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 13900,
+        "high": 15100,
+        "low": 13900,
+        "close": 14700,
+        "volume": 625600,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 14900,
+        "high": 15100,
+        "low": 14600,
+        "close": 14700,
+        "volume": 403600,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 14600,
+        "high": 16000,
+        "low": 14600,
+        "close": 15900,
+        "volume": 689700,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 16100,
+        "high": 16800,
+        "low": 16000,
+        "close": 16200,
+        "volume": 515600,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 16900,
+        "high": 17000,
+        "low": 16300,
+        "close": 16500,
+        "volume": 399100,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 16600,
+        "high": 17000,
+        "low": 16300,
+        "close": 16400,
+        "volume": 433700,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 16900,
+        "high": 16900,
+        "low": 16200,
+        "close": 16200,
+        "volume": 418800,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 16200,
+        "high": 17800,
+        "low": 16000,
+        "close": 17800,
+        "volume": 821500,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 17800,
+        "high": 19500,
+        "low": 17400,
+        "close": 19500,
+        "volume": 786000,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 19500,
+        "high": 20200,
+        "low": 18900,
+        "close": 19100,
+        "volume": 601600,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 19400,
+        "high": 20100,
+        "low": 19100,
+        "close": 19500,
+        "volume": 428500,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 19500,
+        "high": 20200,
+        "low": 19100,
+        "close": 19800,
+        "volume": 622100,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 19700,
+        "high": 19800,
+        "low": 19000,
+        "close": 19300,
+        "volume": 395500,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 19800,
+        "high": 20300,
+        "low": 19600,
+        "close": 19700,
+        "volume": 458500,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 20000,
+        "high": 20600,
+        "low": 19500,
+        "close": 19800,
+        "volume": 301700,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 19800,
+        "high": 19900,
+        "low": 19400,
+        "close": 19800,
+        "volume": 213100,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 20100,
+        "high": 21300,
+        "low": 20000,
+        "close": 20900,
+        "volume": 524500,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 21200,
+        "high": 21800,
+        "low": 20500,
+        "close": 20500,
+        "volume": 456300,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 20500,
+        "high": 20900,
+        "low": 19800,
+        "close": 20600,
+        "volume": 251400,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 20800,
+        "high": 20800,
+        "low": 19600,
+        "close": 20400,
+        "volume": 327300,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 20000,
+        "high": 20600,
+        "low": 20000,
+        "close": 20200,
+        "volume": 254400,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 20200,
+        "high": 20800,
+        "low": 19800,
+        "close": 19800,
+        "volume": 147400,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 19800,
+        "high": 21700,
+        "low": 19800,
+        "close": 21700,
+        "volume": 736600,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 22500,
+        "high": 22700,
+        "low": 21800,
+        "close": 21800,
+        "volume": 449700,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 21800,
+        "high": 23900,
+        "low": 21600,
+        "close": 23200,
+        "volume": 483000,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 23200,
+        "high": 23900,
+        "low": 22400,
+        "close": 23400,
+        "volume": 308300,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 23700,
+        "high": 24500,
+        "low": 23100,
+        "close": 23500,
+        "volume": 369300,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 23500,
+        "high": 23900,
+        "low": 23400,
+        "close": 23700,
+        "volume": 213100,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 23700,
+        "high": 23700,
+        "low": 21800,
+        "close": 22800,
+        "volume": 1753300,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 22800,
+        "high": 23100,
+        "low": 22000,
+        "close": 22800,
+        "volume": 403400,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 22800,
+        "high": 23900,
+        "low": 22600,
+        "close": 22800,
+        "volume": 368800,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 23100,
+        "high": 23500,
+        "low": 22600,
+        "close": 22600,
+        "volume": 375400,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 22900,
+        "high": 24200,
+        "low": 22500,
+        "close": 22800,
+        "volume": 994700,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 22800,
+        "high": 23300,
+        "low": 22500,
+        "close": 23000,
+        "volume": 259900,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 22700,
+        "high": 23300,
+        "low": 22600,
+        "close": 23000,
+        "volume": 216700,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 23300,
+        "high": 24200,
+        "low": 23000,
+        "close": 24200,
+        "volume": 700500,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 24200,
+        "high": 24200,
+        "low": 23100,
+        "close": 23400,
+        "volume": 352300,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 23400,
+        "high": 23600,
+        "low": 22800,
+        "close": 22900,
+        "volume": 353900,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 22900,
+        "high": 23400,
+        "low": 22700,
+        "close": 23300,
+        "volume": 258000,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 23700,
+        "high": 23800,
+        "low": 23100,
+        "close": 23200,
+        "volume": 441500,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 23400,
+        "high": 23600,
+        "low": 23100,
+        "close": 23200,
+        "volume": 333100,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 23400,
+        "high": 24300,
+        "low": 23400,
+        "close": 23700,
+        "volume": 626100,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 24000,
+        "high": 24000,
+        "low": 23500,
+        "close": 23700,
+        "volume": 251800,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 24000,
+        "high": 24400,
+        "low": 23700,
+        "close": 23800,
+        "volume": 659100,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 23800,
+        "high": 24100,
+        "low": 23300,
+        "close": 23800,
+        "volume": 564300,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 23800,
+        "high": 24900,
+        "low": 23800,
+        "close": 23900,
+        "volume": 735200,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 23900,
+        "high": 24000,
+        "low": 23300,
+        "close": 23300,
+        "volume": 436200,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 23100,
+        "high": 23400,
+        "low": 22800,
+        "close": 23200,
+        "volume": 450300,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 23200,
+        "high": 23400,
+        "low": 23000,
+        "close": 23200,
+        "volume": 278100,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 23200,
+        "high": 24100,
+        "low": 22900,
+        "close": 23900,
+        "volume": 1070600,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 24300,
+        "high": 24300,
+        "low": 23500,
+        "close": 23600,
+        "volume": 360300,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 23600,
+        "high": 23900,
+        "low": 23400,
+        "close": 23800,
+        "volume": 238100,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 23700,
+        "high": 24200,
+        "low": 23000,
+        "close": 23400,
+        "volume": 555400,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 23900,
+        "high": 24000,
+        "low": 23200,
+        "close": 23700,
+        "volume": 411600,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 24000,
+        "high": 24100,
+        "low": 23400,
+        "close": 23400,
+        "volume": 300800,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 23600,
+        "high": 23600,
+        "low": 22500,
+        "close": 22500,
+        "volume": 538000,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 22300,
+        "high": 22700,
+        "low": 22000,
+        "close": 22300,
+        "volume": 635500,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 22200,
+        "high": 22500,
+        "low": 21900,
+        "close": 21900,
+        "volume": 405900,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 21900,
+        "high": 22800,
+        "low": 21800,
+        "close": 22600,
+        "volume": 464200,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 22600,
+        "high": 22600,
+        "low": 22300,
+        "close": 22400,
+        "volume": 375200,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 22500,
+        "high": 23500,
+        "low": 22500,
+        "close": 22900,
+        "volume": 713100,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 22900,
+        "high": 22900,
+        "low": 22400,
+        "close": 22500,
+        "volume": 327900,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 22800,
+        "high": 23300,
+        "low": 22200,
+        "close": 22200,
+        "volume": 507300,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 22200,
+        "high": 22300,
+        "low": 22000,
+        "close": 22100,
+        "volume": 330700,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 22100,
+        "high": 22300,
+        "low": 21900,
+        "close": 22100,
+        "volume": 461900,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 22100,
+        "high": 22300,
+        "low": 21900,
+        "close": 22300,
+        "volume": 388800,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 22300,
+        "high": 23000,
+        "low": 22100,
+        "close": 22200,
+        "volume": 479500,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-08-17",
+        "open": 22300,
+        "high": 22300,
+        "low": 21600,
+        "close": 21600,
+        "volume": 270700,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 21700,
+        "high": 21700,
+        "low": 19500,
+        "close": 19500,
+        "volume": 893100,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 19500,
+        "high": 19800,
+        "low": 19000,
+        "close": 19500,
+        "volume": 287000,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 19400,
+        "high": 19500,
+        "low": 18400,
+        "close": 19200,
+        "volume": 196200,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 19200,
+        "high": 19400,
+        "low": 18900,
+        "close": 19000,
+        "volume": 226900,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 19000,
+        "high": 19300,
+        "low": 18800,
+        "close": 19300,
+        "volume": 140500,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 19300,
+        "high": 19900,
+        "low": 19000,
+        "close": 19300,
+        "volume": 248300,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 19500,
+        "high": 19700,
+        "low": 19300,
+        "close": 19500,
+        "volume": 126500,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 19500,
+        "high": 20300,
+        "low": 19500,
+        "close": 20300,
+        "volume": 375400,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 20300,
+        "high": 20300,
+        "low": 19800,
+        "close": 20000,
+        "volume": 74300,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 20500,
+        "high": 20500,
+        "low": 20000,
+        "close": 20100,
+        "volume": 150500,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 20200,
+        "high": 20900,
+        "low": 20200,
+        "close": 20500,
+        "volume": 271900,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 20600,
+        "high": 21400,
+        "low": 20500,
+        "close": 20800,
+        "volume": 324100,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 22000,
+        "high": 22000,
+        "low": 20900,
+        "close": 21100,
+        "volume": 357500,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 21100,
+        "high": 21500,
+        "low": 21000,
+        "close": 21300,
+        "volume": 326100,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 21300,
+        "high": 21900,
+        "low": 20600,
+        "close": 20700,
+        "volume": 555700,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 20700,
+        "high": 21100,
+        "low": 20600,
+        "close": 20900,
+        "volume": 166400,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 21400,
+        "high": 21600,
+        "low": 20700,
+        "close": 21100,
+        "volume": 401500,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 21100,
+        "high": 22400,
+        "low": 20800,
+        "close": 22300,
+        "volume": 1066800,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 22500,
+        "high": 24000,
+        "low": 22500,
+        "close": 23200,
+        "volume": 1124400,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 23200,
+        "high": 23700,
+        "low": 21700,
+        "close": 22100,
+        "volume": 572700,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 22600,
+        "high": 22700,
+        "low": 22000,
+        "close": 22600,
+        "volume": 680100,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 22600,
+        "high": 23400,
+        "low": 22600,
+        "close": 22900,
+        "volume": 454200,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 23000,
+        "high": 23200,
+        "low": 22400,
+        "close": 22700,
+        "volume": 399400,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 22700,
+        "high": 22700,
+        "low": 21400,
+        "close": 21400,
+        "volume": 607100,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 21400,
+        "high": 22100,
+        "low": 19600,
+        "close": 20100,
+        "volume": 665100,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 20400,
+        "high": 20900,
+        "low": 20000,
+        "close": 20200,
+        "volume": 218400,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 20300,
+        "high": 20600,
+        "low": 19600,
+        "close": 20500,
+        "volume": 207400,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 21000,
+        "high": 21300,
+        "low": 20400,
+        "close": 20800,
+        "volume": 362500,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 20800,
+        "high": 21200,
+        "low": 20600,
+        "close": 20700,
+        "volume": 128800,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 20800,
+        "high": 21400,
+        "low": 20000,
+        "close": 20300,
+        "volume": 161700,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 20300,
+        "high": 20300,
+        "low": 18400,
+        "close": 18400,
+        "volume": 534000,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 18400,
+        "high": 19100,
+        "low": 17700,
+        "close": 18900,
+        "volume": 159100,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 18800,
+        "high": 19000,
+        "low": 18600,
+        "close": 18600,
+        "volume": 139500,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 18600,
+        "high": 19300,
+        "low": 18500,
+        "close": 19000,
+        "volume": 110800,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 19400,
+        "high": 19900,
+        "low": 19400,
+        "close": 19700,
+        "volume": 134300,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 19800,
+        "high": 19900,
+        "low": 19300,
+        "close": 19300,
+        "volume": 160200,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 19500,
+        "high": 20500,
+        "low": 19100,
+        "close": 20300,
+        "volume": 231400,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 20100,
+        "high": 20500,
+        "low": 19800,
+        "close": 19900,
+        "volume": 100400,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 19900,
+        "high": 20500,
+        "low": 19900,
+        "close": 20300,
+        "volume": 211000,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 20500,
+        "high": 21100,
+        "low": 20300,
+        "close": 20300,
+        "volume": 290900,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 20400,
+        "high": 20500,
+        "low": 19900,
+        "close": 19900,
+        "volume": 115400,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 19500,
+        "high": 20100,
+        "low": 18700,
+        "close": 19100,
+        "volume": 245700,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 19000,
+        "high": 19400,
+        "low": 18800,
+        "close": 18900,
+        "volume": 141100,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 18900,
+        "high": 19200,
+        "low": 18600,
+        "close": 19200,
+        "volume": 158600,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 19500,
+        "high": 20300,
+        "low": 19500,
+        "close": 19900,
+        "volume": 287800,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 19900,
+        "high": 20100,
+        "low": 19700,
+        "close": 20000,
+        "volume": 113400,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 20000,
+        "high": 20200,
+        "low": 19500,
+        "close": 19600,
+        "volume": 78600,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 19200,
+        "high": 19500,
+        "low": 17700,
+        "close": 17900,
+        "volume": 339000,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 18300,
+        "high": 19500,
+        "low": 18100,
+        "close": 19400,
+        "volume": 382700,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 19600,
+        "high": 20200,
+        "low": 19500,
+        "close": 19500,
+        "volume": 222300,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 19800,
+        "high": 19900,
+        "low": 18200,
+        "close": 18200,
+        "volume": 201700,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 18000,
+        "high": 18600,
+        "low": 17900,
+        "close": 18600,
+        "volume": 102600,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 19100,
+        "high": 19400,
+        "low": 18600,
+        "close": 19200,
+        "volume": 209300,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 19300,
+        "high": 19400,
+        "low": 18800,
+        "close": 19100,
+        "volume": 135600,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 19100,
+        "high": 19200,
+        "low": 18900,
+        "close": 19100,
+        "volume": 75800,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 19200,
+        "high": 21000,
+        "low": 19100,
+        "close": 21000,
+        "volume": 907800,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 21600,
+        "high": 21900,
+        "low": 21000,
+        "close": 21600,
+        "volume": 366900,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 21600,
+        "high": 21900,
+        "low": 21100,
+        "close": 21300,
+        "volume": 544900,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 21300,
+        "high": 22500,
+        "low": 21300,
+        "close": 21600,
+        "volume": 518800,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 21700,
+        "high": 22000,
+        "low": 21200,
+        "close": 21500,
+        "volume": 420100,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 21700,
+        "high": 22300,
+        "low": 21400,
+        "close": 21400,
+        "volume": 393400,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 21800,
+        "high": 22000,
+        "low": 21200,
+        "close": 21300,
+        "volume": 460000,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 21400,
+        "high": 21800,
+        "low": 21300,
+        "close": 21800,
+        "volume": 339400,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 21700,
+        "high": 22500,
+        "low": 20700,
+        "close": 21700,
+        "volume": 806800,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 21300,
+        "high": 21700,
+        "low": 21200,
+        "close": 21500,
+        "volume": 303500,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 21800,
+        "high": 22300,
+        "low": 21800,
+        "close": 22300,
+        "volume": 498200,
+        "ticker": "PVB"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 21500,
+        "high": 22500,
+        "low": 21500,
+        "close": 22000,
+        "volume": 352500,
+        "ticker": "PVB"
+    }
+]

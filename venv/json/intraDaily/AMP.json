@@ -1,0 +1,110 @@
+[
+    {
+        "time": "2023-05-26",
+        "open": 8000,
+        "high": 8000,
+        "low": 8000,
+        "close": 8000,
+        "volume": 1500,
+        "ticker": "AMP"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 9200,
+        "high": 9200,
+        "low": 9200,
+        "close": 9200,
+        "volume": 1000,
+        "ticker": "AMP"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 7600,
+        "high": 10200,
+        "low": 7600,
+        "close": 10000,
+        "volume": 500,
+        "ticker": "AMP"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 11000,
+        "high": 11000,
+        "low": 11000,
+        "close": 11000,
+        "volume": 600,
+        "ticker": "AMP"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 11900,
+        "high": 12500,
+        "low": 11900,
+        "close": 12500,
+        "volume": 2200,
+        "ticker": "AMP"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 12900,
+        "high": 12900,
+        "low": 12000,
+        "close": 12900,
+        "volume": 1500,
+        "ticker": "AMP"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 14100,
+        "high": 14100,
+        "low": 14100,
+        "close": 14100,
+        "volume": 300,
+        "ticker": "AMP"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 14400,
+        "high": 14400,
+        "low": 14400,
+        "close": 14400,
+        "volume": 100,
+        "ticker": "AMP"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 16500,
+        "high": 16500,
+        "low": 16500,
+        "close": 16500,
+        "volume": 100,
+        "ticker": "AMP"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 18900,
+        "high": 18900,
+        "low": 16500,
+        "close": 17900,
+        "volume": 500,
+        "ticker": "AMP"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 19800,
+        "high": 19800,
+        "low": 19800,
+        "close": 19800,
+        "volume": 100,
+        "ticker": "AMP"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 22500,
+        "high": 22500,
+        "low": 22500,
+        "close": 22500,
+        "volume": 100,
+        "ticker": "AMP"
+    }
+]

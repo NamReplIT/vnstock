@@ -1,0 +1,254 @@
+[
+    {
+        "time": "2023-05-05",
+        "open": 500,
+        "high": 500,
+        "low": 500,
+        "close": 500,
+        "volume": 6000,
+        "ticker": "AVF"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 600,
+        "high": 600,
+        "low": 500,
+        "close": 500,
+        "volume": 374500,
+        "ticker": "AVF"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 600,
+        "high": 600,
+        "low": 500,
+        "close": 600,
+        "volume": 186000,
+        "ticker": "AVF"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 600,
+        "high": 600,
+        "low": 500,
+        "close": 500,
+        "volume": 332500,
+        "ticker": "AVF"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 600,
+        "high": 700,
+        "low": 600,
+        "close": 700,
+        "volume": 1568600,
+        "ticker": "AVF"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 700,
+        "high": 800,
+        "low": 700,
+        "close": 800,
+        "volume": 1516000,
+        "ticker": "AVF"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 900,
+        "high": 900,
+        "low": 700,
+        "close": 800,
+        "volume": 852400,
+        "ticker": "AVF"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 800,
+        "high": 800,
+        "low": 700,
+        "close": 800,
+        "volume": 735600,
+        "ticker": "AVF"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 700,
+        "high": 700,
+        "low": 600,
+        "close": 600,
+        "volume": 685800,
+        "ticker": "AVF"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 600,
+        "high": 700,
+        "low": 500,
+        "close": 600,
+        "volume": 403300,
+        "ticker": "AVF"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 700,
+        "high": 700,
+        "low": 600,
+        "close": 700,
+        "volume": 86500,
+        "ticker": "AVF"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 700,
+        "high": 700,
+        "low": 600,
+        "close": 700,
+        "volume": 1025600,
+        "ticker": "AVF"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 700,
+        "high": 700,
+        "low": 600,
+        "close": 600,
+        "volume": 491700,
+        "ticker": "AVF"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 600,
+        "high": 700,
+        "low": 500,
+        "close": 700,
+        "volume": 807700,
+        "ticker": "AVF"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 600,
+        "high": 700,
+        "low": 500,
+        "close": 700,
+        "volume": 1175400,
+        "ticker": "AVF"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 600,
+        "high": 700,
+        "low": 500,
+        "close": 600,
+        "volume": 732000,
+        "ticker": "AVF"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 600,
+        "high": 700,
+        "low": 500,
+        "close": 600,
+        "volume": 667100,
+        "ticker": "AVF"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 600,
+        "high": 700,
+        "low": 500,
+        "close": 600,
+        "volume": 629300,
+        "ticker": "AVF"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 600,
+        "high": 600,
+        "low": 500,
+        "close": 600,
+        "volume": 295900,
+        "ticker": "AVF"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 500,
+        "high": 600,
+        "low": 500,
+        "close": 600,
+        "volume": 755200,
+        "ticker": "AVF"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 600,
+        "high": 600,
+        "low": 500,
+        "close": 600,
+        "volume": 287400,
+        "ticker": "AVF"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 600,
+        "high": 600,
+        "low": 500,
+        "close": 600,
+        "volume": 152900,
+        "ticker": "AVF"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 500,
+        "high": 600,
+        "low": 500,
+        "close": 600,
+        "volume": 64200,
+        "ticker": "AVF"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 500,
+        "high": 500,
+        "low": 500,
+        "close": 500,
+        "volume": 707300,
+        "ticker": "AVF"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 500,
+        "high": 600,
+        "low": 400,
+        "close": 500,
+        "volume": 363500,
+        "ticker": "AVF"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 500,
+        "high": 600,
+        "low": 500,
+        "close": 600,
+        "volume": 192400,
+        "ticker": "AVF"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 500,
+        "high": 600,
+        "low": 400,
+        "close": 500,
+        "volume": 749600,
+        "ticker": "AVF"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 500,
+        "high": 600,
+        "low": 400,
+        "close": 500,
+        "volume": 267200,
+        "ticker": "AVF"
+    }
+]

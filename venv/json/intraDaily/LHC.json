@@ -1,0 +1,1271 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 49140,
+        "high": 49140,
+        "low": 47190,
+        "close": 48650,
+        "volume": 17500,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 47680,
+        "high": 47680,
+        "low": 47680,
+        "close": 47680,
+        "volume": 1000,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 47680,
+        "high": 47680,
+        "low": 47680,
+        "close": 47680,
+        "volume": 1100,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 48650,
+        "high": 48650,
+        "low": 48650,
+        "close": 48650,
+        "volume": 1000,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 47680,
+        "high": 51080,
+        "low": 47680,
+        "close": 51080,
+        "volume": 700,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 47680,
+        "high": 48650,
+        "low": 47680,
+        "close": 48650,
+        "volume": 1600,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 46700,
+        "high": 46800,
+        "low": 46700,
+        "close": 46800,
+        "volume": 3200,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 47680,
+        "high": 47680,
+        "low": 47680,
+        "close": 47680,
+        "volume": 5100,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 48060,
+        "high": 48060,
+        "low": 48060,
+        "close": 48060,
+        "volume": 100,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 48450,
+        "high": 48450,
+        "low": 48450,
+        "close": 48450,
+        "volume": 300,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 46800,
+        "high": 47190,
+        "low": 46510,
+        "close": 46700,
+        "volume": 10300,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 47580,
+        "high": 47580,
+        "low": 47580,
+        "close": 47580,
+        "volume": 300,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 46900,
+        "high": 46900,
+        "low": 46900,
+        "close": 46900,
+        "volume": 2300,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 46700,
+        "high": 47680,
+        "low": 46700,
+        "close": 47680,
+        "volume": 1800,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 47970,
+        "high": 47970,
+        "low": 47970,
+        "close": 47970,
+        "volume": 200,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 46700,
+        "high": 47680,
+        "low": 46700,
+        "close": 47680,
+        "volume": 4000,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 46700,
+        "high": 47580,
+        "low": 46700,
+        "close": 47580,
+        "volume": 3600,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 47580,
+        "high": 47580,
+        "low": 46800,
+        "close": 47580,
+        "volume": 2600,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 46900,
+        "high": 47580,
+        "low": 46700,
+        "close": 47580,
+        "volume": 24600,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 47580,
+        "high": 47580,
+        "low": 46800,
+        "close": 47580,
+        "volume": 79200,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 47580,
+        "high": 49910,
+        "low": 47580,
+        "close": 47770,
+        "volume": 18500,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 48940,
+        "high": 48940,
+        "low": 47870,
+        "close": 48060,
+        "volume": 13200,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 47680,
+        "high": 47970,
+        "low": 47580,
+        "close": 47970,
+        "volume": 19400,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 47680,
+        "high": 47870,
+        "low": 46900,
+        "close": 47870,
+        "volume": 4600,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 48060,
+        "high": 48060,
+        "low": 46700,
+        "close": 47580,
+        "volume": 22400,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 47970,
+        "high": 47970,
+        "low": 47580,
+        "close": 47580,
+        "volume": 7100,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 47580,
+        "high": 47680,
+        "low": 47190,
+        "close": 47190,
+        "volume": 2600,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 46800,
+        "high": 47480,
+        "low": 46700,
+        "close": 47480,
+        "volume": 13300,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 47680,
+        "high": 47680,
+        "low": 47190,
+        "close": 47580,
+        "volume": 32700,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 44660,
+        "high": 48450,
+        "low": 44660,
+        "close": 47870,
+        "volume": 17600,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 47970,
+        "high": 48160,
+        "low": 46700,
+        "close": 47680,
+        "volume": 35100,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 47190,
+        "high": 47680,
+        "low": 46700,
+        "close": 47680,
+        "volume": 16000,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 47090,
+        "high": 47090,
+        "low": 47090,
+        "close": 47090,
+        "volume": 3000,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 47090,
+        "high": 47380,
+        "low": 47090,
+        "close": 47380,
+        "volume": 14900,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 47580,
+        "high": 47580,
+        "low": 46800,
+        "close": 46900,
+        "volume": 4100,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 47190,
+        "high": 47380,
+        "low": 46800,
+        "close": 47380,
+        "volume": 13400,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 47680,
+        "high": 48550,
+        "low": 47680,
+        "close": 48160,
+        "volume": 34000,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 48160,
+        "high": 49620,
+        "low": 48160,
+        "close": 48550,
+        "volume": 18800,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 48550,
+        "high": 48550,
+        "low": 48450,
+        "close": 48450,
+        "volume": 200,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 48550,
+        "high": 48550,
+        "low": 47870,
+        "close": 48360,
+        "volume": 8100,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 47870,
+        "high": 49140,
+        "low": 47680,
+        "close": 48840,
+        "volume": 10000,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 49620,
+        "high": 49620,
+        "low": 49330,
+        "close": 49330,
+        "volume": 1100,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 48160,
+        "high": 48650,
+        "low": 47680,
+        "close": 48550,
+        "volume": 11100,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 48650,
+        "high": 48650,
+        "low": 48450,
+        "close": 48450,
+        "volume": 600,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 49040,
+        "high": 49040,
+        "low": 47680,
+        "close": 48160,
+        "volume": 7600,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 47680,
+        "high": 48160,
+        "low": 47680,
+        "close": 48160,
+        "volume": 2300,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 47970,
+        "high": 47970,
+        "low": 47970,
+        "close": 47970,
+        "volume": 1400,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 48450,
+        "high": 48450,
+        "low": 48450,
+        "close": 48450,
+        "volume": 200,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 47970,
+        "high": 48550,
+        "low": 47290,
+        "close": 48450,
+        "volume": 12600,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 47870,
+        "high": 48550,
+        "low": 47290,
+        "close": 48550,
+        "volume": 11300,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 48650,
+        "high": 48650,
+        "low": 47970,
+        "close": 48650,
+        "volume": 15200,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 48550,
+        "high": 48550,
+        "low": 48550,
+        "close": 48550,
+        "volume": 1100,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 47480,
+        "high": 47480,
+        "low": 47290,
+        "close": 47290,
+        "volume": 300,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 49620,
+        "high": 49620,
+        "low": 48160,
+        "close": 48750,
+        "volume": 82600,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 48750,
+        "high": 49620,
+        "low": 48650,
+        "close": 49620,
+        "volume": 60000,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 49520,
+        "high": 50110,
+        "low": 48650,
+        "close": 49430,
+        "volume": 105700,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 49430,
+        "high": 51280,
+        "low": 48750,
+        "close": 49620,
+        "volume": 188900,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 48750,
+        "high": 52540,
+        "low": 48750,
+        "close": 51760,
+        "volume": 174700,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 52440,
+        "high": 55070,
+        "low": 51960,
+        "close": 54490,
+        "volume": 77000,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 55070,
+        "high": 55650,
+        "low": 54290,
+        "close": 55460,
+        "volume": 54300,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 55360,
+        "high": 55950,
+        "low": 54490,
+        "close": 55460,
+        "volume": 61000,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 55950,
+        "high": 56430,
+        "low": 53030,
+        "close": 53810,
+        "volume": 22500,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 54000,
+        "high": 55950,
+        "low": 54000,
+        "close": 55460,
+        "volume": 15400,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 55560,
+        "high": 55560,
+        "low": 55560,
+        "close": 55560,
+        "volume": 5000,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 53610,
+        "high": 55460,
+        "low": 52350,
+        "close": 55460,
+        "volume": 6000,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 53510,
+        "high": 55360,
+        "low": 53510,
+        "close": 54880,
+        "volume": 16000,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 54490,
+        "high": 55460,
+        "low": 54100,
+        "close": 54880,
+        "volume": 16200,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 53510,
+        "high": 54490,
+        "low": 53510,
+        "close": 54490,
+        "volume": 5500,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 54490,
+        "high": 55170,
+        "low": 53510,
+        "close": 55070,
+        "volume": 17200,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 53900,
+        "high": 54970,
+        "low": 53900,
+        "close": 54970,
+        "volume": 15800,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 54970,
+        "high": 54970,
+        "low": 54000,
+        "close": 54780,
+        "volume": 3100,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 53900,
+        "high": 54880,
+        "low": 53320,
+        "close": 53320,
+        "volume": 5800,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 53510,
+        "high": 53510,
+        "low": 53030,
+        "close": 53510,
+        "volume": 9300,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 52540,
+        "high": 53510,
+        "low": 52540,
+        "close": 53320,
+        "volume": 5100,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-08-17",
+        "open": 53420,
+        "high": 54000,
+        "low": 52350,
+        "close": 54000,
+        "volume": 11300,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 52540,
+        "high": 54000,
+        "low": 52540,
+        "close": 54000,
+        "volume": 31000,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 53000,
+        "high": 54100,
+        "low": 53000,
+        "close": 54000,
+        "volume": 11200,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 53800,
+        "high": 53800,
+        "low": 53100,
+        "close": 53100,
+        "volume": 2800,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 53100,
+        "high": 54800,
+        "low": 53100,
+        "close": 54800,
+        "volume": 1100,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 54000,
+        "high": 54500,
+        "low": 54000,
+        "close": 54500,
+        "volume": 13700,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 54400,
+        "high": 54400,
+        "low": 53600,
+        "close": 54400,
+        "volume": 13900,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 54800,
+        "high": 54800,
+        "low": 54000,
+        "close": 54000,
+        "volume": 8700,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 53400,
+        "high": 54600,
+        "low": 53200,
+        "close": 54500,
+        "volume": 20600,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 54700,
+        "high": 59300,
+        "low": 54700,
+        "close": 56200,
+        "volume": 33000,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 58800,
+        "high": 58800,
+        "low": 55300,
+        "close": 57500,
+        "volume": 15900,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 58000,
+        "high": 59000,
+        "low": 57300,
+        "close": 58900,
+        "volume": 32100,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 59000,
+        "high": 60000,
+        "low": 58500,
+        "close": 59500,
+        "volume": 18100,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 59900,
+        "high": 62000,
+        "low": 58000,
+        "close": 58400,
+        "volume": 29900,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 58400,
+        "high": 60900,
+        "low": 58400,
+        "close": 60700,
+        "volume": 26500,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 62000,
+        "high": 62000,
+        "low": 55300,
+        "close": 59500,
+        "volume": 25600,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 60000,
+        "high": 60000,
+        "low": 56000,
+        "close": 59300,
+        "volume": 21600,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 59000,
+        "high": 59000,
+        "low": 57000,
+        "close": 58800,
+        "volume": 2400,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 57100,
+        "high": 57100,
+        "low": 54600,
+        "close": 56500,
+        "volume": 20300,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 55200,
+        "high": 56700,
+        "low": 55000,
+        "close": 56700,
+        "volume": 9900,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 55300,
+        "high": 56700,
+        "low": 54700,
+        "close": 55700,
+        "volume": 13500,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 56700,
+        "high": 56700,
+        "low": 54900,
+        "close": 55700,
+        "volume": 15900,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 55700,
+        "high": 58000,
+        "low": 55000,
+        "close": 56000,
+        "volume": 27900,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 56000,
+        "high": 57800,
+        "low": 55300,
+        "close": 56500,
+        "volume": 11000,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 56000,
+        "high": 56000,
+        "low": 54500,
+        "close": 56000,
+        "volume": 2400,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 55000,
+        "high": 55900,
+        "low": 53000,
+        "close": 53000,
+        "volume": 6300,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 53000,
+        "high": 54100,
+        "low": 53000,
+        "close": 53500,
+        "volume": 3600,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 54000,
+        "high": 54200,
+        "low": 53400,
+        "close": 53400,
+        "volume": 6700,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 54000,
+        "high": 54000,
+        "low": 53600,
+        "close": 54000,
+        "volume": 600,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 54200,
+        "high": 54800,
+        "low": 54000,
+        "close": 54500,
+        "volume": 13800,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 54500,
+        "high": 55000,
+        "low": 54500,
+        "close": 54600,
+        "volume": 7900,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 53100,
+        "high": 53100,
+        "low": 51000,
+        "close": 52500,
+        "volume": 8300,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 53300,
+        "high": 53300,
+        "low": 52500,
+        "close": 53100,
+        "volume": 2700,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 53600,
+        "high": 55000,
+        "low": 53500,
+        "close": 54700,
+        "volume": 5200,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 54900,
+        "high": 56000,
+        "low": 52400,
+        "close": 56000,
+        "volume": 9500,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 56800,
+        "high": 56900,
+        "low": 56300,
+        "close": 56900,
+        "volume": 8300,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 57400,
+        "high": 57900,
+        "low": 56800,
+        "close": 57600,
+        "volume": 11000,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 58300,
+        "high": 58300,
+        "low": 57900,
+        "close": 57900,
+        "volume": 200,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 58300,
+        "high": 58300,
+        "low": 57000,
+        "close": 57000,
+        "volume": 2100,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 58000,
+        "high": 58000,
+        "low": 54300,
+        "close": 54300,
+        "volume": 3300,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 56900,
+        "high": 56900,
+        "low": 55500,
+        "close": 55500,
+        "volume": 400,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 53200,
+        "high": 56900,
+        "low": 53200,
+        "close": 56900,
+        "volume": 1200,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 55000,
+        "high": 55000,
+        "low": 54000,
+        "close": 55000,
+        "volume": 1300,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 53200,
+        "high": 54000,
+        "low": 53100,
+        "close": 53100,
+        "volume": 5600,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 52200,
+        "high": 54000,
+        "low": 52200,
+        "close": 54000,
+        "volume": 600,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 52100,
+        "high": 54500,
+        "low": 52000,
+        "close": 54400,
+        "volume": 4600,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 53000,
+        "high": 53100,
+        "low": 52400,
+        "close": 53000,
+        "volume": 6800,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 51500,
+        "high": 54000,
+        "low": 51500,
+        "close": 53800,
+        "volume": 1000,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 52000,
+        "high": 52600,
+        "low": 51600,
+        "close": 52600,
+        "volume": 2700,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 53200,
+        "high": 53200,
+        "low": 50700,
+        "close": 52700,
+        "volume": 2300,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 52500,
+        "high": 53000,
+        "low": 52000,
+        "close": 52000,
+        "volume": 10700,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 50800,
+        "high": 52800,
+        "low": 50800,
+        "close": 52800,
+        "volume": 1800,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 54000,
+        "high": 54000,
+        "low": 52000,
+        "close": 52000,
+        "volume": 4300,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 52000,
+        "high": 52500,
+        "low": 51100,
+        "close": 52500,
+        "volume": 3100,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 52000,
+        "high": 54000,
+        "low": 52000,
+        "close": 52900,
+        "volume": 1100,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 52000,
+        "high": 52000,
+        "low": 51000,
+        "close": 51400,
+        "volume": 6200,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 52900,
+        "high": 52900,
+        "low": 51100,
+        "close": 52000,
+        "volume": 14200,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 52000,
+        "high": 52100,
+        "low": 51000,
+        "close": 52100,
+        "volume": 14300,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 51900,
+        "high": 52700,
+        "low": 51900,
+        "close": 52700,
+        "volume": 9600,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 51100,
+        "high": 52900,
+        "low": 50800,
+        "close": 52000,
+        "volume": 38000,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 52000,
+        "high": 53000,
+        "low": 52000,
+        "close": 53000,
+        "volume": 20800,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 52600,
+        "high": 52600,
+        "low": 52600,
+        "close": 52600,
+        "volume": 500,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 52500,
+        "high": 53000,
+        "low": 52300,
+        "close": 53000,
+        "volume": 3900,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 52900,
+        "high": 53300,
+        "low": 52000,
+        "close": 53300,
+        "volume": 114800,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 53300,
+        "high": 53300,
+        "low": 52900,
+        "close": 53300,
+        "volume": 2200,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 53200,
+        "high": 54900,
+        "low": 52000,
+        "close": 52900,
+        "volume": 104300,
+        "ticker": "LHC"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 52400,
+        "high": 53900,
+        "low": 52400,
+        "close": 53900,
+        "volume": 600,
+        "ticker": "LHC"
+    }
+]

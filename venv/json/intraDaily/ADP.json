@@ -1,0 +1,740 @@
+[
+    {
+        "time": "2023-05-05",
+        "open": 19510,
+        "high": 19510,
+        "low": 19420,
+        "close": 19420,
+        "volume": 200,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 19420,
+        "high": 19420,
+        "low": 19420,
+        "close": 19420,
+        "volume": 300,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 18580,
+        "high": 18580,
+        "low": 18120,
+        "close": 18300,
+        "volume": 1700,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 18300,
+        "high": 18300,
+        "low": 18300,
+        "close": 18300,
+        "volume": 300,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 20340,
+        "high": 20340,
+        "low": 18400,
+        "close": 18400,
+        "volume": 600,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 19370,
+        "high": 19370,
+        "low": 19370,
+        "close": 19370,
+        "volume": 100,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 20340,
+        "high": 20340,
+        "low": 20340,
+        "close": 20340,
+        "volume": 100,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 19850,
+        "high": 19850,
+        "low": 19850,
+        "close": 19850,
+        "volume": 500,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 20050,
+        "high": 20050,
+        "low": 20050,
+        "close": 20050,
+        "volume": 900,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 20050,
+        "high": 20050,
+        "low": 20050,
+        "close": 20050,
+        "volume": 100,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 20050,
+        "high": 20050,
+        "low": 20050,
+        "close": 20050,
+        "volume": 100,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 20340,
+        "high": 20340,
+        "low": 20340,
+        "close": 20340,
+        "volume": 300,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 20530,
+        "high": 20530,
+        "low": 19370,
+        "close": 19370,
+        "volume": 600,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 20530,
+        "high": 20530,
+        "low": 20530,
+        "close": 20530,
+        "volume": 600,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 18980,
+        "high": 18980,
+        "low": 17530,
+        "close": 17530,
+        "volume": 15500,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 18590,
+        "high": 18590,
+        "low": 17720,
+        "close": 17720,
+        "volume": 9000,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 17920,
+        "high": 17920,
+        "low": 17720,
+        "close": 17720,
+        "volume": 6900,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 18010,
+        "high": 18790,
+        "low": 17820,
+        "close": 18400,
+        "volume": 6500,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 17820,
+        "high": 17820,
+        "low": 17720,
+        "close": 17720,
+        "volume": 3500,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 17920,
+        "high": 17920,
+        "low": 17920,
+        "close": 17920,
+        "volume": 600,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 18300,
+        "high": 18300,
+        "low": 18300,
+        "close": 18300,
+        "volume": 200,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 18210,
+        "high": 18300,
+        "low": 18210,
+        "close": 18300,
+        "volume": 1600,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 18300,
+        "high": 18400,
+        "low": 18300,
+        "close": 18400,
+        "volume": 1600,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 19470,
+        "high": 19470,
+        "low": 19370,
+        "close": 19370,
+        "volume": 2800,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 19560,
+        "high": 19560,
+        "low": 17920,
+        "close": 17920,
+        "volume": 15000,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 17920,
+        "high": 17920,
+        "low": 17820,
+        "close": 17820,
+        "volume": 3000,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 17920,
+        "high": 19470,
+        "low": 17820,
+        "close": 19270,
+        "volume": 2500,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 18010,
+        "high": 18010,
+        "low": 17920,
+        "close": 17920,
+        "volume": 2300,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 19170,
+        "high": 19170,
+        "low": 18010,
+        "close": 19170,
+        "volume": 18100,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 19370,
+        "high": 19370,
+        "low": 19370,
+        "close": 19370,
+        "volume": 100,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 19370,
+        "high": 19850,
+        "low": 19270,
+        "close": 19850,
+        "volume": 7000,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 22270,
+        "high": 22270,
+        "low": 19080,
+        "close": 20050,
+        "volume": 20200,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 19370,
+        "high": 19370,
+        "low": 18690,
+        "close": 18840,
+        "volume": 5500,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 18790,
+        "high": 19370,
+        "low": 18550,
+        "close": 18790,
+        "volume": 5000,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 18640,
+        "high": 18840,
+        "low": 17820,
+        "close": 18840,
+        "volume": 20300,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 18790,
+        "high": 18790,
+        "low": 18110,
+        "close": 18210,
+        "volume": 3700,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 18110,
+        "high": 18110,
+        "low": 17920,
+        "close": 17920,
+        "volume": 5500,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 18690,
+        "high": 18740,
+        "low": 18110,
+        "close": 18690,
+        "volume": 400,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 19660,
+        "high": 19660,
+        "low": 18500,
+        "close": 18590,
+        "volume": 6200,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 18690,
+        "high": 18880,
+        "low": 18590,
+        "close": 18880,
+        "volume": 4000,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 18690,
+        "high": 18790,
+        "low": 18590,
+        "close": 18790,
+        "volume": 3700,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 17960,
+        "high": 18790,
+        "low": 17960,
+        "close": 18590,
+        "volume": 700,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 18400,
+        "high": 18590,
+        "low": 18400,
+        "close": 18590,
+        "volume": 1200,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 18500,
+        "high": 18500,
+        "low": 18300,
+        "close": 18300,
+        "volume": 600,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 18590,
+        "high": 18590,
+        "low": 18400,
+        "close": 18590,
+        "volume": 600,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 18590,
+        "high": 18690,
+        "low": 18400,
+        "close": 18590,
+        "volume": 2000,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 18400,
+        "high": 18500,
+        "low": 18400,
+        "close": 18500,
+        "volume": 5200,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 18590,
+        "high": 18590,
+        "low": 18590,
+        "close": 18590,
+        "volume": 200,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 18880,
+        "high": 18880,
+        "low": 18880,
+        "close": 18880,
+        "volume": 300,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 18880,
+        "high": 18880,
+        "low": 18400,
+        "close": 18400,
+        "volume": 2300,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 19080,
+        "high": 19080,
+        "low": 19080,
+        "close": 19080,
+        "volume": 2800,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 19080,
+        "high": 19850,
+        "low": 19080,
+        "close": 19850,
+        "volume": 6600,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 19950,
+        "high": 20340,
+        "low": 19370,
+        "close": 20140,
+        "volume": 5900,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 20530,
+        "high": 20530,
+        "low": 20530,
+        "close": 20530,
+        "volume": 200,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 20430,
+        "high": 20430,
+        "low": 20430,
+        "close": 20430,
+        "volume": 100,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 20430,
+        "high": 20430,
+        "low": 20340,
+        "close": 20340,
+        "volume": 400,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 19370,
+        "high": 19370,
+        "low": 19370,
+        "close": 19370,
+        "volume": 200,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 19850,
+        "high": 19850,
+        "low": 19850,
+        "close": 19850,
+        "volume": 400,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 19370,
+        "high": 19370,
+        "low": 19370,
+        "close": 19370,
+        "volume": 100,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 18880,
+        "high": 18880,
+        "low": 18590,
+        "close": 18590,
+        "volume": 700,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 18590,
+        "high": 18590,
+        "low": 18590,
+        "close": 18590,
+        "volume": 300,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 17920,
+        "high": 17920,
+        "low": 17920,
+        "close": 17920,
+        "volume": 500,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 17920,
+        "high": 18400,
+        "low": 17920,
+        "close": 18400,
+        "volume": 600,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 17430,
+        "high": 17430,
+        "low": 17430,
+        "close": 17430,
+        "volume": 600,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 17480,
+        "high": 17480,
+        "low": 17480,
+        "close": 17480,
+        "volume": 100,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 18690,
+        "high": 18690,
+        "low": 18690,
+        "close": 18690,
+        "volume": 100,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 19370,
+        "high": 19370,
+        "low": 18980,
+        "close": 18980,
+        "volume": 1400,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 19370,
+        "high": 19370,
+        "low": 19370,
+        "close": 19370,
+        "volume": 1100,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 19320,
+        "high": 19320,
+        "low": 18010,
+        "close": 18010,
+        "volume": 7500,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 17430,
+        "high": 19270,
+        "low": 17430,
+        "close": 19270,
+        "volume": 5800,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 17960,
+        "high": 18400,
+        "low": 17960,
+        "close": 18210,
+        "volume": 800,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 18210,
+        "high": 19370,
+        "low": 18210,
+        "close": 19370,
+        "volume": 2200,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 19370,
+        "high": 19370,
+        "low": 18300,
+        "close": 18300,
+        "volume": 500,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 17720,
+        "high": 17720,
+        "low": 17430,
+        "close": 17430,
+        "volume": 2200,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 18300,
+        "high": 18350,
+        "low": 18300,
+        "close": 18350,
+        "volume": 1100,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 17960,
+        "high": 19220,
+        "low": 17960,
+        "close": 19220,
+        "volume": 200,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 17960,
+        "high": 17960,
+        "low": 17920,
+        "close": 17920,
+        "volume": 1900,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 19030,
+        "high": 19030,
+        "low": 17920,
+        "close": 17920,
+        "volume": 200,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 18880,
+        "high": 18880,
+        "low": 17770,
+        "close": 17920,
+        "volume": 400,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 18400,
+        "high": 18400,
+        "low": 18400,
+        "close": 18400,
+        "volume": 100,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 18400,
+        "high": 18400,
+        "low": 18400,
+        "close": 18400,
+        "volume": 300,
+        "ticker": "ADP"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 18400,
+        "high": 18400,
+        "low": 18400,
+        "close": 18400,
+        "volume": 1100,
+        "ticker": "ADP"
+    }
+]

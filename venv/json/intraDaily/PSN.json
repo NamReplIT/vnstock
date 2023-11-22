@@ -1,0 +1,47 @@
+[
+    {
+        "time": "2023-05-08",
+        "open": 9400,
+        "high": 9400,
+        "low": 9400,
+        "close": 9400,
+        "volume": 100,
+        "ticker": "PSN"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 8090,
+        "high": 8090,
+        "low": 8090,
+        "close": 8090,
+        "volume": 100,
+        "ticker": "PSN"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 11190,
+        "high": 11190,
+        "low": 11190,
+        "close": 11190,
+        "volume": 100,
+        "ticker": "PSN"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 10910,
+        "high": 11090,
+        "low": 10910,
+        "close": 11090,
+        "volume": 1600,
+        "ticker": "PSN"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 11000,
+        "high": 11000,
+        "low": 11000,
+        "close": 11000,
+        "volume": 100,
+        "ticker": "PSN"
+    }
+]

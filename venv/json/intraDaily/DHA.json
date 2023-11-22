@@ -1,0 +1,1289 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 32000,
+        "high": 32180,
+        "low": 31860,
+        "close": 31860,
+        "volume": 26900,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 31960,
+        "high": 31960,
+        "low": 31820,
+        "close": 31860,
+        "volume": 35800,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 32220,
+        "high": 32220,
+        "low": 32000,
+        "close": 32000,
+        "volume": 14500,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 32040,
+        "high": 32320,
+        "low": 32000,
+        "close": 32220,
+        "volume": 56700,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 32450,
+        "high": 32720,
+        "low": 32220,
+        "close": 32450,
+        "volume": 23300,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 32810,
+        "high": 32860,
+        "low": 32720,
+        "close": 32860,
+        "volume": 12800,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 32680,
+        "high": 33360,
+        "low": 32500,
+        "close": 33170,
+        "volume": 20800,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 32990,
+        "high": 32990,
+        "low": 32720,
+        "close": 32990,
+        "volume": 15800,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 32950,
+        "high": 32950,
+        "low": 32860,
+        "close": 32950,
+        "volume": 3800,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 32770,
+        "high": 32810,
+        "low": 32630,
+        "close": 32720,
+        "volume": 5400,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 32810,
+        "high": 32810,
+        "low": 32630,
+        "close": 32680,
+        "volume": 5200,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 33260,
+        "high": 33260,
+        "low": 32500,
+        "close": 32540,
+        "volume": 36500,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 32540,
+        "high": 33080,
+        "low": 32500,
+        "close": 32720,
+        "volume": 32600,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 32860,
+        "high": 32860,
+        "low": 32630,
+        "close": 32630,
+        "volume": 5300,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 32810,
+        "high": 32810,
+        "low": 32540,
+        "close": 32630,
+        "volume": 13900,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 32450,
+        "high": 32990,
+        "low": 32450,
+        "close": 32810,
+        "volume": 17000,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 32900,
+        "high": 33170,
+        "low": 32770,
+        "close": 32950,
+        "volume": 38600,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 33260,
+        "high": 34800,
+        "low": 33260,
+        "close": 34520,
+        "volume": 132900,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 34980,
+        "high": 34980,
+        "low": 34110,
+        "close": 34300,
+        "volume": 41600,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 34440,
+        "high": 34700,
+        "low": 34300,
+        "close": 34300,
+        "volume": 63800,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 34300,
+        "high": 34700,
+        "low": 34110,
+        "close": 34700,
+        "volume": 47400,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 34980,
+        "high": 34980,
+        "low": 34340,
+        "close": 34620,
+        "volume": 55900,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 34660,
+        "high": 35870,
+        "low": 34260,
+        "close": 35610,
+        "volume": 136900,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 35610,
+        "high": 35830,
+        "low": 35430,
+        "close": 35430,
+        "volume": 57500,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 35510,
+        "high": 35690,
+        "low": 34700,
+        "close": 35430,
+        "volume": 39400,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 36090,
+        "high": 36990,
+        "low": 35050,
+        "close": 36800,
+        "volume": 186200,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 36760,
+        "high": 37040,
+        "low": 36090,
+        "close": 37040,
+        "volume": 38500,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 36710,
+        "high": 37040,
+        "low": 36280,
+        "close": 36760,
+        "volume": 53800,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 36760,
+        "high": 36990,
+        "low": 36470,
+        "close": 36660,
+        "volume": 32400,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 36710,
+        "high": 36950,
+        "low": 36090,
+        "close": 36760,
+        "volume": 51000,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 36570,
+        "high": 36760,
+        "low": 35900,
+        "close": 36610,
+        "volume": 30100,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 36570,
+        "high": 37040,
+        "low": 36570,
+        "close": 36660,
+        "volume": 63100,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 36850,
+        "high": 37040,
+        "low": 36850,
+        "close": 36850,
+        "volume": 29700,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 36850,
+        "high": 37330,
+        "low": 36570,
+        "close": 37330,
+        "volume": 28800,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 37330,
+        "high": 39940,
+        "low": 37330,
+        "close": 39940,
+        "volume": 154900,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 40080,
+        "high": 40080,
+        "low": 39410,
+        "close": 39840,
+        "volume": 23100,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 38650,
+        "high": 39980,
+        "low": 38610,
+        "close": 39890,
+        "volume": 34600,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 39890,
+        "high": 40510,
+        "low": 38840,
+        "close": 40460,
+        "volume": 71200,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 41220,
+        "high": 41220,
+        "low": 40360,
+        "close": 40360,
+        "volume": 35500,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 40360,
+        "high": 40460,
+        "low": 39600,
+        "close": 40170,
+        "volume": 23700,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 40320,
+        "high": 40360,
+        "low": 39410,
+        "close": 40170,
+        "volume": 23300,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 39790,
+        "high": 40460,
+        "low": 39790,
+        "close": 40220,
+        "volume": 29400,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 40840,
+        "high": 41790,
+        "low": 40220,
+        "close": 41740,
+        "volume": 83300,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 41740,
+        "high": 42740,
+        "low": 41740,
+        "close": 42500,
+        "volume": 80700,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 42550,
+        "high": 42550,
+        "low": 41880,
+        "close": 42310,
+        "volume": 56100,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 42550,
+        "high": 42550,
+        "low": 41690,
+        "close": 42360,
+        "volume": 38100,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 42260,
+        "high": 42930,
+        "low": 42260,
+        "close": 42740,
+        "volume": 38700,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 43020,
+        "high": 44590,
+        "low": 42740,
+        "close": 43120,
+        "volume": 88700,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 43120,
+        "high": 43120,
+        "low": 42550,
+        "close": 43070,
+        "volume": 43500,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 43020,
+        "high": 43310,
+        "low": 42360,
+        "close": 43120,
+        "volume": 32300,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 42450,
+        "high": 43170,
+        "low": 42450,
+        "close": 42930,
+        "volume": 37400,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 42830,
+        "high": 43590,
+        "low": 42740,
+        "close": 42930,
+        "volume": 46000,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 42930,
+        "high": 43020,
+        "low": 42740,
+        "close": 42740,
+        "volume": 41300,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 42930,
+        "high": 42930,
+        "low": 42450,
+        "close": 42450,
+        "volume": 19700,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 42450,
+        "high": 45400,
+        "low": 42450,
+        "close": 45400,
+        "volume": 275700,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 45590,
+        "high": 46730,
+        "low": 45590,
+        "close": 46060,
+        "volume": 65700,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 46060,
+        "high": 47300,
+        "low": 45490,
+        "close": 45870,
+        "volume": 106300,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 45870,
+        "high": 47010,
+        "low": 45680,
+        "close": 46350,
+        "volume": 52500,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 46210,
+        "high": 46540,
+        "low": 45210,
+        "close": 45210,
+        "volume": 81900,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 45490,
+        "high": 46540,
+        "low": 45350,
+        "close": 46400,
+        "volume": 70800,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 46730,
+        "high": 46730,
+        "low": 45350,
+        "close": 46020,
+        "volume": 94200,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 45300,
+        "high": 45780,
+        "low": 45260,
+        "close": 45400,
+        "volume": 64500,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 45160,
+        "high": 46060,
+        "low": 44830,
+        "close": 46060,
+        "volume": 87500,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 45590,
+        "high": 46540,
+        "low": 45590,
+        "close": 46250,
+        "volume": 58800,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 45870,
+        "high": 46490,
+        "low": 45680,
+        "close": 46440,
+        "volume": 58300,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 46540,
+        "high": 46540,
+        "low": 45590,
+        "close": 46060,
+        "volume": 62100,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 46060,
+        "high": 46250,
+        "low": 45780,
+        "close": 46160,
+        "volume": 30700,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 46160,
+        "high": 48910,
+        "low": 46160,
+        "close": 48910,
+        "volume": 134300,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 48820,
+        "high": 48820,
+        "low": 46540,
+        "close": 47250,
+        "volume": 49700,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 47250,
+        "high": 47250,
+        "low": 46590,
+        "close": 47200,
+        "volume": 31500,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 46730,
+        "high": 46820,
+        "low": 45300,
+        "close": 45590,
+        "volume": 146600,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 45490,
+        "high": 45590,
+        "low": 44450,
+        "close": 45210,
+        "volume": 60700,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 45970,
+        "high": 45970,
+        "low": 45210,
+        "close": 45400,
+        "volume": 21500,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 45400,
+        "high": 46350,
+        "low": 45400,
+        "close": 45970,
+        "volume": 55600,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 45870,
+        "high": 45970,
+        "low": 45350,
+        "close": 45970,
+        "volume": 36100,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-08-17",
+        "open": 46350,
+        "high": 46350,
+        "low": 45160,
+        "close": 45210,
+        "volume": 65400,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 45730,
+        "high": 46820,
+        "low": 45680,
+        "close": 45680,
+        "volume": 206200,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 45680,
+        "high": 46920,
+        "low": 45680,
+        "close": 46350,
+        "volume": 39800,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 46350,
+        "high": 47010,
+        "low": 45780,
+        "close": 46350,
+        "volume": 84500,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 46350,
+        "high": 46350,
+        "low": 45680,
+        "close": 46250,
+        "volume": 43500,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 45590,
+        "high": 46820,
+        "low": 45590,
+        "close": 46400,
+        "volume": 45400,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 46820,
+        "high": 47010,
+        "low": 46350,
+        "close": 46490,
+        "volume": 50200,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 46540,
+        "high": 46680,
+        "low": 46350,
+        "close": 46630,
+        "volume": 28300,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 47110,
+        "high": 48060,
+        "low": 47010,
+        "close": 47440,
+        "volume": 79800,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 47490,
+        "high": 47490,
+        "low": 46540,
+        "close": 46920,
+        "volume": 40600,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 47680,
+        "high": 49770,
+        "low": 47010,
+        "close": 49770,
+        "volume": 136200,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 52710,
+        "high": 52710,
+        "low": 51290,
+        "close": 52620,
+        "volume": 173500,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 53190,
+        "high": 53190,
+        "low": 52050,
+        "close": 52240,
+        "volume": 167900,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 53280,
+        "high": 53280,
+        "low": 51480,
+        "close": 51480,
+        "volume": 97900,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 52140,
+        "high": 52520,
+        "low": 51290,
+        "close": 52520,
+        "volume": 88000,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 53190,
+        "high": 56130,
+        "low": 53190,
+        "close": 56040,
+        "volume": 252000,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 55940,
+        "high": 56130,
+        "low": 55660,
+        "close": 56040,
+        "volume": 159700,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 56130,
+        "high": 58880,
+        "low": 56040,
+        "close": 56700,
+        "volume": 198500,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 56800,
+        "high": 56800,
+        "low": 55000,
+        "close": 55000,
+        "volume": 138100,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 54600,
+        "high": 55000,
+        "low": 53300,
+        "close": 53800,
+        "volume": 85100,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 53800,
+        "high": 53800,
+        "low": 50100,
+        "close": 51100,
+        "volume": 275400,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 50600,
+        "high": 53300,
+        "low": 50600,
+        "close": 53300,
+        "volume": 87000,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 53100,
+        "high": 53100,
+        "low": 52200,
+        "close": 52800,
+        "volume": 69200,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 53800,
+        "high": 53800,
+        "low": 52400,
+        "close": 52400,
+        "volume": 43100,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 51700,
+        "high": 51900,
+        "low": 49000,
+        "close": 50600,
+        "volume": 138400,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 50600,
+        "high": 51000,
+        "low": 48000,
+        "close": 48100,
+        "volume": 99300,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 47050,
+        "high": 48700,
+        "low": 47050,
+        "close": 48100,
+        "volume": 62600,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 47500,
+        "high": 48500,
+        "low": 47000,
+        "close": 48200,
+        "volume": 53800,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 47600,
+        "high": 48500,
+        "low": 47600,
+        "close": 48300,
+        "volume": 44100,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 48500,
+        "high": 49100,
+        "low": 48300,
+        "close": 48600,
+        "volume": 28500,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 48750,
+        "high": 51200,
+        "low": 48750,
+        "close": 49800,
+        "volume": 48600,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 50000,
+        "high": 50000,
+        "low": 48100,
+        "close": 48300,
+        "volume": 58700,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 47800,
+        "high": 49000,
+        "low": 47800,
+        "close": 48600,
+        "volume": 29400,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 49700,
+        "high": 49700,
+        "low": 48200,
+        "close": 48950,
+        "volume": 43700,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 48400,
+        "high": 48900,
+        "low": 48200,
+        "close": 48750,
+        "volume": 51300,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 49000,
+        "high": 50000,
+        "low": 48750,
+        "close": 49250,
+        "volume": 32400,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 49500,
+        "high": 49900,
+        "low": 49150,
+        "close": 49500,
+        "volume": 43500,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 49500,
+        "high": 51600,
+        "low": 49500,
+        "close": 51500,
+        "volume": 102400,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 52500,
+        "high": 52500,
+        "low": 50600,
+        "close": 51000,
+        "volume": 64200,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 51000,
+        "high": 51500,
+        "low": 49500,
+        "close": 50600,
+        "volume": 51400,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 50600,
+        "high": 50600,
+        "low": 49600,
+        "close": 49700,
+        "volume": 73300,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 49700,
+        "high": 50000,
+        "low": 49200,
+        "close": 49200,
+        "volume": 42800,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 49200,
+        "high": 49200,
+        "low": 47100,
+        "close": 48050,
+        "volume": 106400,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 48400,
+        "high": 49500,
+        "low": 48000,
+        "close": 48100,
+        "volume": 117900,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 48500,
+        "high": 48500,
+        "low": 47350,
+        "close": 48450,
+        "volume": 44800,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 49650,
+        "high": 49650,
+        "low": 47000,
+        "close": 47650,
+        "volume": 67200,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 47650,
+        "high": 47650,
+        "low": 47000,
+        "close": 47000,
+        "volume": 35800,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 48100,
+        "high": 48200,
+        "low": 46800,
+        "close": 47000,
+        "volume": 58600,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 46100,
+        "high": 46950,
+        "low": 45000,
+        "close": 45550,
+        "volume": 96200,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 45300,
+        "high": 46000,
+        "low": 44900,
+        "close": 45800,
+        "volume": 27000,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 44600,
+        "high": 45500,
+        "low": 44500,
+        "close": 44500,
+        "volume": 48100,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 44500,
+        "high": 44600,
+        "low": 41600,
+        "close": 41600,
+        "volume": 77900,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 41700,
+        "high": 42300,
+        "low": 41200,
+        "close": 42300,
+        "volume": 47800,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 42500,
+        "high": 43750,
+        "low": 42500,
+        "close": 43500,
+        "volume": 159000,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 46000,
+        "high": 46000,
+        "low": 44050,
+        "close": 44100,
+        "volume": 40100,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 44150,
+        "high": 44950,
+        "low": 44000,
+        "close": 44300,
+        "volume": 107100,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 44450,
+        "high": 44950,
+        "low": 44150,
+        "close": 44300,
+        "volume": 92700,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 45000,
+        "high": 45000,
+        "low": 44200,
+        "close": 45000,
+        "volume": 350000,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 46000,
+        "high": 47150,
+        "low": 45800,
+        "close": 46950,
+        "volume": 86500,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 46150,
+        "high": 46550,
+        "low": 45800,
+        "close": 45900,
+        "volume": 108400,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 45900,
+        "high": 46100,
+        "low": 45250,
+        "close": 45350,
+        "volume": 104200,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 45350,
+        "high": 45800,
+        "low": 45050,
+        "close": 45500,
+        "volume": 68400,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 46200,
+        "high": 48100,
+        "low": 46200,
+        "close": 46950,
+        "volume": 133200,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 46500,
+        "high": 46900,
+        "low": 46500,
+        "close": 46900,
+        "volume": 35900,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 47200,
+        "high": 47400,
+        "low": 45700,
+        "close": 46000,
+        "volume": 85500,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 45700,
+        "high": 46500,
+        "low": 45500,
+        "close": 46400,
+        "volume": 63100,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 47000,
+        "high": 47300,
+        "low": 46450,
+        "close": 46900,
+        "volume": 39400,
+        "ticker": "DHA"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 47000,
+        "high": 47600,
+        "low": 46800,
+        "close": 46850,
+        "volume": 37400,
+        "ticker": "DHA"
+    }
+]

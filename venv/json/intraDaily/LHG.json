@@ -1,0 +1,1289 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 23650,
+        "high": 25100,
+        "low": 23650,
+        "close": 24860,
+        "volume": 483100,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 25100,
+        "high": 25100,
+        "low": 24300,
+        "close": 24540,
+        "volume": 241200,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 24720,
+        "high": 25560,
+        "low": 24680,
+        "close": 25140,
+        "volume": 267600,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 25050,
+        "high": 25420,
+        "low": 24960,
+        "close": 25100,
+        "volume": 227900,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 25660,
+        "high": 25890,
+        "low": 25240,
+        "close": 25610,
+        "volume": 341100,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 25610,
+        "high": 25660,
+        "low": 25140,
+        "close": 25420,
+        "volume": 223100,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 25420,
+        "high": 25660,
+        "low": 25280,
+        "close": 25380,
+        "volume": 94800,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 25520,
+        "high": 25610,
+        "low": 24860,
+        "close": 24860,
+        "volume": 204300,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 24680,
+        "high": 25140,
+        "low": 24680,
+        "close": 24820,
+        "volume": 55900,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 24910,
+        "high": 24960,
+        "low": 24350,
+        "close": 24350,
+        "volume": 110600,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 24350,
+        "high": 24490,
+        "low": 24020,
+        "close": 24350,
+        "volume": 84800,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 24300,
+        "high": 24770,
+        "low": 24300,
+        "close": 24770,
+        "volume": 104200,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 25100,
+        "high": 25190,
+        "low": 24770,
+        "close": 24860,
+        "volume": 115600,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 24860,
+        "high": 25100,
+        "low": 24440,
+        "close": 24490,
+        "volume": 88700,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 24860,
+        "high": 24860,
+        "low": 24350,
+        "close": 24490,
+        "volume": 111700,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 24440,
+        "high": 25520,
+        "low": 24440,
+        "close": 25190,
+        "volume": 376700,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 25240,
+        "high": 26270,
+        "low": 25240,
+        "close": 26270,
+        "volume": 318700,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 26920,
+        "high": 26920,
+        "low": 25940,
+        "close": 25980,
+        "volume": 236400,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 26080,
+        "high": 26170,
+        "low": 25750,
+        "close": 26170,
+        "volume": 240400,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 26170,
+        "high": 27060,
+        "low": 26170,
+        "close": 27010,
+        "volume": 376600,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 27110,
+        "high": 27760,
+        "low": 26870,
+        "close": 27110,
+        "volume": 358600,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 27200,
+        "high": 27620,
+        "low": 26830,
+        "close": 27390,
+        "volume": 264300,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 27570,
+        "high": 27710,
+        "low": 26920,
+        "close": 27670,
+        "volume": 285900,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 27670,
+        "high": 27670,
+        "low": 27200,
+        "close": 27670,
+        "volume": 129700,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 27950,
+        "high": 27950,
+        "low": 27570,
+        "close": 27620,
+        "volume": 140400,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 27620,
+        "high": 28040,
+        "low": 27110,
+        "close": 27200,
+        "volume": 260900,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 27350,
+        "high": 27350,
+        "low": 25450,
+        "close": 27150,
+        "volume": 154200,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 27150,
+        "high": 27350,
+        "low": 26850,
+        "close": 27300,
+        "volume": 132700,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 27700,
+        "high": 27700,
+        "low": 27000,
+        "close": 27400,
+        "volume": 110300,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 27400,
+        "high": 27500,
+        "low": 27100,
+        "close": 27150,
+        "volume": 64000,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 27000,
+        "high": 27300,
+        "low": 26800,
+        "close": 27300,
+        "volume": 93300,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 27350,
+        "high": 27500,
+        "low": 27000,
+        "close": 27000,
+        "volume": 87100,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 27000,
+        "high": 27000,
+        "low": 26500,
+        "close": 26600,
+        "volume": 72300,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 26600,
+        "high": 27100,
+        "low": 26600,
+        "close": 27100,
+        "volume": 141500,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 27200,
+        "high": 27250,
+        "low": 26950,
+        "close": 27250,
+        "volume": 174200,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 27450,
+        "high": 27650,
+        "low": 27250,
+        "close": 27500,
+        "volume": 333900,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 27500,
+        "high": 27700,
+        "low": 27200,
+        "close": 27400,
+        "volume": 174700,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 27200,
+        "high": 27500,
+        "low": 26700,
+        "close": 27100,
+        "volume": 212800,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 27100,
+        "high": 27300,
+        "low": 26900,
+        "close": 27000,
+        "volume": 207700,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 27050,
+        "high": 27150,
+        "low": 26900,
+        "close": 27000,
+        "volume": 186600,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 26950,
+        "high": 27000,
+        "low": 26550,
+        "close": 26550,
+        "volume": 192600,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 26500,
+        "high": 26950,
+        "low": 26450,
+        "close": 26600,
+        "volume": 115400,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 26900,
+        "high": 26900,
+        "low": 26500,
+        "close": 26700,
+        "volume": 95100,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 26900,
+        "high": 26900,
+        "low": 26500,
+        "close": 26650,
+        "volume": 58500,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 26650,
+        "high": 27000,
+        "low": 26600,
+        "close": 26800,
+        "volume": 101100,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 26750,
+        "high": 26850,
+        "low": 26500,
+        "close": 26700,
+        "volume": 104700,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 26300,
+        "high": 27950,
+        "low": 26300,
+        "close": 27950,
+        "volume": 405100,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 28050,
+        "high": 28300,
+        "low": 27850,
+        "close": 28100,
+        "volume": 245800,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 28300,
+        "high": 28700,
+        "low": 27700,
+        "close": 28300,
+        "volume": 234100,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 28300,
+        "high": 28500,
+        "low": 27900,
+        "close": 28100,
+        "volume": 131700,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 28400,
+        "high": 28500,
+        "low": 28100,
+        "close": 28400,
+        "volume": 161400,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 28500,
+        "high": 28600,
+        "low": 28050,
+        "close": 28150,
+        "volume": 133100,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 28200,
+        "high": 28300,
+        "low": 28100,
+        "close": 28100,
+        "volume": 178800,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 28100,
+        "high": 28400,
+        "low": 27950,
+        "close": 28100,
+        "volume": 226800,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 28000,
+        "high": 29500,
+        "low": 28000,
+        "close": 28500,
+        "volume": 452800,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 28500,
+        "high": 28950,
+        "low": 28400,
+        "close": 28900,
+        "volume": 87700,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 28900,
+        "high": 29150,
+        "low": 28800,
+        "close": 29000,
+        "volume": 167200,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 29500,
+        "high": 29500,
+        "low": 28950,
+        "close": 29000,
+        "volume": 286100,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 28900,
+        "high": 29000,
+        "low": 28100,
+        "close": 28700,
+        "volume": 250500,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 28750,
+        "high": 28900,
+        "low": 28550,
+        "close": 28800,
+        "volume": 83800,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 28700,
+        "high": 28900,
+        "low": 28400,
+        "close": 28600,
+        "volume": 159900,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 28250,
+        "high": 28250,
+        "low": 27700,
+        "close": 27900,
+        "volume": 764300,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 28000,
+        "high": 28300,
+        "low": 27750,
+        "close": 27900,
+        "volume": 248600,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 28350,
+        "high": 28500,
+        "low": 27750,
+        "close": 28000,
+        "volume": 228000,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 27700,
+        "high": 28100,
+        "low": 27700,
+        "close": 27950,
+        "volume": 101000,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 28000,
+        "high": 28000,
+        "low": 27600,
+        "close": 27650,
+        "volume": 127600,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 27650,
+        "high": 28150,
+        "low": 27650,
+        "close": 28000,
+        "volume": 191800,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 28450,
+        "high": 28450,
+        "low": 26550,
+        "close": 27900,
+        "volume": 137100,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 27950,
+        "high": 28200,
+        "low": 27700,
+        "close": 27900,
+        "volume": 161600,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 27900,
+        "high": 28200,
+        "low": 27850,
+        "close": 28000,
+        "volume": 161400,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 28100,
+        "high": 28150,
+        "low": 27750,
+        "close": 28000,
+        "volume": 156800,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 27750,
+        "high": 27950,
+        "low": 27300,
+        "close": 27600,
+        "volume": 214400,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 27800,
+        "high": 28000,
+        "low": 27800,
+        "close": 27950,
+        "volume": 124600,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 28000,
+        "high": 28800,
+        "low": 28000,
+        "close": 28700,
+        "volume": 427400,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 28750,
+        "high": 28850,
+        "low": 28400,
+        "close": 28500,
+        "volume": 148700,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-08-17",
+        "open": 28400,
+        "high": 28500,
+        "low": 28150,
+        "close": 28300,
+        "volume": 185800,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 28200,
+        "high": 28200,
+        "low": 26500,
+        "close": 26650,
+        "volume": 620900,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 26000,
+        "high": 26500,
+        "low": 25850,
+        "close": 26350,
+        "volume": 188200,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 26200,
+        "high": 26500,
+        "low": 25450,
+        "close": 26400,
+        "volume": 256800,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 26500,
+        "high": 26800,
+        "low": 26300,
+        "close": 26350,
+        "volume": 106200,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 26350,
+        "high": 26800,
+        "low": 26150,
+        "close": 26750,
+        "volume": 115000,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 26500,
+        "high": 27150,
+        "low": 26500,
+        "close": 27150,
+        "volume": 88900,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 27400,
+        "high": 27400,
+        "low": 27000,
+        "close": 27300,
+        "volume": 35100,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 27300,
+        "high": 27700,
+        "low": 27100,
+        "close": 27400,
+        "volume": 46900,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 27500,
+        "high": 27600,
+        "low": 27100,
+        "close": 27200,
+        "volume": 67100,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 27250,
+        "high": 28000,
+        "low": 27100,
+        "close": 27700,
+        "volume": 152600,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 28100,
+        "high": 28100,
+        "low": 27700,
+        "close": 27750,
+        "volume": 74100,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 27750,
+        "high": 28950,
+        "low": 27700,
+        "close": 28950,
+        "volume": 409800,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 29000,
+        "high": 29400,
+        "low": 28650,
+        "close": 29000,
+        "volume": 463100,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 29150,
+        "high": 30500,
+        "low": 29050,
+        "close": 30300,
+        "volume": 484500,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 30900,
+        "high": 30900,
+        "low": 29100,
+        "close": 29200,
+        "volume": 339400,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 29200,
+        "high": 29700,
+        "low": 29050,
+        "close": 29650,
+        "volume": 207500,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 29700,
+        "high": 29900,
+        "low": 29050,
+        "close": 29400,
+        "volume": 205900,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 29600,
+        "high": 29600,
+        "low": 28000,
+        "close": 28700,
+        "volume": 282400,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 28600,
+        "high": 29050,
+        "low": 28100,
+        "close": 28700,
+        "volume": 124500,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 28700,
+        "high": 29000,
+        "low": 28400,
+        "close": 28850,
+        "volume": 136500,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 29000,
+        "high": 29000,
+        "low": 28000,
+        "close": 28500,
+        "volume": 110100,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 28450,
+        "high": 29300,
+        "low": 28400,
+        "close": 29300,
+        "volume": 185400,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 29300,
+        "high": 29900,
+        "low": 28500,
+        "close": 29450,
+        "volume": 292200,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 28950,
+        "high": 30800,
+        "low": 28200,
+        "close": 30800,
+        "volume": 637800,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 31000,
+        "high": 31900,
+        "low": 29600,
+        "close": 31000,
+        "volume": 959800,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 30200,
+        "high": 31150,
+        "low": 29750,
+        "close": 31000,
+        "volume": 557500,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 30500,
+        "high": 31200,
+        "low": 29350,
+        "close": 31200,
+        "volume": 492100,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 31000,
+        "high": 31500,
+        "low": 30200,
+        "close": 31300,
+        "volume": 434100,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 30800,
+        "high": 33450,
+        "low": 30800,
+        "close": 33450,
+        "volume": 719200,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 33450,
+        "high": 35300,
+        "low": 33100,
+        "close": 33100,
+        "volume": 440700,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 33100,
+        "high": 33100,
+        "low": 31000,
+        "close": 31000,
+        "volume": 365400,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 30050,
+        "high": 32500,
+        "low": 30050,
+        "close": 32299,
+        "volume": 198500,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 32299,
+        "high": 33400,
+        "low": 31600,
+        "close": 33000,
+        "volume": 519800,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 32600,
+        "high": 33950,
+        "low": 32600,
+        "close": 33000,
+        "volume": 342100,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 32950,
+        "high": 33050,
+        "low": 32100,
+        "close": 32400,
+        "volume": 293200,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 33200,
+        "high": 33500,
+        "low": 32450,
+        "close": 32549,
+        "volume": 252000,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 32549,
+        "high": 33200,
+        "low": 32299,
+        "close": 32600,
+        "volume": 138600,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 32950,
+        "high": 33700,
+        "low": 32950,
+        "close": 33200,
+        "volume": 413200,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 33000,
+        "high": 34400,
+        "low": 32800,
+        "close": 34300,
+        "volume": 523200,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 34500,
+        "high": 34550,
+        "low": 33500,
+        "close": 33550,
+        "volume": 209000,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 33600,
+        "high": 33800,
+        "low": 31250,
+        "close": 31250,
+        "volume": 336700,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 31250,
+        "high": 31700,
+        "low": 29150,
+        "close": 29600,
+        "volume": 611100,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 29600,
+        "high": 31000,
+        "low": 29600,
+        "close": 30200,
+        "volume": 459200,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 30250,
+        "high": 30900,
+        "low": 29350,
+        "close": 30600,
+        "volume": 179800,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 29600,
+        "high": 30250,
+        "low": 29300,
+        "close": 30200,
+        "volume": 387600,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 30200,
+        "high": 30300,
+        "low": 29600,
+        "close": 29800,
+        "volume": 170500,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 30200,
+        "high": 30200,
+        "low": 29400,
+        "close": 29400,
+        "volume": 105300,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 29200,
+        "high": 29200,
+        "low": 27350,
+        "close": 27350,
+        "volume": 490400,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 27350,
+        "high": 28100,
+        "low": 27000,
+        "close": 27750,
+        "volume": 165900,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 27500,
+        "high": 27750,
+        "low": 26200,
+        "close": 27600,
+        "volume": 164600,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 27550,
+        "high": 27550,
+        "low": 26400,
+        "close": 26400,
+        "volume": 250100,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 26500,
+        "high": 26700,
+        "low": 25950,
+        "close": 26700,
+        "volume": 111500,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 27350,
+        "high": 28550,
+        "low": 26750,
+        "close": 28550,
+        "volume": 285900,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 28500,
+        "high": 28500,
+        "low": 27900,
+        "close": 28300,
+        "volume": 134300,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 28100,
+        "high": 29000,
+        "low": 28100,
+        "close": 28800,
+        "volume": 157700,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 28800,
+        "high": 29200,
+        "low": 28000,
+        "close": 28950,
+        "volume": 195700,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 28600,
+        "high": 30200,
+        "low": 28600,
+        "close": 30200,
+        "volume": 147400,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 30900,
+        "high": 30900,
+        "low": 30000,
+        "close": 30300,
+        "volume": 93000,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 30100,
+        "high": 30300,
+        "low": 29600,
+        "close": 29600,
+        "volume": 139400,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 29800,
+        "high": 29900,
+        "low": 29050,
+        "close": 29250,
+        "volume": 49300,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 30500,
+        "high": 30500,
+        "low": 29100,
+        "close": 29900,
+        "volume": 177700,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 30350,
+        "high": 30500,
+        "low": 28600,
+        "close": 29900,
+        "volume": 176900,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 29550,
+        "high": 29900,
+        "low": 29500,
+        "close": 29750,
+        "volume": 63900,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 29800,
+        "high": 30750,
+        "low": 29700,
+        "close": 30150,
+        "volume": 179500,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 29200,
+        "high": 30950,
+        "low": 29200,
+        "close": 30950,
+        "volume": 202300,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 31400,
+        "high": 31700,
+        "low": 30700,
+        "close": 31200,
+        "volume": 239100,
+        "ticker": "LHG"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 31050,
+        "high": 31200,
+        "low": 30050,
+        "close": 30950,
+        "volume": 162600,
+        "ticker": "LHG"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "time": "2023-05-22",
+        "open": 25600,
+        "high": 25600,
+        "low": 25600,
+        "close": 25600,
+        "volume": 200,
+        "ticker": "BSD"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 25600,
+        "high": 25600,
+        "low": 25600,
+        "close": 25600,
+        "volume": 200,
+        "ticker": "BSD"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 26000,
+        "high": 26000,
+        "low": 26000,
+        "close": 26000,
+        "volume": 200,
+        "ticker": "BSD"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 26000,
+        "high": 26000,
+        "low": 26000,
+        "close": 26000,
+        "volume": 600,
+        "ticker": "BSD"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 26000,
+        "high": 26000,
+        "low": 26000,
+        "close": 26000,
+        "volume": 100,
+        "ticker": "BSD"
+    }
+]

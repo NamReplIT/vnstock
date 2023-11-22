@@ -1,0 +1,1028 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 2900,
+        "high": 3000,
+        "low": 2900,
+        "close": 3000,
+        "volume": 3600,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 2800,
+        "high": 2900,
+        "low": 2800,
+        "close": 2900,
+        "volume": 9200,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 2800,
+        "high": 2900,
+        "low": 2800,
+        "close": 2900,
+        "volume": 2800,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 2800,
+        "high": 2800,
+        "low": 2800,
+        "close": 2800,
+        "volume": 5000,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 2900,
+        "high": 3000,
+        "low": 2900,
+        "close": 3000,
+        "volume": 10900,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 3000,
+        "high": 3000,
+        "low": 3000,
+        "close": 3000,
+        "volume": 8300,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 3100,
+        "high": 3100,
+        "low": 3000,
+        "close": 3100,
+        "volume": 5600,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 3000,
+        "high": 3100,
+        "low": 3000,
+        "close": 3100,
+        "volume": 27900,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 3200,
+        "high": 3200,
+        "low": 3200,
+        "close": 3200,
+        "volume": 100,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 3300,
+        "high": 3300,
+        "low": 3300,
+        "close": 3300,
+        "volume": 200,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 3300,
+        "high": 3300,
+        "low": 3300,
+        "close": 3300,
+        "volume": 7300,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 3200,
+        "high": 3300,
+        "low": 3200,
+        "close": 3300,
+        "volume": 2900,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 3300,
+        "high": 3800,
+        "low": 3300,
+        "close": 3800,
+        "volume": 3800,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 3400,
+        "high": 3600,
+        "low": 3300,
+        "close": 3500,
+        "volume": 26300,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 3500,
+        "high": 3500,
+        "low": 3400,
+        "close": 3400,
+        "volume": 19000,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 3400,
+        "high": 3400,
+        "low": 3400,
+        "close": 3400,
+        "volume": 2800,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 3300,
+        "high": 3400,
+        "low": 3300,
+        "close": 3400,
+        "volume": 300,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 3500,
+        "high": 3700,
+        "low": 3400,
+        "close": 3700,
+        "volume": 30100,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 3800,
+        "high": 4100,
+        "low": 3800,
+        "close": 4000,
+        "volume": 54700,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 3900,
+        "high": 3900,
+        "low": 3600,
+        "close": 3900,
+        "volume": 30400,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 4200,
+        "high": 4200,
+        "low": 3600,
+        "close": 3900,
+        "volume": 8100,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 3700,
+        "high": 4000,
+        "low": 3500,
+        "close": 3700,
+        "volume": 32900,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 4000,
+        "high": 4000,
+        "low": 3700,
+        "close": 3700,
+        "volume": 21000,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 4000,
+        "high": 4000,
+        "low": 3600,
+        "close": 3900,
+        "volume": 7100,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 3700,
+        "high": 4000,
+        "low": 3700,
+        "close": 3700,
+        "volume": 7400,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 3800,
+        "high": 3800,
+        "low": 3700,
+        "close": 3700,
+        "volume": 700,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 3700,
+        "high": 3800,
+        "low": 3700,
+        "close": 3700,
+        "volume": 6000,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 3800,
+        "high": 4000,
+        "low": 3700,
+        "close": 3800,
+        "volume": 47200,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 4000,
+        "high": 4400,
+        "low": 4000,
+        "close": 4400,
+        "volume": 101300,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 4900,
+        "high": 4900,
+        "low": 4900,
+        "close": 4900,
+        "volume": 15500,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 5600,
+        "high": 5600,
+        "low": 4300,
+        "close": 5000,
+        "volume": 492500,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 5100,
+        "high": 5200,
+        "low": 4500,
+        "close": 4500,
+        "volume": 17400,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 4300,
+        "high": 4400,
+        "low": 4200,
+        "close": 4400,
+        "volume": 22000,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 4500,
+        "high": 4500,
+        "low": 4400,
+        "close": 4400,
+        "volume": 16900,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 4300,
+        "high": 4600,
+        "low": 3800,
+        "close": 4000,
+        "volume": 21800,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 4000,
+        "high": 4400,
+        "low": 4000,
+        "close": 4400,
+        "volume": 24100,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 4700,
+        "high": 4700,
+        "low": 4100,
+        "close": 4400,
+        "volume": 11200,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 4200,
+        "high": 4200,
+        "low": 4100,
+        "close": 4200,
+        "volume": 6200,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 4500,
+        "high": 4500,
+        "low": 4100,
+        "close": 4300,
+        "volume": 8600,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 4100,
+        "high": 4300,
+        "low": 4100,
+        "close": 4300,
+        "volume": 5500,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 4200,
+        "high": 4500,
+        "low": 4200,
+        "close": 4300,
+        "volume": 12400,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 4200,
+        "high": 4600,
+        "low": 4200,
+        "close": 4600,
+        "volume": 5300,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 4600,
+        "high": 4600,
+        "low": 4600,
+        "close": 4600,
+        "volume": 400,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 4600,
+        "high": 4600,
+        "low": 4600,
+        "close": 4600,
+        "volume": 700,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 4300,
+        "high": 4300,
+        "low": 4200,
+        "close": 4200,
+        "volume": 6700,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 4400,
+        "high": 4400,
+        "low": 4300,
+        "close": 4300,
+        "volume": 1800,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 4300,
+        "high": 4500,
+        "low": 4300,
+        "close": 4500,
+        "volume": 400,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 4500,
+        "high": 4500,
+        "low": 4500,
+        "close": 4500,
+        "volume": 2200,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 4600,
+        "high": 4600,
+        "low": 4600,
+        "close": 4600,
+        "volume": 500,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 4500,
+        "high": 4500,
+        "low": 4500,
+        "close": 4500,
+        "volume": 1400,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 4700,
+        "high": 4700,
+        "low": 4700,
+        "close": 4700,
+        "volume": 900,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 4700,
+        "high": 4700,
+        "low": 4300,
+        "close": 4300,
+        "volume": 400,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 4300,
+        "high": 4600,
+        "low": 4300,
+        "close": 4600,
+        "volume": 1200,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 4200,
+        "high": 4600,
+        "low": 4200,
+        "close": 4600,
+        "volume": 4900,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 4200,
+        "high": 4200,
+        "low": 4200,
+        "close": 4200,
+        "volume": 2300,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 4200,
+        "high": 4200,
+        "low": 4200,
+        "close": 4200,
+        "volume": 1500,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 4200,
+        "high": 4800,
+        "low": 4200,
+        "close": 4700,
+        "volume": 15700,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 4300,
+        "high": 4300,
+        "low": 4200,
+        "close": 4200,
+        "volume": 3000,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 4600,
+        "high": 4700,
+        "low": 4400,
+        "close": 4700,
+        "volume": 3500,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 4600,
+        "high": 4600,
+        "low": 4600,
+        "close": 4600,
+        "volume": 1000,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 4800,
+        "high": 4800,
+        "low": 4800,
+        "close": 4800,
+        "volume": 100,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 4900,
+        "high": 5000,
+        "low": 4800,
+        "close": 4900,
+        "volume": 4200,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 5000,
+        "high": 5000,
+        "low": 5000,
+        "close": 5000,
+        "volume": 300,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 5000,
+        "high": 5000,
+        "low": 5000,
+        "close": 5000,
+        "volume": 100,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 4400,
+        "high": 5000,
+        "low": 4400,
+        "close": 5000,
+        "volume": 600,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 4600,
+        "high": 4600,
+        "low": 4600,
+        "close": 4600,
+        "volume": 300,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 4900,
+        "high": 4900,
+        "low": 4900,
+        "close": 4900,
+        "volume": 400,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 5000,
+        "high": 5000,
+        "low": 4900,
+        "close": 4900,
+        "volume": 7000,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 4900,
+        "high": 4900,
+        "low": 4900,
+        "close": 4900,
+        "volume": 500,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 5000,
+        "high": 5000,
+        "low": 5000,
+        "close": 5000,
+        "volume": 500,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-08-17",
+        "open": 5100,
+        "high": 5200,
+        "low": 5100,
+        "close": 5100,
+        "volume": 34700,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 5100,
+        "high": 5100,
+        "low": 5100,
+        "close": 5100,
+        "volume": 200,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 4400,
+        "high": 5000,
+        "low": 4400,
+        "close": 5000,
+        "volume": 1900,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 4800,
+        "high": 4800,
+        "low": 4800,
+        "close": 4800,
+        "volume": 100,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 5200,
+        "high": 5200,
+        "low": 5200,
+        "close": 5200,
+        "volume": 1000,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 4500,
+        "high": 5200,
+        "low": 4500,
+        "close": 5200,
+        "volume": 1400,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 4600,
+        "high": 4600,
+        "low": 4600,
+        "close": 4600,
+        "volume": 100,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 5200,
+        "high": 5200,
+        "low": 4400,
+        "close": 4900,
+        "volume": 700,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 4500,
+        "high": 5000,
+        "low": 4500,
+        "close": 5000,
+        "volume": 400,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 5200,
+        "high": 5200,
+        "low": 4800,
+        "close": 5000,
+        "volume": 1200,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 4400,
+        "high": 5000,
+        "low": 4400,
+        "close": 5000,
+        "volume": 2700,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 5000,
+        "high": 5000,
+        "low": 5000,
+        "close": 5000,
+        "volume": 200,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 4500,
+        "high": 4500,
+        "low": 4500,
+        "close": 4500,
+        "volume": 2900,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 4900,
+        "high": 4900,
+        "low": 4900,
+        "close": 4900,
+        "volume": 500,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 5200,
+        "high": 5200,
+        "low": 4400,
+        "close": 5200,
+        "volume": 1000,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 5200,
+        "high": 5200,
+        "low": 5200,
+        "close": 5200,
+        "volume": 400,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 5200,
+        "high": 5400,
+        "low": 5200,
+        "close": 5300,
+        "volume": 16800,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 5200,
+        "high": 5200,
+        "low": 5100,
+        "close": 5100,
+        "volume": 730500,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 5300,
+        "high": 5300,
+        "low": 5300,
+        "close": 5300,
+        "volume": 200,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 4700,
+        "high": 5300,
+        "low": 4700,
+        "close": 5300,
+        "volume": 3000,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 5000,
+        "high": 5200,
+        "low": 5000,
+        "close": 5200,
+        "volume": 400,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 4700,
+        "high": 5200,
+        "low": 4700,
+        "close": 5200,
+        "volume": 3500,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 5300,
+        "high": 5300,
+        "low": 4500,
+        "close": 4600,
+        "volume": 3600,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 4900,
+        "high": 5000,
+        "low": 4900,
+        "close": 5000,
+        "volume": 500500,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 4900,
+        "high": 4900,
+        "low": 4900,
+        "close": 4900,
+        "volume": 505000,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 4900,
+        "high": 4900,
+        "low": 4800,
+        "close": 4800,
+        "volume": 433700,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 4300,
+        "high": 4300,
+        "low": 4300,
+        "close": 4300,
+        "volume": 500,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 4300,
+        "high": 4300,
+        "low": 4300,
+        "close": 4300,
+        "volume": 500,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 4800,
+        "high": 4900,
+        "low": 4800,
+        "close": 4900,
+        "volume": 2200,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 5000,
+        "high": 5000,
+        "low": 5000,
+        "close": 5000,
+        "volume": 6100,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 5100,
+        "high": 5200,
+        "low": 5100,
+        "close": 5200,
+        "volume": 10800,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 4900,
+        "high": 4900,
+        "low": 4900,
+        "close": 4900,
+        "volume": 5000,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 4400,
+        "high": 4400,
+        "low": 4400,
+        "close": 4400,
+        "volume": 1000,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 4400,
+        "high": 4400,
+        "low": 4200,
+        "close": 4200,
+        "volume": 3100,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 4800,
+        "high": 4800,
+        "low": 4100,
+        "close": 4100,
+        "volume": 3100,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 4700,
+        "high": 4800,
+        "low": 4300,
+        "close": 4800,
+        "volume": 2400,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 4300,
+        "high": 4300,
+        "low": 4300,
+        "close": 4300,
+        "volume": 200,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 4300,
+        "high": 4300,
+        "low": 3800,
+        "close": 4200,
+        "volume": 15700,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 4200,
+        "high": 4400,
+        "low": 3900,
+        "close": 3900,
+        "volume": 17300,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 3900,
+        "high": 4000,
+        "low": 3900,
+        "close": 4000,
+        "volume": 2400,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 3800,
+        "high": 4200,
+        "low": 3400,
+        "close": 4200,
+        "volume": 9000,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 3500,
+        "high": 4100,
+        "low": 3500,
+        "close": 3500,
+        "volume": 700,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 3500,
+        "high": 4000,
+        "low": 3500,
+        "close": 3800,
+        "volume": 25200,
+        "ticker": "HVA"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 4100,
+        "high": 4100,
+        "low": 4000,
+        "close": 4000,
+        "volume": 300,
+        "ticker": "HVA"
+    }
+]

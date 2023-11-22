@@ -1,0 +1,47 @@
+[
+    {
+        "time": "2023-06-14",
+        "open": 11350,
+        "high": 11350,
+        "low": 11350,
+        "close": 11350,
+        "volume": 3800,
+        "ticker": "DUS"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 11440,
+        "high": 11440,
+        "low": 11440,
+        "close": 11440,
+        "volume": 100,
+        "ticker": "DUS"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 11440,
+        "high": 11440,
+        "low": 11440,
+        "close": 11440,
+        "volume": 100,
+        "ticker": "DUS"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 13000,
+        "high": 13000,
+        "low": 13000,
+        "close": 13000,
+        "volume": 100,
+        "ticker": "DUS"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 13000,
+        "high": 13000,
+        "low": 13000,
+        "close": 13000,
+        "volume": 2500,
+        "ticker": "DUS"
+    }
+]

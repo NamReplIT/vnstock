@@ -1,0 +1,623 @@
+[
+    {
+        "time": "2023-05-15",
+        "open": 15490,
+        "high": 15490,
+        "low": 15400,
+        "close": 15400,
+        "volume": 200,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 16400,
+        "high": 16400,
+        "low": 16400,
+        "close": 16400,
+        "volume": 300,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 14130,
+        "high": 14130,
+        "low": 14130,
+        "close": 14130,
+        "volume": 100,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 14220,
+        "high": 14220,
+        "low": 14220,
+        "close": 14220,
+        "volume": 100,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 14580,
+        "high": 14580,
+        "low": 14580,
+        "close": 14580,
+        "volume": 100,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 14220,
+        "high": 14220,
+        "low": 14220,
+        "close": 14220,
+        "volume": 100,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 16309,
+        "high": 16309,
+        "low": 16309,
+        "close": 16309,
+        "volume": 100,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 16860,
+        "high": 16860,
+        "low": 16860,
+        "close": 16860,
+        "volume": 600,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 15040,
+        "high": 19140,
+        "low": 15040,
+        "close": 18230,
+        "volume": 300,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 19500,
+        "high": 19500,
+        "low": 19500,
+        "close": 19500,
+        "volume": 100,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 16600,
+        "high": 16600,
+        "low": 16600,
+        "close": 16600,
+        "volume": 100,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 14500,
+        "high": 14500,
+        "low": 14500,
+        "close": 14500,
+        "volume": 100,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 16600,
+        "high": 16600,
+        "low": 16600,
+        "close": 16600,
+        "volume": 100,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 15500,
+        "high": 15500,
+        "low": 15500,
+        "close": 15500,
+        "volume": 100,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 17800,
+        "high": 17800,
+        "low": 17800,
+        "close": 17800,
+        "volume": 100,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 16200,
+        "high": 18100,
+        "low": 15700,
+        "close": 18100,
+        "volume": 300,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 18500,
+        "high": 18500,
+        "low": 18500,
+        "close": 18500,
+        "volume": 100,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 16800,
+        "high": 21200,
+        "low": 16800,
+        "close": 21200,
+        "volume": 200,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 17000,
+        "high": 17000,
+        "low": 17000,
+        "close": 17000,
+        "volume": 100,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 18500,
+        "high": 18500,
+        "low": 18500,
+        "close": 18500,
+        "volume": 100,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 17000,
+        "high": 17000,
+        "low": 17000,
+        "close": 17000,
+        "volume": 100,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 19300,
+        "high": 19300,
+        "low": 19300,
+        "close": 19300,
+        "volume": 100,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 16500,
+        "high": 16500,
+        "low": 16500,
+        "close": 16500,
+        "volume": 100,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 18900,
+        "high": 18900,
+        "low": 18900,
+        "close": 18900,
+        "volume": 600,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 18900,
+        "high": 18900,
+        "low": 18900,
+        "close": 18900,
+        "volume": 200,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 16100,
+        "high": 16100,
+        "low": 16100,
+        "close": 16100,
+        "volume": 100,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 18200,
+        "high": 18200,
+        "low": 13700,
+        "close": 13700,
+        "volume": 2600,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 16400,
+        "high": 16400,
+        "low": 16400,
+        "close": 16400,
+        "volume": 500,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 17500,
+        "high": 17500,
+        "low": 17500,
+        "close": 17500,
+        "volume": 900,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 16000,
+        "high": 16000,
+        "low": 16000,
+        "close": 16000,
+        "volume": 100,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 18200,
+        "high": 18200,
+        "low": 18200,
+        "close": 18200,
+        "volume": 200,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 16100,
+        "high": 16100,
+        "low": 16100,
+        "close": 16100,
+        "volume": 100,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 18200,
+        "high": 18200,
+        "low": 18200,
+        "close": 18200,
+        "volume": 100,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 16100,
+        "high": 16100,
+        "low": 16100,
+        "close": 16100,
+        "volume": 300,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 17500,
+        "high": 17500,
+        "low": 17500,
+        "close": 17500,
+        "volume": 200,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 16100,
+        "high": 16100,
+        "low": 16100,
+        "close": 16100,
+        "volume": 100,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 16100,
+        "high": 16100,
+        "low": 16100,
+        "close": 16100,
+        "volume": 100,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 15000,
+        "high": 17400,
+        "low": 15000,
+        "close": 16100,
+        "volume": 2800,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 17400,
+        "high": 17500,
+        "low": 17400,
+        "close": 17500,
+        "volume": 200,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 18100,
+        "high": 18100,
+        "low": 17400,
+        "close": 17400,
+        "volume": 300,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 16100,
+        "high": 18100,
+        "low": 16100,
+        "close": 18000,
+        "volume": 700,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 16200,
+        "high": 18000,
+        "low": 16200,
+        "close": 16800,
+        "volume": 1900,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 16900,
+        "high": 16900,
+        "low": 16900,
+        "close": 16900,
+        "volume": 600,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 17400,
+        "high": 17400,
+        "low": 17400,
+        "close": 17400,
+        "volume": 100,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 16200,
+        "high": 16200,
+        "low": 16200,
+        "close": 16200,
+        "volume": 100,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 16500,
+        "high": 16800,
+        "low": 15100,
+        "close": 16800,
+        "volume": 4300,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 17000,
+        "high": 17000,
+        "low": 17000,
+        "close": 17000,
+        "volume": 200,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 17000,
+        "high": 17000,
+        "low": 17000,
+        "close": 17000,
+        "volume": 3200,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 17400,
+        "high": 17400,
+        "low": 17000,
+        "close": 17000,
+        "volume": 600,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 17000,
+        "high": 17000,
+        "low": 17000,
+        "close": 17000,
+        "volume": 200,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 17000,
+        "high": 17000,
+        "low": 17000,
+        "close": 17000,
+        "volume": 300,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 17000,
+        "high": 17000,
+        "low": 17000,
+        "close": 17000,
+        "volume": 100,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 17000,
+        "high": 17000,
+        "low": 17000,
+        "close": 17000,
+        "volume": 100,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 17000,
+        "high": 17000,
+        "low": 17000,
+        "close": 17000,
+        "volume": 200,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 16300,
+        "high": 16300,
+        "low": 16300,
+        "close": 16300,
+        "volume": 100,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 16000,
+        "high": 16500,
+        "low": 16000,
+        "close": 16500,
+        "volume": 4800,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 17000,
+        "high": 17000,
+        "low": 17000,
+        "close": 17000,
+        "volume": 300,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 16000,
+        "high": 16000,
+        "low": 16000,
+        "close": 16000,
+        "volume": 100,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 18200,
+        "high": 18200,
+        "low": 18200,
+        "close": 18200,
+        "volume": 200,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 15500,
+        "high": 15500,
+        "low": 15500,
+        "close": 15500,
+        "volume": 100,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 17700,
+        "high": 17700,
+        "low": 17700,
+        "close": 17700,
+        "volume": 100,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 16000,
+        "high": 16000,
+        "low": 16000,
+        "close": 16000,
+        "volume": 100,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 17900,
+        "high": 17900,
+        "low": 17900,
+        "close": 17900,
+        "volume": 100,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 16100,
+        "high": 17900,
+        "low": 16100,
+        "close": 17900,
+        "volume": 200,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 16100,
+        "high": 16100,
+        "low": 16100,
+        "close": 16100,
+        "volume": 100,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 17600,
+        "high": 17600,
+        "low": 17600,
+        "close": 17600,
+        "volume": 2200,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 16100,
+        "high": 17600,
+        "low": 16100,
+        "close": 17600,
+        "volume": 500,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 17700,
+        "high": 17700,
+        "low": 17700,
+        "close": 17700,
+        "volume": 100,
+        "ticker": "TOW"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 16100,
+        "high": 17000,
+        "low": 16100,
+        "close": 17000,
+        "volume": 400,
+        "ticker": "TOW"
+    }
+]

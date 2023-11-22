@@ -1,0 +1,488 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 24060,
+        "high": 24060,
+        "low": 24060,
+        "close": 24060,
+        "volume": 100,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 24060,
+        "high": 24060,
+        "low": 24060,
+        "close": 24060,
+        "volume": 300,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 23290,
+        "high": 24930,
+        "low": 23290,
+        "close": 24930,
+        "volume": 4000,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 24830,
+        "high": 24830,
+        "low": 24830,
+        "close": 24830,
+        "volume": 100,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 25800,
+        "high": 25800,
+        "low": 25700,
+        "close": 25700,
+        "volume": 200,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 25510,
+        "high": 25510,
+        "low": 25510,
+        "close": 25510,
+        "volume": 500,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 25510,
+        "high": 25510,
+        "low": 25510,
+        "close": 25510,
+        "volume": 100,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 24540,
+        "high": 24540,
+        "low": 24540,
+        "close": 24540,
+        "volume": 100,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 24930,
+        "high": 24930,
+        "low": 24930,
+        "close": 24930,
+        "volume": 100,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 25700,
+        "high": 25700,
+        "low": 24350,
+        "close": 24540,
+        "volume": 1100,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 24060,
+        "high": 24060,
+        "low": 24060,
+        "close": 24060,
+        "volume": 500,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 25800,
+        "high": 25800,
+        "low": 25800,
+        "close": 25800,
+        "volume": 100,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 25410,
+        "high": 25410,
+        "low": 25410,
+        "close": 25410,
+        "volume": 100,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 25410,
+        "high": 25410,
+        "low": 25220,
+        "close": 25220,
+        "volume": 200,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 25410,
+        "high": 25800,
+        "low": 25410,
+        "close": 25800,
+        "volume": 300,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 26800,
+        "high": 26800,
+        "low": 26800,
+        "close": 26800,
+        "volume": 200,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 26400,
+        "high": 26400,
+        "low": 26400,
+        "close": 26400,
+        "volume": 5100,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 25500,
+        "high": 25500,
+        "low": 25400,
+        "close": 25400,
+        "volume": 400,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 26500,
+        "high": 26500,
+        "low": 26500,
+        "close": 26500,
+        "volume": 200,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 26000,
+        "high": 26000,
+        "low": 25500,
+        "close": 26000,
+        "volume": 1700,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 26800,
+        "high": 26800,
+        "low": 26800,
+        "close": 26800,
+        "volume": 200,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 26000,
+        "high": 26700,
+        "low": 26000,
+        "close": 26700,
+        "volume": 1100,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 26800,
+        "high": 26800,
+        "low": 26800,
+        "close": 26800,
+        "volume": 200,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 26000,
+        "high": 26000,
+        "low": 25800,
+        "close": 25800,
+        "volume": 600,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 26600,
+        "high": 26600,
+        "low": 26600,
+        "close": 26600,
+        "volume": 200,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 23600,
+        "high": 24000,
+        "low": 23600,
+        "close": 24000,
+        "volume": 200,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 26800,
+        "high": 26800,
+        "low": 25300,
+        "close": 26000,
+        "volume": 1500,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 25800,
+        "high": 28300,
+        "low": 24100,
+        "close": 27800,
+        "volume": 2000,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 27800,
+        "high": 27800,
+        "low": 24500,
+        "close": 25500,
+        "volume": 4900,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 26600,
+        "high": 26600,
+        "low": 25700,
+        "close": 25700,
+        "volume": 700,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 26400,
+        "high": 28300,
+        "low": 25000,
+        "close": 28300,
+        "volume": 6900,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 27800,
+        "high": 27800,
+        "low": 27800,
+        "close": 27800,
+        "volume": 300,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 25800,
+        "high": 27500,
+        "low": 25800,
+        "close": 27500,
+        "volume": 300,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 27300,
+        "high": 27300,
+        "low": 27300,
+        "close": 27300,
+        "volume": 200,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 27000,
+        "high": 27000,
+        "low": 27000,
+        "close": 27000,
+        "volume": 700,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 24000,
+        "high": 24000,
+        "low": 24000,
+        "close": 24000,
+        "volume": 100,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 27000,
+        "high": 27000,
+        "low": 27000,
+        "close": 27000,
+        "volume": 700,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 27200,
+        "high": 27200,
+        "low": 27200,
+        "close": 27200,
+        "volume": 100,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 27200,
+        "high": 27200,
+        "low": 27200,
+        "close": 27200,
+        "volume": 100,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 26500,
+        "high": 26900,
+        "low": 26000,
+        "close": 26900,
+        "volume": 800,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 26900,
+        "high": 26900,
+        "low": 26900,
+        "close": 26900,
+        "volume": 200,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 25500,
+        "high": 25500,
+        "low": 25500,
+        "close": 25500,
+        "volume": 200,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 26900,
+        "high": 26900,
+        "low": 26900,
+        "close": 26900,
+        "volume": 100,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 25200,
+        "high": 25200,
+        "low": 25200,
+        "close": 25200,
+        "volume": 200,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 26900,
+        "high": 26900,
+        "low": 26900,
+        "close": 26900,
+        "volume": 100,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 25900,
+        "high": 25900,
+        "low": 25900,
+        "close": 25900,
+        "volume": 400,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 26900,
+        "high": 26900,
+        "low": 25900,
+        "close": 25900,
+        "volume": 500,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 26900,
+        "high": 26900,
+        "low": 26900,
+        "close": 26900,
+        "volume": 100,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 26900,
+        "high": 26900,
+        "low": 26900,
+        "close": 26900,
+        "volume": 300,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 27000,
+        "high": 30900,
+        "low": 27000,
+        "close": 30900,
+        "volume": 4100,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 29800,
+        "high": 29800,
+        "low": 29800,
+        "close": 29800,
+        "volume": 200,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 32000,
+        "high": 32000,
+        "low": 29800,
+        "close": 29800,
+        "volume": 12700,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 26500,
+        "high": 29400,
+        "low": 26500,
+        "close": 29400,
+        "volume": 600,
+        "ticker": "GND"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 25000,
+        "high": 27900,
+        "low": 25000,
+        "close": 27900,
+        "volume": 2300,
+        "ticker": "GND"
+    }
+]

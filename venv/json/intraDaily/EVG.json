@@ -1,0 +1,1289 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 3370,
+        "high": 3400,
+        "low": 3320,
+        "close": 3350,
+        "volume": 1716000,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 3360,
+        "high": 3400,
+        "low": 3320,
+        "close": 3360,
+        "volume": 1176100,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 3420,
+        "high": 3610,
+        "low": 3420,
+        "close": 3610,
+        "volume": 2231400,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 3860,
+        "high": 3860,
+        "low": 3700,
+        "close": 3860,
+        "volume": 7783500,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 4040,
+        "high": 4100,
+        "low": 3970,
+        "close": 4019,
+        "volume": 5107300,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 4070,
+        "high": 4280,
+        "low": 3950,
+        "close": 4280,
+        "volume": 5958400,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 4280,
+        "high": 4370,
+        "low": 4100,
+        "close": 4300,
+        "volume": 3517100,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 4450,
+        "high": 4590,
+        "low": 4380,
+        "close": 4450,
+        "volume": 7479300,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 4520,
+        "high": 4540,
+        "low": 4390,
+        "close": 4500,
+        "volume": 3566000,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 4550,
+        "high": 4630,
+        "low": 4370,
+        "close": 4550,
+        "volume": 4417300,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 4450,
+        "high": 4500,
+        "low": 4360,
+        "close": 4400,
+        "volume": 4471300,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 4500,
+        "high": 4500,
+        "low": 4100,
+        "close": 4360,
+        "volume": 4687200,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 4410,
+        "high": 4500,
+        "low": 4370,
+        "close": 4460,
+        "volume": 3319600,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 4480,
+        "high": 4760,
+        "low": 4460,
+        "close": 4760,
+        "volume": 6281800,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 5090,
+        "high": 5090,
+        "low": 5070,
+        "close": 5090,
+        "volume": 3627600,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 5440,
+        "high": 5440,
+        "low": 5100,
+        "close": 5440,
+        "volume": 10443700,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 5600,
+        "high": 5760,
+        "low": 5450,
+        "close": 5750,
+        "volume": 4009000,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 6070,
+        "high": 6150,
+        "low": 5850,
+        "close": 6150,
+        "volume": 5304900,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 6260,
+        "high": 6580,
+        "low": 6260,
+        "close": 6580,
+        "volume": 4776800,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 6850,
+        "high": 7040,
+        "low": 6680,
+        "close": 7040,
+        "volume": 4725000,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 7450,
+        "high": 7530,
+        "low": 6650,
+        "close": 7040,
+        "volume": 8603100,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 7100,
+        "high": 7100,
+        "low": 6600,
+        "close": 6700,
+        "volume": 5643900,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 7000,
+        "high": 7000,
+        "low": 6670,
+        "close": 6750,
+        "volume": 3614800,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 6660,
+        "high": 7190,
+        "low": 6660,
+        "close": 7180,
+        "volume": 6355500,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 7540,
+        "high": 7680,
+        "low": 7300,
+        "close": 7680,
+        "volume": 4000800,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 8200,
+        "high": 8210,
+        "low": 7920,
+        "close": 8160,
+        "volume": 6225700,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 8160,
+        "high": 8400,
+        "low": 7660,
+        "close": 7790,
+        "volume": 5897500,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 7810,
+        "high": 8029,
+        "low": 7500,
+        "close": 7690,
+        "volume": 3089700,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 7830,
+        "high": 8100,
+        "low": 7400,
+        "close": 7870,
+        "volume": 5897100,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 7880,
+        "high": 7900,
+        "low": 7320,
+        "close": 7320,
+        "volume": 5732200,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 7000,
+        "high": 7400,
+        "low": 6850,
+        "close": 6890,
+        "volume": 4980300,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 6950,
+        "high": 7200,
+        "low": 6600,
+        "close": 6690,
+        "volume": 3315300,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 6680,
+        "high": 6680,
+        "low": 6230,
+        "close": 6230,
+        "volume": 8925000,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 6160,
+        "high": 6660,
+        "low": 6160,
+        "close": 6660,
+        "volume": 2614900,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 7000,
+        "high": 7120,
+        "low": 6670,
+        "close": 7080,
+        "volume": 5710800,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 7110,
+        "high": 7150,
+        "low": 6900,
+        "close": 6940,
+        "volume": 3533600,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 6950,
+        "high": 7250,
+        "low": 6900,
+        "close": 6990,
+        "volume": 3621900,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 6900,
+        "high": 6900,
+        "low": 6510,
+        "close": 6510,
+        "volume": 6075000,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 6510,
+        "high": 6730,
+        "low": 6450,
+        "close": 6620,
+        "volume": 2621100,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 6630,
+        "high": 6720,
+        "low": 6210,
+        "close": 6270,
+        "volume": 3952700,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 6000,
+        "high": 6270,
+        "low": 5840,
+        "close": 5840,
+        "volume": 6409900,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 5890,
+        "high": 5980,
+        "low": 5500,
+        "close": 5660,
+        "volume": 4085900,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 5890,
+        "high": 5940,
+        "low": 5700,
+        "close": 5930,
+        "volume": 2334800,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 6030,
+        "high": 6340,
+        "low": 6020,
+        "close": 6340,
+        "volume": 5217200,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 6550,
+        "high": 6620,
+        "low": 6320,
+        "close": 6400,
+        "volume": 3292000,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 6410,
+        "high": 6410,
+        "low": 6000,
+        "close": 6130,
+        "volume": 3903900,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 6160,
+        "high": 6430,
+        "low": 6040,
+        "close": 6350,
+        "volume": 2436200,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 6540,
+        "high": 6650,
+        "low": 6380,
+        "close": 6500,
+        "volume": 2942100,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 6520,
+        "high": 6550,
+        "low": 6310,
+        "close": 6310,
+        "volume": 2833700,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 6350,
+        "high": 6370,
+        "low": 6150,
+        "close": 6220,
+        "volume": 2470800,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 6180,
+        "high": 6420,
+        "low": 6150,
+        "close": 6270,
+        "volume": 2531300,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 6380,
+        "high": 6680,
+        "low": 6280,
+        "close": 6440,
+        "volume": 4305400,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 6680,
+        "high": 6850,
+        "low": 6520,
+        "close": 6700,
+        "volume": 4791200,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 6790,
+        "high": 6790,
+        "low": 6440,
+        "close": 6470,
+        "volume": 3161300,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 6500,
+        "high": 6520,
+        "low": 6240,
+        "close": 6270,
+        "volume": 3205700,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 6300,
+        "high": 6440,
+        "low": 6270,
+        "close": 6430,
+        "volume": 2795700,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 6430,
+        "high": 6620,
+        "low": 6280,
+        "close": 6410,
+        "volume": 2793500,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 6500,
+        "high": 6850,
+        "low": 6410,
+        "close": 6850,
+        "volume": 6123400,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 7090,
+        "high": 7090,
+        "low": 6640,
+        "close": 6750,
+        "volume": 4812100,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 6760,
+        "high": 6950,
+        "low": 6680,
+        "close": 6850,
+        "volume": 5122400,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 6900,
+        "high": 7090,
+        "low": 6690,
+        "close": 6900,
+        "volume": 5207300,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 6900,
+        "high": 7100,
+        "low": 6900,
+        "close": 6990,
+        "volume": 5391400,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 7200,
+        "high": 7470,
+        "low": 7000,
+        "close": 7470,
+        "volume": 6886500,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 7690,
+        "high": 7690,
+        "low": 6950,
+        "close": 6950,
+        "volume": 5208300,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 6950,
+        "high": 7430,
+        "low": 6940,
+        "close": 7330,
+        "volume": 6592300,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 7320,
+        "high": 7380,
+        "low": 7140,
+        "close": 7150,
+        "volume": 3505100,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 7300,
+        "high": 7400,
+        "low": 7160,
+        "close": 7280,
+        "volume": 4065600,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 7400,
+        "high": 7410,
+        "low": 7180,
+        "close": 7210,
+        "volume": 6038900,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 7300,
+        "high": 7400,
+        "low": 7250,
+        "close": 7290,
+        "volume": 5931400,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 7270,
+        "high": 7450,
+        "low": 7130,
+        "close": 7450,
+        "volume": 8455300,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 7500,
+        "high": 7850,
+        "low": 7450,
+        "close": 7450,
+        "volume": 7175200,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 7500,
+        "high": 7510,
+        "low": 7000,
+        "close": 7350,
+        "volume": 6179000,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 7350,
+        "high": 7630,
+        "low": 7280,
+        "close": 7550,
+        "volume": 9103400,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 7700,
+        "high": 7800,
+        "low": 7500,
+        "close": 7500,
+        "volume": 3146700,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 7500,
+        "high": 7500,
+        "low": 7360,
+        "close": 7380,
+        "volume": 2534000,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-08-17",
+        "open": 7380,
+        "high": 7430,
+        "low": 7010,
+        "close": 7010,
+        "volume": 5840300,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 6850,
+        "high": 6900,
+        "low": 6520,
+        "close": 6520,
+        "volume": 5828000,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 6090,
+        "high": 6500,
+        "low": 6090,
+        "close": 6100,
+        "volume": 3942600,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 6150,
+        "high": 6250,
+        "low": 5740,
+        "close": 6140,
+        "volume": 2548000,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 6340,
+        "high": 6340,
+        "low": 6140,
+        "close": 6200,
+        "volume": 2189500,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 6150,
+        "high": 6500,
+        "low": 6150,
+        "close": 6500,
+        "volume": 2050900,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 6400,
+        "high": 6520,
+        "low": 6320,
+        "close": 6380,
+        "volume": 1622000,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 6450,
+        "high": 6490,
+        "low": 6340,
+        "close": 6390,
+        "volume": 1857500,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 6410,
+        "high": 6550,
+        "low": 6380,
+        "close": 6380,
+        "volume": 1918600,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 6380,
+        "high": 6480,
+        "low": 6300,
+        "close": 6360,
+        "volume": 1893500,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 6430,
+        "high": 6580,
+        "low": 6370,
+        "close": 6450,
+        "volume": 2622000,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 6540,
+        "high": 6900,
+        "low": 6520,
+        "close": 6900,
+        "volume": 5632200,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 7000,
+        "high": 7090,
+        "low": 6800,
+        "close": 6980,
+        "volume": 3361600,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 7040,
+        "high": 7100,
+        "low": 6850,
+        "close": 6890,
+        "volume": 3511300,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 6910,
+        "high": 7110,
+        "low": 6850,
+        "close": 6960,
+        "volume": 3970400,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 7140,
+        "high": 7140,
+        "low": 6650,
+        "close": 6650,
+        "volume": 3695100,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 6650,
+        "high": 6760,
+        "low": 6480,
+        "close": 6760,
+        "volume": 2883100,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 6760,
+        "high": 6970,
+        "low": 6320,
+        "close": 6800,
+        "volume": 4034600,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 6800,
+        "high": 7000,
+        "low": 6660,
+        "close": 6990,
+        "volume": 4526200,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 6920,
+        "high": 7450,
+        "low": 6920,
+        "close": 7040,
+        "volume": 6591800,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 7040,
+        "high": 7040,
+        "low": 6700,
+        "close": 6770,
+        "volume": 2049500,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 6850,
+        "high": 6880,
+        "low": 6300,
+        "close": 6470,
+        "volume": 4620800,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 6450,
+        "high": 6750,
+        "low": 6330,
+        "close": 6750,
+        "volume": 2016900,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 6720,
+        "high": 6740,
+        "low": 6530,
+        "close": 6580,
+        "volume": 1833200,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 6360,
+        "high": 6490,
+        "low": 6120,
+        "close": 6120,
+        "volume": 4258700,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 6060,
+        "high": 6230,
+        "low": 5700,
+        "close": 5700,
+        "volume": 2536900,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 5670,
+        "high": 5820,
+        "low": 5500,
+        "close": 5500,
+        "volume": 1550200,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 5300,
+        "high": 5790,
+        "low": 5210,
+        "close": 5790,
+        "volume": 1642700,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 5790,
+        "high": 5790,
+        "low": 5530,
+        "close": 5630,
+        "volume": 1474200,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 5680,
+        "high": 5730,
+        "low": 5600,
+        "close": 5600,
+        "volume": 2004500,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 5600,
+        "high": 5700,
+        "low": 5540,
+        "close": 5650,
+        "volume": 912800,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 5460,
+        "high": 5600,
+        "low": 5260,
+        "close": 5260,
+        "volume": 2045300,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 4960,
+        "high": 5240,
+        "low": 4910,
+        "close": 5120,
+        "volume": 2454900,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 5250,
+        "high": 5250,
+        "low": 5020,
+        "close": 5100,
+        "volume": 1811100,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 5190,
+        "high": 5190,
+        "low": 4960,
+        "close": 5150,
+        "volume": 1239800,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 5150,
+        "high": 5400,
+        "low": 5130,
+        "close": 5400,
+        "volume": 2364700,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 5400,
+        "high": 5590,
+        "low": 5400,
+        "close": 5470,
+        "volume": 2104300,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 5500,
+        "high": 5540,
+        "low": 5330,
+        "close": 5460,
+        "volume": 1243200,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 5510,
+        "high": 5590,
+        "low": 5400,
+        "close": 5500,
+        "volume": 1844900,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 5460,
+        "high": 5460,
+        "low": 5240,
+        "close": 5420,
+        "volume": 1386400,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 5430,
+        "high": 5430,
+        "low": 5060,
+        "close": 5080,
+        "volume": 2333300,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 5100,
+        "high": 5240,
+        "low": 5050,
+        "close": 5080,
+        "volume": 1689200,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 5060,
+        "high": 5140,
+        "low": 4730,
+        "close": 4730,
+        "volume": 2547400,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 5000,
+        "high": 5000,
+        "low": 4690,
+        "close": 4880,
+        "volume": 1577900,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 4890,
+        "high": 5190,
+        "low": 4760,
+        "close": 5050,
+        "volume": 1675000,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 5040,
+        "high": 5080,
+        "low": 4880,
+        "close": 4920,
+        "volume": 1637000,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 5030,
+        "high": 5050,
+        "low": 4870,
+        "close": 4970,
+        "volume": 1857300,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 5000,
+        "high": 5040,
+        "low": 4900,
+        "close": 5000,
+        "volume": 1228300,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 4860,
+        "high": 4880,
+        "low": 4650,
+        "close": 4650,
+        "volume": 2118900,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 4600,
+        "high": 4650,
+        "low": 4400,
+        "close": 4580,
+        "volume": 1164100,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 4580,
+        "high": 4600,
+        "low": 4460,
+        "close": 4570,
+        "volume": 1578300,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 4570,
+        "high": 4570,
+        "low": 4320,
+        "close": 4320,
+        "volume": 1814400,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 4320,
+        "high": 4400,
+        "low": 4100,
+        "close": 4380,
+        "volume": 1244500,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 4420,
+        "high": 4680,
+        "low": 4380,
+        "close": 4680,
+        "volume": 2836300,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 4710,
+        "high": 4770,
+        "low": 4600,
+        "close": 4700,
+        "volume": 1486200,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 4700,
+        "high": 4770,
+        "low": 4600,
+        "close": 4680,
+        "volume": 612900,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 4690,
+        "high": 4830,
+        "low": 4600,
+        "close": 4730,
+        "volume": 1646300,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 4740,
+        "high": 5060,
+        "low": 4700,
+        "close": 5060,
+        "volume": 3750400,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 5070,
+        "high": 5300,
+        "low": 5070,
+        "close": 5200,
+        "volume": 3165900,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 5130,
+        "high": 5300,
+        "low": 5020,
+        "close": 5100,
+        "volume": 1657100,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 5100,
+        "high": 5190,
+        "low": 4950,
+        "close": 5120,
+        "volume": 2421300,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 5190,
+        "high": 5220,
+        "low": 5030,
+        "close": 5120,
+        "volume": 1885300,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 5350,
+        "high": 5350,
+        "low": 5120,
+        "close": 5120,
+        "volume": 2563800,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 5120,
+        "high": 5240,
+        "low": 5060,
+        "close": 5230,
+        "volume": 2337600,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 5230,
+        "high": 5590,
+        "low": 5230,
+        "close": 5540,
+        "volume": 6933500,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 5280,
+        "high": 5600,
+        "low": 5160,
+        "close": 5590,
+        "volume": 2219400,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 5600,
+        "high": 5650,
+        "low": 5380,
+        "close": 5590,
+        "volume": 2588500,
+        "ticker": "EVG"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 5590,
+        "high": 5620,
+        "low": 5450,
+        "close": 5530,
+        "volume": 2004500,
+        "ticker": "EVG"
+    }
+]

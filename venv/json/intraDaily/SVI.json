@@ -1,0 +1,605 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 54410,
+        "high": 54410,
+        "low": 52010,
+        "close": 52010,
+        "volume": 1400,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 52680,
+        "high": 52680,
+        "low": 52680,
+        "close": 52680,
+        "volume": 100,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 57480,
+        "high": 57480,
+        "low": 54410,
+        "close": 56330,
+        "volume": 300,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 54980,
+        "high": 55080,
+        "low": 54980,
+        "close": 55080,
+        "volume": 2300,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 54700,
+        "high": 54700,
+        "low": 54700,
+        "close": 54700,
+        "volume": 700,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 54790,
+        "high": 54790,
+        "low": 54790,
+        "close": 54790,
+        "volume": 400,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 54790,
+        "high": 54790,
+        "low": 52970,
+        "close": 52970,
+        "volume": 800,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 56230,
+        "high": 56230,
+        "low": 56230,
+        "close": 56230,
+        "volume": 1000,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 52870,
+        "high": 58920,
+        "low": 52870,
+        "close": 58920,
+        "volume": 500,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 54890,
+        "high": 54890,
+        "low": 54890,
+        "close": 54890,
+        "volume": 600,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 53070,
+        "high": 53070,
+        "low": 53070,
+        "close": 53070,
+        "volume": 100,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 54220,
+        "high": 56520,
+        "low": 53540,
+        "close": 56520,
+        "volume": 4400,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 55750,
+        "high": 55750,
+        "low": 55750,
+        "close": 55750,
+        "volume": 100,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 55660,
+        "high": 55660,
+        "low": 54700,
+        "close": 54700,
+        "volume": 200,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 54700,
+        "high": 54700,
+        "low": 54700,
+        "close": 54700,
+        "volume": 100,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 54700,
+        "high": 54700,
+        "low": 54700,
+        "close": 54700,
+        "volume": 100,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 54700,
+        "high": 54700,
+        "low": 53070,
+        "close": 53070,
+        "volume": 1000,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 54700,
+        "high": 54700,
+        "low": 54220,
+        "close": 54220,
+        "volume": 2000,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 54600,
+        "high": 55560,
+        "low": 54600,
+        "close": 55560,
+        "volume": 1200,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 55200,
+        "high": 55200,
+        "low": 55200,
+        "close": 55200,
+        "volume": 200,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 55000,
+        "high": 55000,
+        "low": 55000,
+        "close": 55000,
+        "volume": 100,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 55000,
+        "high": 55000,
+        "low": 55000,
+        "close": 55000,
+        "volume": 100,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 55000,
+        "high": 55000,
+        "low": 55000,
+        "close": 55000,
+        "volume": 3100,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 55000,
+        "high": 55100,
+        "low": 55000,
+        "close": 55100,
+        "volume": 1600,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 55100,
+        "high": 55100,
+        "low": 55100,
+        "close": 55100,
+        "volume": 1500,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 55100,
+        "high": 55100,
+        "low": 55100,
+        "close": 55100,
+        "volume": 1100,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 55100,
+        "high": 55100,
+        "low": 55100,
+        "close": 55100,
+        "volume": 1300,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 55000,
+        "high": 55000,
+        "low": 55000,
+        "close": 55000,
+        "volume": 100,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 55000,
+        "high": 55000,
+        "low": 55000,
+        "close": 55000,
+        "volume": 1700,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 57000,
+        "high": 57000,
+        "low": 57000,
+        "close": 57000,
+        "volume": 100,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 55000,
+        "high": 55000,
+        "low": 55000,
+        "close": 55000,
+        "volume": 400,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 55000,
+        "high": 55000,
+        "low": 55000,
+        "close": 55000,
+        "volume": 400,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 55000,
+        "high": 55000,
+        "low": 54500,
+        "close": 54500,
+        "volume": 1100,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 55000,
+        "high": 55000,
+        "low": 55000,
+        "close": 55000,
+        "volume": 100,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 56400,
+        "high": 56400,
+        "low": 56400,
+        "close": 56400,
+        "volume": 100,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 56500,
+        "high": 57000,
+        "low": 56500,
+        "close": 57000,
+        "volume": 2600,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 56500,
+        "high": 56500,
+        "low": 56500,
+        "close": 56500,
+        "volume": 100,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 56500,
+        "high": 57000,
+        "low": 56500,
+        "close": 56500,
+        "volume": 1100,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 56500,
+        "high": 59000,
+        "low": 56500,
+        "close": 59000,
+        "volume": 5000,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 59900,
+        "high": 59900,
+        "low": 58000,
+        "close": 58000,
+        "volume": 400,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 58000,
+        "high": 58000,
+        "low": 58000,
+        "close": 58000,
+        "volume": 100,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 56500,
+        "high": 56500,
+        "low": 56500,
+        "close": 56500,
+        "volume": 200,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 56500,
+        "high": 56500,
+        "low": 56500,
+        "close": 56500,
+        "volume": 200,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 56200,
+        "high": 58500,
+        "low": 56200,
+        "close": 58500,
+        "volume": 300,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 58600,
+        "high": 58700,
+        "low": 58600,
+        "close": 58700,
+        "volume": 200,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 57100,
+        "high": 57100,
+        "low": 57100,
+        "close": 57100,
+        "volume": 100,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 59400,
+        "high": 59400,
+        "low": 59400,
+        "close": 59400,
+        "volume": 300,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 60000,
+        "high": 60000,
+        "low": 60000,
+        "close": 60000,
+        "volume": 500,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 59500,
+        "high": 59500,
+        "low": 58000,
+        "close": 58000,
+        "volume": 900,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 56000,
+        "high": 58000,
+        "low": 56000,
+        "close": 56000,
+        "volume": 11000,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 56600,
+        "high": 56600,
+        "low": 56600,
+        "close": 56600,
+        "volume": 100,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 57000,
+        "high": 57000,
+        "low": 57000,
+        "close": 57000,
+        "volume": 200,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 56500,
+        "high": 56500,
+        "low": 53700,
+        "close": 53700,
+        "volume": 300,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 53700,
+        "high": 53700,
+        "low": 53700,
+        "close": 53700,
+        "volume": 100,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 57300,
+        "high": 57300,
+        "low": 57300,
+        "close": 57300,
+        "volume": 100,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 57000,
+        "high": 57000,
+        "low": 57000,
+        "close": 57000,
+        "volume": 1400,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 53600,
+        "high": 54000,
+        "low": 53500,
+        "close": 54000,
+        "volume": 1300,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 55100,
+        "high": 55100,
+        "low": 55100,
+        "close": 55100,
+        "volume": 200,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 55000,
+        "high": 55000,
+        "low": 55000,
+        "close": 55000,
+        "volume": 100,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 56000,
+        "high": 56000,
+        "low": 56000,
+        "close": 56000,
+        "volume": 500,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 56000,
+        "high": 56000,
+        "low": 56000,
+        "close": 56000,
+        "volume": 400,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 54100,
+        "high": 56000,
+        "low": 54100,
+        "close": 56000,
+        "volume": 500,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 55000,
+        "high": 55000,
+        "low": 55000,
+        "close": 55000,
+        "volume": 100,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 55500,
+        "high": 56000,
+        "low": 55100,
+        "close": 56000,
+        "volume": 3600,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 55800,
+        "high": 56000,
+        "low": 55800,
+        "close": 56000,
+        "volume": 7100,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 56000,
+        "high": 56000,
+        "low": 56000,
+        "close": 56000,
+        "volume": 300,
+        "ticker": "SVI"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 56000,
+        "high": 56000,
+        "low": 56000,
+        "close": 56000,
+        "volume": 300,
+        "ticker": "SVI"
+    }
+]

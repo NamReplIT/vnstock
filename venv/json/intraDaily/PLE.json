@@ -1,0 +1,47 @@
+[
+    {
+        "time": "2023-05-10",
+        "open": 31150,
+        "high": 31150,
+        "low": 31150,
+        "close": 31150,
+        "volume": 12300,
+        "ticker": "PLE"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 19000,
+        "high": 19000,
+        "low": 19000,
+        "close": 19000,
+        "volume": 100,
+        "ticker": "PLE"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 21800,
+        "high": 21800,
+        "low": 21800,
+        "close": 21800,
+        "volume": 7100,
+        "ticker": "PLE"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 25000,
+        "high": 25000,
+        "low": 25000,
+        "close": 25000,
+        "volume": 100,
+        "ticker": "PLE"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 16000,
+        "high": 16000,
+        "low": 16000,
+        "close": 16000,
+        "volume": 200,
+        "ticker": "PLE"
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 23000,
+        "high": 23000,
+        "low": 23000,
+        "close": 23000,
+        "volume": 100,
+        "ticker": "DSD"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 23000,
+        "high": 24000,
+        "low": 23000,
+        "close": 24000,
+        "volume": 300,
+        "ticker": "DSD"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 26700,
+        "high": 26700,
+        "low": 26600,
+        "close": 26600,
+        "volume": 800,
+        "ticker": "DSD"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 26300,
+        "high": 26300,
+        "low": 26300,
+        "close": 26300,
+        "volume": 100,
+        "ticker": "DSD"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 26900,
+        "high": 26900,
+        "low": 26900,
+        "close": 26900,
+        "volume": 100,
+        "ticker": "DSD"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 22900,
+        "high": 22900,
+        "low": 22900,
+        "close": 22900,
+        "volume": 300,
+        "ticker": "DSD"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 22000,
+        "high": 25000,
+        "low": 22000,
+        "close": 25000,
+        "volume": 300,
+        "ticker": "DSD"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 20400,
+        "high": 20400,
+        "low": 20400,
+        "close": 20400,
+        "volume": 200,
+        "ticker": "DSD"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 17400,
+        "high": 17400,
+        "low": 17400,
+        "close": 17400,
+        "volume": 100,
+        "ticker": "DSD"
+    }
+]

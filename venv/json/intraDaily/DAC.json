@@ -1,0 +1,29 @@
+[
+    {
+        "time": "2023-05-05",
+        "open": 7500,
+        "high": 7500,
+        "low": 7500,
+        "close": 7500,
+        "volume": 100,
+        "ticker": "DAC"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 8600,
+        "high": 8600,
+        "low": 8600,
+        "close": 8600,
+        "volume": 100,
+        "ticker": "DAC"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 7400,
+        "high": 7400,
+        "low": 7400,
+        "close": 7400,
+        "volume": 1100,
+        "ticker": "DAC"
+    }
+]

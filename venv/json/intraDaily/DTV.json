@@ -1,0 +1,236 @@
+[
+    {
+        "time": "2023-06-09",
+        "open": 37000,
+        "high": 37000,
+        "low": 37000,
+        "close": 37000,
+        "volume": 2000,
+        "ticker": "DTV"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 40000,
+        "high": 40000,
+        "low": 40000,
+        "close": 40000,
+        "volume": 1800,
+        "ticker": "DTV"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 39000,
+        "high": 39000,
+        "low": 39000,
+        "close": 39000,
+        "volume": 100,
+        "ticker": "DTV"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 36000,
+        "high": 36000,
+        "low": 36000,
+        "close": 36000,
+        "volume": 100,
+        "ticker": "DTV"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 36000,
+        "high": 36000,
+        "low": 36000,
+        "close": 36000,
+        "volume": 500,
+        "ticker": "DTV"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 36000,
+        "high": 36000,
+        "low": 36000,
+        "close": 36000,
+        "volume": 200,
+        "ticker": "DTV"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 36000,
+        "high": 36000,
+        "low": 36000,
+        "close": 36000,
+        "volume": 400,
+        "ticker": "DTV"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 36000,
+        "high": 36000,
+        "low": 36000,
+        "close": 36000,
+        "volume": 100,
+        "ticker": "DTV"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 35000,
+        "high": 35000,
+        "low": 35000,
+        "close": 35000,
+        "volume": 800,
+        "ticker": "DTV"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 35000,
+        "high": 35000,
+        "low": 35000,
+        "close": 35000,
+        "volume": 400,
+        "ticker": "DTV"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 35000,
+        "high": 35000,
+        "low": 35000,
+        "close": 35000,
+        "volume": 300,
+        "ticker": "DTV"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 35000,
+        "high": 35000,
+        "low": 35000,
+        "close": 35000,
+        "volume": 300,
+        "ticker": "DTV"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 35000,
+        "high": 35000,
+        "low": 35000,
+        "close": 35000,
+        "volume": 500,
+        "ticker": "DTV"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 33000,
+        "high": 35000,
+        "low": 33000,
+        "close": 35000,
+        "volume": 700,
+        "ticker": "DTV"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 35000,
+        "high": 35000,
+        "low": 35000,
+        "close": 35000,
+        "volume": 200,
+        "ticker": "DTV"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 35000,
+        "high": 35000,
+        "low": 33000,
+        "close": 35000,
+        "volume": 900,
+        "ticker": "DTV"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 36000,
+        "high": 37000,
+        "low": 36000,
+        "close": 37000,
+        "volume": 800,
+        "ticker": "DTV"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 36900,
+        "high": 37000,
+        "low": 36900,
+        "close": 37000,
+        "volume": 200,
+        "ticker": "DTV"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 37000,
+        "high": 37000,
+        "low": 36900,
+        "close": 37000,
+        "volume": 800,
+        "ticker": "DTV"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 37000,
+        "high": 38000,
+        "low": 37000,
+        "close": 38000,
+        "volume": 700,
+        "ticker": "DTV"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 38000,
+        "high": 38000,
+        "low": 38000,
+        "close": 38000,
+        "volume": 200,
+        "ticker": "DTV"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 37000,
+        "high": 38500,
+        "low": 37000,
+        "close": 38500,
+        "volume": 300,
+        "ticker": "DTV"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 38000,
+        "high": 38000,
+        "low": 38000,
+        "close": 38000,
+        "volume": 100,
+        "ticker": "DTV"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 38500,
+        "high": 38500,
+        "low": 38000,
+        "close": 38500,
+        "volume": 500,
+        "ticker": "DTV"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 39000,
+        "high": 40000,
+        "low": 39000,
+        "close": 40000,
+        "volume": 200,
+        "ticker": "DTV"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 40000,
+        "high": 40000,
+        "low": 40000,
+        "close": 40000,
+        "volume": 900,
+        "ticker": "DTV"
+    }
+]

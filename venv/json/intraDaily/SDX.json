@@ -1,0 +1,128 @@
+[
+    {
+        "time": "2023-05-05",
+        "open": 600,
+        "high": 600,
+        "low": 600,
+        "close": 600,
+        "volume": 1300,
+        "ticker": "SDX"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 700,
+        "high": 700,
+        "low": 700,
+        "close": 700,
+        "volume": 100,
+        "ticker": "SDX"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 700,
+        "high": 700,
+        "low": 700,
+        "close": 700,
+        "volume": 500,
+        "ticker": "SDX"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 800,
+        "high": 800,
+        "low": 800,
+        "close": 800,
+        "volume": 800,
+        "ticker": "SDX"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 900,
+        "high": 900,
+        "low": 900,
+        "close": 900,
+        "volume": 900,
+        "ticker": "SDX"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 1000,
+        "high": 1000,
+        "low": 1000,
+        "close": 1000,
+        "volume": 100,
+        "ticker": "SDX"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 1100,
+        "high": 1100,
+        "low": 1100,
+        "close": 1100,
+        "volume": 500,
+        "ticker": "SDX"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 1100,
+        "high": 1100,
+        "low": 1100,
+        "close": 1100,
+        "volume": 400,
+        "ticker": "SDX"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 1200,
+        "high": 1200,
+        "low": 1200,
+        "close": 1200,
+        "volume": 100,
+        "ticker": "SDX"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 1200,
+        "high": 1200,
+        "low": 1200,
+        "close": 1200,
+        "volume": 200,
+        "ticker": "SDX"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 1300,
+        "high": 1300,
+        "low": 1300,
+        "close": 1300,
+        "volume": 1000,
+        "ticker": "SDX"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 1300,
+        "high": 1400,
+        "low": 1200,
+        "close": 1400,
+        "volume": 2300,
+        "ticker": "SDX"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 1400,
+        "high": 1400,
+        "low": 1400,
+        "close": 1400,
+        "volume": 1900,
+        "ticker": "SDX"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 1600,
+        "high": 1600,
+        "low": 1600,
+        "close": 1600,
+        "volume": 100,
+        "ticker": "SDX"
+    }
+]

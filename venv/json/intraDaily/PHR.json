@@ -1,0 +1,1289 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 39830,
+        "high": 40270,
+        "low": 39450,
+        "close": 39450,
+        "volume": 474000,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 39350,
+        "high": 39690,
+        "low": 39300,
+        "close": 39350,
+        "volume": 181600,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 39400,
+        "high": 40270,
+        "low": 39400,
+        "close": 40120,
+        "volume": 481200,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 40510,
+        "high": 40790,
+        "low": 40120,
+        "close": 40360,
+        "volume": 391000,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 40310,
+        "high": 40890,
+        "low": 40270,
+        "close": 40600,
+        "volume": 521500,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 40890,
+        "high": 40940,
+        "low": 40310,
+        "close": 40310,
+        "volume": 334600,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 40360,
+        "high": 40840,
+        "low": 40070,
+        "close": 40600,
+        "volume": 413600,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 40790,
+        "high": 40990,
+        "low": 40220,
+        "close": 40220,
+        "volume": 466800,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 40120,
+        "high": 40270,
+        "low": 39780,
+        "close": 39930,
+        "volume": 243200,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 40070,
+        "high": 40600,
+        "low": 39740,
+        "close": 40220,
+        "volume": 386700,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 40220,
+        "high": 40270,
+        "low": 39930,
+        "close": 40120,
+        "volume": 171500,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 39930,
+        "high": 41800,
+        "low": 39930,
+        "close": 41660,
+        "volume": 1158300,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 41660,
+        "high": 42140,
+        "low": 41470,
+        "close": 41560,
+        "volume": 554600,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 41800,
+        "high": 42570,
+        "low": 41560,
+        "close": 41800,
+        "volume": 661900,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 42240,
+        "high": 42960,
+        "low": 41470,
+        "close": 41850,
+        "volume": 576300,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 43300,
+        "high": 44550,
+        "low": 42290,
+        "close": 44110,
+        "volume": 1796100,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 44260,
+        "high": 45080,
+        "low": 44070,
+        "close": 44260,
+        "volume": 913500,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 44310,
+        "high": 45030,
+        "low": 44020,
+        "close": 44260,
+        "volume": 885500,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 44400,
+        "high": 44880,
+        "low": 43630,
+        "close": 44070,
+        "volume": 853100,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 44260,
+        "high": 46130,
+        "low": 44070,
+        "close": 45700,
+        "volume": 1214300,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 45700,
+        "high": 45940,
+        "low": 45270,
+        "close": 45700,
+        "volume": 372900,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 45750,
+        "high": 45890,
+        "low": 44880,
+        "close": 45080,
+        "volume": 717400,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 45410,
+        "high": 45560,
+        "low": 44880,
+        "close": 44880,
+        "volume": 493600,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 44880,
+        "high": 45460,
+        "low": 44350,
+        "close": 45220,
+        "volume": 753400,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 45510,
+        "high": 45890,
+        "low": 45030,
+        "close": 45800,
+        "volume": 1007700,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 45890,
+        "high": 47340,
+        "low": 44350,
+        "close": 44350,
+        "volume": 983100,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 44840,
+        "high": 45120,
+        "low": 43730,
+        "close": 44450,
+        "volume": 715900,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 44310,
+        "high": 44930,
+        "low": 43830,
+        "close": 44450,
+        "volume": 489000,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 44840,
+        "high": 44840,
+        "low": 44160,
+        "close": 44590,
+        "volume": 582700,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 44740,
+        "high": 45030,
+        "low": 44260,
+        "close": 44310,
+        "volume": 271700,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 44550,
+        "high": 44550,
+        "low": 44020,
+        "close": 44260,
+        "volume": 371300,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 44350,
+        "high": 45890,
+        "low": 44350,
+        "close": 44450,
+        "volume": 795700,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 44550,
+        "high": 44640,
+        "low": 44020,
+        "close": 44160,
+        "volume": 441700,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 44310,
+        "high": 45510,
+        "low": 44070,
+        "close": 45120,
+        "volume": 509400,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 45560,
+        "high": 46570,
+        "low": 45170,
+        "close": 46130,
+        "volume": 1616800,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 46860,
+        "high": 46860,
+        "low": 45940,
+        "close": 46180,
+        "volume": 1053200,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 46090,
+        "high": 46470,
+        "low": 45270,
+        "close": 45360,
+        "volume": 929100,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 45700,
+        "high": 46180,
+        "low": 44550,
+        "close": 45890,
+        "volume": 826900,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 46180,
+        "high": 46230,
+        "low": 45460,
+        "close": 45650,
+        "volume": 468500,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 45700,
+        "high": 46090,
+        "low": 45460,
+        "close": 45940,
+        "volume": 560500,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 45940,
+        "high": 46090,
+        "low": 44790,
+        "close": 44790,
+        "volume": 658000,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 44740,
+        "high": 45170,
+        "low": 44640,
+        "close": 44640,
+        "volume": 422600,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 44690,
+        "high": 45610,
+        "low": 44690,
+        "close": 45610,
+        "volume": 522600,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 45890,
+        "high": 47100,
+        "low": 45170,
+        "close": 46570,
+        "volume": 851000,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 46860,
+        "high": 47960,
+        "low": 46620,
+        "close": 47630,
+        "volume": 1003800,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 46950,
+        "high": 47960,
+        "low": 46950,
+        "close": 47480,
+        "volume": 719500,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 47140,
+        "high": 49740,
+        "low": 47140,
+        "close": 49070,
+        "volume": 846100,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 49070,
+        "high": 49450,
+        "low": 48880,
+        "close": 49070,
+        "volume": 504600,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 49170,
+        "high": 49930,
+        "low": 48680,
+        "close": 48880,
+        "volume": 631800,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 49650,
+        "high": 50700,
+        "low": 49070,
+        "close": 49170,
+        "volume": 599400,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 49450,
+        "high": 49740,
+        "low": 49070,
+        "close": 49360,
+        "volume": 411800,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 49550,
+        "high": 49550,
+        "low": 48590,
+        "close": 49360,
+        "volume": 587300,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 49450,
+        "high": 50800,
+        "low": 49170,
+        "close": 49930,
+        "volume": 695600,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 50130,
+        "high": 50130,
+        "low": 49170,
+        "close": 49360,
+        "volume": 502900,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 49650,
+        "high": 50320,
+        "low": 49260,
+        "close": 49360,
+        "volume": 544800,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 49070,
+        "high": 49550,
+        "low": 48300,
+        "close": 49070,
+        "volume": 786200,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 49450,
+        "high": 49550,
+        "low": 48590,
+        "close": 49260,
+        "volume": 359900,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 49360,
+        "high": 50510,
+        "low": 49360,
+        "close": 50130,
+        "volume": 712500,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 50030,
+        "high": 50220,
+        "low": 49450,
+        "close": 49550,
+        "volume": 358000,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 49740,
+        "high": 50030,
+        "low": 49170,
+        "close": 50030,
+        "volume": 340400,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 50320,
+        "high": 50800,
+        "low": 49260,
+        "close": 50800,
+        "volume": 588600,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 50610,
+        "high": 51380,
+        "low": 50320,
+        "close": 50510,
+        "volume": 387200,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 50610,
+        "high": 50900,
+        "low": 49740,
+        "close": 50220,
+        "volume": 322200,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 50220,
+        "high": 51670,
+        "low": 49840,
+        "close": 50510,
+        "volume": 964400,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 50510,
+        "high": 50990,
+        "low": 50030,
+        "close": 50610,
+        "volume": 241900,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 50900,
+        "high": 51470,
+        "low": 50030,
+        "close": 50320,
+        "volume": 520000,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 50220,
+        "high": 50510,
+        "low": 49740,
+        "close": 50510,
+        "volume": 532300,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 50990,
+        "high": 51570,
+        "low": 50510,
+        "close": 50900,
+        "volume": 722800,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 50900,
+        "high": 51090,
+        "low": 50220,
+        "close": 50420,
+        "volume": 443500,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 50320,
+        "high": 50420,
+        "low": 49170,
+        "close": 49170,
+        "volume": 556900,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 49170,
+        "high": 49550,
+        "low": 47630,
+        "close": 48590,
+        "volume": 745600,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 48590,
+        "high": 48780,
+        "low": 47720,
+        "close": 48780,
+        "volume": 372400,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 48970,
+        "high": 49260,
+        "low": 48490,
+        "close": 48880,
+        "volume": 417200,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 49070,
+        "high": 49260,
+        "low": 48590,
+        "close": 48780,
+        "volume": 302800,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 48780,
+        "high": 49360,
+        "low": 48590,
+        "close": 49360,
+        "volume": 371900,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-08-17",
+        "open": 49450,
+        "high": 49550,
+        "low": 48680,
+        "close": 48970,
+        "volume": 268400,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 48680,
+        "high": 48680,
+        "low": 45410,
+        "close": 45410,
+        "volume": 1302000,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 44930,
+        "high": 45890,
+        "low": 44640,
+        "close": 45220,
+        "volume": 416500,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 45360,
+        "high": 46180,
+        "low": 44740,
+        "close": 46090,
+        "volume": 555300,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 46760,
+        "high": 46760,
+        "low": 45800,
+        "close": 46040,
+        "volume": 170300,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 46130,
+        "high": 46520,
+        "low": 45990,
+        "close": 46520,
+        "volume": 298000,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 46660,
+        "high": 46900,
+        "low": 46130,
+        "close": 46280,
+        "volume": 393500,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 46420,
+        "high": 47140,
+        "low": 46330,
+        "close": 47140,
+        "volume": 327900,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 47290,
+        "high": 47820,
+        "low": 47140,
+        "close": 47530,
+        "volume": 355800,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 47530,
+        "high": 48490,
+        "low": 47140,
+        "close": 48400,
+        "volume": 455300,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 48590,
+        "high": 49360,
+        "low": 48490,
+        "close": 48970,
+        "volume": 389400,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 49260,
+        "high": 49840,
+        "low": 49070,
+        "close": 49170,
+        "volume": 400600,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 49550,
+        "high": 49550,
+        "low": 48590,
+        "close": 49360,
+        "volume": 405100,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 49650,
+        "high": 50220,
+        "low": 49550,
+        "close": 49550,
+        "volume": 544400,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 50000,
+        "high": 50900,
+        "low": 49750,
+        "close": 50000,
+        "volume": 450000,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 50000,
+        "high": 50500,
+        "low": 48700,
+        "close": 48700,
+        "volume": 547900,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 48800,
+        "high": 49750,
+        "low": 48250,
+        "close": 49200,
+        "volume": 344800,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 49800,
+        "high": 49950,
+        "low": 49050,
+        "close": 49250,
+        "volume": 310200,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 49250,
+        "high": 49550,
+        "low": 48700,
+        "close": 48850,
+        "volume": 477600,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 48750,
+        "high": 49950,
+        "low": 48750,
+        "close": 49700,
+        "volume": 475800,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 49800,
+        "high": 51100,
+        "low": 49700,
+        "close": 50200,
+        "volume": 552100,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 50200,
+        "high": 50300,
+        "low": 49000,
+        "close": 49900,
+        "volume": 299900,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 49900,
+        "high": 53200,
+        "low": 49650,
+        "close": 53200,
+        "volume": 1439700,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 53200,
+        "high": 53600,
+        "low": 52500,
+        "close": 52700,
+        "volume": 537900,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 52000,
+        "high": 52500,
+        "low": 50300,
+        "close": 51000,
+        "volume": 872500,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 50600,
+        "high": 51800,
+        "low": 47450,
+        "close": 47500,
+        "volume": 937000,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 47500,
+        "high": 48600,
+        "low": 46700,
+        "close": 46700,
+        "volume": 553100,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 46700,
+        "high": 48000,
+        "low": 46100,
+        "close": 48000,
+        "volume": 476700,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 48000,
+        "high": 48400,
+        "low": 47300,
+        "close": 47700,
+        "volume": 243200,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 48500,
+        "high": 48500,
+        "low": 47300,
+        "close": 47400,
+        "volume": 304700,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 47400,
+        "high": 48400,
+        "low": 47050,
+        "close": 48000,
+        "volume": 136400,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 47100,
+        "high": 47800,
+        "low": 46200,
+        "close": 46600,
+        "volume": 410400,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 46000,
+        "high": 47700,
+        "low": 46000,
+        "close": 47100,
+        "volume": 239600,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 47500,
+        "high": 48850,
+        "low": 47000,
+        "close": 47650,
+        "volume": 445800,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 47300,
+        "high": 48550,
+        "low": 47100,
+        "close": 48550,
+        "volume": 187200,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 48500,
+        "high": 48800,
+        "low": 48250,
+        "close": 48450,
+        "volume": 286000,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 48950,
+        "high": 48950,
+        "low": 48500,
+        "close": 48500,
+        "volume": 334800,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 48700,
+        "high": 49800,
+        "low": 48450,
+        "close": 49500,
+        "volume": 326700,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 49850,
+        "high": 50600,
+        "low": 49400,
+        "close": 49400,
+        "volume": 380300,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 49200,
+        "high": 50800,
+        "low": 49150,
+        "close": 50800,
+        "volume": 537100,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 51500,
+        "high": 52300,
+        "low": 50900,
+        "close": 51100,
+        "volume": 679000,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 51300,
+        "high": 51900,
+        "low": 49000,
+        "close": 49000,
+        "volume": 561300,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 49900,
+        "high": 49900,
+        "low": 46400,
+        "close": 47900,
+        "volume": 663100,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 48000,
+        "high": 48000,
+        "low": 46750,
+        "close": 46800,
+        "volume": 345500,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 46500,
+        "high": 47600,
+        "low": 45500,
+        "close": 47600,
+        "volume": 460400,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 47600,
+        "high": 47900,
+        "low": 46650,
+        "close": 46850,
+        "volume": 190100,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 46950,
+        "high": 48400,
+        "low": 46950,
+        "close": 48050,
+        "volume": 359600,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 48100,
+        "high": 48500,
+        "low": 48000,
+        "close": 48400,
+        "volume": 208300,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 47500,
+        "high": 47850,
+        "low": 45050,
+        "close": 45250,
+        "volume": 765900,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 45800,
+        "high": 45800,
+        "low": 43600,
+        "close": 44850,
+        "volume": 319300,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 44850,
+        "high": 45400,
+        "low": 44000,
+        "close": 44000,
+        "volume": 297400,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 44000,
+        "high": 44050,
+        "low": 41800,
+        "close": 41800,
+        "volume": 462400,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 42100,
+        "high": 43050,
+        "low": 41800,
+        "close": 43050,
+        "volume": 234100,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 43500,
+        "high": 45500,
+        "low": 43500,
+        "close": 45000,
+        "volume": 374200,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 45500,
+        "high": 45500,
+        "low": 44400,
+        "close": 44800,
+        "volume": 181100,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 44900,
+        "high": 45300,
+        "low": 44350,
+        "close": 44700,
+        "volume": 258400,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 44700,
+        "high": 45500,
+        "low": 44600,
+        "close": 44650,
+        "volume": 208600,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 44700,
+        "high": 46450,
+        "low": 44700,
+        "close": 46400,
+        "volume": 320600,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 46500,
+        "high": 47350,
+        "low": 46500,
+        "close": 46950,
+        "volume": 403300,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 46700,
+        "high": 47300,
+        "low": 46200,
+        "close": 46200,
+        "volume": 279000,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 46500,
+        "high": 46500,
+        "low": 46000,
+        "close": 46100,
+        "volume": 229700,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 46200,
+        "high": 46900,
+        "low": 46200,
+        "close": 46450,
+        "volume": 139000,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 48800,
+        "high": 48800,
+        "low": 46600,
+        "close": 46950,
+        "volume": 395100,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 46950,
+        "high": 47100,
+        "low": 46500,
+        "close": 47100,
+        "volume": 120200,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 47200,
+        "high": 48100,
+        "low": 46050,
+        "close": 46500,
+        "volume": 367600,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 45350,
+        "high": 47500,
+        "low": 45350,
+        "close": 47100,
+        "volume": 373200,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 47500,
+        "high": 47500,
+        "low": 46800,
+        "close": 47050,
+        "volume": 184500,
+        "ticker": "PHR"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 47450,
+        "high": 47500,
+        "low": 46800,
+        "close": 47150,
+        "volume": 258300,
+        "ticker": "PHR"
+    }
+]

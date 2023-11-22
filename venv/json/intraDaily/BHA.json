@@ -1,0 +1,488 @@
+[
+    {
+        "time": "2023-05-08",
+        "open": 14330,
+        "high": 14330,
+        "low": 14330,
+        "close": 14330,
+        "volume": 2000,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 14330,
+        "high": 14330,
+        "low": 14330,
+        "close": 14330,
+        "volume": 100,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 12320,
+        "high": 13380,
+        "low": 12230,
+        "close": 13380,
+        "volume": 8900,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 14330,
+        "high": 14330,
+        "low": 14330,
+        "close": 14330,
+        "volume": 100,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 13380,
+        "high": 13860,
+        "low": 13380,
+        "close": 13860,
+        "volume": 2300,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 13860,
+        "high": 14330,
+        "low": 13860,
+        "close": 14330,
+        "volume": 2900,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 14040,
+        "high": 14040,
+        "low": 14040,
+        "close": 14040,
+        "volume": 200,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 12420,
+        "high": 12900,
+        "low": 12420,
+        "close": 12900,
+        "volume": 40000,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 13660,
+        "high": 13660,
+        "low": 13660,
+        "close": 13660,
+        "volume": 20000,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 12700,
+        "high": 12700,
+        "low": 12700,
+        "close": 12700,
+        "volume": 100,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 12700,
+        "high": 12700,
+        "low": 12700,
+        "close": 12700,
+        "volume": 1000,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 13860,
+        "high": 14330,
+        "low": 13860,
+        "close": 14330,
+        "volume": 1600,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 12520,
+        "high": 12610,
+        "low": 12520,
+        "close": 12610,
+        "volume": 8500,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 12900,
+        "high": 12900,
+        "low": 12700,
+        "close": 12700,
+        "volume": 9500,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 14330,
+        "high": 14330,
+        "low": 14330,
+        "close": 14330,
+        "volume": 9700,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 14330,
+        "high": 14330,
+        "low": 14330,
+        "close": 14330,
+        "volume": 500,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 14330,
+        "high": 14800,
+        "low": 14330,
+        "close": 14800,
+        "volume": 700,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 14420,
+        "high": 14800,
+        "low": 14420,
+        "close": 14800,
+        "volume": 1400,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 14330,
+        "high": 14800,
+        "low": 14330,
+        "close": 14800,
+        "volume": 7800,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 14800,
+        "high": 14800,
+        "low": 14800,
+        "close": 14800,
+        "volume": 1000,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 14800,
+        "high": 14800,
+        "low": 14800,
+        "close": 14800,
+        "volume": 2400,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 14800,
+        "high": 14800,
+        "low": 14800,
+        "close": 14800,
+        "volume": 5000,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 14720,
+        "high": 14720,
+        "low": 14720,
+        "close": 14720,
+        "volume": 200,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 14720,
+        "high": 14800,
+        "low": 14720,
+        "close": 14800,
+        "volume": 3500,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 14720,
+        "high": 14720,
+        "low": 14720,
+        "close": 14720,
+        "volume": 2000,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 14900,
+        "high": 14900,
+        "low": 14720,
+        "close": 14720,
+        "volume": 22100,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 14620,
+        "high": 14620,
+        "low": 14620,
+        "close": 14620,
+        "volume": 3000,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 14520,
+        "high": 14520,
+        "low": 14520,
+        "close": 14520,
+        "volume": 100,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 14520,
+        "high": 14520,
+        "low": 14520,
+        "close": 14520,
+        "volume": 100,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 14520,
+        "high": 14520,
+        "low": 14520,
+        "close": 14520,
+        "volume": 900,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 14720,
+        "high": 14800,
+        "low": 14720,
+        "close": 14800,
+        "volume": 500,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 17000,
+        "high": 17000,
+        "low": 15280,
+        "close": 15280,
+        "volume": 3100,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 14520,
+        "high": 14520,
+        "low": 14520,
+        "close": 14520,
+        "volume": 1000,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 14900,
+        "high": 14900,
+        "low": 14900,
+        "close": 14900,
+        "volume": 900,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 14900,
+        "high": 14900,
+        "low": 14900,
+        "close": 14900,
+        "volume": 1000,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 14520,
+        "high": 16239,
+        "low": 14520,
+        "close": 16239,
+        "volume": 1500,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 15100,
+        "high": 15100,
+        "low": 15100,
+        "close": 15100,
+        "volume": 400,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 14900,
+        "high": 14900,
+        "low": 14900,
+        "close": 14900,
+        "volume": 1000,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 14620,
+        "high": 14620,
+        "low": 14520,
+        "close": 14520,
+        "volume": 4000,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 14520,
+        "high": 14520,
+        "low": 14520,
+        "close": 14520,
+        "volume": 1000,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 14520,
+        "high": 14520,
+        "low": 14520,
+        "close": 14520,
+        "volume": 800,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 14520,
+        "high": 14520,
+        "low": 14520,
+        "close": 14520,
+        "volume": 2300,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 14570,
+        "high": 14570,
+        "low": 14570,
+        "close": 14570,
+        "volume": 2000,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 14670,
+        "high": 16129,
+        "low": 14670,
+        "close": 16129,
+        "volume": 800,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 16620,
+        "high": 16620,
+        "low": 16620,
+        "close": 16620,
+        "volume": 100,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 17010,
+        "high": 17010,
+        "low": 17010,
+        "close": 17010,
+        "volume": 100,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 17600,
+        "high": 17600,
+        "low": 17600,
+        "close": 17600,
+        "volume": 200,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 15740,
+        "high": 15740,
+        "low": 15060,
+        "close": 15060,
+        "volume": 9900,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 15160,
+        "high": 15160,
+        "low": 15160,
+        "close": 15160,
+        "volume": 700,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 13980,
+        "high": 14180,
+        "low": 13980,
+        "close": 14080,
+        "volume": 9300,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 13690,
+        "high": 13690,
+        "low": 12220,
+        "close": 12220,
+        "volume": 5000,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 15450,
+        "high": 15450,
+        "low": 15450,
+        "close": 15450,
+        "volume": 300,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 13690,
+        "high": 13690,
+        "low": 13690,
+        "close": 13690,
+        "volume": 500,
+        "ticker": "BHA"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 14670,
+        "high": 15650,
+        "low": 14670,
+        "close": 15650,
+        "volume": 500,
+        "ticker": "BHA"
+    }
+]

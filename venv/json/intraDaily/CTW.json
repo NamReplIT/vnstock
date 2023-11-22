@@ -1,0 +1,317 @@
+[
+    {
+        "time": "2023-05-08",
+        "open": 17350,
+        "high": 17450,
+        "low": 17350,
+        "close": 17450,
+        "volume": 300,
+        "ticker": "CTW"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 17450,
+        "high": 17450,
+        "low": 17450,
+        "close": 17450,
+        "volume": 100,
+        "ticker": "CTW"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 17450,
+        "high": 19860,
+        "low": 17450,
+        "close": 19860,
+        "volume": 300,
+        "ticker": "CTW"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 20150,
+        "high": 20150,
+        "low": 20150,
+        "close": 20150,
+        "volume": 100,
+        "ticker": "CTW"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 18700,
+        "high": 18700,
+        "low": 18700,
+        "close": 18700,
+        "volume": 100,
+        "ticker": "CTW"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 19570,
+        "high": 19570,
+        "low": 19570,
+        "close": 19570,
+        "volume": 100,
+        "ticker": "CTW"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 21500,
+        "high": 21500,
+        "low": 21500,
+        "close": 21500,
+        "volume": 200,
+        "ticker": "CTW"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 22560,
+        "high": 22560,
+        "low": 19280,
+        "close": 22370,
+        "volume": 700,
+        "ticker": "CTW"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 18800,
+        "high": 18800,
+        "low": 18800,
+        "close": 18800,
+        "volume": 100,
+        "ticker": "CTW"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 21020,
+        "high": 21020,
+        "low": 20250,
+        "close": 20250,
+        "volume": 2400,
+        "ticker": "CTW"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 21600,
+        "high": 21600,
+        "low": 21600,
+        "close": 21600,
+        "volume": 200,
+        "ticker": "CTW"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 19000,
+        "high": 19000,
+        "low": 18500,
+        "close": 18500,
+        "volume": 400,
+        "ticker": "CTW"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 16800,
+        "high": 16800,
+        "low": 16800,
+        "close": 16800,
+        "volume": 1600,
+        "ticker": "CTW"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 14800,
+        "high": 18300,
+        "low": 14800,
+        "close": 18300,
+        "volume": 2000,
+        "ticker": "CTW"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 17200,
+        "high": 17200,
+        "low": 17200,
+        "close": 17200,
+        "volume": 400,
+        "ticker": "CTW"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 15700,
+        "high": 15700,
+        "low": 15700,
+        "close": 15700,
+        "volume": 2000,
+        "ticker": "CTW"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 18000,
+        "high": 18000,
+        "low": 18000,
+        "close": 18000,
+        "volume": 100,
+        "ticker": "CTW"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 16200,
+        "high": 16200,
+        "low": 16200,
+        "close": 16200,
+        "volume": 300,
+        "ticker": "CTW"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 16300,
+        "high": 16300,
+        "low": 16300,
+        "close": 16300,
+        "volume": 500,
+        "ticker": "CTW"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 16300,
+        "high": 16800,
+        "low": 16300,
+        "close": 16800,
+        "volume": 1700,
+        "ticker": "CTW"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 16600,
+        "high": 16600,
+        "low": 16600,
+        "close": 16600,
+        "volume": 200,
+        "ticker": "CTW"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 16600,
+        "high": 16600,
+        "low": 16600,
+        "close": 16600,
+        "volume": 200,
+        "ticker": "CTW"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 16700,
+        "high": 16700,
+        "low": 16700,
+        "close": 16700,
+        "volume": 900,
+        "ticker": "CTW"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 16700,
+        "high": 16700,
+        "low": 16700,
+        "close": 16700,
+        "volume": 200,
+        "ticker": "CTW"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 16900,
+        "high": 17000,
+        "low": 16900,
+        "close": 17000,
+        "volume": 1000,
+        "ticker": "CTW"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 17000,
+        "high": 17000,
+        "low": 16900,
+        "close": 16900,
+        "volume": 300,
+        "ticker": "CTW"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 17000,
+        "high": 17000,
+        "low": 17000,
+        "close": 17000,
+        "volume": 100,
+        "ticker": "CTW"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 17000,
+        "high": 17000,
+        "low": 17000,
+        "close": 17000,
+        "volume": 200,
+        "ticker": "CTW"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 17000,
+        "high": 17000,
+        "low": 17000,
+        "close": 17000,
+        "volume": 200,
+        "ticker": "CTW"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 17000,
+        "high": 17000,
+        "low": 17000,
+        "close": 17000,
+        "volume": 200,
+        "ticker": "CTW"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 17000,
+        "high": 17000,
+        "low": 17000,
+        "close": 17000,
+        "volume": 200,
+        "ticker": "CTW"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 17000,
+        "high": 17000,
+        "low": 17000,
+        "close": 17000,
+        "volume": 200,
+        "ticker": "CTW"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 17000,
+        "high": 17000,
+        "low": 17000,
+        "close": 17000,
+        "volume": 400,
+        "ticker": "CTW"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 16000,
+        "high": 16000,
+        "low": 16000,
+        "close": 16000,
+        "volume": 800,
+        "ticker": "CTW"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 16000,
+        "high": 16000,
+        "low": 16000,
+        "close": 16000,
+        "volume": 100,
+        "ticker": "CTW"
+    }
+]

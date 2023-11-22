@@ -1,0 +1,452 @@
+[
+    {
+        "time": "2023-09-08T09:00:00+07:00",
+        "open": 600,
+        "high": 700,
+        "low": 600,
+        "close": 600,
+        "volume": 186600,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-09-08T10:00:00+07:00",
+        "open": 700,
+        "high": 700,
+        "low": 600,
+        "close": 600,
+        "volume": 19900,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-09-08T11:00:00+07:00",
+        "open": 600,
+        "high": 600,
+        "low": 600,
+        "close": 600,
+        "volume": 7900,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-09-08T13:00:00+07:00",
+        "open": 600,
+        "high": 700,
+        "low": 600,
+        "close": 600,
+        "volume": 35500,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-09-08T14:00:00+07:00",
+        "open": 600,
+        "high": 600,
+        "low": 600,
+        "close": 600,
+        "volume": 18700,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-09-15T09:00:00+07:00",
+        "open": 600,
+        "high": 600,
+        "low": 500,
+        "close": 600,
+        "volume": 26500,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-09-15T10:00:00+07:00",
+        "open": 600,
+        "high": 600,
+        "low": 600,
+        "close": 600,
+        "volume": 9000,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-09-15T13:00:00+07:00",
+        "open": 500,
+        "high": 600,
+        "low": 500,
+        "close": 600,
+        "volume": 398000,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-09-15T14:00:00+07:00",
+        "open": 600,
+        "high": 600,
+        "low": 600,
+        "close": 600,
+        "volume": 300,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-09-22T09:00:00+07:00",
+        "open": 500,
+        "high": 600,
+        "low": 500,
+        "close": 600,
+        "volume": 28300,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-09-22T10:00:00+07:00",
+        "open": 600,
+        "high": 600,
+        "low": 500,
+        "close": 500,
+        "volume": 72100,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-09-22T11:00:00+07:00",
+        "open": 500,
+        "high": 500,
+        "low": 500,
+        "close": 500,
+        "volume": 100500,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-09-22T13:00:00+07:00",
+        "open": 500,
+        "high": 500,
+        "low": 500,
+        "close": 500,
+        "volume": 3200,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-09-22T14:00:00+07:00",
+        "open": 500,
+        "high": 500,
+        "low": 500,
+        "close": 500,
+        "volume": 11400,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-09-29T09:00:00+07:00",
+        "open": 500,
+        "high": 600,
+        "low": 500,
+        "close": 600,
+        "volume": 53300,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-09-29T10:00:00+07:00",
+        "open": 600,
+        "high": 600,
+        "low": 500,
+        "close": 500,
+        "volume": 300100,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-09-29T11:00:00+07:00",
+        "open": 500,
+        "high": 500,
+        "low": 500,
+        "close": 500,
+        "volume": 300,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-09-29T13:00:00+07:00",
+        "open": 500,
+        "high": 600,
+        "low": 500,
+        "close": 600,
+        "volume": 2300,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-09-29T14:00:00+07:00",
+        "open": 500,
+        "high": 600,
+        "low": 500,
+        "close": 600,
+        "volume": 6100,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-10-06T09:00:00+07:00",
+        "open": 500,
+        "high": 500,
+        "low": 500,
+        "close": 500,
+        "volume": 14600,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-10-06T10:00:00+07:00",
+        "open": 500,
+        "high": 500,
+        "low": 500,
+        "close": 500,
+        "volume": 1500,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-10-06T11:00:00+07:00",
+        "open": 500,
+        "high": 500,
+        "low": 500,
+        "close": 500,
+        "volume": 9200,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-10-06T13:00:00+07:00",
+        "open": 500,
+        "high": 500,
+        "low": 500,
+        "close": 500,
+        "volume": 4500,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-10-06T14:00:00+07:00",
+        "open": 600,
+        "high": 600,
+        "low": 500,
+        "close": 500,
+        "volume": 23300,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-10-13T09:00:00+07:00",
+        "open": 500,
+        "high": 600,
+        "low": 500,
+        "close": 600,
+        "volume": 37300,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-10-13T10:00:00+07:00",
+        "open": 500,
+        "high": 500,
+        "low": 500,
+        "close": 500,
+        "volume": 300,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-10-13T13:00:00+07:00",
+        "open": 500,
+        "high": 600,
+        "low": 500,
+        "close": 600,
+        "volume": 2200,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-10-13T14:00:00+07:00",
+        "open": 600,
+        "high": 600,
+        "low": 500,
+        "close": 600,
+        "volume": 1200,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-10-20T09:00:00+07:00",
+        "open": 500,
+        "high": 500,
+        "low": 500,
+        "close": 500,
+        "volume": 56700,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-10-20T10:00:00+07:00",
+        "open": 400,
+        "high": 500,
+        "low": 400,
+        "close": 500,
+        "volume": 200,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-10-20T13:00:00+07:00",
+        "open": 500,
+        "high": 500,
+        "low": 500,
+        "close": 500,
+        "volume": 4200,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-10-20T14:00:00+07:00",
+        "open": 500,
+        "high": 500,
+        "low": 500,
+        "close": 500,
+        "volume": 80000,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-10-27T09:00:00+07:00",
+        "open": 500,
+        "high": 500,
+        "low": 500,
+        "close": 500,
+        "volume": 52800,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-10-27T10:00:00+07:00",
+        "open": 500,
+        "high": 500,
+        "low": 500,
+        "close": 500,
+        "volume": 500,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-10-27T13:00:00+07:00",
+        "open": 500,
+        "high": 500,
+        "low": 500,
+        "close": 500,
+        "volume": 39600,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-10-27T14:00:00+07:00",
+        "open": 500,
+        "high": 500,
+        "low": 500,
+        "close": 500,
+        "volume": 5300,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-11-03T09:00:00+07:00",
+        "open": 500,
+        "high": 500,
+        "low": 500,
+        "close": 500,
+        "volume": 63600,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-11-03T10:00:00+07:00",
+        "open": 500,
+        "high": 500,
+        "low": 500,
+        "close": 500,
+        "volume": 13500,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-11-03T13:00:00+07:00",
+        "open": 500,
+        "high": 500,
+        "low": 500,
+        "close": 500,
+        "volume": 26800,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-11-03T14:00:00+07:00",
+        "open": 500,
+        "high": 500,
+        "low": 500,
+        "close": 500,
+        "volume": 13600,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-11-10T09:00:00+07:00",
+        "open": 500,
+        "high": 500,
+        "low": 500,
+        "close": 500,
+        "volume": 89600,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-11-10T10:00:00+07:00",
+        "open": 500,
+        "high": 500,
+        "low": 500,
+        "close": 500,
+        "volume": 57000,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-11-10T11:00:00+07:00",
+        "open": 600,
+        "high": 600,
+        "low": 500,
+        "close": 500,
+        "volume": 1300,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-11-10T13:00:00+07:00",
+        "open": 500,
+        "high": 600,
+        "low": 500,
+        "close": 600,
+        "volume": 42100,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-11-10T14:00:00+07:00",
+        "open": 600,
+        "high": 600,
+        "low": 500,
+        "close": 600,
+        "volume": 121100,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-11-17T09:00:00+07:00",
+        "open": 600,
+        "high": 600,
+        "low": 500,
+        "close": 500,
+        "volume": 81000,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-11-17T10:00:00+07:00",
+        "open": 500,
+        "high": 500,
+        "low": 400,
+        "close": 500,
+        "volume": 93600,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-11-17T11:00:00+07:00",
+        "open": 500,
+        "high": 500,
+        "low": 500,
+        "close": 500,
+        "volume": 500,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-11-17T13:00:00+07:00",
+        "open": 500,
+        "high": 500,
+        "low": 500,
+        "close": 500,
+        "volume": 79500,
+        "ticker": "NHP"
+    },
+    {
+        "time": "2023-11-17T14:00:00+07:00",
+        "open": 500,
+        "high": 600,
+        "low": 500,
+        "close": 600,
+        "volume": 10600,
+        "ticker": "NHP"
+    }
+]

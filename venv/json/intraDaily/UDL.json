@@ -1,0 +1,83 @@
+[
+    {
+        "time": "2023-06-06",
+        "open": 10700,
+        "high": 10700,
+        "low": 10700,
+        "close": 10700,
+        "volume": 200,
+        "ticker": "UDL"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 12310,
+        "high": 12310,
+        "low": 12310,
+        "close": 12310,
+        "volume": 100,
+        "ticker": "UDL"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 10700,
+        "high": 10700,
+        "low": 10700,
+        "close": 10700,
+        "volume": 2100,
+        "ticker": "UDL"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 12310,
+        "high": 12310,
+        "low": 12310,
+        "close": 12310,
+        "volume": 300,
+        "ticker": "UDL"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 11150,
+        "high": 11150,
+        "low": 11150,
+        "close": 11150,
+        "volume": 900,
+        "ticker": "UDL"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 11500,
+        "high": 11500,
+        "low": 11500,
+        "close": 11500,
+        "volume": 100,
+        "ticker": "UDL"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 11500,
+        "high": 11500,
+        "low": 11500,
+        "close": 11500,
+        "volume": 100,
+        "ticker": "UDL"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 12000,
+        "high": 12000,
+        "low": 12000,
+        "close": 12000,
+        "volume": 4200,
+        "ticker": "UDL"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 12000,
+        "high": 12000,
+        "low": 12000,
+        "close": 12000,
+        "volume": 1100,
+        "ticker": "UDL"
+    }
+]

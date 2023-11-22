@@ -1,0 +1,326 @@
+[
+    {
+        "time": "2023-05-11",
+        "open": 22200,
+        "high": 22200,
+        "low": 22200,
+        "close": 22200,
+        "volume": 700,
+        "ticker": "DNL"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 22000,
+        "high": 22000,
+        "low": 22000,
+        "close": 22000,
+        "volume": 200000,
+        "ticker": "DNL"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 22000,
+        "high": 22000,
+        "low": 22000,
+        "close": 22000,
+        "volume": 1900,
+        "ticker": "DNL"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 24000,
+        "high": 24000,
+        "low": 24000,
+        "close": 24000,
+        "volume": 5000,
+        "ticker": "DNL"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 24000,
+        "high": 24000,
+        "low": 24000,
+        "close": 24000,
+        "volume": 20400,
+        "ticker": "DNL"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 24500,
+        "high": 24500,
+        "low": 24000,
+        "close": 24000,
+        "volume": 1200,
+        "ticker": "DNL"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 28000,
+        "high": 28000,
+        "low": 28000,
+        "close": 28000,
+        "volume": 105600,
+        "ticker": "DNL"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 31500,
+        "high": 31900,
+        "low": 31500,
+        "close": 31900,
+        "volume": 146300,
+        "ticker": "DNL"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 31800,
+        "high": 31800,
+        "low": 31800,
+        "close": 31800,
+        "volume": 80900,
+        "ticker": "DNL"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 27100,
+        "high": 27100,
+        "low": 27100,
+        "close": 27100,
+        "volume": 100,
+        "ticker": "DNL"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 23100,
+        "high": 23100,
+        "low": 23100,
+        "close": 23100,
+        "volume": 100,
+        "ticker": "DNL"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 20300,
+        "high": 20300,
+        "low": 20300,
+        "close": 20300,
+        "volume": 100,
+        "ticker": "DNL"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 23300,
+        "high": 23300,
+        "low": 20600,
+        "close": 20600,
+        "volume": 200,
+        "ticker": "DNL"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 20200,
+        "high": 20200,
+        "low": 20200,
+        "close": 20200,
+        "volume": 100,
+        "ticker": "DNL"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 18600,
+        "high": 18600,
+        "low": 18600,
+        "close": 18600,
+        "volume": 100,
+        "ticker": "DNL"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 21300,
+        "high": 21300,
+        "low": 21300,
+        "close": 21300,
+        "volume": 336000,
+        "ticker": "DNL"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 24400,
+        "high": 24400,
+        "low": 24400,
+        "close": 24400,
+        "volume": 200,
+        "ticker": "DNL"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 27500,
+        "high": 27500,
+        "low": 27500,
+        "close": 27500,
+        "volume": 3000,
+        "ticker": "DNL"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 23400,
+        "high": 23400,
+        "low": 23400,
+        "close": 23400,
+        "volume": 100,
+        "ticker": "DNL"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 22900,
+        "high": 30900,
+        "low": 22900,
+        "close": 30900,
+        "volume": 800,
+        "ticker": "DNL"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 25500,
+        "high": 33300,
+        "low": 25500,
+        "close": 33300,
+        "volume": 700,
+        "ticker": "DNL"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 30000,
+        "high": 30000,
+        "low": 30000,
+        "close": 30000,
+        "volume": 100,
+        "ticker": "DNL"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 25500,
+        "high": 25600,
+        "low": 25500,
+        "close": 25600,
+        "volume": 200,
+        "ticker": "DNL"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 22100,
+        "high": 29400,
+        "low": 22100,
+        "close": 29400,
+        "volume": 700,
+        "ticker": "DNL"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 24200,
+        "high": 32600,
+        "low": 24200,
+        "close": 32600,
+        "volume": 700,
+        "ticker": "DNL"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 30000,
+        "high": 30000,
+        "low": 30000,
+        "close": 30000,
+        "volume": 1000,
+        "ticker": "DNL"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 25500,
+        "high": 25500,
+        "low": 25500,
+        "close": 25500,
+        "volume": 100,
+        "ticker": "DNL"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 28000,
+        "high": 28000,
+        "low": 28000,
+        "close": 28000,
+        "volume": 6000,
+        "ticker": "DNL"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 23800,
+        "high": 23800,
+        "low": 23800,
+        "close": 23800,
+        "volume": 100,
+        "ticker": "DNL"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 21200,
+        "high": 21200,
+        "low": 21200,
+        "close": 21200,
+        "volume": 100,
+        "ticker": "DNL"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 18100,
+        "high": 18100,
+        "low": 18100,
+        "close": 18100,
+        "volume": 100,
+        "ticker": "DNL"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 20800,
+        "high": 20800,
+        "low": 20800,
+        "close": 20800,
+        "volume": 200,
+        "ticker": "DNL"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 23900,
+        "high": 23900,
+        "low": 23900,
+        "close": 23900,
+        "volume": 100,
+        "ticker": "DNL"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 27400,
+        "high": 27400,
+        "low": 27400,
+        "close": 27400,
+        "volume": 100,
+        "ticker": "DNL"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 30400,
+        "high": 30400,
+        "low": 30400,
+        "close": 30400,
+        "volume": 100,
+        "ticker": "DNL"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 27000,
+        "high": 27000,
+        "low": 27000,
+        "close": 27000,
+        "volume": 4800,
+        "ticker": "DNL"
+    }
+]

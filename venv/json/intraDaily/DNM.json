@@ -1,0 +1,299 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 13200,
+        "high": 15000,
+        "low": 13200,
+        "close": 15000,
+        "volume": 1400,
+        "ticker": "DNM"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 13300,
+        "high": 13300,
+        "low": 13300,
+        "close": 13300,
+        "volume": 200,
+        "ticker": "DNM"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 13300,
+        "high": 13300,
+        "low": 13300,
+        "close": 13300,
+        "volume": 1400,
+        "ticker": "DNM"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 13300,
+        "high": 13300,
+        "low": 13300,
+        "close": 13300,
+        "volume": 300,
+        "ticker": "DNM"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 13300,
+        "high": 13300,
+        "low": 13300,
+        "close": 13300,
+        "volume": 500,
+        "ticker": "DNM"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 13300,
+        "high": 13300,
+        "low": 13300,
+        "close": 13300,
+        "volume": 200,
+        "ticker": "DNM"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 14400,
+        "high": 14400,
+        "low": 14400,
+        "close": 14400,
+        "volume": 100,
+        "ticker": "DNM"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 14300,
+        "high": 14300,
+        "low": 14300,
+        "close": 14300,
+        "volume": 100,
+        "ticker": "DNM"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 16800,
+        "high": 16800,
+        "low": 16800,
+        "close": 16800,
+        "volume": 100,
+        "ticker": "DNM"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 15200,
+        "high": 15200,
+        "low": 15200,
+        "close": 15200,
+        "volume": 1500,
+        "ticker": "DNM"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 16400,
+        "high": 16400,
+        "low": 16400,
+        "close": 16400,
+        "volume": 200,
+        "ticker": "DNM"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 17900,
+        "high": 17900,
+        "low": 17200,
+        "close": 17200,
+        "volume": 200,
+        "ticker": "DNM"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 18900,
+        "high": 18900,
+        "low": 17000,
+        "close": 18300,
+        "volume": 300,
+        "ticker": "DNM"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 16500,
+        "high": 18000,
+        "low": 15000,
+        "close": 15000,
+        "volume": 1900,
+        "ticker": "DNM"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 13400,
+        "high": 13600,
+        "low": 13400,
+        "close": 13600,
+        "volume": 3200,
+        "ticker": "DNM"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 13600,
+        "high": 13700,
+        "low": 13600,
+        "close": 13700,
+        "volume": 2300,
+        "ticker": "DNM"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 13900,
+        "high": 13900,
+        "low": 13600,
+        "close": 13600,
+        "volume": 1700,
+        "ticker": "DNM"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 13700,
+        "high": 13700,
+        "low": 13700,
+        "close": 13700,
+        "volume": 400,
+        "ticker": "DNM"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 13700,
+        "high": 13700,
+        "low": 13700,
+        "close": 13700,
+        "volume": 500,
+        "ticker": "DNM"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 11700,
+        "high": 13700,
+        "low": 11700,
+        "close": 13500,
+        "volume": 3100,
+        "ticker": "DNM"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 11800,
+        "high": 14600,
+        "low": 11700,
+        "close": 13700,
+        "volume": 6100,
+        "ticker": "DNM"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 15300,
+        "high": 15300,
+        "low": 15200,
+        "close": 15300,
+        "volume": 1500,
+        "ticker": "DNM"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 13000,
+        "high": 16900,
+        "low": 13000,
+        "close": 16900,
+        "volume": 1300,
+        "ticker": "DNM"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 15600,
+        "high": 15600,
+        "low": 15600,
+        "close": 15600,
+        "volume": 100,
+        "ticker": "DNM"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 15600,
+        "high": 15600,
+        "low": 15600,
+        "close": 15600,
+        "volume": 600,
+        "ticker": "DNM"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 15600,
+        "high": 15600,
+        "low": 15600,
+        "close": 15600,
+        "volume": 200,
+        "ticker": "DNM"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 15600,
+        "high": 15600,
+        "low": 15600,
+        "close": 15600,
+        "volume": 300,
+        "ticker": "DNM"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 15900,
+        "high": 15900,
+        "low": 15900,
+        "close": 15900,
+        "volume": 100,
+        "ticker": "DNM"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 16000,
+        "high": 16000,
+        "low": 16000,
+        "close": 16000,
+        "volume": 100,
+        "ticker": "DNM"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 16900,
+        "high": 16900,
+        "low": 16900,
+        "close": 16900,
+        "volume": 100,
+        "ticker": "DNM"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 17200,
+        "high": 17200,
+        "low": 17200,
+        "close": 17200,
+        "volume": 100,
+        "ticker": "DNM"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 17900,
+        "high": 17900,
+        "low": 17900,
+        "close": 17900,
+        "volume": 100,
+        "ticker": "DNM"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 17800,
+        "high": 17800,
+        "low": 17800,
+        "close": 17800,
+        "volume": 100,
+        "ticker": "DNM"
+    }
+]

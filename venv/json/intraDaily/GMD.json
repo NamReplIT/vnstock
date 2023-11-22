@@ -1,0 +1,1289 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 51200,
+        "high": 51300,
+        "low": 49170,
+        "close": 49260,
+        "volume": 1289700,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 49170,
+        "high": 49650,
+        "low": 48490,
+        "close": 48780,
+        "volume": 407500,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 48490,
+        "high": 49070,
+        "low": 48390,
+        "close": 48580,
+        "volume": 352800,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 49260,
+        "high": 49260,
+        "low": 48580,
+        "close": 49170,
+        "volume": 223000,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 49460,
+        "high": 49460,
+        "low": 48780,
+        "close": 49070,
+        "volume": 867600,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 48970,
+        "high": 49170,
+        "low": 48100,
+        "close": 48240,
+        "volume": 965400,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 48200,
+        "high": 48880,
+        "low": 47570,
+        "close": 47610,
+        "volume": 767500,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 48200,
+        "high": 48880,
+        "low": 47950,
+        "close": 48440,
+        "volume": 930300,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 48490,
+        "high": 48880,
+        "low": 48440,
+        "close": 48490,
+        "volume": 930700,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 48100,
+        "high": 48880,
+        "low": 48100,
+        "close": 48580,
+        "volume": 333300,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 48580,
+        "high": 49650,
+        "low": 48490,
+        "close": 49550,
+        "volume": 1227400,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 49840,
+        "high": 49840,
+        "low": 48880,
+        "close": 48880,
+        "volume": 191700,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 49360,
+        "high": 49360,
+        "low": 47950,
+        "close": 47950,
+        "volume": 481300,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 48290,
+        "high": 48390,
+        "low": 48000,
+        "close": 48100,
+        "volume": 280300,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 48240,
+        "high": 49070,
+        "low": 48100,
+        "close": 48680,
+        "volume": 456200,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 48490,
+        "high": 48880,
+        "low": 48290,
+        "close": 48290,
+        "volume": 191200,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 48440,
+        "high": 48580,
+        "low": 48100,
+        "close": 48100,
+        "volume": 368000,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 48490,
+        "high": 48490,
+        "low": 48150,
+        "close": 48290,
+        "volume": 156500,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 48290,
+        "high": 48880,
+        "low": 48240,
+        "close": 48580,
+        "volume": 908100,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 48490,
+        "high": 48780,
+        "low": 48390,
+        "close": 48580,
+        "volume": 479600,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 48580,
+        "high": 49550,
+        "low": 48490,
+        "close": 49460,
+        "volume": 1135200,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 49650,
+        "high": 50330,
+        "low": 49460,
+        "close": 49840,
+        "volume": 1672100,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 50140,
+        "high": 51400,
+        "low": 49550,
+        "close": 50430,
+        "volume": 1102900,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 50430,
+        "high": 51010,
+        "low": 50040,
+        "close": 50430,
+        "volume": 461500,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 50230,
+        "high": 50520,
+        "low": 49360,
+        "close": 49460,
+        "volume": 1398300,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 49260,
+        "high": 49840,
+        "low": 48440,
+        "close": 48490,
+        "volume": 1060300,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 48680,
+        "high": 49940,
+        "low": 48580,
+        "close": 49840,
+        "volume": 1065600,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 49940,
+        "high": 50330,
+        "low": 49650,
+        "close": 50040,
+        "volume": 808200,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 50040,
+        "high": 50040,
+        "low": 49460,
+        "close": 49460,
+        "volume": 494000,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 49940,
+        "high": 49940,
+        "low": 48970,
+        "close": 48970,
+        "volume": 422800,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 48970,
+        "high": 49650,
+        "low": 48580,
+        "close": 48880,
+        "volume": 472900,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 48970,
+        "high": 49650,
+        "low": 48880,
+        "close": 49070,
+        "volume": 721500,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 49260,
+        "high": 49260,
+        "low": 48580,
+        "close": 48680,
+        "volume": 545600,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 48880,
+        "high": 49460,
+        "low": 48680,
+        "close": 49460,
+        "volume": 493900,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 49460,
+        "high": 50330,
+        "low": 49260,
+        "close": 50230,
+        "volume": 884000,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 50430,
+        "high": 50910,
+        "low": 50140,
+        "close": 50230,
+        "volume": 885700,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 50430,
+        "high": 51110,
+        "low": 50140,
+        "close": 51110,
+        "volume": 1230300,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 51400,
+        "high": 51400,
+        "low": 50140,
+        "close": 50910,
+        "volume": 657100,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 51300,
+        "high": 52270,
+        "low": 50520,
+        "close": 51300,
+        "volume": 1422800,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 51690,
+        "high": 51690,
+        "low": 51110,
+        "close": 51110,
+        "volume": 573000,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 51110,
+        "high": 51110,
+        "low": 50140,
+        "close": 50140,
+        "volume": 936300,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 50040,
+        "high": 51200,
+        "low": 50040,
+        "close": 50330,
+        "volume": 458900,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 50430,
+        "high": 51200,
+        "low": 50330,
+        "close": 51010,
+        "volume": 830000,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 51400,
+        "high": 52270,
+        "low": 51110,
+        "close": 51880,
+        "volume": 796400,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 51980,
+        "high": 52750,
+        "low": 51780,
+        "close": 52170,
+        "volume": 921800,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 51780,
+        "high": 52270,
+        "low": 51200,
+        "close": 51880,
+        "volume": 1054100,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 52170,
+        "high": 54310,
+        "low": 51590,
+        "close": 54110,
+        "volume": 2437800,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 54310,
+        "high": 54310,
+        "low": 53530,
+        "close": 54010,
+        "volume": 1137100,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 54310,
+        "high": 56150,
+        "low": 54210,
+        "close": 54980,
+        "volume": 2642800,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 55760,
+        "high": 55760,
+        "low": 54980,
+        "close": 55370,
+        "volume": 953000,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 55470,
+        "high": 55760,
+        "low": 54890,
+        "close": 55470,
+        "volume": 1025600,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 55660,
+        "high": 55950,
+        "low": 54890,
+        "close": 55280,
+        "volume": 892700,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 55470,
+        "high": 55950,
+        "low": 54790,
+        "close": 55180,
+        "volume": 1599800,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 55280,
+        "high": 56440,
+        "low": 55180,
+        "close": 55950,
+        "volume": 1348900,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 56050,
+        "high": 56630,
+        "low": 54980,
+        "close": 55470,
+        "volume": 1220200,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 55760,
+        "high": 55760,
+        "low": 55080,
+        "close": 55470,
+        "volume": 728100,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 55760,
+        "high": 56150,
+        "low": 55370,
+        "close": 55760,
+        "volume": 954900,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 56250,
+        "high": 57990,
+        "low": 55760,
+        "close": 57020,
+        "volume": 1995800,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 57210,
+        "high": 57510,
+        "low": 56250,
+        "close": 56630,
+        "volume": 1103600,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 56830,
+        "high": 56830,
+        "low": 55080,
+        "close": 55180,
+        "volume": 1323100,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 55280,
+        "high": 55950,
+        "low": 54790,
+        "close": 55760,
+        "volume": 1277800,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 56150,
+        "high": 56150,
+        "low": 55280,
+        "close": 55950,
+        "volume": 958000,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 58570,
+        "high": 58570,
+        "low": 56250,
+        "close": 56920,
+        "volume": 2340700,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 57020,
+        "high": 57020,
+        "low": 55370,
+        "close": 55370,
+        "volume": 1324100,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 55280,
+        "high": 55570,
+        "low": 54600,
+        "close": 54890,
+        "volume": 1499800,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 54890,
+        "high": 55280,
+        "low": 54500,
+        "close": 54890,
+        "volume": 959100,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 54790,
+        "high": 56250,
+        "low": 54690,
+        "close": 56250,
+        "volume": 4239100,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 57210,
+        "high": 57510,
+        "low": 56150,
+        "close": 56150,
+        "volume": 1533800,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 56150,
+        "high": 57120,
+        "low": 55760,
+        "close": 56730,
+        "volume": 1591600,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 56730,
+        "high": 56730,
+        "low": 55660,
+        "close": 55860,
+        "volume": 965600,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 55760,
+        "high": 55760,
+        "low": 54600,
+        "close": 54600,
+        "volume": 1399500,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 54210,
+        "high": 54890,
+        "low": 53340,
+        "close": 53530,
+        "volume": 955900,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 53530,
+        "high": 54500,
+        "low": 53530,
+        "close": 54010,
+        "volume": 695500,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 54310,
+        "high": 54690,
+        "low": 53720,
+        "close": 54310,
+        "volume": 630100,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 54310,
+        "high": 54500,
+        "low": 54010,
+        "close": 54110,
+        "volume": 580200,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-08-17",
+        "open": 53820,
+        "high": 54210,
+        "low": 53240,
+        "close": 53530,
+        "volume": 708900,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 53340,
+        "high": 53530,
+        "low": 50620,
+        "close": 50620,
+        "volume": 1710800,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 49650,
+        "high": 53240,
+        "low": 49650,
+        "close": 52560,
+        "volume": 1225000,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 53040,
+        "high": 53140,
+        "low": 51490,
+        "close": 52370,
+        "volume": 1037900,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 52850,
+        "high": 52850,
+        "low": 52080,
+        "close": 52370,
+        "volume": 376300,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 52750,
+        "high": 53820,
+        "low": 52270,
+        "close": 53820,
+        "volume": 1072500,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 53820,
+        "high": 53920,
+        "low": 52460,
+        "close": 53630,
+        "volume": 506100,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 53720,
+        "high": 53820,
+        "low": 52950,
+        "close": 53820,
+        "volume": 499800,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 54310,
+        "high": 54790,
+        "low": 54110,
+        "close": 54790,
+        "volume": 864900,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 55180,
+        "high": 56920,
+        "low": 54790,
+        "close": 56920,
+        "volume": 2027500,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 57510,
+        "high": 60900,
+        "low": 57210,
+        "close": 60800,
+        "volume": 5998900,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 60800,
+        "high": 62550,
+        "low": 60030,
+        "close": 61680,
+        "volume": 2707400,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 62060,
+        "high": 62450,
+        "low": 61090,
+        "close": 62060,
+        "volume": 1221600,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 62060,
+        "high": 63030,
+        "low": 61770,
+        "close": 61970,
+        "volume": 1728600,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 61970,
+        "high": 64970,
+        "low": 61090,
+        "close": 62840,
+        "volume": 2434000,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 64200,
+        "high": 64200,
+        "low": 61090,
+        "close": 61290,
+        "volume": 1704300,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 61870,
+        "high": 62650,
+        "low": 61090,
+        "close": 62650,
+        "volume": 1410100,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 64000,
+        "high": 64879,
+        "low": 61090,
+        "close": 63620,
+        "volume": 1897100,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 64489,
+        "high": 65260,
+        "low": 61870,
+        "close": 62260,
+        "volume": 1916300,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 62260,
+        "high": 62940,
+        "low": 61290,
+        "close": 62060,
+        "volume": 1471800,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 62160,
+        "high": 63030,
+        "low": 61290,
+        "close": 61290,
+        "volume": 1379600,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 63420,
+        "high": 63910,
+        "low": 61870,
+        "close": 62350,
+        "volume": 2703900,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 63420,
+        "high": 64970,
+        "low": 63030,
+        "close": 64099,
+        "volume": 1784600,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 64300,
+        "high": 65099,
+        "low": 63700,
+        "close": 65000,
+        "volume": 1508800,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 63500,
+        "high": 64400,
+        "low": 62700,
+        "close": 64000,
+        "volume": 2135700,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 63000,
+        "high": 64300,
+        "low": 60100,
+        "close": 60100,
+        "volume": 1880300,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 59700,
+        "high": 62100,
+        "low": 59700,
+        "close": 60700,
+        "volume": 1236600,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 61100,
+        "high": 64000,
+        "low": 60400,
+        "close": 64000,
+        "volume": 1675300,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 64200,
+        "high": 68000,
+        "low": 63500,
+        "close": 65800,
+        "volume": 3327100,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 66300,
+        "high": 67200,
+        "low": 64599,
+        "close": 66300,
+        "volume": 1406800,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 66300,
+        "high": 68000,
+        "low": 65099,
+        "close": 65300,
+        "volume": 1395200,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 64900,
+        "high": 64900,
+        "low": 62000,
+        "close": 62500,
+        "volume": 2320100,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 61100,
+        "high": 66100,
+        "low": 61100,
+        "close": 64099,
+        "volume": 1956500,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 65300,
+        "high": 65900,
+        "low": 63700,
+        "close": 64300,
+        "volume": 1234900,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 63700,
+        "high": 65900,
+        "low": 63300,
+        "close": 65000,
+        "volume": 882600,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 65000,
+        "high": 66200,
+        "low": 65000,
+        "close": 66100,
+        "volume": 1620900,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 66900,
+        "high": 67900,
+        "low": 66200,
+        "close": 66200,
+        "volume": 1695800,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 66700,
+        "high": 66700,
+        "low": 64099,
+        "close": 66300,
+        "volume": 861200,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 66400,
+        "high": 66900,
+        "low": 65300,
+        "close": 65500,
+        "volume": 1323400,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 64800,
+        "high": 66500,
+        "low": 64700,
+        "close": 66100,
+        "volume": 1086300,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 66200,
+        "high": 66700,
+        "low": 65400,
+        "close": 65400,
+        "volume": 1065000,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 66100,
+        "high": 67800,
+        "low": 64099,
+        "close": 64099,
+        "volume": 1482600,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 65099,
+        "high": 65900,
+        "low": 63000,
+        "close": 64800,
+        "volume": 2750200,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 65200,
+        "high": 66600,
+        "low": 64000,
+        "close": 64900,
+        "volume": 1060700,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 65000,
+        "high": 65000,
+        "low": 60400,
+        "close": 64000,
+        "volume": 3199600,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 62500,
+        "high": 63900,
+        "low": 61100,
+        "close": 61900,
+        "volume": 753500,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 62000,
+        "high": 62300,
+        "low": 60700,
+        "close": 61400,
+        "volume": 745300,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 61200,
+        "high": 62800,
+        "low": 60800,
+        "close": 61700,
+        "volume": 631800,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 60600,
+        "high": 60700,
+        "low": 57400,
+        "close": 59000,
+        "volume": 2659300,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 59000,
+        "high": 62500,
+        "low": 58400,
+        "close": 62500,
+        "volume": 1075100,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 62400,
+        "high": 62400,
+        "low": 60500,
+        "close": 60500,
+        "volume": 261800,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 61600,
+        "high": 61700,
+        "low": 59000,
+        "close": 59000,
+        "volume": 1040900,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 59500,
+        "high": 61800,
+        "low": 59100,
+        "close": 61800,
+        "volume": 728800,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 62600,
+        "high": 64000,
+        "low": 61900,
+        "close": 63500,
+        "volume": 977300,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 63600,
+        "high": 65000,
+        "low": 63500,
+        "close": 65000,
+        "volume": 2181800,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 65000,
+        "high": 66300,
+        "low": 63900,
+        "close": 66000,
+        "volume": 1795900,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 65800,
+        "high": 67800,
+        "low": 65099,
+        "close": 66100,
+        "volume": 1651000,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 67400,
+        "high": 68000,
+        "low": 66200,
+        "close": 67800,
+        "volume": 1719000,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 69000,
+        "high": 70300,
+        "low": 68700,
+        "close": 68700,
+        "volume": 1906500,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 68600,
+        "high": 69900,
+        "low": 68200,
+        "close": 68900,
+        "volume": 1264900,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 69000,
+        "high": 70100,
+        "low": 67600,
+        "close": 68600,
+        "volume": 1244000,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 69500,
+        "high": 72200,
+        "low": 69200,
+        "close": 71000,
+        "volume": 1697200,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 72500,
+        "high": 73300,
+        "low": 70800,
+        "close": 71100,
+        "volume": 995300,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 71100,
+        "high": 72500,
+        "low": 70900,
+        "close": 71100,
+        "volume": 646800,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 70300,
+        "high": 71900,
+        "low": 70000,
+        "close": 70000,
+        "volume": 1054100,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 69000,
+        "high": 70500,
+        "low": 69000,
+        "close": 69600,
+        "volume": 608200,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 69900,
+        "high": 70500,
+        "low": 69000,
+        "close": 70000,
+        "volume": 774200,
+        "ticker": "GMD"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 70000,
+        "high": 70900,
+        "low": 69500,
+        "close": 70400,
+        "volume": 498800,
+        "ticker": "GMD"
+    }
+]

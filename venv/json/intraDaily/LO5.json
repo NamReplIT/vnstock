@@ -1,0 +1,209 @@
+[
+    {
+        "time": "2023-05-05",
+        "open": 1000,
+        "high": 1100,
+        "low": 1000,
+        "close": 1100,
+        "volume": 6700,
+        "ticker": "LO5"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 1000,
+        "high": 1000,
+        "low": 1000,
+        "close": 1000,
+        "volume": 100,
+        "ticker": "LO5"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 900,
+        "high": 900,
+        "low": 900,
+        "close": 900,
+        "volume": 11400,
+        "ticker": "LO5"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 900,
+        "high": 900,
+        "low": 800,
+        "close": 900,
+        "volume": 17800,
+        "ticker": "LO5"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 900,
+        "high": 900,
+        "low": 700,
+        "close": 900,
+        "volume": 21700,
+        "ticker": "LO5"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 900,
+        "high": 900,
+        "low": 900,
+        "close": 900,
+        "volume": 5300,
+        "ticker": "LO5"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 1000,
+        "high": 1000,
+        "low": 1000,
+        "close": 1000,
+        "volume": 10300,
+        "ticker": "LO5"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 1100,
+        "high": 1100,
+        "low": 1100,
+        "close": 1100,
+        "volume": 34200,
+        "ticker": "LO5"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 1100,
+        "high": 1200,
+        "low": 1100,
+        "close": 1200,
+        "volume": 11000,
+        "ticker": "LO5"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 1200,
+        "high": 1200,
+        "low": 1200,
+        "close": 1200,
+        "volume": 4800,
+        "ticker": "LO5"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 1300,
+        "high": 1300,
+        "low": 1300,
+        "close": 1300,
+        "volume": 100,
+        "ticker": "LO5"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 1300,
+        "high": 1400,
+        "low": 1300,
+        "close": 1400,
+        "volume": 6700,
+        "ticker": "LO5"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 1200,
+        "high": 1200,
+        "low": 1200,
+        "close": 1200,
+        "volume": 1000,
+        "ticker": "LO5"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 1100,
+        "high": 1200,
+        "low": 1100,
+        "close": 1200,
+        "volume": 6000,
+        "ticker": "LO5"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 1100,
+        "high": 1200,
+        "low": 1100,
+        "close": 1200,
+        "volume": 4600,
+        "ticker": "LO5"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 1000,
+        "high": 1000,
+        "low": 1000,
+        "close": 1000,
+        "volume": 800,
+        "ticker": "LO5"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 1100,
+        "high": 1100,
+        "low": 1100,
+        "close": 1100,
+        "volume": 5000,
+        "ticker": "LO5"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 1000,
+        "high": 1100,
+        "low": 1000,
+        "close": 1100,
+        "volume": 5000,
+        "ticker": "LO5"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 1000,
+        "high": 1000,
+        "low": 1000,
+        "close": 1000,
+        "volume": 1900,
+        "ticker": "LO5"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 900,
+        "high": 1000,
+        "low": 900,
+        "close": 1000,
+        "volume": 5500,
+        "ticker": "LO5"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 1100,
+        "high": 1100,
+        "low": 1100,
+        "close": 1100,
+        "volume": 100,
+        "ticker": "LO5"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 1000,
+        "high": 1100,
+        "low": 1000,
+        "close": 1100,
+        "volume": 200,
+        "ticker": "LO5"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 1000,
+        "high": 1100,
+        "low": 1000,
+        "close": 1100,
+        "volume": 3300,
+        "ticker": "LO5"
+    }
+]

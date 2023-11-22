@@ -1,0 +1,128 @@
+[
+    {
+        "time": "2023-05-05",
+        "open": 17000,
+        "high": 17000,
+        "low": 17000,
+        "close": 17000,
+        "volume": 100,
+        "ticker": "SPV"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 16800,
+        "high": 16800,
+        "low": 16800,
+        "close": 16800,
+        "volume": 9000,
+        "ticker": "SPV"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 14600,
+        "high": 14600,
+        "low": 14600,
+        "close": 14600,
+        "volume": 100,
+        "ticker": "SPV"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 14600,
+        "high": 14600,
+        "low": 14600,
+        "close": 14600,
+        "volume": 1300,
+        "ticker": "SPV"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 15500,
+        "high": 15500,
+        "low": 8800,
+        "close": 15500,
+        "volume": 12400,
+        "ticker": "SPV"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 17400,
+        "high": 17400,
+        "low": 17400,
+        "close": 17400,
+        "volume": 100,
+        "ticker": "SPV"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 14800,
+        "high": 15500,
+        "low": 14800,
+        "close": 14800,
+        "volume": 4900,
+        "ticker": "SPV"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 13000,
+        "high": 13100,
+        "low": 13000,
+        "close": 13100,
+        "volume": 4000,
+        "ticker": "SPV"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 15000,
+        "high": 15000,
+        "low": 15000,
+        "close": 15000,
+        "volume": 300,
+        "ticker": "SPV"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 15000,
+        "high": 15000,
+        "low": 15000,
+        "close": 15000,
+        "volume": 4600,
+        "ticker": "SPV"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 15000,
+        "high": 15000,
+        "low": 15000,
+        "close": 15000,
+        "volume": 2300,
+        "ticker": "SPV"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 15000,
+        "high": 15000,
+        "low": 15000,
+        "close": 15000,
+        "volume": 100,
+        "ticker": "SPV"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 12800,
+        "high": 15500,
+        "low": 12800,
+        "close": 15500,
+        "volume": 300,
+        "ticker": "SPV"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 15100,
+        "high": 16500,
+        "low": 15100,
+        "close": 16500,
+        "volume": 1300,
+        "ticker": "SPV"
+    }
+]

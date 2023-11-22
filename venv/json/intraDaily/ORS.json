@@ -1,0 +1,1289 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 12250,
+        "high": 13300,
+        "low": 12250,
+        "close": 13050,
+        "volume": 4196000,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 12950,
+        "high": 13300,
+        "low": 12700,
+        "close": 12850,
+        "volume": 1232100,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 12900,
+        "high": 13550,
+        "low": 12800,
+        "close": 13300,
+        "volume": 3024000,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 13300,
+        "high": 13400,
+        "low": 13050,
+        "close": 13400,
+        "volume": 1453600,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 13500,
+        "high": 14200,
+        "low": 13350,
+        "close": 13500,
+        "volume": 3785300,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 13450,
+        "high": 13700,
+        "low": 13000,
+        "close": 13100,
+        "volume": 2049400,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 13200,
+        "high": 13500,
+        "low": 13050,
+        "close": 13500,
+        "volume": 1281300,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 13400,
+        "high": 13700,
+        "low": 13050,
+        "close": 13050,
+        "volume": 1295100,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 13000,
+        "high": 13400,
+        "low": 12950,
+        "close": 13300,
+        "volume": 1773500,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 13300,
+        "high": 14000,
+        "low": 13300,
+        "close": 13350,
+        "volume": 4117100,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 13300,
+        "high": 13650,
+        "low": 13200,
+        "close": 13500,
+        "volume": 1352700,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 13450,
+        "high": 13650,
+        "low": 13200,
+        "close": 13400,
+        "volume": 1305100,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 13550,
+        "high": 13650,
+        "low": 13400,
+        "close": 13450,
+        "volume": 1199800,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 13700,
+        "high": 13750,
+        "low": 13450,
+        "close": 13600,
+        "volume": 1757400,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 13700,
+        "high": 14150,
+        "low": 13600,
+        "close": 14050,
+        "volume": 4103000,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 14000,
+        "high": 14050,
+        "low": 13550,
+        "close": 13600,
+        "volume": 2611500,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 13700,
+        "high": 13850,
+        "low": 13350,
+        "close": 13700,
+        "volume": 1674200,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 13750,
+        "high": 14150,
+        "low": 13600,
+        "close": 14150,
+        "volume": 2845600,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 14150,
+        "high": 14200,
+        "low": 13900,
+        "close": 14150,
+        "volume": 2181000,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 14150,
+        "high": 14350,
+        "low": 13850,
+        "close": 13850,
+        "volume": 1612900,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 13850,
+        "high": 14800,
+        "low": 13800,
+        "close": 14600,
+        "volume": 5888600,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 14700,
+        "high": 14900,
+        "low": 14300,
+        "close": 14550,
+        "volume": 2974800,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 14550,
+        "high": 14700,
+        "low": 14100,
+        "close": 14200,
+        "volume": 2604000,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 14200,
+        "high": 14950,
+        "low": 14100,
+        "close": 14850,
+        "volume": 3412500,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 14850,
+        "high": 15000,
+        "low": 14500,
+        "close": 15000,
+        "volume": 2461000,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 14800,
+        "high": 15000,
+        "low": 14400,
+        "close": 14400,
+        "volume": 1663800,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 14450,
+        "high": 14600,
+        "low": 14200,
+        "close": 14450,
+        "volume": 1858300,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 14500,
+        "high": 14750,
+        "low": 14050,
+        "close": 14450,
+        "volume": 1887300,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 14400,
+        "high": 14600,
+        "low": 14250,
+        "close": 14500,
+        "volume": 1127200,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 14750,
+        "high": 14750,
+        "low": 14300,
+        "close": 14450,
+        "volume": 3236400,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 14450,
+        "high": 14500,
+        "low": 14100,
+        "close": 14500,
+        "volume": 1004600,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 14650,
+        "high": 15450,
+        "low": 14600,
+        "close": 14700,
+        "volume": 6686000,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 14650,
+        "high": 14850,
+        "low": 14550,
+        "close": 14600,
+        "volume": 2813700,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 14600,
+        "high": 14750,
+        "low": 14450,
+        "close": 14750,
+        "volume": 2041800,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 14750,
+        "high": 15500,
+        "low": 14650,
+        "close": 15300,
+        "volume": 5814400,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 15300,
+        "high": 15500,
+        "low": 15050,
+        "close": 15350,
+        "volume": 1908500,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 15400,
+        "high": 15700,
+        "low": 15100,
+        "close": 15600,
+        "volume": 4489600,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 15400,
+        "high": 15600,
+        "low": 14700,
+        "close": 15300,
+        "volume": 1992900,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 15350,
+        "high": 15650,
+        "low": 15250,
+        "close": 15300,
+        "volume": 2942300,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 15500,
+        "high": 15600,
+        "low": 15300,
+        "close": 15450,
+        "volume": 1912400,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 15450,
+        "high": 15500,
+        "low": 15000,
+        "close": 15000,
+        "volume": 1571800,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 15000,
+        "high": 15250,
+        "low": 14800,
+        "close": 15150,
+        "volume": 2143800,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 15400,
+        "high": 15400,
+        "low": 15150,
+        "close": 15350,
+        "volume": 1137200,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 15350,
+        "high": 15650,
+        "low": 15250,
+        "close": 15550,
+        "volume": 1799700,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 15850,
+        "high": 16300,
+        "low": 15550,
+        "close": 16000,
+        "volume": 3926100,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 15950,
+        "high": 16050,
+        "low": 15300,
+        "close": 15500,
+        "volume": 2535700,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 15350,
+        "high": 15550,
+        "low": 15150,
+        "close": 15500,
+        "volume": 2137700,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 15500,
+        "high": 16100,
+        "low": 15450,
+        "close": 15800,
+        "volume": 4211600,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 15800,
+        "high": 15950,
+        "low": 15450,
+        "close": 15600,
+        "volume": 2641700,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 15600,
+        "high": 16000,
+        "low": 15350,
+        "close": 15400,
+        "volume": 3131100,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 15500,
+        "high": 15550,
+        "low": 15350,
+        "close": 15500,
+        "volume": 1287000,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 15500,
+        "high": 15750,
+        "low": 15300,
+        "close": 15500,
+        "volume": 1782300,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 15700,
+        "high": 16100,
+        "low": 15700,
+        "close": 15900,
+        "volume": 3931400,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 15950,
+        "high": 16000,
+        "low": 15750,
+        "close": 15850,
+        "volume": 1779600,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 15850,
+        "high": 16000,
+        "low": 15650,
+        "close": 15650,
+        "volume": 1613600,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 15500,
+        "high": 15550,
+        "low": 14900,
+        "close": 15150,
+        "volume": 3482400,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 15200,
+        "high": 15300,
+        "low": 15000,
+        "close": 15300,
+        "volume": 1899900,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 15450,
+        "high": 15600,
+        "low": 15300,
+        "close": 15600,
+        "volume": 1636000,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 15650,
+        "high": 15800,
+        "low": 15400,
+        "close": 15500,
+        "volume": 1245600,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 15400,
+        "high": 15900,
+        "low": 15400,
+        "close": 15700,
+        "volume": 3055300,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 15700,
+        "high": 15750,
+        "low": 15450,
+        "close": 15700,
+        "volume": 1345500,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 15700,
+        "high": 16600,
+        "low": 15700,
+        "close": 16600,
+        "volume": 9052900,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 16900,
+        "high": 16900,
+        "low": 16300,
+        "close": 16700,
+        "volume": 3066600,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 16700,
+        "high": 16850,
+        "low": 16200,
+        "close": 16200,
+        "volume": 2632800,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 16100,
+        "high": 16400,
+        "low": 16050,
+        "close": 16400,
+        "volume": 1608700,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 16500,
+        "high": 16550,
+        "low": 16149,
+        "close": 16200,
+        "volume": 1840400,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 16300,
+        "high": 17000,
+        "low": 16149,
+        "close": 17000,
+        "volume": 4740800,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 17300,
+        "high": 17300,
+        "low": 16750,
+        "close": 17050,
+        "volume": 2811500,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 17100,
+        "high": 17150,
+        "low": 16750,
+        "close": 16900,
+        "volume": 2093600,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 16900,
+        "high": 16900,
+        "low": 16650,
+        "close": 16800,
+        "volume": 1334900,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 16800,
+        "high": 16850,
+        "low": 16400,
+        "close": 16400,
+        "volume": 1983000,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 16300,
+        "high": 16550,
+        "low": 16000,
+        "close": 16450,
+        "volume": 1584500,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 16600,
+        "high": 17100,
+        "low": 16450,
+        "close": 16800,
+        "volume": 4621700,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 16700,
+        "high": 16750,
+        "low": 16500,
+        "close": 16650,
+        "volume": 1916900,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 16650,
+        "high": 16900,
+        "low": 16350,
+        "close": 16900,
+        "volume": 1350500,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-08-17",
+        "open": 17000,
+        "high": 17450,
+        "low": 16750,
+        "close": 16750,
+        "volume": 3725900,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 16600,
+        "high": 16700,
+        "low": 15600,
+        "close": 15600,
+        "volume": 3852300,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 15500,
+        "high": 16050,
+        "low": 15400,
+        "close": 15850,
+        "volume": 2368200,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 15850,
+        "high": 16149,
+        "low": 15150,
+        "close": 16100,
+        "volume": 1903700,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 16100,
+        "high": 16400,
+        "low": 15950,
+        "close": 16149,
+        "volume": 2138200,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 16149,
+        "high": 16500,
+        "low": 16050,
+        "close": 16400,
+        "volume": 2703200,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 16400,
+        "high": 16750,
+        "low": 16300,
+        "close": 16650,
+        "volume": 2990900,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 16550,
+        "high": 17800,
+        "low": 16500,
+        "close": 17800,
+        "volume": 8552400,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 18000,
+        "high": 18250,
+        "low": 17800,
+        "close": 18100,
+        "volume": 3780700,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 18050,
+        "high": 19200,
+        "low": 17850,
+        "close": 19200,
+        "volume": 4225300,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 19200,
+        "high": 19350,
+        "low": 18800,
+        "close": 19000,
+        "volume": 3323900,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 19200,
+        "high": 19350,
+        "low": 18900,
+        "close": 19350,
+        "volume": 3119300,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 19150,
+        "high": 20500,
+        "low": 19000,
+        "close": 20150,
+        "volume": 3733100,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 20300,
+        "high": 20450,
+        "low": 19650,
+        "close": 19900,
+        "volume": 2913200,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 19850,
+        "high": 20000,
+        "low": 19400,
+        "close": 19450,
+        "volume": 3798800,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 19500,
+        "high": 19800,
+        "low": 19000,
+        "close": 19000,
+        "volume": 4605100,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 19100,
+        "high": 20200,
+        "low": 19000,
+        "close": 20200,
+        "volume": 4447900,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 20200,
+        "high": 20200,
+        "low": 19450,
+        "close": 19700,
+        "volume": 5121600,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 19700,
+        "high": 19700,
+        "low": 19150,
+        "close": 19200,
+        "volume": 3746200,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 19500,
+        "high": 19500,
+        "low": 19050,
+        "close": 19400,
+        "volume": 1745000,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 19250,
+        "high": 19600,
+        "low": 19000,
+        "close": 19100,
+        "volume": 2501200,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 19200,
+        "high": 19900,
+        "low": 18950,
+        "close": 19900,
+        "volume": 3463300,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 20050,
+        "high": 21250,
+        "low": 20000,
+        "close": 21250,
+        "volume": 7962900,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 21400,
+        "high": 21550,
+        "low": 20400,
+        "close": 20650,
+        "volume": 3927900,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 19800,
+        "high": 20100,
+        "low": 19250,
+        "close": 19250,
+        "volume": 7966200,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 18700,
+        "high": 19250,
+        "low": 17950,
+        "close": 17950,
+        "volume": 9443900,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 17550,
+        "high": 19150,
+        "low": 17550,
+        "close": 18000,
+        "volume": 7275600,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 18500,
+        "high": 19100,
+        "low": 17950,
+        "close": 19100,
+        "volume": 5185600,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 19150,
+        "high": 19200,
+        "low": 18550,
+        "close": 18750,
+        "volume": 2764700,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 18800,
+        "high": 19050,
+        "low": 18450,
+        "close": 18500,
+        "volume": 2892500,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 18600,
+        "high": 18750,
+        "low": 18250,
+        "close": 18400,
+        "volume": 1375200,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 18200,
+        "high": 18200,
+        "low": 17150,
+        "close": 17150,
+        "volume": 3398200,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 16250,
+        "high": 18000,
+        "low": 16250,
+        "close": 17700,
+        "volume": 2091600,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 17800,
+        "high": 17850,
+        "low": 16600,
+        "close": 16600,
+        "volume": 1666800,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 16650,
+        "high": 17500,
+        "low": 16500,
+        "close": 17450,
+        "volume": 3406700,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 17450,
+        "high": 18000,
+        "low": 17250,
+        "close": 17700,
+        "volume": 2724500,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 17750,
+        "high": 18100,
+        "low": 17750,
+        "close": 17800,
+        "volume": 2852400,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 17800,
+        "high": 18500,
+        "low": 17500,
+        "close": 18450,
+        "volume": 4282900,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 18450,
+        "high": 18700,
+        "low": 18200,
+        "close": 18500,
+        "volume": 2259900,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 18300,
+        "high": 18300,
+        "low": 17550,
+        "close": 18000,
+        "volume": 2198400,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 17800,
+        "high": 18000,
+        "low": 17200,
+        "close": 17300,
+        "volume": 1353200,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 17300,
+        "high": 17750,
+        "low": 16800,
+        "close": 16800,
+        "volume": 2086300,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 17200,
+        "high": 17200,
+        "low": 15650,
+        "close": 16000,
+        "volume": 3161800,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 15950,
+        "high": 15950,
+        "low": 15000,
+        "close": 15000,
+        "volume": 1674300,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 15000,
+        "high": 16050,
+        "low": 14500,
+        "close": 16050,
+        "volume": 2544900,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 16000,
+        "high": 16050,
+        "low": 15550,
+        "close": 15550,
+        "volume": 931000,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 15550,
+        "high": 16600,
+        "low": 15350,
+        "close": 16400,
+        "volume": 4345000,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 16300,
+        "high": 16600,
+        "low": 15800,
+        "close": 15900,
+        "volume": 1846900,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 16400,
+        "high": 16400,
+        "low": 14800,
+        "close": 14900,
+        "volume": 2197400,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 15000,
+        "high": 15200,
+        "low": 14300,
+        "close": 15100,
+        "volume": 753000,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 15100,
+        "high": 15150,
+        "low": 14350,
+        "close": 14350,
+        "volume": 1269100,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 14200,
+        "high": 14500,
+        "low": 13350,
+        "close": 13500,
+        "volume": 1502100,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 13200,
+        "high": 14400,
+        "low": 13200,
+        "close": 14400,
+        "volume": 3014000,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 14550,
+        "high": 15400,
+        "low": 14400,
+        "close": 15400,
+        "volume": 5367600,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 15200,
+        "high": 15450,
+        "low": 14950,
+        "close": 15450,
+        "volume": 1374100,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 15450,
+        "high": 15750,
+        "low": 15350,
+        "close": 15550,
+        "volume": 1395600,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 15500,
+        "high": 15700,
+        "low": 15100,
+        "close": 15150,
+        "volume": 924000,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 15150,
+        "high": 16200,
+        "low": 15150,
+        "close": 16200,
+        "volume": 5375900,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 16500,
+        "high": 17050,
+        "low": 16250,
+        "close": 16300,
+        "volume": 5480200,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 16250,
+        "high": 16750,
+        "low": 16050,
+        "close": 16100,
+        "volume": 3020200,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 16000,
+        "high": 16300,
+        "low": 15650,
+        "close": 15900,
+        "volume": 2286200,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 16300,
+        "high": 16500,
+        "low": 16050,
+        "close": 16400,
+        "volume": 3924200,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 16850,
+        "high": 17000,
+        "low": 16250,
+        "close": 16350,
+        "volume": 3887400,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 16300,
+        "high": 16500,
+        "low": 16050,
+        "close": 16500,
+        "volume": 2109000,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 16600,
+        "high": 16850,
+        "low": 16000,
+        "close": 16250,
+        "volume": 4720100,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 15750,
+        "high": 16700,
+        "low": 15700,
+        "close": 16500,
+        "volume": 2608600,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 16600,
+        "high": 16850,
+        "low": 16450,
+        "close": 16800,
+        "volume": 2186300,
+        "ticker": "ORS"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 16800,
+        "high": 17350,
+        "low": 16700,
+        "close": 17350,
+        "volume": 6532200,
+        "ticker": "ORS"
+    }
+]

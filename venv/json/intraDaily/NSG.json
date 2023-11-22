@@ -1,0 +1,38 @@
+[
+    {
+        "time": "2023-05-05",
+        "open": 13500,
+        "high": 13500,
+        "low": 13500,
+        "close": 13500,
+        "volume": 1800,
+        "ticker": "NSG"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 13500,
+        "high": 13500,
+        "low": 13500,
+        "close": 13500,
+        "volume": 1000,
+        "ticker": "NSG"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 13000,
+        "high": 13000,
+        "low": 13000,
+        "close": 13000,
+        "volume": 5600,
+        "ticker": "NSG"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 13000,
+        "high": 13000,
+        "low": 13000,
+        "close": 13000,
+        "volume": 1300,
+        "ticker": "NSG"
+    }
+]

@@ -1,0 +1,1280 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 28000,
+        "high": 28400,
+        "low": 27800,
+        "close": 28000,
+        "volume": 99100,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 28700,
+        "high": 29100,
+        "low": 28300,
+        "close": 28400,
+        "volume": 76400,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 28700,
+        "high": 28700,
+        "low": 28200,
+        "close": 28400,
+        "volume": 123900,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 28500,
+        "high": 29000,
+        "low": 28500,
+        "close": 28500,
+        "volume": 58500,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 28600,
+        "high": 28900,
+        "low": 28500,
+        "close": 28900,
+        "volume": 82300,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 29000,
+        "high": 29600,
+        "low": 29000,
+        "close": 29400,
+        "volume": 131400,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 29400,
+        "high": 29800,
+        "low": 29100,
+        "close": 29500,
+        "volume": 61000,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 29600,
+        "high": 29600,
+        "low": 29100,
+        "close": 29300,
+        "volume": 96700,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 29200,
+        "high": 29300,
+        "low": 28800,
+        "close": 28900,
+        "volume": 94900,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 29000,
+        "high": 29000,
+        "low": 28500,
+        "close": 28600,
+        "volume": 118100,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 28600,
+        "high": 28800,
+        "low": 28300,
+        "close": 28600,
+        "volume": 87000,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 28600,
+        "high": 29000,
+        "low": 28300,
+        "close": 29000,
+        "volume": 87700,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 29000,
+        "high": 29700,
+        "low": 28700,
+        "close": 29400,
+        "volume": 200600,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 29500,
+        "high": 29600,
+        "low": 29200,
+        "close": 29200,
+        "volume": 90700,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 29400,
+        "high": 29500,
+        "low": 28800,
+        "close": 29200,
+        "volume": 118800,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 28900,
+        "high": 29400,
+        "low": 28800,
+        "close": 29100,
+        "volume": 87900,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 29000,
+        "high": 29200,
+        "low": 28800,
+        "close": 28900,
+        "volume": 117600,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 28900,
+        "high": 29400,
+        "low": 28900,
+        "close": 29100,
+        "volume": 246700,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 29100,
+        "high": 29200,
+        "low": 28900,
+        "close": 29100,
+        "volume": 164500,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 29400,
+        "high": 31300,
+        "low": 29400,
+        "close": 30900,
+        "volume": 684000,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 30700,
+        "high": 31100,
+        "low": 30200,
+        "close": 30600,
+        "volume": 114200,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 30800,
+        "high": 30900,
+        "low": 30000,
+        "close": 30500,
+        "volume": 218400,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 30900,
+        "high": 31000,
+        "low": 30400,
+        "close": 30600,
+        "volume": 152600,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 30600,
+        "high": 30800,
+        "low": 30500,
+        "close": 30700,
+        "volume": 153000,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 32700,
+        "high": 32700,
+        "low": 30700,
+        "close": 31600,
+        "volume": 440300,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 31600,
+        "high": 32500,
+        "low": 31600,
+        "close": 32299,
+        "volume": 496600,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 32000,
+        "high": 32400,
+        "low": 31800,
+        "close": 32200,
+        "volume": 232000,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 32299,
+        "high": 33200,
+        "low": 32299,
+        "close": 33000,
+        "volume": 355600,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 33000,
+        "high": 33000,
+        "low": 32200,
+        "close": 32400,
+        "volume": 278000,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 32400,
+        "high": 32600,
+        "low": 31700,
+        "close": 32100,
+        "volume": 348200,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 32000,
+        "high": 32200,
+        "low": 31500,
+        "close": 32200,
+        "volume": 191200,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 32000,
+        "high": 32700,
+        "low": 31700,
+        "close": 32000,
+        "volume": 251700,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 31500,
+        "high": 33000,
+        "low": 31500,
+        "close": 32299,
+        "volume": 166200,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 32700,
+        "high": 32900,
+        "low": 32299,
+        "close": 32700,
+        "volume": 125800,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 32800,
+        "high": 35700,
+        "low": 32800,
+        "close": 35100,
+        "volume": 848200,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 34600,
+        "high": 37000,
+        "low": 34600,
+        "close": 36200,
+        "volume": 351600,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 36500,
+        "high": 38300,
+        "low": 36400,
+        "close": 37500,
+        "volume": 561000,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 37500,
+        "high": 39100,
+        "low": 37400,
+        "close": 38600,
+        "volume": 433300,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 38600,
+        "high": 39000,
+        "low": 37500,
+        "close": 37900,
+        "volume": 311100,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 38100,
+        "high": 38100,
+        "low": 37100,
+        "close": 37300,
+        "volume": 294300,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 37500,
+        "high": 38100,
+        "low": 36500,
+        "close": 37500,
+        "volume": 388900,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 37000,
+        "high": 38200,
+        "low": 37000,
+        "close": 37700,
+        "volume": 156700,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 37700,
+        "high": 41200,
+        "low": 37700,
+        "close": 41200,
+        "volume": 586500,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 41200,
+        "high": 42500,
+        "low": 40500,
+        "close": 41200,
+        "volume": 342500,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 41300,
+        "high": 41500,
+        "low": 40500,
+        "close": 40500,
+        "volume": 337500,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 40600,
+        "high": 40900,
+        "low": 39800,
+        "close": 40900,
+        "volume": 359700,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 40500,
+        "high": 42200,
+        "low": 40500,
+        "close": 42000,
+        "volume": 203700,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 42100,
+        "high": 42900,
+        "low": 41500,
+        "close": 42000,
+        "volume": 349300,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 42100,
+        "high": 42500,
+        "low": 41500,
+        "close": 41600,
+        "volume": 295800,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 42000,
+        "high": 43000,
+        "low": 41600,
+        "close": 42000,
+        "volume": 231100,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 42000,
+        "high": 42200,
+        "low": 41600,
+        "close": 41900,
+        "volume": 185500,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 41700,
+        "high": 43100,
+        "low": 41500,
+        "close": 43000,
+        "volume": 547000,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 43000,
+        "high": 43200,
+        "low": 42400,
+        "close": 42800,
+        "volume": 124700,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 43000,
+        "high": 43000,
+        "low": 42200,
+        "close": 42500,
+        "volume": 98800,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 42500,
+        "high": 43700,
+        "low": 42200,
+        "close": 43000,
+        "volume": 323600,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 43000,
+        "high": 45000,
+        "low": 42600,
+        "close": 43900,
+        "volume": 343000,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 43800,
+        "high": 44600,
+        "low": 43400,
+        "close": 43600,
+        "volume": 230600,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 43900,
+        "high": 44800,
+        "low": 43500,
+        "close": 43800,
+        "volume": 301300,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 43800,
+        "high": 44000,
+        "low": 42700,
+        "close": 42900,
+        "volume": 520400,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 42900,
+        "high": 43300,
+        "low": 42300,
+        "close": 42500,
+        "volume": 199700,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 42700,
+        "high": 43000,
+        "low": 41500,
+        "close": 41800,
+        "volume": 493400,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 41900,
+        "high": 41900,
+        "low": 41000,
+        "close": 41700,
+        "volume": 382400,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 41800,
+        "high": 41800,
+        "low": 41200,
+        "close": 41500,
+        "volume": 135300,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 42000,
+        "high": 42900,
+        "low": 41600,
+        "close": 42400,
+        "volume": 379000,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 42400,
+        "high": 42600,
+        "low": 41400,
+        "close": 42100,
+        "volume": 186300,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 42000,
+        "high": 42800,
+        "low": 41400,
+        "close": 41700,
+        "volume": 322300,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 42100,
+        "high": 42100,
+        "low": 41500,
+        "close": 41900,
+        "volume": 237100,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 41900,
+        "high": 43700,
+        "low": 41900,
+        "close": 43000,
+        "volume": 586200,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 43100,
+        "high": 43300,
+        "low": 42000,
+        "close": 42500,
+        "volume": 179300,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 42500,
+        "high": 42600,
+        "low": 42000,
+        "close": 42100,
+        "volume": 214200,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 42200,
+        "high": 42400,
+        "low": 41300,
+        "close": 41500,
+        "volume": 207500,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 41000,
+        "high": 41900,
+        "low": 41000,
+        "close": 41600,
+        "volume": 162700,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 41900,
+        "high": 41900,
+        "low": 41300,
+        "close": 41500,
+        "volume": 171500,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 41600,
+        "high": 42700,
+        "low": 41400,
+        "close": 41700,
+        "volume": 215400,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 41700,
+        "high": 42100,
+        "low": 41300,
+        "close": 41700,
+        "volume": 150200,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-08-17",
+        "open": 41600,
+        "high": 41700,
+        "low": 41100,
+        "close": 41200,
+        "volume": 206400,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 41300,
+        "high": 41500,
+        "low": 37500,
+        "close": 38500,
+        "volume": 464100,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 39700,
+        "high": 39700,
+        "low": 37400,
+        "close": 38400,
+        "volume": 171500,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 38700,
+        "high": 39000,
+        "low": 37300,
+        "close": 38700,
+        "volume": 191700,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 39000,
+        "high": 39000,
+        "low": 38100,
+        "close": 38300,
+        "volume": 81400,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 38400,
+        "high": 39400,
+        "low": 38000,
+        "close": 39300,
+        "volume": 192700,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 39800,
+        "high": 40700,
+        "low": 39500,
+        "close": 39700,
+        "volume": 334000,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 40100,
+        "high": 40100,
+        "low": 39000,
+        "close": 39800,
+        "volume": 170000,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 39600,
+        "high": 40000,
+        "low": 39200,
+        "close": 39200,
+        "volume": 145400,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 39000,
+        "high": 39600,
+        "low": 38500,
+        "close": 38800,
+        "volume": 416200,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 38900,
+        "high": 39900,
+        "low": 38900,
+        "close": 39700,
+        "volume": 274000,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 39700,
+        "high": 41200,
+        "low": 39700,
+        "close": 40900,
+        "volume": 279700,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 40800,
+        "high": 41100,
+        "low": 40500,
+        "close": 41100,
+        "volume": 224500,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 41500,
+        "high": 41500,
+        "low": 40400,
+        "close": 40800,
+        "volume": 246000,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 40900,
+        "high": 40900,
+        "low": 40200,
+        "close": 40500,
+        "volume": 236000,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 40500,
+        "high": 43000,
+        "low": 40500,
+        "close": 41500,
+        "volume": 555500,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 41500,
+        "high": 42400,
+        "low": 41200,
+        "close": 42100,
+        "volume": 214900,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 42300,
+        "high": 44200,
+        "low": 42000,
+        "close": 42700,
+        "volume": 517100,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 43000,
+        "high": 43100,
+        "low": 41200,
+        "close": 41600,
+        "volume": 320600,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 41900,
+        "high": 41900,
+        "low": 40800,
+        "close": 41200,
+        "volume": 240100,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 40500,
+        "high": 41100,
+        "low": 40300,
+        "close": 40400,
+        "volume": 174100,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 40400,
+        "high": 41000,
+        "low": 39700,
+        "close": 40800,
+        "volume": 125400,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 40100,
+        "high": 41100,
+        "low": 40100,
+        "close": 41100,
+        "volume": 83400,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 41200,
+        "high": 42000,
+        "low": 40300,
+        "close": 40400,
+        "volume": 173300,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 40200,
+        "high": 40200,
+        "low": 38500,
+        "close": 39200,
+        "volume": 281800,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 37500,
+        "high": 39300,
+        "low": 36300,
+        "close": 36600,
+        "volume": 265100,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 37500,
+        "high": 37500,
+        "low": 35100,
+        "close": 36200,
+        "volume": 163000,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 36000,
+        "high": 36900,
+        "low": 35200,
+        "close": 36700,
+        "volume": 132900,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 36500,
+        "high": 36600,
+        "low": 35700,
+        "close": 36200,
+        "volume": 116500,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 35500,
+        "high": 37100,
+        "low": 35500,
+        "close": 36100,
+        "volume": 50000,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 36600,
+        "high": 37600,
+        "low": 36600,
+        "close": 37200,
+        "volume": 42200,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 37100,
+        "high": 37100,
+        "low": 35800,
+        "close": 36000,
+        "volume": 161600,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 35500,
+        "high": 36900,
+        "low": 35300,
+        "close": 36800,
+        "volume": 69100,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 36100,
+        "high": 36700,
+        "low": 35600,
+        "close": 35900,
+        "volume": 93600,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 35700,
+        "high": 36500,
+        "low": 35400,
+        "close": 36500,
+        "volume": 110600,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 36100,
+        "high": 36600,
+        "low": 35900,
+        "close": 36600,
+        "volume": 47700,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 36800,
+        "high": 37000,
+        "low": 36600,
+        "close": 36800,
+        "volume": 117100,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 37000,
+        "high": 38100,
+        "low": 37000,
+        "close": 38100,
+        "volume": 125900,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 39000,
+        "high": 39000,
+        "low": 37700,
+        "close": 37900,
+        "volume": 61600,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 37400,
+        "high": 37700,
+        "low": 36800,
+        "close": 36800,
+        "volume": 56200,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 36800,
+        "high": 37300,
+        "low": 35100,
+        "close": 35500,
+        "volume": 124900,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 36400,
+        "high": 36400,
+        "low": 34600,
+        "close": 35500,
+        "volume": 134600,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 35000,
+        "high": 35300,
+        "low": 34100,
+        "close": 34500,
+        "volume": 80800,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 34400,
+        "high": 35000,
+        "low": 33000,
+        "close": 34900,
+        "volume": 194300,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 35000,
+        "high": 35000,
+        "low": 33600,
+        "close": 33600,
+        "volume": 63700,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 34500,
+        "high": 34500,
+        "low": 33600,
+        "close": 34400,
+        "volume": 21300,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 33900,
+        "high": 34400,
+        "low": 33900,
+        "close": 34000,
+        "volume": 91300,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 33900,
+        "high": 33900,
+        "low": 31500,
+        "close": 32200,
+        "volume": 187100,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 32000,
+        "high": 32500,
+        "low": 31200,
+        "close": 32299,
+        "volume": 67500,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 32400,
+        "high": 32400,
+        "low": 30000,
+        "close": 30200,
+        "volume": 136800,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 30900,
+        "high": 30900,
+        "low": 29500,
+        "close": 29800,
+        "volume": 81100,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 30100,
+        "high": 30100,
+        "low": 29300,
+        "close": 30000,
+        "volume": 90600,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 30500,
+        "high": 31800,
+        "low": 29900,
+        "close": 31600,
+        "volume": 284200,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 31600,
+        "high": 31900,
+        "low": 30800,
+        "close": 31600,
+        "volume": 81900,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 31600,
+        "high": 32299,
+        "low": 31600,
+        "close": 32200,
+        "volume": 122500,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 31700,
+        "high": 33100,
+        "low": 31700,
+        "close": 32900,
+        "volume": 115300,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 32900,
+        "high": 34400,
+        "low": 32900,
+        "close": 34200,
+        "volume": 129400,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 34100,
+        "high": 34800,
+        "low": 34000,
+        "close": 34600,
+        "volume": 175900,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 34500,
+        "high": 35100,
+        "low": 34100,
+        "close": 34200,
+        "volume": 172900,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 34300,
+        "high": 34600,
+        "low": 34000,
+        "close": 34500,
+        "volume": 116700,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 34400,
+        "high": 34800,
+        "low": 34400,
+        "close": 34600,
+        "volume": 105000,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 34400,
+        "high": 35700,
+        "low": 34400,
+        "close": 35000,
+        "volume": 72300,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 35200,
+        "high": 35300,
+        "low": 34700,
+        "close": 35300,
+        "volume": 53000,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 35000,
+        "high": 35300,
+        "low": 34300,
+        "close": 34700,
+        "volume": 98900,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 33700,
+        "high": 34900,
+        "low": 33700,
+        "close": 34500,
+        "volume": 32400,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 34800,
+        "high": 35100,
+        "low": 34500,
+        "close": 35100,
+        "volume": 37100,
+        "ticker": "VLB"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 34900,
+        "high": 35500,
+        "low": 34900,
+        "close": 34900,
+        "volume": 25500,
+        "ticker": "VLB"
+    }
+]

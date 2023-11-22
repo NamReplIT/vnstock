@@ -1,0 +1,857 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 2630,
+        "high": 2660,
+        "low": 2600,
+        "close": 2610,
+        "volume": 753300,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 2630,
+        "high": 2630,
+        "low": 2570,
+        "close": 2600,
+        "volume": 797000,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 2580,
+        "high": 2580,
+        "low": 2500,
+        "close": 2530,
+        "volume": 2429300,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 2540,
+        "high": 2540,
+        "low": 2490,
+        "close": 2500,
+        "volume": 1033200,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 2500,
+        "high": 2640,
+        "low": 2500,
+        "close": 2610,
+        "volume": 1636800,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 2650,
+        "high": 2650,
+        "low": 2590,
+        "close": 2590,
+        "volume": 820100,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 2570,
+        "high": 2600,
+        "low": 2560,
+        "close": 2600,
+        "volume": 1265800,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 2670,
+        "high": 2690,
+        "low": 2600,
+        "close": 2600,
+        "volume": 1507400,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 2620,
+        "high": 2620,
+        "low": 2580,
+        "close": 2590,
+        "volume": 855000,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 2620,
+        "high": 2620,
+        "low": 2530,
+        "close": 2540,
+        "volume": 2460800,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 2510,
+        "high": 2510,
+        "low": 2440,
+        "close": 2490,
+        "volume": 2366800,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 2440,
+        "high": 2460,
+        "low": 2370,
+        "close": 2400,
+        "volume": 2128300,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 2430,
+        "high": 2530,
+        "low": 2400,
+        "close": 2490,
+        "volume": 1170500,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 2440,
+        "high": 2450,
+        "low": 2320,
+        "close": 2360,
+        "volume": 1758900,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 2370,
+        "high": 2400,
+        "low": 2260,
+        "close": 2290,
+        "volume": 1914200,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 2290,
+        "high": 2440,
+        "low": 2200,
+        "close": 2320,
+        "volume": 973600,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 2320,
+        "high": 2370,
+        "low": 2290,
+        "close": 2300,
+        "volume": 776400,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 2290,
+        "high": 2460,
+        "low": 2290,
+        "close": 2460,
+        "volume": 2602200,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 2460,
+        "high": 2600,
+        "low": 2420,
+        "close": 2420,
+        "volume": 1438600,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 2410,
+        "high": 2500,
+        "low": 2380,
+        "close": 2420,
+        "volume": 974600,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 2430,
+        "high": 2530,
+        "low": 2400,
+        "close": 2460,
+        "volume": 1299200,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 2550,
+        "high": 2550,
+        "low": 2430,
+        "close": 2440,
+        "volume": 1897500,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 2450,
+        "high": 2490,
+        "low": 2420,
+        "close": 2440,
+        "volume": 691800,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 2440,
+        "high": 2470,
+        "low": 2430,
+        "close": 2440,
+        "volume": 730000,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 2440,
+        "high": 2550,
+        "low": 2440,
+        "close": 2540,
+        "volume": 1891600,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 2540,
+        "high": 2710,
+        "low": 2540,
+        "close": 2710,
+        "volume": 3461800,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 2710,
+        "high": 2790,
+        "low": 2600,
+        "close": 2620,
+        "volume": 1103100,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 2620,
+        "high": 2620,
+        "low": 2440,
+        "close": 2550,
+        "volume": 1062900,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 2720,
+        "high": 2720,
+        "low": 2610,
+        "close": 2710,
+        "volume": 2719200,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 2710,
+        "high": 2720,
+        "low": 2530,
+        "close": 2650,
+        "volume": 1112000,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 2500,
+        "high": 2700,
+        "low": 2500,
+        "close": 2610,
+        "volume": 480400,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 2610,
+        "high": 2670,
+        "low": 2450,
+        "close": 2550,
+        "volume": 1019300,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 2550,
+        "high": 2550,
+        "low": 2400,
+        "close": 2480,
+        "volume": 473300,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 2440,
+        "high": 2550,
+        "low": 2440,
+        "close": 2510,
+        "volume": 267300,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 2510,
+        "high": 2630,
+        "low": 2510,
+        "close": 2580,
+        "volume": 739800,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 2490,
+        "high": 2510,
+        "low": 2400,
+        "close": 2450,
+        "volume": 2130300,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 2500,
+        "high": 2550,
+        "low": 2280,
+        "close": 2420,
+        "volume": 1400900,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 2400,
+        "high": 2400,
+        "low": 2260,
+        "close": 2340,
+        "volume": 1754600,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 2340,
+        "high": 2400,
+        "low": 2180,
+        "close": 2380,
+        "volume": 1666400,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 2400,
+        "high": 2400,
+        "low": 2230,
+        "close": 2320,
+        "volume": 1810500,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 2310,
+        "high": 2310,
+        "low": 2180,
+        "close": 2270,
+        "volume": 2388500,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 2270,
+        "high": 2270,
+        "low": 2150,
+        "close": 2220,
+        "volume": 2076600,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 2230,
+        "high": 2230,
+        "low": 2100,
+        "close": 2110,
+        "volume": 2860800,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 2120,
+        "high": 2180,
+        "low": 2000,
+        "close": 2160,
+        "volume": 2192900,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 2160,
+        "high": 2170,
+        "low": 2040,
+        "close": 2060,
+        "volume": 2313200,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 2060,
+        "high": 2060,
+        "low": 1940,
+        "close": 1980,
+        "volume": 2536200,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 1980,
+        "high": 1980,
+        "low": 1850,
+        "close": 1890,
+        "volume": 3694400,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 1910,
+        "high": 2009,
+        "low": 1780,
+        "close": 1830,
+        "volume": 2263100,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 1830,
+        "high": 1950,
+        "low": 1740,
+        "close": 1950,
+        "volume": 2979500,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 2050,
+        "high": 2080,
+        "low": 1860,
+        "close": 2080,
+        "volume": 2850500,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 2090,
+        "high": 2210,
+        "low": 2080,
+        "close": 2100,
+        "volume": 2392900,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 2110,
+        "high": 2110,
+        "low": 2020,
+        "close": 2040,
+        "volume": 1682600,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 2060,
+        "high": 2150,
+        "low": 2050,
+        "close": 2070,
+        "volume": 865500,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 2009,
+        "high": 2100,
+        "low": 2009,
+        "close": 2040,
+        "volume": 950100,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 2040,
+        "high": 2070,
+        "low": 2020,
+        "close": 2029,
+        "volume": 764900,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 2029,
+        "high": 2050,
+        "low": 1970,
+        "close": 1970,
+        "volume": 1431000,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 1970,
+        "high": 2029,
+        "low": 1970,
+        "close": 1970,
+        "volume": 968800,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 2100,
+        "high": 2100,
+        "low": 1990,
+        "close": 2029,
+        "volume": 1597300,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 2029,
+        "high": 2050,
+        "low": 2000,
+        "close": 2009,
+        "volume": 1139400,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 2009,
+        "high": 2029,
+        "low": 2000,
+        "close": 2020,
+        "volume": 790300,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 2020,
+        "high": 2140,
+        "low": 1960,
+        "close": 2070,
+        "volume": 1933300,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 2070,
+        "high": 2210,
+        "low": 2040,
+        "close": 2210,
+        "volume": 2515800,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 2210,
+        "high": 2350,
+        "low": 2210,
+        "close": 2260,
+        "volume": 1731600,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 2260,
+        "high": 2300,
+        "low": 2120,
+        "close": 2140,
+        "volume": 2095900,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 2160,
+        "high": 2190,
+        "low": 2050,
+        "close": 2160,
+        "volume": 899800,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 2160,
+        "high": 2190,
+        "low": 2100,
+        "close": 2120,
+        "volume": 1002600,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 2120,
+        "high": 2140,
+        "low": 1980,
+        "close": 2100,
+        "volume": 2394200,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 2120,
+        "high": 2240,
+        "low": 2120,
+        "close": 2240,
+        "volume": 3060600,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 2370,
+        "high": 2390,
+        "low": 2340,
+        "close": 2390,
+        "volume": 2851500,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 2520,
+        "high": 2550,
+        "low": 2480,
+        "close": 2550,
+        "volume": 1542100,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 2720,
+        "high": 2720,
+        "low": 2500,
+        "close": 2550,
+        "volume": 8608800,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 2570,
+        "high": 2570,
+        "low": 2380,
+        "close": 2480,
+        "volume": 3258300,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 2480,
+        "high": 2650,
+        "low": 2480,
+        "close": 2650,
+        "volume": 2897100,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 2760,
+        "high": 2800,
+        "low": 2640,
+        "close": 2690,
+        "volume": 3296000,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 2690,
+        "high": 2720,
+        "low": 2510,
+        "close": 2560,
+        "volume": 3049400,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-08-17",
+        "open": 2560,
+        "high": 2630,
+        "low": 2450,
+        "close": 2500,
+        "volume": 1502200,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 2500,
+        "high": 2500,
+        "low": 2330,
+        "close": 2330,
+        "volume": 3338400,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 2210,
+        "high": 2400,
+        "low": 2170,
+        "close": 2340,
+        "volume": 1797600,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 2340,
+        "high": 2420,
+        "low": 2200,
+        "close": 2380,
+        "volume": 1428600,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 2380,
+        "high": 2400,
+        "low": 2300,
+        "close": 2340,
+        "volume": 697300,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 2300,
+        "high": 2400,
+        "low": 2300,
+        "close": 2350,
+        "volume": 1071700,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 2350,
+        "high": 2360,
+        "low": 2250,
+        "close": 2290,
+        "volume": 1312500,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 2210,
+        "high": 2390,
+        "low": 2210,
+        "close": 2330,
+        "volume": 1049700,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 2250,
+        "high": 2350,
+        "low": 2250,
+        "close": 2330,
+        "volume": 658200,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 2330,
+        "high": 2330,
+        "low": 2270,
+        "close": 2300,
+        "volume": 1454400,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 2310,
+        "high": 2390,
+        "low": 2300,
+        "close": 2360,
+        "volume": 1549000,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 2370,
+        "high": 2520,
+        "low": 2370,
+        "close": 2520,
+        "volume": 2117300,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 2520,
+        "high": 2680,
+        "low": 2520,
+        "close": 2590,
+        "volume": 2631400,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 2650,
+        "high": 2650,
+        "low": 2460,
+        "close": 2470,
+        "volume": 2215100,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 2460,
+        "high": 2550,
+        "low": 2460,
+        "close": 2520,
+        "volume": 1864900,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 2350,
+        "high": 2380,
+        "low": 2350,
+        "close": 2350,
+        "volume": 305800,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 2190,
+        "high": 2190,
+        "low": 2190,
+        "close": 2190,
+        "volume": 323100,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 2040,
+        "high": 2040,
+        "low": 2040,
+        "close": 2040,
+        "volume": 161900,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 1900,
+        "high": 1900,
+        "low": 1900,
+        "close": 1900,
+        "volume": 283600,
+        "ticker": "IBC"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 1770,
+        "high": 1770,
+        "low": 1770,
+        "close": 1770,
+        "volume": 1889700,
+        "ticker": "IBC"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "time": "2023-05-09",
+        "open": 9440,
+        "high": 10390,
+        "low": 9440,
+        "close": 10390,
+        "volume": 42500,
+        "ticker": "LBC"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 10960,
+        "high": 10960,
+        "low": 10960,
+        "close": 10960,
+        "volume": 100,
+        "ticker": "LBC"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 15300,
+        "high": 15300,
+        "low": 15300,
+        "close": 15300,
+        "volume": 100,
+        "ticker": "LBC"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 17500,
+        "high": 17500,
+        "low": 17500,
+        "close": 17500,
+        "volume": 100,
+        "ticker": "LBC"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 16000,
+        "high": 16000,
+        "low": 16000,
+        "close": 16000,
+        "volume": 100,
+        "ticker": "LBC"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 18400,
+        "high": 18400,
+        "low": 18400,
+        "close": 18400,
+        "volume": 100,
+        "ticker": "LBC"
+    }
+]

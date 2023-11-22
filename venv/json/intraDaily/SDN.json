@@ -1,0 +1,398 @@
+[
+    {
+        "time": "2023-05-23",
+        "open": 21340,
+        "high": 21340,
+        "low": 21340,
+        "close": 21340,
+        "volume": 300,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 23470,
+        "high": 23470,
+        "low": 23470,
+        "close": 23470,
+        "volume": 600,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 24660,
+        "high": 25790,
+        "low": 24660,
+        "close": 25790,
+        "volume": 400,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 25790,
+        "high": 25790,
+        "low": 25790,
+        "close": 25790,
+        "volume": 100,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 25790,
+        "high": 25790,
+        "low": 25790,
+        "close": 25790,
+        "volume": 100,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 23230,
+        "high": 23230,
+        "low": 23230,
+        "close": 23230,
+        "volume": 600,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 20910,
+        "high": 20910,
+        "low": 20910,
+        "close": 20910,
+        "volume": 100,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 23000,
+        "high": 23000,
+        "low": 21620,
+        "close": 21620,
+        "volume": 400,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 21810,
+        "high": 22760,
+        "low": 21810,
+        "close": 22760,
+        "volume": 300,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 20480,
+        "high": 20480,
+        "low": 20480,
+        "close": 20480,
+        "volume": 100,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 18540,
+        "high": 22520,
+        "low": 18540,
+        "close": 22520,
+        "volume": 800,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 24750,
+        "high": 24750,
+        "low": 24750,
+        "close": 24750,
+        "volume": 2000,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 27200,
+        "high": 27200,
+        "low": 27200,
+        "close": 27200,
+        "volume": 9400,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 29900,
+        "high": 29900,
+        "low": 29900,
+        "close": 29900,
+        "volume": 5600,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 30000,
+        "high": 30000,
+        "low": 27200,
+        "close": 27200,
+        "volume": 1600,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 27200,
+        "high": 27300,
+        "low": 27200,
+        "close": 27200,
+        "volume": 1000,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 27200,
+        "high": 29400,
+        "low": 27200,
+        "close": 29400,
+        "volume": 300,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 29000,
+        "high": 30000,
+        "low": 28800,
+        "close": 29900,
+        "volume": 3300,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 30000,
+        "high": 31000,
+        "low": 30000,
+        "close": 30000,
+        "volume": 800,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 30500,
+        "high": 30500,
+        "low": 30500,
+        "close": 30500,
+        "volume": 700,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 30500,
+        "high": 31000,
+        "low": 30500,
+        "close": 30900,
+        "volume": 1600,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 30000,
+        "high": 30000,
+        "low": 30000,
+        "close": 30000,
+        "volume": 300,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 27500,
+        "high": 27500,
+        "low": 27500,
+        "close": 27500,
+        "volume": 600,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 27500,
+        "high": 27500,
+        "low": 27500,
+        "close": 27500,
+        "volume": 200,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 30000,
+        "high": 30000,
+        "low": 30000,
+        "close": 30000,
+        "volume": 100,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 32500,
+        "high": 32500,
+        "low": 32500,
+        "close": 32500,
+        "volume": 200,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 29500,
+        "high": 29500,
+        "low": 29500,
+        "close": 29500,
+        "volume": 1300,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 32400,
+        "high": 32400,
+        "low": 26800,
+        "close": 26800,
+        "volume": 1900,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 26800,
+        "high": 26800,
+        "low": 26800,
+        "close": 26800,
+        "volume": 500,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 29400,
+        "high": 29400,
+        "low": 29400,
+        "close": 29400,
+        "volume": 100,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 31000,
+        "high": 31000,
+        "low": 31000,
+        "close": 31000,
+        "volume": 200,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 31000,
+        "high": 31000,
+        "low": 31000,
+        "close": 31000,
+        "volume": 100,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 31000,
+        "high": 31000,
+        "low": 31000,
+        "close": 31000,
+        "volume": 200,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 30000,
+        "high": 30000,
+        "low": 30000,
+        "close": 30000,
+        "volume": 1000,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 30500,
+        "high": 30500,
+        "low": 30500,
+        "close": 30500,
+        "volume": 300,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 28000,
+        "high": 28500,
+        "low": 28000,
+        "close": 28000,
+        "volume": 700,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 28500,
+        "high": 28500,
+        "low": 28500,
+        "close": 28500,
+        "volume": 1600,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 28500,
+        "high": 28500,
+        "low": 28200,
+        "close": 28200,
+        "volume": 1700,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 28200,
+        "high": 28200,
+        "low": 28200,
+        "close": 28200,
+        "volume": 100,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 25500,
+        "high": 25500,
+        "low": 25400,
+        "close": 25400,
+        "volume": 14600,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 27700,
+        "high": 27800,
+        "low": 26500,
+        "close": 26500,
+        "volume": 1200,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 26900,
+        "high": 27500,
+        "low": 26500,
+        "close": 27500,
+        "volume": 6300,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 25600,
+        "high": 27000,
+        "low": 25600,
+        "close": 27000,
+        "volume": 200,
+        "ticker": "SDN"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 27500,
+        "high": 27500,
+        "low": 25500,
+        "close": 25500,
+        "volume": 800,
+        "ticker": "SDN"
+    }
+]

@@ -1,0 +1,1289 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 74070,
+        "high": 74630,
+        "low": 73670,
+        "close": 73990,
+        "volume": 204200,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 73990,
+        "high": 74320,
+        "low": 73670,
+        "close": 73670,
+        "volume": 153000,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 74150,
+        "high": 74870,
+        "low": 74150,
+        "close": 74800,
+        "volume": 244200,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 75200,
+        "high": 76170,
+        "low": 75200,
+        "close": 75680,
+        "volume": 262800,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 76080,
+        "high": 76080,
+        "low": 74630,
+        "close": 74870,
+        "volume": 237500,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 75200,
+        "high": 75440,
+        "low": 74150,
+        "close": 74390,
+        "volume": 385400,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 73990,
+        "high": 74630,
+        "low": 73990,
+        "close": 74390,
+        "volume": 244400,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 74800,
+        "high": 75520,
+        "low": 74230,
+        "close": 74230,
+        "volume": 366200,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 74800,
+        "high": 74960,
+        "low": 74150,
+        "close": 74150,
+        "volume": 233100,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 74390,
+        "high": 74800,
+        "low": 73830,
+        "close": 73830,
+        "volume": 282500,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 73990,
+        "high": 75200,
+        "low": 73830,
+        "close": 75120,
+        "volume": 480900,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 74960,
+        "high": 76810,
+        "low": 74870,
+        "close": 75760,
+        "volume": 817500,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 76810,
+        "high": 76890,
+        "low": 75600,
+        "close": 76000,
+        "volume": 298400,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 76320,
+        "high": 76320,
+        "low": 74870,
+        "close": 75200,
+        "volume": 397800,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 75360,
+        "high": 75360,
+        "low": 74390,
+        "close": 74390,
+        "volume": 413900,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 74800,
+        "high": 76240,
+        "low": 74390,
+        "close": 76170,
+        "volume": 611300,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 76720,
+        "high": 76720,
+        "low": 75200,
+        "close": 75360,
+        "volume": 428800,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 75600,
+        "high": 75920,
+        "low": 75200,
+        "close": 75440,
+        "volume": 415700,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 75440,
+        "high": 75600,
+        "low": 74630,
+        "close": 74720,
+        "volume": 586500,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 74630,
+        "high": 74960,
+        "low": 74630,
+        "close": 74630,
+        "volume": 405400,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 75200,
+        "high": 75200,
+        "low": 73990,
+        "close": 73990,
+        "volume": 548100,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 74230,
+        "high": 74630,
+        "low": 73990,
+        "close": 73990,
+        "volume": 574800,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 74470,
+        "high": 75600,
+        "low": 74470,
+        "close": 75600,
+        "volume": 521600,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 76000,
+        "high": 77050,
+        "low": 75840,
+        "close": 76480,
+        "volume": 837700,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 76570,
+        "high": 76810,
+        "low": 75440,
+        "close": 76000,
+        "volume": 706700,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 76410,
+        "high": 76570,
+        "low": 75040,
+        "close": 75270,
+        "volume": 632000,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 75270,
+        "high": 75680,
+        "low": 74960,
+        "close": 75360,
+        "volume": 288800,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 75920,
+        "high": 75920,
+        "low": 74720,
+        "close": 75520,
+        "volume": 490200,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 75840,
+        "high": 75920,
+        "low": 75270,
+        "close": 75600,
+        "volume": 582100,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 75680,
+        "high": 76970,
+        "low": 75680,
+        "close": 76080,
+        "volume": 760100,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 76320,
+        "high": 78660,
+        "low": 76170,
+        "close": 77690,
+        "volume": 1299100,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 78170,
+        "high": 78330,
+        "low": 76810,
+        "close": 76810,
+        "volume": 589800,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 76970,
+        "high": 77930,
+        "low": 76570,
+        "close": 76570,
+        "volume": 637900,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 76570,
+        "high": 77610,
+        "low": 76240,
+        "close": 77610,
+        "volume": 508200,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 77610,
+        "high": 77610,
+        "low": 76650,
+        "close": 77050,
+        "volume": 483500,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 77050,
+        "high": 77610,
+        "low": 76810,
+        "close": 76890,
+        "volume": 812800,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 77450,
+        "high": 77450,
+        "low": 76410,
+        "close": 76570,
+        "volume": 628300,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 76570,
+        "high": 77450,
+        "low": 76480,
+        "close": 77210,
+        "volume": 942400,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 77770,
+        "high": 78020,
+        "low": 77210,
+        "close": 77450,
+        "volume": 510600,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 77930,
+        "high": 77930,
+        "low": 76720,
+        "close": 76720,
+        "volume": 762500,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 76810,
+        "high": 77050,
+        "low": 76080,
+        "close": 76080,
+        "volume": 710100,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 76080,
+        "high": 76410,
+        "low": 74800,
+        "close": 74800,
+        "volume": 681400,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 75440,
+        "high": 76000,
+        "low": 75270,
+        "close": 75600,
+        "volume": 380900,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 75920,
+        "high": 76720,
+        "low": 75680,
+        "close": 76480,
+        "volume": 498400,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 76650,
+        "high": 76650,
+        "low": 75840,
+        "close": 75840,
+        "volume": 410400,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 76410,
+        "high": 77610,
+        "low": 76170,
+        "close": 76570,
+        "volume": 1374300,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 76970,
+        "high": 77690,
+        "low": 76650,
+        "close": 77210,
+        "volume": 672500,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 77610,
+        "high": 78500,
+        "low": 77530,
+        "close": 78420,
+        "volume": 1125900,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 78660,
+        "high": 78820,
+        "low": 78020,
+        "close": 78170,
+        "volume": 719600,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 78500,
+        "high": 78500,
+        "low": 77370,
+        "close": 77610,
+        "volume": 568500,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 78020,
+        "high": 80110,
+        "low": 77690,
+        "close": 79870,
+        "volume": 1368300,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 80020,
+        "high": 80820,
+        "low": 79220,
+        "close": 79620,
+        "volume": 695200,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 79700,
+        "high": 79780,
+        "low": 78900,
+        "close": 79620,
+        "volume": 514100,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 79620,
+        "high": 80750,
+        "low": 79220,
+        "close": 80270,
+        "volume": 742300,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 80670,
+        "high": 80670,
+        "low": 79540,
+        "close": 79540,
+        "volume": 526000,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 79380,
+        "high": 79780,
+        "low": 78420,
+        "close": 79380,
+        "volume": 562600,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 79380,
+        "high": 79940,
+        "low": 78900,
+        "close": 79940,
+        "volume": 532600,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 80180,
+        "high": 80350,
+        "low": 79140,
+        "close": 79220,
+        "volume": 539100,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 79460,
+        "high": 80110,
+        "low": 79220,
+        "close": 79460,
+        "volume": 413300,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 79460,
+        "high": 79460,
+        "low": 78970,
+        "close": 78970,
+        "volume": 390200,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 79220,
+        "high": 79460,
+        "low": 78900,
+        "close": 78970,
+        "volume": 468200,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 78820,
+        "high": 80110,
+        "low": 78820,
+        "close": 80020,
+        "volume": 537300,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 80510,
+        "high": 82520,
+        "low": 80510,
+        "close": 81720,
+        "volume": 1189900,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 82270,
+        "high": 82270,
+        "low": 80990,
+        "close": 80990,
+        "volume": 608900,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 81230,
+        "high": 81720,
+        "low": 80350,
+        "close": 80750,
+        "volume": 330500,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 80750,
+        "high": 80820,
+        "low": 80110,
+        "close": 80110,
+        "volume": 451000,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 80110,
+        "high": 81150,
+        "low": 79940,
+        "close": 80670,
+        "volume": 544800,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 81470,
+        "high": 81470,
+        "low": 80350,
+        "close": 81150,
+        "volume": 351200,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 81150,
+        "high": 81550,
+        "low": 80910,
+        "close": 81390,
+        "volume": 529700,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 81550,
+        "high": 81550,
+        "low": 80910,
+        "close": 81230,
+        "volume": 371500,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 81960,
+        "high": 83400,
+        "low": 81630,
+        "close": 82030,
+        "volume": 771900,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 81870,
+        "high": 82030,
+        "low": 80990,
+        "close": 81630,
+        "volume": 344200,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 81720,
+        "high": 81960,
+        "low": 80820,
+        "close": 80910,
+        "volume": 549300,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 80990,
+        "high": 80990,
+        "low": 80510,
+        "close": 80750,
+        "volume": 326400,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 80750,
+        "high": 81550,
+        "low": 80420,
+        "close": 80580,
+        "volume": 403400,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-08-17",
+        "open": 80420,
+        "high": 81230,
+        "low": 80110,
+        "close": 80420,
+        "volume": 416400,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 80350,
+        "high": 80350,
+        "low": 78500,
+        "close": 78500,
+        "volume": 905200,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 79300,
+        "high": 79940,
+        "low": 78900,
+        "close": 79700,
+        "volume": 451700,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 80020,
+        "high": 81230,
+        "low": 79620,
+        "close": 80670,
+        "volume": 598300,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 80670,
+        "high": 82120,
+        "low": 80670,
+        "close": 81960,
+        "volume": 724300,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 82430,
+        "high": 82430,
+        "low": 81960,
+        "close": 82360,
+        "volume": 553400,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 82360,
+        "high": 82360,
+        "low": 81230,
+        "close": 81550,
+        "volume": 539600,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 82270,
+        "high": 83480,
+        "low": 81870,
+        "close": 83000,
+        "volume": 687500,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 84170,
+        "high": 84170,
+        "low": 82830,
+        "close": 83250,
+        "volume": 543100,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 83330,
+        "high": 83330,
+        "low": 82330,
+        "close": 82750,
+        "volume": 426600,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 82750,
+        "high": 82920,
+        "low": 82170,
+        "close": 82170,
+        "volume": 573700,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 83500,
+        "high": 83500,
+        "low": 82250,
+        "close": 83000,
+        "volume": 420600,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 83250,
+        "high": 84830,
+        "low": 83080,
+        "close": 84580,
+        "volume": 547900,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 84500,
+        "high": 86000,
+        "low": 83830,
+        "close": 85750,
+        "volume": 911900,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 85750,
+        "high": 86080,
+        "low": 85170,
+        "close": 85170,
+        "volume": 548900,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 86250,
+        "high": 86250,
+        "low": 84250,
+        "close": 84500,
+        "volume": 371800,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 85170,
+        "high": 86330,
+        "low": 84250,
+        "close": 85580,
+        "volume": 588800,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 85920,
+        "high": 88580,
+        "low": 85580,
+        "close": 88000,
+        "volume": 1296300,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 88000,
+        "high": 89920,
+        "low": 87080,
+        "close": 88330,
+        "volume": 552900,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 89170,
+        "high": 91420,
+        "low": 88420,
+        "close": 91330,
+        "volume": 793000,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 91580,
+        "high": 93250,
+        "low": 90000,
+        "close": 90830,
+        "volume": 469500,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 90830,
+        "high": 92500,
+        "low": 89670,
+        "close": 91670,
+        "volume": 404100,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 91670,
+        "high": 91670,
+        "low": 90330,
+        "close": 90830,
+        "volume": 428400,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 90500,
+        "high": 90830,
+        "low": 88750,
+        "close": 88750,
+        "volume": 774100,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 89900,
+        "high": 91000,
+        "low": 88800,
+        "close": 90900,
+        "volume": 730800,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 90900,
+        "high": 92000,
+        "low": 89000,
+        "close": 89500,
+        "volume": 507700,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 89500,
+        "high": 90200,
+        "low": 88800,
+        "close": 88800,
+        "volume": 441600,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 89000,
+        "high": 89500,
+        "low": 86000,
+        "close": 88900,
+        "volume": 570500,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 89800,
+        "high": 91500,
+        "low": 88900,
+        "close": 91500,
+        "volume": 924000,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 91700,
+        "high": 91700,
+        "low": 89500,
+        "close": 90700,
+        "volume": 596500,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 90500,
+        "high": 90500,
+        "low": 88900,
+        "close": 89300,
+        "volume": 289100,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 88800,
+        "high": 88800,
+        "low": 86000,
+        "close": 86300,
+        "volume": 546000,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 86000,
+        "high": 86500,
+        "low": 85800,
+        "close": 85800,
+        "volume": 603600,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 85700,
+        "high": 85800,
+        "low": 84200,
+        "close": 84200,
+        "volume": 589900,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 84100,
+        "high": 84200,
+        "low": 83000,
+        "close": 84200,
+        "volume": 350400,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 86500,
+        "high": 87300,
+        "low": 85500,
+        "close": 86600,
+        "volume": 514800,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 87200,
+        "high": 88200,
+        "low": 85400,
+        "close": 86400,
+        "volume": 986100,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 87000,
+        "high": 87500,
+        "low": 85500,
+        "close": 86000,
+        "volume": 658700,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 86400,
+        "high": 86400,
+        "low": 85000,
+        "close": 86000,
+        "volume": 639900,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 85100,
+        "high": 86000,
+        "low": 84400,
+        "close": 85800,
+        "volume": 431800,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 86500,
+        "high": 87900,
+        "low": 86500,
+        "close": 86900,
+        "volume": 874500,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 86700,
+        "high": 86900,
+        "low": 85200,
+        "close": 85200,
+        "volume": 454400,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 85000,
+        "high": 85100,
+        "low": 81500,
+        "close": 83000,
+        "volume": 792800,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 83000,
+        "high": 83500,
+        "low": 81900,
+        "close": 81900,
+        "volume": 638800,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 82200,
+        "high": 83200,
+        "low": 80000,
+        "close": 83200,
+        "volume": 812700,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 83300,
+        "high": 83300,
+        "low": 80400,
+        "close": 80600,
+        "volume": 467400,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 81000,
+        "high": 81300,
+        "low": 80000,
+        "close": 81200,
+        "volume": 348400,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 81000,
+        "high": 81400,
+        "low": 80400,
+        "close": 80400,
+        "volume": 329400,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 77800,
+        "high": 80000,
+        "low": 75500,
+        "close": 75500,
+        "volume": 1072900,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 76500,
+        "high": 78500,
+        "low": 75600,
+        "close": 77600,
+        "volume": 377800,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 77600,
+        "high": 77700,
+        "low": 76500,
+        "close": 76600,
+        "volume": 256600,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 76600,
+        "high": 77100,
+        "low": 76000,
+        "close": 76600,
+        "volume": 355200,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 77500,
+        "high": 77500,
+        "low": 76300,
+        "close": 76900,
+        "volume": 296600,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 77300,
+        "high": 79200,
+        "low": 76900,
+        "close": 79200,
+        "volume": 444700,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 79400,
+        "high": 79700,
+        "low": 78300,
+        "close": 79100,
+        "volume": 455300,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 79100,
+        "high": 79100,
+        "low": 78000,
+        "close": 79000,
+        "volume": 415200,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 79000,
+        "high": 80400,
+        "low": 78500,
+        "close": 78800,
+        "volume": 309800,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 78100,
+        "high": 80000,
+        "low": 78000,
+        "close": 80000,
+        "volume": 504300,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 80000,
+        "high": 80400,
+        "low": 79000,
+        "close": 80000,
+        "volume": 628100,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 79000,
+        "high": 80000,
+        "low": 78500,
+        "close": 78700,
+        "volume": 525700,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 79000,
+        "high": 79500,
+        "low": 78600,
+        "close": 79000,
+        "volume": 306300,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 79300,
+        "high": 79700,
+        "low": 78500,
+        "close": 79100,
+        "volume": 445500,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 79600,
+        "high": 80700,
+        "low": 79600,
+        "close": 80100,
+        "volume": 823800,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 79900,
+        "high": 80000,
+        "low": 79000,
+        "close": 80000,
+        "volume": 652000,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 79600,
+        "high": 79700,
+        "low": 78300,
+        "close": 78700,
+        "volume": 778800,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 77700,
+        "high": 78900,
+        "low": 77600,
+        "close": 78300,
+        "volume": 572600,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 78800,
+        "high": 79100,
+        "low": 78300,
+        "close": 79000,
+        "volume": 379300,
+        "ticker": "GAS"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 79000,
+        "high": 79300,
+        "low": 78400,
+        "close": 79000,
+        "volume": 481600,
+        "ticker": "GAS"
+    }
+]

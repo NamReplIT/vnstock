@@ -1,0 +1,1289 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 14750,
+        "high": 15150,
+        "low": 14750,
+        "close": 14950,
+        "volume": 12038500,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 14900,
+        "high": 15050,
+        "low": 14750,
+        "close": 14800,
+        "volume": 8094300,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 14850,
+        "high": 15150,
+        "low": 14850,
+        "close": 15100,
+        "volume": 14631200,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 15150,
+        "high": 15200,
+        "low": 15000,
+        "close": 15050,
+        "volume": 8342800,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 15150,
+        "high": 15400,
+        "low": 15150,
+        "close": 15300,
+        "volume": 18072500,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 15400,
+        "high": 15800,
+        "low": 15350,
+        "close": 15550,
+        "volume": 23554600,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 15550,
+        "high": 15850,
+        "low": 15400,
+        "close": 15850,
+        "volume": 21091900,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 16000,
+        "high": 16100,
+        "low": 15500,
+        "close": 15500,
+        "volume": 19120900,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 15500,
+        "high": 15800,
+        "low": 15450,
+        "close": 15550,
+        "volume": 14297600,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 15550,
+        "high": 15700,
+        "low": 15300,
+        "close": 15350,
+        "volume": 13795300,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 15350,
+        "high": 15800,
+        "low": 15250,
+        "close": 15650,
+        "volume": 18091900,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 15600,
+        "high": 16250,
+        "low": 15500,
+        "close": 16050,
+        "volume": 70040896,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 16250,
+        "high": 16500,
+        "low": 16100,
+        "close": 16200,
+        "volume": 23725600,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 16300,
+        "high": 16700,
+        "low": 16200,
+        "close": 16450,
+        "volume": 46123000,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 16700,
+        "high": 16700,
+        "low": 16100,
+        "close": 16100,
+        "volume": 38542400,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 16000,
+        "high": 16149,
+        "low": 15800,
+        "close": 15850,
+        "volume": 26764400,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 15950,
+        "high": 16200,
+        "low": 15850,
+        "close": 15950,
+        "volume": 17484300,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 16200,
+        "high": 17050,
+        "low": 16149,
+        "close": 17050,
+        "volume": 44832300,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 17250,
+        "high": 17450,
+        "low": 17050,
+        "close": 17400,
+        "volume": 40638900,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 17400,
+        "high": 17850,
+        "low": 17250,
+        "close": 17500,
+        "volume": 38028200,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 17500,
+        "high": 18300,
+        "low": 17300,
+        "close": 18200,
+        "volume": 36679200,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 18350,
+        "high": 18650,
+        "low": 18100,
+        "close": 18300,
+        "volume": 29896200,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 18600,
+        "high": 18600,
+        "low": 17950,
+        "close": 18050,
+        "volume": 38173900,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 18050,
+        "high": 19300,
+        "low": 17950,
+        "close": 19300,
+        "volume": 52221900,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 19450,
+        "high": 19450,
+        "low": 19000,
+        "close": 19250,
+        "volume": 28297100,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 19200,
+        "high": 19500,
+        "low": 18100,
+        "close": 18100,
+        "volume": 66280900,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 18300,
+        "high": 19000,
+        "low": 18100,
+        "close": 18950,
+        "volume": 43027600,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 19000,
+        "high": 19050,
+        "low": 18350,
+        "close": 18850,
+        "volume": 24092800,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 18950,
+        "high": 19050,
+        "low": 18600,
+        "close": 18650,
+        "volume": 25972900,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 18800,
+        "high": 19150,
+        "low": 18650,
+        "close": 18700,
+        "volume": 38785500,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 18700,
+        "high": 19100,
+        "low": 18650,
+        "close": 19100,
+        "volume": 34126000,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 19400,
+        "high": 20400,
+        "low": 19350,
+        "close": 19400,
+        "volume": 69373800,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 19600,
+        "high": 19750,
+        "low": 19200,
+        "close": 19200,
+        "volume": 28655600,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 19200,
+        "high": 19600,
+        "low": 18850,
+        "close": 19600,
+        "volume": 29629400,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 19650,
+        "high": 19950,
+        "low": 19500,
+        "close": 19750,
+        "volume": 28166700,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 19850,
+        "high": 20000,
+        "low": 19500,
+        "close": 19650,
+        "volume": 27516000,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 19650,
+        "high": 19900,
+        "low": 19400,
+        "close": 19700,
+        "volume": 30938600,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 19650,
+        "high": 19700,
+        "low": 18900,
+        "close": 19350,
+        "volume": 33576600,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 19450,
+        "high": 19700,
+        "low": 19300,
+        "close": 19650,
+        "volume": 16762000,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 19900,
+        "high": 20100,
+        "low": 19550,
+        "close": 19550,
+        "volume": 28426500,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 19550,
+        "high": 19600,
+        "low": 18800,
+        "close": 18800,
+        "volume": 29421100,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 18800,
+        "high": 19150,
+        "low": 18700,
+        "close": 18900,
+        "volume": 18360900,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 19100,
+        "high": 19150,
+        "low": 18800,
+        "close": 18850,
+        "volume": 10496700,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 18800,
+        "high": 19600,
+        "low": 18800,
+        "close": 19600,
+        "volume": 28225000,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 19700,
+        "high": 19800,
+        "low": 19300,
+        "close": 19300,
+        "volume": 20031400,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 19250,
+        "high": 19550,
+        "low": 17950,
+        "close": 18050,
+        "volume": 105878000,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 17800,
+        "high": 17950,
+        "low": 16950,
+        "close": 17700,
+        "volume": 49832700,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 17700,
+        "high": 18250,
+        "low": 17550,
+        "close": 17750,
+        "volume": 39486900,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 17700,
+        "high": 18100,
+        "low": 17600,
+        "close": 17900,
+        "volume": 32380300,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 18000,
+        "high": 18050,
+        "low": 17450,
+        "close": 17600,
+        "volume": 30794100,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 17800,
+        "high": 18100,
+        "low": 17650,
+        "close": 17950,
+        "volume": 25381100,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 18100,
+        "high": 18600,
+        "low": 18000,
+        "close": 18500,
+        "volume": 43607100,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 18700,
+        "high": 18700,
+        "low": 18200,
+        "close": 18300,
+        "volume": 21385200,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 18300,
+        "high": 18550,
+        "low": 18100,
+        "close": 18400,
+        "volume": 17152400,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 18550,
+        "high": 18550,
+        "low": 18100,
+        "close": 18100,
+        "volume": 18241200,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 18150,
+        "high": 18200,
+        "low": 17900,
+        "close": 18150,
+        "volume": 14067000,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 18300,
+        "high": 18950,
+        "low": 18200,
+        "close": 18800,
+        "volume": 41503400,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 19100,
+        "high": 19200,
+        "low": 18850,
+        "close": 19050,
+        "volume": 27174400,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 19250,
+        "high": 19250,
+        "low": 18750,
+        "close": 18900,
+        "volume": 25340100,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 18950,
+        "high": 19500,
+        "low": 18600,
+        "close": 19300,
+        "volume": 35822000,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 19400,
+        "high": 19700,
+        "low": 19150,
+        "close": 19400,
+        "volume": 30810700,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 19450,
+        "high": 20400,
+        "low": 19450,
+        "close": 20300,
+        "volume": 55127200,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 20550,
+        "high": 21000,
+        "low": 20150,
+        "close": 20800,
+        "volume": 35281500,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 20800,
+        "high": 20850,
+        "low": 20000,
+        "close": 20000,
+        "volume": 39027900,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 20000,
+        "high": 20500,
+        "low": 19900,
+        "close": 20200,
+        "volume": 29558400,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 20000,
+        "high": 20400,
+        "low": 19700,
+        "close": 19800,
+        "volume": 47190400,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 20000,
+        "high": 20650,
+        "low": 19800,
+        "close": 20600,
+        "volume": 26520700,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 20750,
+        "high": 21200,
+        "low": 20550,
+        "close": 20550,
+        "volume": 31062700,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 20700,
+        "high": 20750,
+        "low": 20050,
+        "close": 20100,
+        "volume": 34357400,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 20100,
+        "high": 20400,
+        "low": 19900,
+        "close": 20000,
+        "volume": 23282400,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 20050,
+        "high": 20300,
+        "low": 19900,
+        "close": 20100,
+        "volume": 19454500,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 20200,
+        "high": 20300,
+        "low": 19750,
+        "close": 20050,
+        "volume": 24692600,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 20400,
+        "high": 21450,
+        "low": 20300,
+        "close": 21400,
+        "volume": 58772200,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 21450,
+        "high": 21500,
+        "low": 21050,
+        "close": 21100,
+        "volume": 24631000,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 21000,
+        "high": 21300,
+        "low": 20800,
+        "close": 21300,
+        "volume": 26656900,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-08-17",
+        "open": 21600,
+        "high": 22200,
+        "low": 21500,
+        "close": 21500,
+        "volume": 44622600,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 21250,
+        "high": 21600,
+        "low": 20000,
+        "close": 20000,
+        "volume": 59562700,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 20450,
+        "high": 20800,
+        "low": 19800,
+        "close": 20450,
+        "volume": 33874100,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 20500,
+        "high": 21050,
+        "low": 19550,
+        "close": 21000,
+        "volume": 42746200,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 21300,
+        "high": 21300,
+        "low": 20550,
+        "close": 20550,
+        "volume": 22115400,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 20700,
+        "high": 21300,
+        "low": 20500,
+        "close": 21300,
+        "volume": 29763700,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 21350,
+        "high": 22200,
+        "low": 21150,
+        "close": 21850,
+        "volume": 50310900,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 22000,
+        "high": 22400,
+        "low": 21900,
+        "close": 22200,
+        "volume": 24772000,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 22400,
+        "high": 22800,
+        "low": 22000,
+        "close": 22400,
+        "volume": 39291500,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 22500,
+        "high": 23500,
+        "low": 22250,
+        "close": 23500,
+        "volume": 34463800,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 23550,
+        "high": 23800,
+        "low": 23300,
+        "close": 23500,
+        "volume": 22510400,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 23700,
+        "high": 23850,
+        "low": 23300,
+        "close": 23500,
+        "volume": 28257300,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 23500,
+        "high": 24450,
+        "low": 23200,
+        "close": 24000,
+        "volume": 26247600,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 24200,
+        "high": 24250,
+        "low": 23700,
+        "close": 23800,
+        "volume": 21155800,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 23600,
+        "high": 24100,
+        "low": 23550,
+        "close": 23650,
+        "volume": 21522800,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 23800,
+        "high": 24200,
+        "low": 23400,
+        "close": 23400,
+        "volume": 36118900,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 23400,
+        "high": 25000,
+        "low": 23350,
+        "close": 25000,
+        "volume": 35217500,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 25150,
+        "high": 25250,
+        "low": 24450,
+        "close": 24500,
+        "volume": 33593700,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 24500,
+        "high": 24700,
+        "low": 24000,
+        "close": 24150,
+        "volume": 33324500,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 24300,
+        "high": 24500,
+        "low": 23800,
+        "close": 24000,
+        "volume": 21080500,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 23950,
+        "high": 24750,
+        "low": 23750,
+        "close": 24550,
+        "volume": 29090800,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 24850,
+        "high": 24900,
+        "low": 24100,
+        "close": 24750,
+        "volume": 20807300,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 24800,
+        "high": 25600,
+        "low": 24700,
+        "close": 25250,
+        "volume": 25563500,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 25200,
+        "high": 25300,
+        "low": 24200,
+        "close": 24200,
+        "volume": 36158000,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 23300,
+        "high": 23700,
+        "low": 22550,
+        "close": 22550,
+        "volume": 56054300,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 22400,
+        "high": 22700,
+        "low": 21000,
+        "close": 21000,
+        "volume": 38976200,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 21000,
+        "high": 22100,
+        "low": 20650,
+        "close": 20650,
+        "volume": 40831100,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 21000,
+        "high": 21850,
+        "low": 20350,
+        "close": 21850,
+        "volume": 25993600,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 21700,
+        "high": 21800,
+        "low": 20850,
+        "close": 21050,
+        "volume": 26177400,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 21300,
+        "high": 21550,
+        "low": 20800,
+        "close": 21000,
+        "volume": 17393000,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 21000,
+        "high": 21500,
+        "low": 21000,
+        "close": 21100,
+        "volume": 12289000,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 20850,
+        "high": 20850,
+        "low": 19650,
+        "close": 19650,
+        "volume": 41976600,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 19000,
+        "high": 20900,
+        "low": 19000,
+        "close": 20350,
+        "volume": 31617000,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 20600,
+        "high": 20650,
+        "low": 19550,
+        "close": 19550,
+        "volume": 18537600,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 19600,
+        "high": 20900,
+        "low": 19450,
+        "close": 20900,
+        "volume": 34766100,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 20900,
+        "high": 21850,
+        "low": 20800,
+        "close": 21600,
+        "volume": 22737700,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 21950,
+        "high": 21950,
+        "low": 21350,
+        "close": 21400,
+        "volume": 25676900,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 21500,
+        "high": 22200,
+        "low": 21350,
+        "close": 22200,
+        "volume": 22409200,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 22300,
+        "high": 22500,
+        "low": 21900,
+        "close": 22050,
+        "volume": 24575400,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 21800,
+        "high": 22200,
+        "low": 21450,
+        "close": 22000,
+        "volume": 22594900,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 22000,
+        "high": 22000,
+        "low": 20900,
+        "close": 20950,
+        "volume": 27909300,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 21100,
+        "high": 21500,
+        "low": 20000,
+        "close": 20000,
+        "volume": 18442000,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 20300,
+        "high": 20750,
+        "low": 19000,
+        "close": 20150,
+        "volume": 29535800,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 20100,
+        "high": 20400,
+        "low": 19050,
+        "close": 19150,
+        "volume": 23335900,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 19150,
+        "high": 20000,
+        "low": 18350,
+        "close": 19950,
+        "volume": 27263700,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 19950,
+        "high": 20200,
+        "low": 19350,
+        "close": 19400,
+        "volume": 16009900,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 19600,
+        "high": 19900,
+        "low": 19250,
+        "close": 19750,
+        "volume": 12963700,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 19800,
+        "high": 20250,
+        "low": 19650,
+        "close": 19650,
+        "volume": 14192000,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 19000,
+        "high": 19400,
+        "low": 18300,
+        "close": 18300,
+        "volume": 48718000,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 18600,
+        "high": 18750,
+        "low": 17750,
+        "close": 18500,
+        "volume": 21603800,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 18200,
+        "high": 18450,
+        "low": 17300,
+        "close": 17300,
+        "volume": 12758100,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 17300,
+        "high": 17700,
+        "low": 16300,
+        "close": 16300,
+        "volume": 27708900,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 16500,
+        "high": 17350,
+        "low": 16350,
+        "close": 17350,
+        "volume": 24334100,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 17700,
+        "high": 18550,
+        "low": 17600,
+        "close": 18550,
+        "volume": 24913900,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 18600,
+        "high": 18800,
+        "low": 18250,
+        "close": 18500,
+        "volume": 21181000,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 18850,
+        "high": 18850,
+        "low": 18450,
+        "close": 18700,
+        "volume": 13111800,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 18500,
+        "high": 19050,
+        "low": 18200,
+        "close": 18300,
+        "volume": 20225000,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 18450,
+        "high": 19550,
+        "low": 18400,
+        "close": 19550,
+        "volume": 27165400,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 19800,
+        "high": 20800,
+        "low": 19650,
+        "close": 20050,
+        "volume": 32280400,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 19800,
+        "high": 20650,
+        "low": 19750,
+        "close": 20050,
+        "volume": 28864300,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 20200,
+        "high": 20400,
+        "low": 19650,
+        "close": 20200,
+        "volume": 19402800,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 20500,
+        "high": 20800,
+        "low": 20200,
+        "close": 20400,
+        "volume": 22278700,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 21100,
+        "high": 21300,
+        "low": 20500,
+        "close": 20500,
+        "volume": 23071100,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 20500,
+        "high": 21000,
+        "low": 20300,
+        "close": 21000,
+        "volume": 17281200,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 21100,
+        "high": 21250,
+        "low": 20000,
+        "close": 20250,
+        "volume": 29459200,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 19600,
+        "high": 21200,
+        "low": 19600,
+        "close": 21200,
+        "volume": 38209700,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 21500,
+        "high": 21900,
+        "low": 21350,
+        "close": 21700,
+        "volume": 33695400,
+        "ticker": "VND"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 21750,
+        "high": 21950,
+        "low": 21500,
+        "close": 21900,
+        "volume": 31408600,
+        "ticker": "VND"
+    }
+]

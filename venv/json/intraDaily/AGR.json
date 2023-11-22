@@ -1,0 +1,1289 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 10940,
+        "high": 11850,
+        "low": 10940,
+        "close": 11660,
+        "volume": 2632400,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 11850,
+        "high": 12050,
+        "low": 11420,
+        "close": 11710,
+        "volume": 1674300,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 11900,
+        "high": 12100,
+        "low": 11710,
+        "close": 11810,
+        "volume": 1839800,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 11760,
+        "high": 11900,
+        "low": 11470,
+        "close": 11760,
+        "volume": 1120900,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 11760,
+        "high": 12050,
+        "low": 11560,
+        "close": 11810,
+        "volume": 2179000,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 11760,
+        "high": 11950,
+        "low": 11560,
+        "close": 11760,
+        "volume": 1681700,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 11660,
+        "high": 12000,
+        "low": 11520,
+        "close": 11900,
+        "volume": 1799600,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 12140,
+        "high": 12340,
+        "low": 11850,
+        "close": 11850,
+        "volume": 1685700,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 11850,
+        "high": 12000,
+        "low": 11710,
+        "close": 11760,
+        "volume": 1042700,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 11760,
+        "high": 12100,
+        "low": 11660,
+        "close": 11660,
+        "volume": 2103200,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 11810,
+        "high": 12240,
+        "low": 11710,
+        "close": 11950,
+        "volume": 2369400,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 12000,
+        "high": 12240,
+        "low": 11710,
+        "close": 12050,
+        "volume": 1319900,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 12140,
+        "high": 12290,
+        "low": 12000,
+        "close": 12100,
+        "volume": 1473100,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 12140,
+        "high": 12340,
+        "low": 11900,
+        "close": 12000,
+        "volume": 1568800,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 12140,
+        "high": 12770,
+        "low": 11950,
+        "close": 12580,
+        "volume": 3178800,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 12630,
+        "high": 12670,
+        "low": 12140,
+        "close": 12240,
+        "volume": 1627200,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 12240,
+        "high": 12380,
+        "low": 12140,
+        "close": 12240,
+        "volume": 1467800,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 12290,
+        "high": 12630,
+        "low": 12290,
+        "close": 12530,
+        "volume": 1458100,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 12630,
+        "high": 13010,
+        "low": 12340,
+        "close": 12670,
+        "volume": 2173000,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 12670,
+        "high": 12820,
+        "low": 12430,
+        "close": 12530,
+        "volume": 1630400,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 12670,
+        "high": 12820,
+        "low": 12340,
+        "close": 12530,
+        "volume": 1876800,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 12770,
+        "high": 12770,
+        "low": 12530,
+        "close": 12630,
+        "volume": 1687200,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 13010,
+        "high": 13110,
+        "low": 12580,
+        "close": 12630,
+        "volume": 1803200,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 12630,
+        "high": 13010,
+        "low": 12380,
+        "close": 12870,
+        "volume": 1907100,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 12910,
+        "high": 12960,
+        "low": 12580,
+        "close": 12770,
+        "volume": 2050100,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 12770,
+        "high": 12770,
+        "low": 12100,
+        "close": 12100,
+        "volume": 2855800,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 12140,
+        "high": 12340,
+        "low": 11660,
+        "close": 12340,
+        "volume": 2214800,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 12430,
+        "high": 12430,
+        "low": 11900,
+        "close": 12140,
+        "volume": 1357100,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 12190,
+        "high": 12480,
+        "low": 12140,
+        "close": 12340,
+        "volume": 1490000,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 12430,
+        "high": 12480,
+        "low": 12240,
+        "close": 12240,
+        "volume": 1202400,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 12240,
+        "high": 12240,
+        "low": 11950,
+        "close": 12140,
+        "volume": 1053500,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 12340,
+        "high": 12870,
+        "low": 12340,
+        "close": 12380,
+        "volume": 3442100,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 12530,
+        "high": 12530,
+        "low": 12240,
+        "close": 12430,
+        "volume": 930200,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 12480,
+        "high": 12630,
+        "low": 12380,
+        "close": 12630,
+        "volume": 1539500,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 12820,
+        "high": 13490,
+        "low": 12770,
+        "close": 13490,
+        "volume": 3770800,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 13970,
+        "high": 14120,
+        "low": 13690,
+        "close": 13780,
+        "volume": 3909500,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 13830,
+        "high": 14700,
+        "low": 13540,
+        "close": 14410,
+        "volume": 3188500,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 14410,
+        "high": 14460,
+        "low": 13490,
+        "close": 14460,
+        "volume": 3373600,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 14650,
+        "high": 14650,
+        "low": 14170,
+        "close": 14360,
+        "volume": 1507100,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 14360,
+        "high": 14410,
+        "low": 14070,
+        "close": 14220,
+        "volume": 1820300,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 14020,
+        "high": 14120,
+        "low": 13490,
+        "close": 13490,
+        "volume": 2455800,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 13690,
+        "high": 13830,
+        "low": 13350,
+        "close": 13640,
+        "volume": 1586900,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 13930,
+        "high": 13930,
+        "low": 13590,
+        "close": 13690,
+        "volume": 719500,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 13690,
+        "high": 14460,
+        "low": 13640,
+        "close": 14460,
+        "volume": 2497300,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 14550,
+        "high": 14600,
+        "low": 14120,
+        "close": 14120,
+        "volume": 1505700,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 14170,
+        "high": 14460,
+        "low": 13690,
+        "close": 14120,
+        "volume": 2879400,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 13970,
+        "high": 14260,
+        "low": 13780,
+        "close": 14260,
+        "volume": 1035600,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 14310,
+        "high": 14650,
+        "low": 14310,
+        "close": 14500,
+        "volume": 2109200,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 14650,
+        "high": 14750,
+        "low": 14310,
+        "close": 14410,
+        "volume": 2272000,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 14460,
+        "high": 14890,
+        "low": 14410,
+        "close": 14600,
+        "volume": 2314600,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 14750,
+        "high": 14750,
+        "low": 14600,
+        "close": 14650,
+        "volume": 1114700,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 14790,
+        "high": 14790,
+        "low": 14260,
+        "close": 14650,
+        "volume": 3030500,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 14700,
+        "high": 14890,
+        "low": 14550,
+        "close": 14750,
+        "volume": 1742600,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 14750,
+        "high": 14840,
+        "low": 14550,
+        "close": 14550,
+        "volume": 1317800,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 14650,
+        "high": 14700,
+        "low": 14410,
+        "close": 14410,
+        "volume": 2494300,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 14410,
+        "high": 14460,
+        "low": 14070,
+        "close": 14460,
+        "volume": 2378500,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 14650,
+        "high": 15080,
+        "low": 14310,
+        "close": 15030,
+        "volume": 4217800,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 15280,
+        "high": 15370,
+        "low": 14840,
+        "close": 15080,
+        "volume": 2205000,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 15130,
+        "high": 15130,
+        "low": 14790,
+        "close": 14840,
+        "volume": 2125800,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 14790,
+        "high": 14990,
+        "low": 14600,
+        "close": 14750,
+        "volume": 1904700,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 14750,
+        "high": 14890,
+        "low": 14550,
+        "close": 14600,
+        "volume": 2308700,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 14650,
+        "high": 15080,
+        "low": 14650,
+        "close": 14990,
+        "volume": 2514700,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 15180,
+        "high": 15280,
+        "low": 14840,
+        "close": 15030,
+        "volume": 1743400,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 15180,
+        "high": 15180,
+        "low": 14650,
+        "close": 14650,
+        "volume": 1991800,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 14550,
+        "high": 14750,
+        "low": 14550,
+        "close": 14700,
+        "volume": 1333600,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 14750,
+        "high": 15080,
+        "low": 14600,
+        "close": 14840,
+        "volume": 1989200,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 14940,
+        "high": 15130,
+        "low": 14750,
+        "close": 15080,
+        "volume": 2080300,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 15420,
+        "high": 15710,
+        "low": 15230,
+        "close": 15560,
+        "volume": 2792800,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 15560,
+        "high": 15660,
+        "low": 15280,
+        "close": 15370,
+        "volume": 1407400,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 15230,
+        "high": 15320,
+        "low": 14990,
+        "close": 15080,
+        "volume": 1908300,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 14990,
+        "high": 15230,
+        "low": 14990,
+        "close": 14990,
+        "volume": 1759700,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 14990,
+        "high": 15560,
+        "low": 14940,
+        "close": 15420,
+        "volume": 2877100,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 15710,
+        "high": 16090,
+        "low": 15370,
+        "close": 15900,
+        "volume": 2722600,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 15950,
+        "high": 15950,
+        "low": 15610,
+        "close": 15660,
+        "volume": 1368800,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 15560,
+        "high": 15710,
+        "low": 15420,
+        "close": 15610,
+        "volume": 1634100,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-08-17",
+        "open": 15710,
+        "high": 16290,
+        "low": 15560,
+        "close": 15810,
+        "volume": 2668000,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 15710,
+        "high": 15760,
+        "low": 14750,
+        "close": 14750,
+        "volume": 3377000,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 14750,
+        "high": 14940,
+        "low": 14170,
+        "close": 14460,
+        "volume": 1714300,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 14550,
+        "high": 14700,
+        "low": 13440,
+        "close": 14650,
+        "volume": 3174500,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 14940,
+        "high": 14940,
+        "low": 14410,
+        "close": 14460,
+        "volume": 921300,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 14550,
+        "high": 14890,
+        "low": 14260,
+        "close": 14890,
+        "volume": 1647500,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 14990,
+        "high": 15370,
+        "low": 14890,
+        "close": 15130,
+        "volume": 2059700,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 15230,
+        "high": 15520,
+        "low": 15130,
+        "close": 15470,
+        "volume": 2006100,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 15660,
+        "high": 16090,
+        "low": 15520,
+        "close": 15900,
+        "volume": 3059500,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 15810,
+        "high": 16870,
+        "low": 15810,
+        "close": 16670,
+        "volume": 4117300,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 16670,
+        "high": 17250,
+        "low": 16580,
+        "close": 16720,
+        "volume": 2059300,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 17060,
+        "high": 17060,
+        "low": 16530,
+        "close": 16720,
+        "volume": 1923400,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 16870,
+        "high": 17540,
+        "low": 16480,
+        "close": 17110,
+        "volume": 2545700,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 17150,
+        "high": 17300,
+        "low": 16960,
+        "close": 17150,
+        "volume": 1756900,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 17150,
+        "high": 17300,
+        "low": 16870,
+        "close": 17060,
+        "volume": 1450600,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 17350,
+        "high": 17970,
+        "low": 17200,
+        "close": 17250,
+        "volume": 3662800,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 17400,
+        "high": 18460,
+        "low": 17200,
+        "close": 18460,
+        "volume": 3678900,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 18790,
+        "high": 19320,
+        "low": 18210,
+        "close": 18500,
+        "volume": 3048700,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 18600,
+        "high": 19270,
+        "low": 18410,
+        "close": 18990,
+        "volume": 2826700,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 18890,
+        "high": 18990,
+        "low": 18210,
+        "close": 18550,
+        "volume": 2551400,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 18310,
+        "high": 18990,
+        "low": 18070,
+        "close": 18700,
+        "volume": 1766500,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 18740,
+        "high": 18940,
+        "low": 18170,
+        "close": 18700,
+        "volume": 1531300,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 18890,
+        "high": 19660,
+        "low": 18700,
+        "close": 19560,
+        "volume": 2555300,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 19660,
+        "high": 19660,
+        "low": 18550,
+        "close": 18650,
+        "volume": 2255100,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 18120,
+        "high": 18210,
+        "low": 17350,
+        "close": 17350,
+        "volume": 5305200,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 17060,
+        "high": 17350,
+        "low": 16140,
+        "close": 16140,
+        "volume": 3017400,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 15520,
+        "high": 17110,
+        "low": 15520,
+        "close": 15610,
+        "volume": 3957500,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 15760,
+        "high": 16670,
+        "low": 15520,
+        "close": 16670,
+        "volume": 2770300,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 16770,
+        "high": 17440,
+        "low": 16580,
+        "close": 16960,
+        "volume": 2819000,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 17110,
+        "high": 17350,
+        "low": 16720,
+        "close": 16720,
+        "volume": 1593300,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 16670,
+        "high": 17350,
+        "low": 16670,
+        "close": 17110,
+        "volume": 1629000,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 16770,
+        "high": 16960,
+        "low": 15950,
+        "close": 15950,
+        "volume": 3822300,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 15150,
+        "high": 17000,
+        "low": 15150,
+        "close": 16500,
+        "volume": 2532200,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 16650,
+        "high": 16850,
+        "low": 15550,
+        "close": 15800,
+        "volume": 1615100,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 15750,
+        "high": 16500,
+        "low": 15350,
+        "close": 16100,
+        "volume": 1675100,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 16149,
+        "high": 16500,
+        "low": 16100,
+        "close": 16300,
+        "volume": 1565500,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 16700,
+        "high": 16800,
+        "low": 16500,
+        "close": 16550,
+        "volume": 2502400,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 16700,
+        "high": 17500,
+        "low": 16500,
+        "close": 17500,
+        "volume": 2765100,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 17700,
+        "high": 17750,
+        "low": 17200,
+        "close": 17300,
+        "volume": 1722300,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 17050,
+        "high": 17400,
+        "low": 16550,
+        "close": 16950,
+        "volume": 2383200,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 17050,
+        "high": 17100,
+        "low": 16500,
+        "close": 16700,
+        "volume": 1612300,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 16850,
+        "high": 16900,
+        "low": 15550,
+        "close": 15550,
+        "volume": 2413800,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 15700,
+        "high": 15850,
+        "low": 14500,
+        "close": 14950,
+        "volume": 4257500,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 15000,
+        "high": 15000,
+        "low": 13950,
+        "close": 13950,
+        "volume": 3036100,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 13950,
+        "high": 14700,
+        "low": 13100,
+        "close": 14600,
+        "volume": 2901600,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 14600,
+        "high": 14650,
+        "low": 13800,
+        "close": 14000,
+        "volume": 1693100,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 14100,
+        "high": 14300,
+        "low": 13850,
+        "close": 14300,
+        "volume": 1160700,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 14350,
+        "high": 14600,
+        "low": 14100,
+        "close": 14100,
+        "volume": 1345100,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 13700,
+        "high": 13700,
+        "low": 13150,
+        "close": 13150,
+        "volume": 2823300,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 13050,
+        "high": 13450,
+        "low": 12450,
+        "close": 13100,
+        "volume": 1484900,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 13050,
+        "high": 13350,
+        "low": 12500,
+        "close": 12500,
+        "volume": 1024800,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 12600,
+        "high": 12800,
+        "low": 11700,
+        "close": 11750,
+        "volume": 1822600,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 11750,
+        "high": 12550,
+        "low": 11400,
+        "close": 12550,
+        "volume": 1871900,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 12850,
+        "high": 13400,
+        "low": 12700,
+        "close": 13400,
+        "volume": 1847000,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 13700,
+        "high": 13700,
+        "low": 13250,
+        "close": 13450,
+        "volume": 2111900,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 13700,
+        "high": 13850,
+        "low": 13200,
+        "close": 13700,
+        "volume": 1061200,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 13600,
+        "high": 13950,
+        "low": 13400,
+        "close": 13550,
+        "volume": 1331400,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 13600,
+        "high": 14450,
+        "low": 13500,
+        "close": 14450,
+        "volume": 2663500,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 15200,
+        "high": 15300,
+        "low": 14750,
+        "close": 14950,
+        "volume": 2763000,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 14550,
+        "high": 15500,
+        "low": 14550,
+        "close": 14900,
+        "volume": 2571500,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 14950,
+        "high": 15200,
+        "low": 14600,
+        "close": 14800,
+        "volume": 1725500,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 15200,
+        "high": 15350,
+        "low": 14900,
+        "close": 14950,
+        "volume": 2247800,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 15450,
+        "high": 15600,
+        "low": 15000,
+        "close": 15000,
+        "volume": 2195400,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 15000,
+        "high": 15450,
+        "low": 14850,
+        "close": 15450,
+        "volume": 1492000,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 15450,
+        "high": 15550,
+        "low": 14800,
+        "close": 15000,
+        "volume": 2838100,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 14700,
+        "high": 15800,
+        "low": 14550,
+        "close": 15500,
+        "volume": 2333700,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 15750,
+        "high": 15900,
+        "low": 15500,
+        "close": 15650,
+        "volume": 1762800,
+        "ticker": "AGR"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 15700,
+        "high": 15900,
+        "low": 15500,
+        "close": 15900,
+        "volume": 1905300,
+        "ticker": "AGR"
+    }
+]

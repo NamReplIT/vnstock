@@ -1,0 +1,1289 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 65000,
+        "high": 65200,
+        "low": 62500,
+        "close": 63800,
+        "volume": 858600,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 64800,
+        "high": 65099,
+        "low": 63700,
+        "close": 64000,
+        "volume": 849400,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 65000,
+        "high": 65200,
+        "low": 63900,
+        "close": 64599,
+        "volume": 844400,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 65000,
+        "high": 65099,
+        "low": 63700,
+        "close": 63900,
+        "volume": 825700,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 64800,
+        "high": 64900,
+        "low": 64099,
+        "close": 64300,
+        "volume": 967800,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 64599,
+        "high": 64800,
+        "low": 64000,
+        "close": 64400,
+        "volume": 855100,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 64800,
+        "high": 64900,
+        "low": 64300,
+        "close": 64300,
+        "volume": 803200,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 65099,
+        "high": 65300,
+        "low": 64500,
+        "close": 64700,
+        "volume": 841800,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 65000,
+        "high": 65200,
+        "low": 64300,
+        "close": 64599,
+        "volume": 1050000,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 65200,
+        "high": 65200,
+        "low": 64300,
+        "close": 64599,
+        "volume": 906100,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 64800,
+        "high": 64900,
+        "low": 64500,
+        "close": 64599,
+        "volume": 851200,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 64800,
+        "high": 65000,
+        "low": 64200,
+        "close": 64200,
+        "volume": 795200,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 64400,
+        "high": 65000,
+        "low": 63900,
+        "close": 64000,
+        "volume": 823000,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 64500,
+        "high": 64800,
+        "low": 63200,
+        "close": 64400,
+        "volume": 912100,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 64500,
+        "high": 64700,
+        "low": 63400,
+        "close": 64200,
+        "volume": 860800,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 64300,
+        "high": 64400,
+        "low": 63300,
+        "close": 64099,
+        "volume": 867900,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 64099,
+        "high": 64099,
+        "low": 63200,
+        "close": 64099,
+        "volume": 889700,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 64200,
+        "high": 64200,
+        "low": 63500,
+        "close": 64000,
+        "volume": 1069900,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 63900,
+        "high": 63900,
+        "low": 63200,
+        "close": 63900,
+        "volume": 1050800,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 63900,
+        "high": 64300,
+        "low": 63800,
+        "close": 64000,
+        "volume": 1085800,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 64000,
+        "high": 64099,
+        "low": 63400,
+        "close": 64000,
+        "volume": 1083000,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 64000,
+        "high": 64099,
+        "low": 63500,
+        "close": 64099,
+        "volume": 1129500,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 64099,
+        "high": 65400,
+        "low": 63800,
+        "close": 64500,
+        "volume": 1445200,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 65000,
+        "high": 65000,
+        "low": 64200,
+        "close": 64800,
+        "volume": 1255000,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 64800,
+        "high": 64900,
+        "low": 64200,
+        "close": 64800,
+        "volume": 1102900,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 64800,
+        "high": 64900,
+        "low": 64300,
+        "close": 64800,
+        "volume": 958600,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 64900,
+        "high": 64900,
+        "low": 64099,
+        "close": 64800,
+        "volume": 796600,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 64800,
+        "high": 65099,
+        "low": 64400,
+        "close": 64900,
+        "volume": 1003500,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 64900,
+        "high": 65000,
+        "low": 64500,
+        "close": 64900,
+        "volume": 948400,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 65200,
+        "high": 65200,
+        "low": 64200,
+        "close": 64700,
+        "volume": 951900,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 64700,
+        "high": 64700,
+        "low": 63700,
+        "close": 64599,
+        "volume": 1030200,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 64599,
+        "high": 64700,
+        "low": 63200,
+        "close": 64500,
+        "volume": 1078200,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 64599,
+        "high": 64599,
+        "low": 63800,
+        "close": 64400,
+        "volume": 996600,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 64300,
+        "high": 64400,
+        "low": 63100,
+        "close": 64099,
+        "volume": 961200,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 64300,
+        "high": 64400,
+        "low": 62600,
+        "close": 63900,
+        "volume": 1059400,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 64000,
+        "high": 64000,
+        "low": 62500,
+        "close": 63800,
+        "volume": 841900,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 63800,
+        "high": 63800,
+        "low": 62800,
+        "close": 63500,
+        "volume": 804400,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 63300,
+        "high": 63500,
+        "low": 62300,
+        "close": 63000,
+        "volume": 812200,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 62900,
+        "high": 63100,
+        "low": 62500,
+        "close": 63100,
+        "volume": 778200,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 63000,
+        "high": 63100,
+        "low": 62500,
+        "close": 62900,
+        "volume": 840300,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 62900,
+        "high": 62900,
+        "low": 62000,
+        "close": 62800,
+        "volume": 776600,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 62900,
+        "high": 62900,
+        "low": 61900,
+        "close": 62600,
+        "volume": 769300,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 62600,
+        "high": 62600,
+        "low": 61900,
+        "close": 62600,
+        "volume": 855400,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 62600,
+        "high": 62600,
+        "low": 62000,
+        "close": 62600,
+        "volume": 806400,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 62700,
+        "high": 62800,
+        "low": 62000,
+        "close": 62600,
+        "volume": 773100,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 62800,
+        "high": 62800,
+        "low": 62000,
+        "close": 62500,
+        "volume": 801500,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 62500,
+        "high": 63000,
+        "low": 62000,
+        "close": 62600,
+        "volume": 865600,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 62700,
+        "high": 62700,
+        "low": 62000,
+        "close": 62600,
+        "volume": 1093900,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 62400,
+        "high": 62600,
+        "low": 62100,
+        "close": 62600,
+        "volume": 1133400,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 62600,
+        "high": 62600,
+        "low": 61700,
+        "close": 62300,
+        "volume": 1181500,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 62400,
+        "high": 62700,
+        "low": 61900,
+        "close": 62700,
+        "volume": 976900,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 62800,
+        "high": 62800,
+        "low": 61900,
+        "close": 62600,
+        "volume": 1106100,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 62600,
+        "high": 62600,
+        "low": 62000,
+        "close": 62500,
+        "volume": 936700,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 62400,
+        "high": 62600,
+        "low": 62100,
+        "close": 62500,
+        "volume": 1050200,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 62500,
+        "high": 63500,
+        "low": 62300,
+        "close": 63500,
+        "volume": 1151000,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 63600,
+        "high": 64000,
+        "low": 63500,
+        "close": 64000,
+        "volume": 1185900,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 64800,
+        "high": 64800,
+        "low": 64000,
+        "close": 64500,
+        "volume": 920600,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 65300,
+        "high": 65400,
+        "low": 63500,
+        "close": 64500,
+        "volume": 1134400,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 64900,
+        "high": 65000,
+        "low": 63400,
+        "close": 64200,
+        "volume": 940200,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 64200,
+        "high": 64200,
+        "low": 63300,
+        "close": 64000,
+        "volume": 1052500,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 64000,
+        "high": 64000,
+        "low": 63300,
+        "close": 64000,
+        "volume": 1134700,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 63900,
+        "high": 64000,
+        "low": 63300,
+        "close": 64000,
+        "volume": 869900,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 63900,
+        "high": 65099,
+        "low": 63800,
+        "close": 65000,
+        "volume": 913000,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 65099,
+        "high": 65300,
+        "low": 64000,
+        "close": 64700,
+        "volume": 1107500,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 64900,
+        "high": 64900,
+        "low": 64000,
+        "close": 64700,
+        "volume": 936500,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 64800,
+        "high": 64800,
+        "low": 64099,
+        "close": 64400,
+        "volume": 893000,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 64500,
+        "high": 64500,
+        "low": 63700,
+        "close": 64400,
+        "volume": 858200,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 64599,
+        "high": 65000,
+        "low": 64300,
+        "close": 65000,
+        "volume": 1073400,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 65500,
+        "high": 65600,
+        "low": 64700,
+        "close": 65300,
+        "volume": 984500,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 64099,
+        "high": 65500,
+        "low": 64099,
+        "close": 65500,
+        "volume": 1090500,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 65700,
+        "high": 65800,
+        "low": 64400,
+        "close": 65099,
+        "volume": 993500,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 65300,
+        "high": 65300,
+        "low": 64099,
+        "close": 64500,
+        "volume": 965300,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 65200,
+        "high": 65200,
+        "low": 63300,
+        "close": 64200,
+        "volume": 1243400,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 63500,
+        "high": 64700,
+        "low": 63300,
+        "close": 63300,
+        "volume": 991700,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 63500,
+        "high": 63500,
+        "low": 62100,
+        "close": 63500,
+        "volume": 831500,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-08-17",
+        "open": 63600,
+        "high": 63700,
+        "low": 62300,
+        "close": 63000,
+        "volume": 808500,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 63400,
+        "high": 63400,
+        "low": 59500,
+        "close": 62700,
+        "volume": 962100,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 62000,
+        "high": 63000,
+        "low": 60200,
+        "close": 62700,
+        "volume": 1057800,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 62000,
+        "high": 65000,
+        "low": 62000,
+        "close": 63000,
+        "volume": 1058200,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 63800,
+        "high": 63900,
+        "low": 62800,
+        "close": 63300,
+        "volume": 1119600,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 63600,
+        "high": 64200,
+        "low": 63000,
+        "close": 63500,
+        "volume": 1014000,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 63700,
+        "high": 63900,
+        "low": 62900,
+        "close": 63700,
+        "volume": 1055400,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 64200,
+        "high": 64800,
+        "low": 63500,
+        "close": 64599,
+        "volume": 1239400,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 64700,
+        "high": 66900,
+        "low": 64000,
+        "close": 64700,
+        "volume": 1108200,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 65800,
+        "high": 65800,
+        "low": 64400,
+        "close": 64700,
+        "volume": 980600,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 65400,
+        "high": 66900,
+        "low": 64400,
+        "close": 66900,
+        "volume": 1227500,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 67200,
+        "high": 67200,
+        "low": 65000,
+        "close": 65000,
+        "volume": 1035500,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 65800,
+        "high": 65900,
+        "low": 64599,
+        "close": 65000,
+        "volume": 987400,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 65200,
+        "high": 65200,
+        "low": 64300,
+        "close": 64900,
+        "volume": 986600,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 65300,
+        "high": 65300,
+        "low": 64500,
+        "close": 65000,
+        "volume": 888200,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 65400,
+        "high": 66500,
+        "low": 65000,
+        "close": 65700,
+        "volume": 1044400,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 65700,
+        "high": 65800,
+        "low": 64800,
+        "close": 65500,
+        "volume": 1032000,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 65400,
+        "high": 65500,
+        "low": 64500,
+        "close": 65000,
+        "volume": 1107700,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 65000,
+        "high": 65500,
+        "low": 64400,
+        "close": 64900,
+        "volume": 825000,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 65000,
+        "high": 65000,
+        "low": 64099,
+        "close": 64900,
+        "volume": 1310900,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 65300,
+        "high": 65300,
+        "low": 64599,
+        "close": 64900,
+        "volume": 844400,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 64900,
+        "high": 65000,
+        "low": 64300,
+        "close": 64800,
+        "volume": 1134400,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 65000,
+        "high": 65000,
+        "low": 64500,
+        "close": 64800,
+        "volume": 882100,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 64900,
+        "high": 65000,
+        "low": 64500,
+        "close": 64700,
+        "volume": 901400,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 64700,
+        "high": 64900,
+        "low": 63800,
+        "close": 64500,
+        "volume": 642100,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 64900,
+        "high": 64900,
+        "low": 63800,
+        "close": 64400,
+        "volume": 849100,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 64500,
+        "high": 64500,
+        "low": 63500,
+        "close": 64400,
+        "volume": 788200,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 64200,
+        "high": 64400,
+        "low": 63100,
+        "close": 64400,
+        "volume": 839600,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 64300,
+        "high": 64400,
+        "low": 62300,
+        "close": 64400,
+        "volume": 812700,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 64500,
+        "high": 64500,
+        "low": 63900,
+        "close": 64200,
+        "volume": 594300,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 64500,
+        "high": 64500,
+        "low": 63800,
+        "close": 64200,
+        "volume": 737600,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 64200,
+        "high": 64200,
+        "low": 63900,
+        "close": 64099,
+        "volume": 782500,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 64000,
+        "high": 64099,
+        "low": 63900,
+        "close": 64000,
+        "volume": 596900,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 64099,
+        "high": 64099,
+        "low": 63300,
+        "close": 63900,
+        "volume": 687300,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 63900,
+        "high": 64099,
+        "low": 63200,
+        "close": 63500,
+        "volume": 800500,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 64500,
+        "high": 64500,
+        "low": 63200,
+        "close": 63900,
+        "volume": 1061400,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 64000,
+        "high": 64000,
+        "low": 63500,
+        "close": 63500,
+        "volume": 928500,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 63700,
+        "high": 63800,
+        "low": 63400,
+        "close": 63500,
+        "volume": 1063200,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 63800,
+        "high": 63800,
+        "low": 63300,
+        "close": 63500,
+        "volume": 883200,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 63600,
+        "high": 64500,
+        "low": 63400,
+        "close": 63400,
+        "volume": 886700,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 63600,
+        "high": 63600,
+        "low": 63100,
+        "close": 63400,
+        "volume": 1170000,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 63800,
+        "high": 63900,
+        "low": 63000,
+        "close": 63000,
+        "volume": 1018200,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 63200,
+        "high": 63200,
+        "low": 62600,
+        "close": 63000,
+        "volume": 1016300,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 64000,
+        "high": 64500,
+        "low": 63000,
+        "close": 63500,
+        "volume": 787000,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 64900,
+        "high": 64900,
+        "low": 63400,
+        "close": 64500,
+        "volume": 688100,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 64900,
+        "high": 64900,
+        "low": 60100,
+        "close": 64500,
+        "volume": 799800,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 64800,
+        "high": 64900,
+        "low": 63700,
+        "close": 64000,
+        "volume": 748000,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 64400,
+        "high": 64900,
+        "low": 63300,
+        "close": 63500,
+        "volume": 736600,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 63800,
+        "high": 63800,
+        "low": 62400,
+        "close": 63500,
+        "volume": 644700,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 64000,
+        "high": 64000,
+        "low": 63000,
+        "close": 63300,
+        "volume": 665000,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 64000,
+        "high": 64099,
+        "low": 63600,
+        "close": 63900,
+        "volume": 696400,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 64200,
+        "high": 64200,
+        "low": 63300,
+        "close": 63500,
+        "volume": 749900,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 64000,
+        "high": 64000,
+        "low": 63300,
+        "close": 63500,
+        "volume": 750000,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 64300,
+        "high": 64400,
+        "low": 63300,
+        "close": 63500,
+        "volume": 1055500,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 63900,
+        "high": 63900,
+        "low": 63000,
+        "close": 63000,
+        "volume": 949200,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 63600,
+        "high": 64000,
+        "low": 63000,
+        "close": 63000,
+        "volume": 938700,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 63400,
+        "high": 63400,
+        "low": 62700,
+        "close": 63100,
+        "volume": 899000,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 63000,
+        "high": 63500,
+        "low": 63000,
+        "close": 63200,
+        "volume": 970900,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 63600,
+        "high": 63800,
+        "low": 63000,
+        "close": 63000,
+        "volume": 872100,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 63300,
+        "high": 64300,
+        "low": 62700,
+        "close": 63000,
+        "volume": 896000,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 62400,
+        "high": 63900,
+        "low": 62400,
+        "close": 63300,
+        "volume": 795000,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 63400,
+        "high": 63400,
+        "low": 62800,
+        "close": 63300,
+        "volume": 737700,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 63400,
+        "high": 63500,
+        "low": 62600,
+        "close": 63000,
+        "volume": 839200,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 63100,
+        "high": 63300,
+        "low": 62800,
+        "close": 63100,
+        "volume": 783700,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 63500,
+        "high": 63500,
+        "low": 62800,
+        "close": 63400,
+        "volume": 778900,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 63500,
+        "high": 63500,
+        "low": 63000,
+        "close": 63500,
+        "volume": 735700,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 63700,
+        "high": 63700,
+        "low": 62900,
+        "close": 63000,
+        "volume": 704900,
+        "ticker": "KDC"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 63000,
+        "high": 63400,
+        "low": 62500,
+        "close": 63100,
+        "volume": 826000,
+        "ticker": "KDC"
+    }
+]

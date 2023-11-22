@@ -1,0 +1,1289 @@
+[
+    {
+        "time": "2023-05-04",
+        "open": 20350,
+        "high": 20850,
+        "low": 20170,
+        "close": 20400,
+        "volume": 35500,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-05-05",
+        "open": 20450,
+        "high": 20850,
+        "low": 20450,
+        "close": 20620,
+        "volume": 106000,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-05-08",
+        "open": 20620,
+        "high": 20890,
+        "low": 20050,
+        "close": 20050,
+        "volume": 272600,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-05-09",
+        "open": 20090,
+        "high": 20260,
+        "low": 20090,
+        "close": 20170,
+        "volume": 14400,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-05-10",
+        "open": 20400,
+        "high": 20710,
+        "low": 20400,
+        "close": 20660,
+        "volume": 194200,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-05-11",
+        "open": 20750,
+        "high": 20850,
+        "low": 20140,
+        "close": 20170,
+        "volume": 274500,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-05-12",
+        "open": 20170,
+        "high": 20350,
+        "low": 20170,
+        "close": 20260,
+        "volume": 52800,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-05-15",
+        "open": 20220,
+        "high": 20710,
+        "low": 20170,
+        "close": 20400,
+        "volume": 664500,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-05-16",
+        "open": 20580,
+        "high": 20620,
+        "low": 20000,
+        "close": 20400,
+        "volume": 811200,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-05-17",
+        "open": 20310,
+        "high": 21250,
+        "low": 20310,
+        "close": 21110,
+        "volume": 599300,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-05-18",
+        "open": 21200,
+        "high": 21650,
+        "low": 21150,
+        "close": 21250,
+        "volume": 482300,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-05-19",
+        "open": 21470,
+        "high": 21470,
+        "low": 20980,
+        "close": 21110,
+        "volume": 211600,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-05-22",
+        "open": 21290,
+        "high": 21430,
+        "low": 21110,
+        "close": 21380,
+        "volume": 250100,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-05-23",
+        "open": 21380,
+        "high": 21740,
+        "low": 20660,
+        "close": 21200,
+        "volume": 495000,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-05-24",
+        "open": 21110,
+        "high": 21470,
+        "low": 21030,
+        "close": 21030,
+        "volume": 361200,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-05-25",
+        "open": 20940,
+        "high": 21060,
+        "low": 20750,
+        "close": 20940,
+        "volume": 230500,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-05-26",
+        "open": 20850,
+        "high": 21110,
+        "low": 20850,
+        "close": 21110,
+        "volume": 119000,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-05-29",
+        "open": 21110,
+        "high": 21470,
+        "low": 21110,
+        "close": 21200,
+        "volume": 184800,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-05-30",
+        "open": 21340,
+        "high": 21550,
+        "low": 21110,
+        "close": 21200,
+        "volume": 180600,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-05-31",
+        "open": 21200,
+        "high": 21380,
+        "low": 21110,
+        "close": 21250,
+        "volume": 224100,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-06-01",
+        "open": 21380,
+        "high": 22090,
+        "low": 21250,
+        "close": 22000,
+        "volume": 464500,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 22000,
+        "high": 22270,
+        "low": 21690,
+        "close": 22000,
+        "volume": 187400,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 22270,
+        "high": 22450,
+        "low": 21870,
+        "close": 22140,
+        "volume": 493800,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-06-06",
+        "open": 22550,
+        "high": 22550,
+        "low": 22140,
+        "close": 22140,
+        "volume": 143600,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-06-07",
+        "open": 22450,
+        "high": 22450,
+        "low": 21910,
+        "close": 22090,
+        "volume": 227600,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-06-08",
+        "open": 21950,
+        "high": 22140,
+        "low": 21860,
+        "close": 21950,
+        "volume": 238500,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 21860,
+        "high": 21910,
+        "low": 21550,
+        "close": 21640,
+        "volume": 167100,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-06-12",
+        "open": 21590,
+        "high": 21680,
+        "low": 21410,
+        "close": 21450,
+        "volume": 136100,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-06-13",
+        "open": 21450,
+        "high": 22410,
+        "low": 21450,
+        "close": 22410,
+        "volume": 564400,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-06-14",
+        "open": 22410,
+        "high": 22640,
+        "low": 22090,
+        "close": 22090,
+        "volume": 117400,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-06-15",
+        "open": 21950,
+        "high": 22230,
+        "low": 21640,
+        "close": 21770,
+        "volume": 202400,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 21820,
+        "high": 22090,
+        "low": 21550,
+        "close": 22000,
+        "volume": 267900,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-06-19",
+        "open": 21770,
+        "high": 22000,
+        "low": 21590,
+        "close": 21680,
+        "volume": 72900,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-06-20",
+        "open": 21680,
+        "high": 21770,
+        "low": 21360,
+        "close": 21640,
+        "volume": 218800,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-06-21",
+        "open": 21820,
+        "high": 22000,
+        "low": 21640,
+        "close": 21640,
+        "volume": 377900,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-06-22",
+        "open": 21820,
+        "high": 22140,
+        "low": 21640,
+        "close": 21730,
+        "volume": 312600,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-06-23",
+        "open": 21820,
+        "high": 22360,
+        "low": 21820,
+        "close": 22050,
+        "volume": 403600,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-06-26",
+        "open": 22180,
+        "high": 22410,
+        "low": 22000,
+        "close": 22230,
+        "volume": 322100,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-06-27",
+        "open": 22450,
+        "high": 23090,
+        "low": 22360,
+        "close": 22680,
+        "volume": 572200,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-06-28",
+        "open": 22910,
+        "high": 22910,
+        "low": 22270,
+        "close": 22270,
+        "volume": 371400,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-06-29",
+        "open": 22450,
+        "high": 22450,
+        "low": 21910,
+        "close": 21910,
+        "volume": 388700,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 21820,
+        "high": 21910,
+        "low": 21500,
+        "close": 21550,
+        "volume": 336700,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-07-03",
+        "open": 21550,
+        "high": 21860,
+        "low": 21550,
+        "close": 21730,
+        "volume": 134700,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 22090,
+        "high": 22140,
+        "low": 21910,
+        "close": 22090,
+        "volume": 218400,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-07-05",
+        "open": 22090,
+        "high": 22180,
+        "low": 22000,
+        "close": 22090,
+        "volume": 140400,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-07-06",
+        "open": 22090,
+        "high": 22820,
+        "low": 22090,
+        "close": 22820,
+        "volume": 1060100,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-07-07",
+        "open": 22550,
+        "high": 22820,
+        "low": 22550,
+        "close": 22770,
+        "volume": 114000,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-07-10",
+        "open": 22770,
+        "high": 23090,
+        "low": 22640,
+        "close": 22730,
+        "volume": 254900,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-07-11",
+        "open": 22730,
+        "high": 23270,
+        "low": 22680,
+        "close": 23090,
+        "volume": 299800,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-07-12",
+        "open": 23230,
+        "high": 23640,
+        "low": 23000,
+        "close": 23180,
+        "volume": 243200,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-07-13",
+        "open": 23230,
+        "high": 23410,
+        "low": 22910,
+        "close": 23180,
+        "volume": 226100,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-07-14",
+        "open": 23050,
+        "high": 23140,
+        "low": 22770,
+        "close": 22950,
+        "volume": 161800,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-07-17",
+        "open": 22910,
+        "high": 23730,
+        "low": 22770,
+        "close": 23730,
+        "volume": 382200,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 23590,
+        "high": 23770,
+        "low": 23360,
+        "close": 23640,
+        "volume": 103800,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-07-19",
+        "open": 23640,
+        "high": 23730,
+        "low": 23230,
+        "close": 23320,
+        "volume": 116500,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-07-20",
+        "open": 23140,
+        "high": 24090,
+        "low": 23140,
+        "close": 24000,
+        "volume": 471000,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-07-21",
+        "open": 24090,
+        "high": 24230,
+        "low": 23910,
+        "close": 23950,
+        "volume": 62000,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-07-24",
+        "open": 24000,
+        "high": 24000,
+        "low": 23640,
+        "close": 23910,
+        "volume": 133200,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-07-25",
+        "open": 24050,
+        "high": 24270,
+        "low": 23680,
+        "close": 24050,
+        "volume": 170700,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-07-26",
+        "open": 24180,
+        "high": 24180,
+        "low": 23730,
+        "close": 24000,
+        "volume": 73500,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-07-27",
+        "open": 24140,
+        "high": 24140,
+        "low": 23270,
+        "close": 23550,
+        "volume": 208700,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 23550,
+        "high": 23590,
+        "low": 23360,
+        "close": 23500,
+        "volume": 124800,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-07-31",
+        "open": 23730,
+        "high": 24000,
+        "low": 23450,
+        "close": 23550,
+        "volume": 215300,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-08-01",
+        "open": 23770,
+        "high": 23770,
+        "low": 23360,
+        "close": 23450,
+        "volume": 125000,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-08-02",
+        "open": 23360,
+        "high": 23640,
+        "low": 23000,
+        "close": 23360,
+        "volume": 262700,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-08-03",
+        "open": 23360,
+        "high": 23450,
+        "low": 23050,
+        "close": 23140,
+        "volume": 136600,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-08-04",
+        "open": 23050,
+        "high": 23360,
+        "low": 23050,
+        "close": 23270,
+        "volume": 170700,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-08-07",
+        "open": 23270,
+        "high": 23450,
+        "low": 23140,
+        "close": 23270,
+        "volume": 177200,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-08-08",
+        "open": 23320,
+        "high": 23640,
+        "low": 23320,
+        "close": 23550,
+        "volume": 179000,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-08-09",
+        "open": 23640,
+        "high": 23860,
+        "low": 23550,
+        "close": 23640,
+        "volume": 157400,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-08-10",
+        "open": 23730,
+        "high": 23820,
+        "low": 23140,
+        "close": 23550,
+        "volume": 111000,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 23450,
+        "high": 23450,
+        "low": 22860,
+        "close": 23450,
+        "volume": 192600,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-08-14",
+        "open": 23450,
+        "high": 23590,
+        "low": 22950,
+        "close": 23180,
+        "volume": 225000,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-08-15",
+        "open": 23360,
+        "high": 24050,
+        "low": 23230,
+        "close": 24050,
+        "volume": 467800,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-08-16",
+        "open": 24090,
+        "high": 24550,
+        "low": 23770,
+        "close": 24180,
+        "volume": 454200,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-08-17",
+        "open": 24180,
+        "high": 24730,
+        "low": 24180,
+        "close": 24410,
+        "volume": 488200,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-08-18",
+        "open": 24050,
+        "high": 24360,
+        "low": 22820,
+        "close": 23640,
+        "volume": 670200,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-08-21",
+        "open": 23410,
+        "high": 24500,
+        "low": 23270,
+        "close": 24500,
+        "volume": 504600,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-08-22",
+        "open": 24730,
+        "high": 25640,
+        "low": 24640,
+        "close": 25640,
+        "volume": 592900,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-08-23",
+        "open": 25910,
+        "high": 26000,
+        "low": 25450,
+        "close": 25640,
+        "volume": 178300,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-08-24",
+        "open": 25680,
+        "high": 25680,
+        "low": 24910,
+        "close": 25680,
+        "volume": 330800,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-08-25",
+        "open": 25770,
+        "high": 25820,
+        "low": 25000,
+        "close": 25360,
+        "volume": 211700,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-08-28",
+        "open": 25550,
+        "high": 25730,
+        "low": 25000,
+        "close": 25640,
+        "volume": 183600,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-08-29",
+        "open": 25640,
+        "high": 25910,
+        "low": 25090,
+        "close": 25450,
+        "volume": 266300,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-08-30",
+        "open": 25640,
+        "high": 25640,
+        "low": 25090,
+        "close": 25450,
+        "volume": 131900,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-08-31",
+        "open": 25450,
+        "high": 25450,
+        "low": 25140,
+        "close": 25360,
+        "volume": 206500,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-09-05",
+        "open": 25680,
+        "high": 26820,
+        "low": 25180,
+        "close": 26450,
+        "volume": 514400,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-09-06",
+        "open": 26360,
+        "high": 26730,
+        "low": 26230,
+        "close": 26360,
+        "volume": 128900,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 26680,
+        "high": 26680,
+        "low": 25950,
+        "close": 26050,
+        "volume": 240100,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-09-08",
+        "open": 25950,
+        "high": 26320,
+        "low": 25820,
+        "close": 26320,
+        "volume": 192300,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 26360,
+        "high": 26500,
+        "low": 26000,
+        "close": 26230,
+        "volume": 162800,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-09-12",
+        "open": 26000,
+        "high": 26180,
+        "low": 25820,
+        "close": 26180,
+        "volume": 141300,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-09-13",
+        "open": 26000,
+        "high": 26320,
+        "low": 25450,
+        "close": 25450,
+        "volume": 166200,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-09-14",
+        "open": 25450,
+        "high": 26000,
+        "low": 25230,
+        "close": 25820,
+        "volume": 247500,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 26000,
+        "high": 26360,
+        "low": 25500,
+        "close": 25820,
+        "volume": 68200,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-09-18",
+        "open": 25730,
+        "high": 25820,
+        "low": 24550,
+        "close": 25090,
+        "volume": 163600,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-09-19",
+        "open": 24640,
+        "high": 25450,
+        "low": 24640,
+        "close": 24860,
+        "volume": 190300,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-09-20",
+        "open": 25180,
+        "high": 25180,
+        "low": 24770,
+        "close": 25050,
+        "volume": 76100,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-09-21",
+        "open": 25050,
+        "high": 25050,
+        "low": 24730,
+        "close": 24730,
+        "volume": 80500,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-09-22",
+        "open": 23910,
+        "high": 24550,
+        "low": 23640,
+        "close": 24550,
+        "volume": 273000,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-09-25",
+        "open": 24550,
+        "high": 24730,
+        "low": 22860,
+        "close": 22860,
+        "volume": 114100,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-09-26",
+        "open": 22730,
+        "high": 23550,
+        "low": 22730,
+        "close": 23410,
+        "volume": 148000,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-09-27",
+        "open": 23360,
+        "high": 25000,
+        "low": 22820,
+        "close": 24050,
+        "volume": 42700,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-09-28",
+        "open": 24050,
+        "high": 24050,
+        "low": 23360,
+        "close": 23820,
+        "volume": 50400,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 24050,
+        "high": 24050,
+        "low": 23450,
+        "close": 24000,
+        "volume": 27700,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-10-02",
+        "open": 24090,
+        "high": 24090,
+        "low": 23500,
+        "close": 23640,
+        "volume": 107100,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-10-03",
+        "open": 23640,
+        "high": 23910,
+        "low": 23000,
+        "close": 23640,
+        "volume": 187300,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-10-04",
+        "open": 23550,
+        "high": 23820,
+        "low": 22910,
+        "close": 23820,
+        "volume": 39300,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-10-05",
+        "open": 23820,
+        "high": 23820,
+        "low": 23050,
+        "close": 23500,
+        "volume": 185600,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-10-06",
+        "open": 23180,
+        "high": 23640,
+        "low": 23180,
+        "close": 23640,
+        "volume": 27000,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-10-09",
+        "open": 23550,
+        "high": 23640,
+        "low": 22950,
+        "close": 23450,
+        "volume": 150800,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-10-10",
+        "open": 23550,
+        "high": 23640,
+        "low": 22860,
+        "close": 23450,
+        "volume": 130300,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-10-11",
+        "open": 23050,
+        "high": 23590,
+        "low": 23050,
+        "close": 23180,
+        "volume": 73600,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-10-12",
+        "open": 23800,
+        "high": 23800,
+        "low": 23200,
+        "close": 23700,
+        "volume": 137000,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-10-13",
+        "open": 23250,
+        "high": 23950,
+        "low": 23250,
+        "close": 23700,
+        "volume": 80700,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-10-16",
+        "open": 23700,
+        "high": 24000,
+        "low": 22950,
+        "close": 23450,
+        "volume": 244600,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-10-17",
+        "open": 23450,
+        "high": 23550,
+        "low": 22700,
+        "close": 23000,
+        "volume": 174400,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-10-18",
+        "open": 22600,
+        "high": 23200,
+        "low": 21900,
+        "close": 22450,
+        "volume": 72300,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-10-19",
+        "open": 22300,
+        "high": 22300,
+        "low": 21550,
+        "close": 22000,
+        "volume": 203600,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-10-20",
+        "open": 21750,
+        "high": 22350,
+        "low": 21500,
+        "close": 22350,
+        "volume": 93200,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-10-23",
+        "open": 22100,
+        "high": 22300,
+        "low": 21800,
+        "close": 21950,
+        "volume": 46600,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-10-24",
+        "open": 21700,
+        "high": 21950,
+        "low": 21300,
+        "close": 21800,
+        "volume": 153500,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-10-25",
+        "open": 21900,
+        "high": 21950,
+        "low": 21700,
+        "close": 21900,
+        "volume": 42600,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-10-26",
+        "open": 21300,
+        "high": 21500,
+        "low": 20400,
+        "close": 20400,
+        "volume": 443900,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-10-27",
+        "open": 20400,
+        "high": 20800,
+        "low": 20100,
+        "close": 20650,
+        "volume": 107000,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-10-30",
+        "open": 20600,
+        "high": 20650,
+        "low": 20350,
+        "close": 20350,
+        "volume": 100400,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-10-31",
+        "open": 20400,
+        "high": 20750,
+        "low": 20050,
+        "close": 20300,
+        "volume": 97800,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-11-01",
+        "open": 20700,
+        "high": 20750,
+        "low": 20200,
+        "close": 20600,
+        "volume": 48700,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-11-02",
+        "open": 20600,
+        "high": 21550,
+        "low": 20600,
+        "close": 21550,
+        "volume": 80600,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-11-03",
+        "open": 21800,
+        "high": 21800,
+        "low": 21100,
+        "close": 21400,
+        "volume": 114800,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-11-06",
+        "open": 21400,
+        "high": 21850,
+        "low": 21300,
+        "close": 21850,
+        "volume": 104400,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-11-07",
+        "open": 21850,
+        "high": 21850,
+        "low": 21200,
+        "close": 21600,
+        "volume": 44900,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-11-08",
+        "open": 21350,
+        "high": 21800,
+        "low": 21250,
+        "close": 21800,
+        "volume": 87200,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-11-09",
+        "open": 21900,
+        "high": 22150,
+        "low": 21150,
+        "close": 22000,
+        "volume": 246200,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 21850,
+        "high": 22000,
+        "low": 21500,
+        "close": 21850,
+        "volume": 81600,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-11-13",
+        "open": 21850,
+        "high": 21900,
+        "low": 21400,
+        "close": 21400,
+        "volume": 125900,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-11-14",
+        "open": 21500,
+        "high": 21700,
+        "low": 20800,
+        "close": 21200,
+        "volume": 272500,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-11-15",
+        "open": 21450,
+        "high": 22000,
+        "low": 21400,
+        "close": 21750,
+        "volume": 191200,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-11-16",
+        "open": 21600,
+        "high": 21800,
+        "low": 21100,
+        "close": 21600,
+        "volume": 132100,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 21700,
+        "high": 21700,
+        "low": 21050,
+        "close": 21500,
+        "volume": 93700,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-11-20",
+        "open": 20800,
+        "high": 21250,
+        "low": 20800,
+        "close": 21200,
+        "volume": 186000,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-11-21",
+        "open": 21200,
+        "high": 21600,
+        "low": 21050,
+        "close": 21500,
+        "volume": 193900,
+        "ticker": "BMI"
+    },
+    {
+        "time": "2023-11-22",
+        "open": 21500,
+        "high": 21650,
+        "low": 21250,
+        "close": 21500,
+        "volume": 88200,
+        "ticker": "BMI"
+    }
+]

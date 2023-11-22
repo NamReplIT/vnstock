@@ -1,0 +1,83 @@
+[
+    {
+        "time": "2023-05-30",
+        "open": 11000,
+        "high": 11000,
+        "low": 11000,
+        "close": 11000,
+        "volume": 500,
+        "ticker": "KTC"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 10600,
+        "high": 10600,
+        "low": 10600,
+        "close": 10600,
+        "volume": 200,
+        "ticker": "KTC"
+    },
+    {
+        "time": "2023-06-05",
+        "open": 11000,
+        "high": 11000,
+        "low": 11000,
+        "close": 11000,
+        "volume": 800,
+        "ticker": "KTC"
+    },
+    {
+        "time": "2023-07-04",
+        "open": 10500,
+        "high": 10500,
+        "low": 10500,
+        "close": 10500,
+        "volume": 500,
+        "ticker": "KTC"
+    },
+    {
+        "time": "2023-07-18",
+        "open": 11500,
+        "high": 11500,
+        "low": 11500,
+        "close": 11500,
+        "volume": 100,
+        "ticker": "KTC"
+    },
+    {
+        "time": "2023-09-07",
+        "open": 15000,
+        "high": 15000,
+        "low": 11500,
+        "close": 11500,
+        "volume": 700,
+        "ticker": "KTC"
+    },
+    {
+        "time": "2023-09-11",
+        "open": 11000,
+        "high": 11000,
+        "low": 11000,
+        "close": 11000,
+        "volume": 100,
+        "ticker": "KTC"
+    },
+    {
+        "time": "2023-09-15",
+        "open": 10000,
+        "high": 10000,
+        "low": 10000,
+        "close": 10000,
+        "volume": 1700,
+        "ticker": "KTC"
+    },
+    {
+        "time": "2023-09-29",
+        "open": 10000,
+        "high": 10000,
+        "low": 10000,
+        "close": 10000,
+        "volume": 2500,
+        "ticker": "KTC"
+    }
+]

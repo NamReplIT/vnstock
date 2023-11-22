@@ -1,0 +1,83 @@
+[
+    {
+        "time": "2023-05-19",
+        "open": 5000,
+        "high": 5000,
+        "low": 5000,
+        "close": 5000,
+        "volume": 100,
+        "ticker": "SCO"
+    },
+    {
+        "time": "2023-06-02",
+        "open": 5700,
+        "high": 5700,
+        "low": 5400,
+        "close": 5400,
+        "volume": 2800,
+        "ticker": "SCO"
+    },
+    {
+        "time": "2023-06-09",
+        "open": 4700,
+        "high": 4700,
+        "low": 4700,
+        "close": 4700,
+        "volume": 100,
+        "ticker": "SCO"
+    },
+    {
+        "time": "2023-06-16",
+        "open": 5400,
+        "high": 5400,
+        "low": 5400,
+        "close": 5400,
+        "volume": 100,
+        "ticker": "SCO"
+    },
+    {
+        "time": "2023-06-30",
+        "open": 5800,
+        "high": 5800,
+        "low": 5800,
+        "close": 5800,
+        "volume": 100,
+        "ticker": "SCO"
+    },
+    {
+        "time": "2023-07-28",
+        "open": 6200,
+        "high": 6200,
+        "low": 6200,
+        "close": 6200,
+        "volume": 100,
+        "ticker": "SCO"
+    },
+    {
+        "time": "2023-08-11",
+        "open": 5300,
+        "high": 7100,
+        "low": 5300,
+        "close": 7100,
+        "volume": 200,
+        "ticker": "SCO"
+    },
+    {
+        "time": "2023-11-10",
+        "open": 5300,
+        "high": 5300,
+        "low": 5300,
+        "close": 5300,
+        "volume": 100,
+        "ticker": "SCO"
+    },
+    {
+        "time": "2023-11-17",
+        "open": 5300,
+        "high": 5300,
+        "low": 5300,
+        "close": 5300,
+        "volume": 300,
+        "ticker": "SCO"
+    }
+]
